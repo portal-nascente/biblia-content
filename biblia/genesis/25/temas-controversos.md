@@ -1,0 +1,43 @@
+---
+slug: "genesis-25-temas-controversos"
+titulo: "A Eleição e a Rejeição: A Soberania Divina no Ventre de uma Nação"
+tipo: "temas-controversos"
+origem: "biblia"
+livro: "genesis"
+capitulo: "25"
+data: "2026-01-19"
+autor: "Capelão Nascente"
+readTime: "25 min de leitura"
+imageUrl: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Gênesis 25   A Eleição e a Rejeição: A Soberania Divina no Ventre de uma Nação   A Tensão  O capítulo vinte e cinco do Gênesis apresenta, com uma s..."
+tags: []
+---
+
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Gênesis 25
+
+## ***A Eleição e a Rejeição: A Soberania Divina no Ventre de uma Nação***
+
+## A Tensão
+
+O capítulo vinte e cinco do Gênesis apresenta, com uma sobriedade quase perturbadora, um dos episódios mais densos e teologicamente carregados de toda a narrativa patriarcal. Nele, a morte do patriarca Abraão, figura colossal da promessa, dá lugar não a um epílogo tranquilizador, mas a um novo capítulo de tensão aliancista. A tensão central, que ecoará por toda a Escritura e se tornará um dos pilares da reflexão reformada, não está na sucessão de bens materiais, mas na sucessão da promessa. O relato da gestação de Rebeca e do nascimento de Esaú e Jacó é um vulcão teológico adormecido em poucos versículos. A questão que arde sob a superfície do texto é a mais desconcertante possível: como conciliar a livre e soberana escolha de Deus, anunciada antes do nascimento, antes de quaisquer obras boas ou más, com a noção de justiça divina e responsabilidade humana? A resposta do texto é um silêncio eloquente, um oráculo divino que estabelece um mistério operante, não uma equação resolvida. **John Calvin**, em seus *Commentaries on the First Book of Moses Called Genesis* (1554), insiste que aqui “a graça de Deus brilha mais claramente, visto que Ele, sem levar em conta o mérito, elege a quem Lhe apraz”. A controvérsia, portanto, não é periférica; ela toca o coração mesmo do evangelho, da natureza de Deus e do destino do homem.
+
+## Perspectiva Histórica A: A Presciência como Base da Eleição (Visão Arminiana/ Sinergista)
+
+Uma corrente significativa de interpretação, que encontra sua expressão clássica na teologia de Jacobus Arminius e seus seguidores, busca atenuar o aparente arbitrium divino do oráculo em Gênesis 25:23. Esta perspectiva argumenta que a declaração “o mais velho servirá ao mais novo” não é um decreto incondicional emanado da pura vontade soberana de Deus, mas uma previsão condicionada ao conhecimento prévio (presciência) que Deus tem das vidas, caráteres e escolhas futuras dos dois irmãos. Nesta leitura, Deus, em Sua onisciência eterna, viu de antemão que Jacó, ainda que falho, demonstraria um coração mais inclinado para as coisas espirituais, um anseio pela bênção da aliança, enquanto Esaú desprezaria seu direito de primogenitura, revelando um caráter profano e materialista. A eleição, portanto, seria *post* *praevisa* *fide* (após a fé prevista). A escolha divina confirmaria, em sua presciência, a disposição do coração humano.
+
+**Hugo Grócio**, o jurista e teólogo arminiano, em sua obra *Defensio Fidei Catholicae de Satisfactione Christi* (1617), embora focando na expiação, reflete uma hermenêutica que se aplica aqui: a justiça de Deus deve ser compreendida em termos racionais e forenses acessíveis à criatura. Aplicado a Gênesis 25, isso significaria que Deus não age de forma “arbitrária”, mas com base em um critério inteligível, ainda que conhecido apenas por Ele de antemão. O conflito no ventre e a posterior história dos irmãos seriam, então, a manifestação histórica do que Deus já sabia que ocorreria. A soberania divina se exerce no ato de conhecer infalivelmente o futuro livre, não em causá-lo ou decretá-lo de forma incondicional. Esta visão busca salvaguardar a justiça de Deus da acusação de parcialidade, pois Ele estaria, em última análise, ratificando a escolha que cada homem faria em sua liberdade. O oráculo seria uma profecia, não um decreto causal.
+
+## Perspectiva Histórica B: O Decreto Incondicional e a Reprobação (Visão Calvinista/ Monergista)
+
+Em direção diametralmente oposta, a tradição reformada, seguindo a leitura de Agostinho e consolidada por João Calvino, vê em Gênesis 25:23 uma janela clara para a doutrina da eleição incondicional. A eleição não é baseada em qualquer qualidade prevista no homem, mas exclusivamente no beneplácito da vontade soberana de Deus. O texto é explícito: a palavra divina é proferida *antes do nascimento*, “antes de fazerem bem ou mal” (Romanos 9:11, que cita diretamente este episódio). A base, portanto, não pode ser a obra ou a fé prevista, mas apenas o propósito eletivo de Deus. **Martyn Lloyd-Jones**, em sua série expositiva *Romans: An Exposition of Chapter 9* (1975), argumenta com veemência que Paulo usa justamente Esaú e Jacó para “destruir completamente a ideia de que a eleição de Deus é baseada em Sua presciência”. O médico galês afirma que o apóstolo “leva-nos de volta ao ventre” para mostrar que o princípio operante é a soberana vontade de Deus, “a fim de que o propósito de Deus conforme a eleição permanecesse firme, não por causa das obras, mas por aquele que chama”.
+
+Esta perspectiva inevitavelmente levanta a questão sombria da reprovação: se Jacó foi objeto do amor eletivo, Esaú foi objeto da justa rejeição? A teologia reformada clássica, com grande cautela e tremor, responde afirmativamente, entendendo a reprovação como o decreto soberano de Deus de passar por cima de alguns, deixando-os em seus pecados e julgando-os justamente por eles. **Francis Turretin**, o sistemático genebrino do século XVII, em suas *Institutio Theologiae Elencticae* (1679), distingue cuidadosamente entre o ato de preterição (passar por cima) e condenação. Deus não é o autor do pecado de Esaú; Ele, em Seu juízo insondável, decide não conceder a Esaú a graça eficaz da regeneração, permitindo que o caráter natural de Esaú – seu desprezo pelo sagrado – se manifeste e seja justamente punido. A venda da primogenitura (Gênesis 25:34) não é a causa de sua rejeição, mas a evidência histórica do coração que Deus, em Seu decreto eterno, deixou em seu estado natural. A controvérsia aqui atinge seu ápice: como um Deus justo e bom pode, desde a eternidade, destinar uma pessoa à rejeição? A resposta reformada, seguindo Paulo em Romanos 9, é a da adoração silenciosa diante do mistério: “Mas, ó homem, quem és tu, que a Deus replicas?”
+
+## Síntese Reformada: Soberania, Responsabilidade e o Mistério da Aliança
+
+A síntese reformada, fiel ao texto de Gênesis 25 e sua expansão no cânon, não oferece uma solução filosófica que dissolve a tensão, mas uma submissão teológica que a abraça. Ela afirma, com toda a força, a verdade do decreto soberano e incondicional. A promessa aliancista não flui pela linhagem natural da primogenitura (Esaú), mas segue o canal traçado pela eleição soberana (Jacó). Este é um princípio aliancista fundamental: a graça não é hereditária no sentido biológico, mas é concedida conforme o propósito eletivo de Deus. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), observa que “a eleição é o coração da aliança da graça”, e Gênesis 25 demonstra que este coração bate conforme a vontade divina, não conforme as expectativas humanas de linhagem ou mérito.
+
+No entanto, a síntese reformada igualmente afirma, com igual vigor, a realidade e a culpabilidade das ações humanas. Esaú não é um robô programado para pecar; ele peca livre e voluntariamente, com desprezo genuíno. Jacó, o eleito, não é um santo imaculado; ele é um suplantador, um enganador, que será moldado por décadas de disciplina divina. A eleição não anula a responsabilidade; opera através dela e a pesar dela. A grande lição pastoral de Gênesis 25 é que a graça soberana é a única esperança para pecadores como Jacó – e como nós. Se a eleição fosse baseada em qualquer coisa em nós, estaríamos todos perdidos. O fato de ser incondicional é o fundamento de nossa segurança.
+
+Finalmente, a narrativa aponta para um cumprimento cristológico. A luta no ventre de Rebeca é um microcosmo da luta entre as “duas sementes” (Gênesis 3:15), entre o povo da promessa e os filhos deste mundo. A eleição de Jacó, o mais fraco, o enganador, aponta para o evangelho da graça que exalta os humildes. E, em última instância, o verdadeiro Jacó, o Israel eleito e perfeito, é Jesus Cristo. Nele, a eleição soberana encontra seu “sim” e “amém” (2 Coríntios 1:20). Nele, os eleitos de todas as eras são abençoados. A controvérsia de Gênesis 25, portanto, não nos leva a um impasse especulativo, mas nos conduz, de joelhos, à cruz, onde a justiça e a misericórdia de Deus, em Sua soberania insondável, se beijaram para a salvação de um povo que Ele, desde a eternidade, amou em Seu Filho.

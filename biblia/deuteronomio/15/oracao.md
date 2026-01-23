@@ -1,0 +1,27 @@
+---
+slug: "deuteronomio-15-oracao"
+titulo: "Ó Deus do Ano Sabático, Rasga os Nossos Céus"
+tipo: "oracao"
+origem: "biblia"
+livro: "deuteronomio"
+capitulo: "15"
+data: "2026-01-20"
+autor: "Capelão Nascente"
+readTime: "5 min de leitura"
+imageUrl: ""
+tema_principal: "ORAÇÃO  Deuteronômio 15   Ó Deus do Ano Sabático, Rasga os Nossos Céus  Senhor, Deus de Abraão, de Isaque e de Jacó, nós, teus filhos endurecidos pelo acúmulo, viemos diante de Ti..."
+tags: ["amor", "duvida", "medo"]
+---
+
+# ORAÇÃO
+# Deuteronômio 15
+
+## ***Ó Deus do Ano Sabático, Rasga os Nossos Céus***
+
+Senhor, Deus de Abraão, de Isaque e de Jacó, nós, teus filhos endurecidos pelo acúmulo, viemos diante de Ti com as mãos vazias de generosidade e o coração cheio de nós mesmos. Ouve-nos, ó Juiz da terra, a partir deste capítulo santo que nos confronta como um espelho diante da alma. Tu ordenaste um ano de remissão, um ano de soltar as amarras, um ano em que o coração não se fecharia ao irmão necessitado, porque a terra é Tua e nós somos apenas peregrinos nela. Mas, ó Verdade, quantas dívidas nós, tua igreja, temos acumulado contra o céu! Dívidas de amor não pagas, de misericórdia retida, de mãos fechadas ao pobre que está dentro dos nossos portões. Nossas contas são meticulosas, nossos contratos são rígidos, e nosso coração… ah, Senhor, nosso coração está longe do ano sabático da graça. Rasga, pois, os nossos céus, ó Deus do Jubileu! Desce como fogo sobre o nosso cálculo egoísta e faz-nos chorar não pelas perdas, mas pela dureza que habita em nós. Converte-nos, ó Espírito Santo, do coração de credor para o coração de devedor perdoado, que perdoa.
+
+Tu disseste, com uma clareza que nos corta a alma: *“Não haverá, pois, entre ti pobre algum”* (Deuteronômio 15:4). Esta promessa, ó Deus da Aliança, ecoa como um juízo sobre a nossa comunidade. Pois nós olhamos ao redor e vemos pobreza. Vemos irmãos esmagados por jugos que nós mesmos ajudamos a forjar. Vemos necessidades que nossos olhos aprenderam a ignorar. O problema, Senhor, confessamos, não está na escassez de teus recursos, mas na paralisia de nossa fé. Nós lemos: *“Pois o SENHOR, teu Deus, te abençoará ricamente”* (v. 4), e ainda assim vivemos como se a bênção fosse um tesouro para ser guardado, e não um rio para ser compartilhado. **Walter Brueggemann**, em *Deuteronomy* (2001), nos lembra que esta legislação não era um mero contrato social, mas um *ato litúrgico*, um exercício de confiança no Deus que provê. Nós falhamos na liturgia, Senhor. Transformamos a fé em um sistema de auto-preservação. Derrama sobre nós um espírito de arrependimento que seja tão profundo quanto a tua ordem é radical. Faz-nos ver o pobre, o necessitado, o endividado, não como um problema a ser gerido, mas como um irmão a ser abraçado no teu Nome. Que este capítulo se torne, em nós, um grito por avivamento—um avivamento que começa com as mãos abertas e o coração quebrado.
+
+E há, neste texto sagrado, uma palavra que nos persegue com ternura devastadora: *“Não endureças o teu coração, nem feches a tua mão”* (v. 7). Ó Deus, quantas vezes endurecemos o coração! Nós o recobrimos com a couraça da praticidade, da desculpa do “mau pagador”, do medo de que, se dermos, nos faltará. Mas Tu nos adverte com uma percepção divina: *“Cuidado! Não haja pensamento vil no teu coração”* (v. 9). O pensamento vil, Senhor, é aquele que duvida de Ti no momento exato da obediência. É a semente da incredulidade que brota no instante em que a misericórdia é exigida. Nós clamamos por milagres, por sinais, por fogo do céu, enquanto ignoramos o milagre primário que Tu desejas operar: um coração de carne no lugar do nosso coração de pedra. Um coração que dá *“generosamente”* e *“de boa vontade”* (v. 10). Faz isto em nós, ó Deus! Opera o milagre da generosidade involuntária, da compaixão irresistível. Que nossas igrejas não sejam mais conhecidas por seus orçamentos e edifícios, mas por suas mãos abertas e seus cofres esvaziados por amor. Que o mundo olhe para nós e veja, perplexo, um povo que não teme o amanhã porque conhece o Dono de hoje.
+
+Por fim, Senhor, nossos olhos se enchem de lágrimas ao ler sobre o escravo hebreu que, no sétimo ano, deve ser liberto *“e a ele nada darás”* (v. 13). Mas logo em seguida, Tu ordenas: *“De tuas ovelhas, de tua eira e de teu lagar lhe darás”* (v. 14). É a lógica do teu reino, ó Deus! A liberdade não é lançada à nudez do mundo; é vestida com a abundância do libertador. E então vem a razão suprema, a que nos derrete por completo: *“Lembra-te de que foste escravo na terra do Egito e de que o SENHOR, teu Deus, te remiu”* (v. 15). Aqui está o cerne de tudo, ó Redentor. **Christopher J. H. Wright**, em *Deuteronomy* (1996), afirma que a memória da redenção do Egito é o motor ético de toda a lei. Nós, porém, esquecemos. Esquecemos o cativeiro do nosso pecado. Esquecemos o preço pago na cruz do Calvário. Esquecemos que fomos comprados, não com ouro ou prata, mas com o sangue precioso do Cordeiro. Como, então, podemos reter a liberdade, negar a provisão, fechar a mão? Aviva-nos, Senhor! Aviva-nos com a memória ardente da nossa própria redenção. Que cada ato de dar, cada dívida perdoada, cada mão estendida, seja um hino de gratidão pelo ano sabático eterno que Cristo nos concedeu na cruz. Faze-nos um povo de coração aberto, porque o teu coração, ó Pai, foi rasgado por nós. Em nome daquele que, sendo rico, se fez pobre por nossa causa, Jesus Cristo, oramos. Amém.

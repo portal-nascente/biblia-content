@@ -1,0 +1,37 @@
+---
+slug: "exodo-35-mensagem-pastoral"
+titulo: "O Coração que se Move"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "exodo"
+capitulo: "35"
+data: "2026-01-19"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  Êxodo 35   O Coração que se Move   Introdução  Há, na memória afetiva de muitos de nós, a imagem de um sábado à tarde na casa dos avós. O sol poente tingia de â..."
+tags: ["amor"]
+---
+
+# MENSAGEM PASTORAL
+# Êxodo 35
+
+## ***O Coração que se Move***
+
+## Introdução
+
+Há, na memória afetiva de muitos de nós, a imagem de um sábado à tarde na casa dos avós. O sol poente tingia de âmbar o assoalho de madeira, enquanto as mãos experientes, marcadas pelo tempo e pelo trabalho, se dedicavam a uma tarefa que transcendia a mera obrigação. Talvez fosse o conserto de uma cadeira de balanço, o polimento de um móvel herdado, ou o cuidado meticuloso com um vaso de flores no jardim. Não era um trabalho remunerado, nem uma imposição externa. Era um movimento que nascia de dentro, um impulso de amor que transformava o labor em oferenda. A casa não era deles, no sentido estrito da posse legal; era o lar da família, um patrimônio afetivo que merecia ser honrado. Essa imagem singela, tão humana e tão universal, é a porta de entrada que escolho para nos aproximarmos, com reverência e assombro, do capítulo trinta e cinco do Livro do Êxodo. Aqui, longe do barulho das pragas do Egito ou do trovão do Sinai, encontramos um dos retratos mais comoventes e práticos da verdadeira adoração que as Escrituras nos oferecem. É o momento em que um povo liberto aprende que a liberdade mais sublime é a de dar, e que o Deus que os resgatou com braço forte deseja habitar no meio deles, construído não pela imposição de um decreto, mas pelo impulso voluntário de corações agradecidos.
+
+## Desenvolvimento
+
+O capítulo se abre com a reafirmação solene do sábado, um parêntesis de graça no tempo, um lembrete de que toda a obra que se seguirá nasce do repouso em Deus, e não para conquistá-Lo. É significativo que a primeira palavra, antes de qualquer apelo por contribuições, seja um chamado à cessação. **John Piper**, em *Desiring God* (1986), observa com precisão que "Deus não é servido por mãos humanas como se precisasse de algo". O trabalho para o tabernáculo fluiria de corações que haviam primeiro compreendido o privilégio de parar, contemplar e receber. Então, e somente então, vem o apelo de Moisés: "Todo aquele que é de coração generoso trará por oferta alçada ao Senhor" (Êxodo 35:5). A linguagem é crucial: "coração generoso", em hebraico *nadab libbo*, um coração que se move por impulso próprio, que é impelido de dentro para fora. Não há taxação, não há quotas obrigatórias, não há comparação ou competição. Há um convite. E o que se pede? Ouro, prata, bronze, linho fino, peles de animais, madeira, óleo, especiarias e pedras preciosas. Itens de valor, sim, mas também itens cotidianos. O Deus que criou o universo pede os recursos que Ele mesmo concedeu ao seu povo, inclusive os despojos que lhes foram dados pelos egípcios. Nada do que temos é originalmente nosso; tudo é empréstimo da graça comum e da graça redentora de Deus.
+
+O cerne da mensagem, porém, não está apenas nos materiais, mas nos talentos. Moisés convoca "todo homem hábil de coração" (v. 10) para vir e executar toda a obra. Aqui, a teologia da vocação brilha em sua plenitude. O artesão que entalha madeira, a tecelã que borda linho, o ourives que funde metais preciosos – suas habilidades não são seculares. São dons divinamente concedidos, santificados agora para um fim sagrado: construir a morada de Deus entre os homens. **Abraham Kuyper**, o grande teólogo e estadista holandês, em sua obra *A Obra do Espírito Santo* (1888), proclamou que "não há um único centímetro quadrado, em todos os domínios da existência humana, sobre o qual Cristo, que é Soberano sobre tudo, não clame: 'É meu!'". Êxodo 35 é a ilustração vívida desse princípio. O trabalho manual, a engenhosidade, o design, a arte – tudo é recolhido e consagrado ao serviço do Senhor. Não há dicotomia entre sagrado e profano no que diz respeito aos dons; há apenas a intenção do coração que os oferece.
+
+E então, ocorre o milagre silencioso. O texto narra, com uma cadência quase poética, que "veio todo homem a quem o seu coração moveu, e todo aquele cujo espírito voluntariamente o impeliu" (v. 21). Homens e mulheres, anônimos na história, mas eternamente registrados no livro de Deus, começam a fluir para a tenda da congregação. Trazem brincos, braceletes, anéis, fios de ouro. As mulheres habilidosas fiam com as mãos o linho e o pêlo de cabra. Os príncipes trazem as pedras preciosas e o azeite. É um êxtase de generosidade ordenada, uma explosão de amor gratuito. **Charles H. Spurgeon**, em seu sermão *The Treasury of David*, refletindo sobre a oferta voluntária, exclama: "Oh, quão diferente é a religião do coração da religião da rotina! Quando o homem dá porque deve dar, é como a geada; mas quando dá porque ama dar, é como o orvalho que desce de Hermom". O povo deu tanto, com tais corações movidos, que os artífices, Bezalel e Aoliabe, finalmente tiveram que ir a Moisés e dizer as palavras mais extraordinárias que um líder de projeto pode ouvir: "O povo traz muito mais do que é necessário para o serviço da obra" (v. 5). Foi necessário conter a oferta. Que contraste com a mesquinhez que tantas vezes caracteriza nossa resposta à graça!
+
+## Conclusão
+
+Irmãos, qual é a aplicação pastoral desta narrativa resplandecente? Ela nos confronta no âmago de nossa relação com Deus e com a comunidade da fé. O tabernáculo foi uma sombra, uma figura passageira. O verdadeiro tabernáculo, como nos ensina a Carta aos Hebreus, é o próprio Cristo, que "tabernaculou" entre nós. E nós, coletivamente, somos agora o templo do Espírito Santo. A obra de construção já está completa na cruz, mas a expressão tangível dessa realidade – a igreja local, a comunhão dos santos, o cuidado com os necessitados, a proclamação do Evangelho – continua. E ela é edificada com os mesmos princípios de Êxodo 35.
+
+Deus não precisa dos seus recursos. Mas Ele deseja o seu coração. E um coração que se move por Sua graça inevitavelmente moverá suas mãos e seus tesouros. A pergunta pastoral que lhe faço hoje não é "quanto você deve dar?", mas "o que o seu coração, contemplando a Cristo, o move a fazer?" Talvez seja um dom financeiro, oferecido não por constrangimento, mas com alegria secreta. Talvez seja uma habilidade prática – consertar, cozinhar, organizar – colocada a serviço dos irmãos. Talvez seja o dom do tempo, visitando o solitário, ensinando uma criança, orando com o aflito. Talvez seja a coragem de falar de Jesus no seu local de trabalho, santificando seu labor diário. Nada é insignificante quando é trazido por um coração movido pelo Espírito. Cuidado com a frieza da rotina religiosa, que dá o mínimo exigido. Deixe-se contagiar pelo espírito de abundância voluntária que emana deste capítulo. Que em nossas vidas e em nossa comunidade se repita o fenômeno glorioso: que nossos pastores e líderes, diante da generosidade transbordante dos santos, possam testemunhar, maravilhados, que os recursos para a obra do Senhor são mais que suficientes, porque o coração do povo de Deus foi profundamente movido por Aquele que, sendo rico, se fez pobre por amor de nós, para que pela sua pobreza fôssemos enriquecidos.

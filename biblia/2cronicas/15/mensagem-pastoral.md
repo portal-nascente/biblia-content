@@ -1,0 +1,39 @@
+---
+slug: "2cronicas-15-mensagem-pastoral"
+titulo: "O Fogo que se Alimenta da Lenha que se Oferece"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "2cronicas"
+capitulo: "15"
+data: "2026-01-22"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  2Crônicas 15   O Fogo que se Alimenta da Lenha que se Oferece   Introdução  Há, na memória afetiva de muitos de nós, a imagem de uma lareira no inverno. O fogo,..."
+tags: ["amor"]
+---
+
+# MENSAGEM PASTORAL
+# 2Crônicas 15
+
+## ***O Fogo que se Alimenta da Lenha que se Oferece***
+
+## Introdução
+
+Há, na memória afetiva de muitos de nós, a imagem de uma lareira no inverno. O fogo, outrora vibrante e crepitante, começa a definhar, suas chamas se retraem, e um frio subtil começa a invadir o ambiente. A solução não é gritar para o fogo que reacenda, nem tampouco apenas observá-lo com nostalgia. A resposta é simples, prática, quase óbvia: é preciso colocar mais lenha. A lenha não cria o fogo – este é dom, é a centelha inicial da graça – mas sem ela, o fogo destinado a aquecer e iluminar se reduz a brasas moribundas e, por fim, a cinzas frias. O capítulo quinze do Segundo Livro das Crônicas nos coloca diante desta dinâmica espiritual profundamente real: a busca sincera a Deus, que é sempre iniciativa e dom seu, exige de nós a resposta contínua, prática e perseverante de colocar lenha no altar. O avivamento concedido por Deus demanda a consagração sustentada pelo povo.
+
+O rei Asa, diante da profecia do vidente Azarias, filho de Odede, compreendeu esta verdade não como um pesado fardo, mas como o caminho da liberdade. A palavra do Senhor, trazida por aquele homem de Deus, soou como um diagnóstico preciso e um remédio claro: “O Senhor está com vocês quando vocês estão com ele. Se o o buscarem, ele deixará que o encontrem, mas se o abandonarem, ele os abandonará”. Não se trata de uma barganha com o Divino, mas da revelação da própria estrutura da aliança. A presença de Deus não é um estado mágico ou um talismã que se conquista e se guarda no bolso; é um relacionamento vivo, dinâmico, que se alimenta da busca, da obediência e da renúncia ativa àquilo que O ofende. **John Calvin**, em seus *Commentaries on the Book of the Prophet Isaiah* (1559), observa com precisão que “Deus não se deixa possuir por nós senão na medida em que nós, por nossa vez, nos entregamos a Ele”. A busca, portanto, é um movimento de dupla mão: somos buscados para que, respondendo, O busquemos.
+
+O coração de Asa foi inflamado por esta verdade. A narrativa nos diz que, ouvindo estas palavras e a profecia, “teve coragem” e removeu os ídolos detestáveis de toda a terra de Judá e de Benjamim e das cidades que conquistara nos montes de Efraim. Notem a sequência: a Palavra gera coragem; a coragem se traduz em ação purificadora. A busca por Deus nunca é apenas um sentimento introspectivo; ela se externaliza em atos concretos de reforma, começando pelos altares particulares e chegando aos espaços públicos. **Timothy Keller**, em *Deus na Era Secular* (2018), argumenta que a idolatria moderna é mais subtil, mas não menos real – são os “ídolos do coração”, como chamava Ezequiel, onde depositamos nossa segurança, identidade e felicidade fora de Deus. A busca sincera exige que identifiquemos e removamos essas “abominações”, sejam elas a autossuficiência arrogante, a busca desenfreada por aprovação, o culto ao conforto ou a adoração ao sucesso. A lenha que colocamos no fogo do avivamento é, em grande parte, composta dos ídolos que renunciamos a queimar em outro altar.
+
+E o texto prossegue, mostrando que a consagração coletiva fortalece e é fortalecida pela consagração individual. O povo, vendo a liderança do rei, fez um juramento, “com todo o coração e de toda a alma”, de buscar ao Senhor. Houve uma alegria solene, uma celebração da aliança, porque “o buscaram de toda a vontade, e ele deixou que o encontrassem”. Aqui reside uma beleza comunitária profunda. O avivamento não é um fenômeno isolado de êxtase, mas um retorno coletivo e jubiloso aos termos da aliança. **Martyn Lloyd-Jones**, em *Joy Unspeakable* (1984), distingue entre a alegria comum da salvação e a alegria transbordante do avivamento, esta última frequentemente marcada por uma sensação profunda e compartilhada da presença de Deus. A lenha que um coloca no fogo aquece a todos que se aproximam da lareira. A coragem de Asa em reformar o culto público não sufocou a fé privada; pelo contrário, criou o ambiente onde a fé privada podia florescer com segurança e onde a busca por Deus se tornou o projeto comum da nação.
+
+## Desenvolvimento
+
+Contudo, a mensagem mais pastoral e, ao mesmo tempo, mais desafiante deste capítulo talvez esteja em seu final aparentemente abrupto. O versículo dezessete nos informa: “Embora os altares idólatras não tenham sido eliminados de Israel, o coração de Asa foi totalmente dedicado ao Senhor durante toda a sua vida”. Esta nota de realismo é um bálsamo para a alma cansada e um antídoto para o perfeccionismo paralisante. O texto sagrado, em sua honestidade inspirada, reconhece que mesmo no mais belo avivamento, mesmo sob a liderança de um rei totalmente dedicado, nem toda a impureza é erradicada de uma vez. Há resquícios do antigo sistema, há fortalezas de idolatria que resistem, há “altos” que permanecem. A dedicação total do coração de Asa não significou uma reforma total e imaculada do reino, mas uma fidelidade perseverante e inabalável em sua busca pessoal e em seu governo. Isto nos liberta da tirania do “tudo ou nada”. Muitas vezes, desistimos de buscar a Deus com todo o nosso coração porque sabemos que não podemos consertar “tudo” ao nosso redor – em nossa família, em nossa igreja, em nossa sociedade. A vida de Asa nos diz: comece pelo seu próprio coração. Busque a Deus com inteireza no espaço que você governa – sua vida, seus pensamentos, seus afetos, sua casa. A fidelidade na esfera de sua influência direta é a lenha mais preciosa que você pode oferecer.
+
+A busca, portanto, é um exercício de dependência diária, não um feito único. O fogo do primeiro amor, aceso pela graça, precisa ser alimentado pela disciplina da graça: a oração que persiste mesmo quando as palavras parecem secas, a meditação nas Escrituras que ilumina os cantos escuros da alma, a participação fiel na comunidade dos santos mesmo quando ela mostra suas imperfeições, a prática da confissão e do perdão. **Augustus Toplady**, o poeta da graça soberana, capturou este paradoxo no hino “Rocha da Eternidade”, ao escrever: “O teu favor é a fonte onde bebo / É a lenha que mantém vivo o fogo”. A própria graça que nos atrai é a que nos sustenta na busca. Não nos alimentamos de nossa própria força para buscá-Lo; nos alimentamos dEle mesmo, que é tanto o Objeto quanto o Combustível de nossa busca.
+
+## Conclusão
+
+Irmão, irmã, você sente que o fogo já não arde com a mesma intensidade? Que a presença de Deus parece mais um conceito teológico do que uma realidade calorosa? A mensagem de 2 Crônicas 15 não é um grito de repreensão, mas um convite pastoral e paternal: volte-se para a lenha. Não tente reacender as chamas com o sopro de seus próprios esforços. Simplesmente, obediente e diariamente, traga a lenha da Palavra lida e meditada. Traga a lenha da oração honesta. Traga a lenha da obediência prática no próximo passo que você sabe que deve dar. Traga a lenha da renúncia àquela prática, àquele pensamento, àquele afeto que compete com a lealdade devida a Cristo. Coloque-a no altar. O fogo é dom de Deus. A responsabilidade de alimentá-lo com os meios que Ele mesmo provê é nossa. E a promessa, ecoada através dos séculos desde os dias de Asa e Azarias, permanece firme: “Se o buscarem, ele deixará que o encontrem”. A busca é garantida de encontro. A lenha oferecida com coragem e fidelidade será, pela misericórdia do Espírito Santo, consumida pelo fogo redivivo da Sua presença.

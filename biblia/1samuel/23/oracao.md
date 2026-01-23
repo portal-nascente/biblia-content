@@ -1,0 +1,28 @@
+---
+slug: "1samuel-23-oracao"
+titulo: "Das Fortalezas de Pedra ao Refúgio da Tua Vontade"
+tipo: "oracao"
+origem: "biblia"
+livro: "1samuel"
+capitulo: "23"
+data: "2026-01-21"
+autor: "Capelão Nascente"
+readTime: "5 min de leitura"
+imageUrl: ""
+tema_principal: "ORAÇÃO  1Samuel 23  Das Fortalezas de Pedra ao Refúgio da Tua Vontade  Senhor, Deus de Davi e nosso Deus, nós nos prostramos diante de Ti, não em um deserto de Judá, mas em desert..."
+tags: ["amor", "ansiedade", "batalha", "medo"]
+---
+
+# ORAÇÃO
+# 1Samuel 23
+## ***Das Fortalezas de Pedra ao Refúgio da Tua Vontade***
+
+Senhor, Deus de Davi e nosso Deus, nós nos prostramos diante de Ti, não em um deserto de Judá, mas em desertos interiores que nos parecem igualmente vastos e áridos. Nossas Queilas estão cercadas, não por filisteus com foices e lanças, mas por ansiedades que estrangulam, por decisões cujos caminhos se bifurcam em sombras, por um barulho ensurdecedor que nos rouba a capacidade de ouvir o sussurro da Tua orientação. Como aquele homem, ungido e, no entanto, acossado, nós também nos encontramos entre a vocação que Tu nos deste e a perseguição implacável das circunstâncias. Clamamos, como ele clamou: “Irão os cidadãos de Queila me entregar na mão dele? Descerá Saul, como o teu servo ouviu?”. Senhor, a nossa alma anseia pelo efod, pelo lugar onde a sorte é lançada, mas a resposta é Tua. Nós trazemos a Ti as nossas interrogações, os nossos “se”, os nossos “mas”, e suplicamos: fala, Senhor, pois o teu servo ouve. Arranca-nos da tirania da suposição e coloca-nos sob o governo soberano da Tua resposta.
+
+Ah, Pai! Quantas vezes, ao ouvirmos a Tua voz clara — “Vai, e livrarás a Queila” —, corremos com zelo, apenas para encontrarmos, após a batalha vencida, a traição espreitando nos muros que defendemos. Os que libertamos tornam-se potenciais carcereiros. A gratidão humana é um poço raso que seca ao primeiro calor do medo. E nossos corações se enchem da amargura de Davi, que, tendo salvado uma cidade, viu-a transformar-se em uma armadilha. Isto nos quebranta, ó Deus. Isto nos leva às lágrimas. Revela a nós a profundeza da nossa própria desconfiança e o abismo da condição humana apartada de Ti. Nós nos movemos em um mundo onde o bem pode ser punido, onde a obediência pode levar ao deserto mais profundo. E é aqui, no deserto de Zife, na solidão da caverna, que clamamos por um milagre. Não um milagre de escape fácil, mas o milagre sublime da fé que persevera mesmo quando o cerco se aperta. O milagre de crer, com **Martyn Lloyd‑Jones**, que *“a segurança do crente não reside na ausência do perigo, mas na presença do Deus que governa sobre todo perigo”*. Davi fugia de Saul, mas era guardado por Ti. Concede-nos essa visão sobrenatural! Faz nossos olhos espirituais verem, além dos perseguidores, o exército de carruagens de fogo que nos cerca.
+
+E então, ó Espírito Santo, arrebatador e consolador, vem sobre nós como vieste sobre Davi, no momento de mais aguda angústia. Quando os zifeus desceram para dizer a Saul: “Davi não está escondido entre nós?”, a sentença de morte parecia assinada. A rede se fechava. A esperança humana se esvaía. Mas eis que, no instante final, chega a notícia: “Apressai-vos e ide, porque os filisteus têm invadido a terra”. Um invasor externo interrompe o caçador. Um chamado urgente distrai o obsessivo. Isto não foi acidente, foi providência. Foi a Tua mão invisível, movendo as peças do tabuleiro da história para proteger o Teu ungido. Nós Te louvamos por isso, Deus dos desvios divinos e dos escapes providenciais! Nós nos rendemos diante da Tua soberania que utiliza até os intentos maus dos homens e as crises nacionais para cumprir os Teus desígnios de graça. Ensina-nos a viver nesta rendição confiante. Que nossa oração não seja um grito desesperado por um caminho fácil, mas um cântico de entrega ao Deus que escreve retas com as nossas linhas tortas.
+
+Por isso, neste dia, clamamos por avivamento. Não um fogo de espetáculo, mas o fogo que consome o nosso amor-próprio, a nossa autossuficiência, o nosso medo dos homens. Clamamos por uma conversão mais profunda — a conversão da nossa confiança, que deixe de repousar em fortalezas de pedra como Queila e aprenda a habitar na Rocha Eterna que é Cristo. Que a nossa vida seja um êxodo contínuo da terra da segurança ilusória para o deserto da dependência radical. Faze-nos como Davi, que, mesmo quando a entrega parecia certa, “levantou-se e partiu”. Dai-nos os pés da fé, que se movem ao Teu comando, ainda que o destino seja a rocha de difícil acesso. Nós nos comprometemos contigo, ó Deus de Jacó, nosso refúgio. Seguiremos para onde fores, mesmo que seja para o deserto de Maom, para o penhasco da solidão, para a caverna do anonimato. Porque sabemos, com **Timothy Keller**, que *“Deus sempre nos leva ao deserto antes de nos levar à promessa. É no deserto que aprendemos a depender do maná”*. Nós queremos o Teu maná, Senhor. Não o pão da fama, o pão do sucesso imediato, o pão da aprovação humana. Queremos apenas Ti. Sê Tu a nossa porção, a nossa herança, o nosso refúgio na Rocha. E que, ao final de nossos dias, possamos dizer não sobre quantas cidades conquistamos, mas sobre quantas vezes, no deserto, encontramos o rosto do nosso Salvador, que primeiro foi desprezado e perseguido por nós, para que, em Sua fuga perfeita para a cruz, nos garantisse o refúgio eterno. Em nome Daquele que é o nosso Davi maior, o Ungido eterno, Jesus Cristo, oramos.
+
+## Amém.

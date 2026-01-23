@@ -1,0 +1,56 @@
+---
+slug: "lucas-9-pregacao-tecnica"
+titulo: "A Transfiguração e a Travessia: O Caminho da Cruz entre a Glória e a Obediência"
+tipo: "pregacao-tecnica"
+origem: "biblia"
+livro: "lucas"
+capitulo: "9"
+data: "2026-01-20"
+autor: "Capelão Nascente"
+readTime: "75 min de leitura"
+imageUrl: ""
+tema_principal: "PREGAÇÃO EXPOSITIVA  Lucas 9   A Transfiguração e a Travessia: O Caminho da Cruz entre a Glória e a Obediência   Texto-base: Lucas 9:1-62  Eixo Teológico: A identidade do Cristo s..."
+tags: ["esperanca", "fe"]
+---
+
+# PREGAÇÃO EXPOSITIVA
+# Lucas 9
+
+## ***A Transfiguração e a Travessia: O Caminho da Cruz entre a Glória e a Obediência***
+
+## Texto-base: Lucas 9:1-62
+## Eixo Teológico: A identidade do Cristo sofredor e o discipulado radical, revelados na tensão entre a glória manifesta e o caminho da negação.
+
+## Introdução
+
+Há um momento na topografia da alma humana em que a visão mais clara do destino parece coincidir com a mais profunda incompreensão do caminho. É o paradoxo do cume que revela o horizonte, mas oculta os desfiladeiros que a ele conduzem. O nono capítulo do Evangelho segundo Lucas é precisamente essa encruzilhada topográfica na narrativa de Cristo. Nele, somos conduzidos ao monte da transfiguração, onde a divindade de Jesus irrompe em luz insuportável, e, num movimento vertiginoso, somos lançados ao vale da confissão difícil e do anúncio sombrio da paixão. **Geerhardus Vos**, em *The Pauline Eschatology* (1930), observa que Lucas estrutura esta seção como um díptico teológico: o poder do Reino delegado e a glória do Rei revelada de um lado; o custo do seguimento e a sombra da cruz do outro. É neste intervalo, entre o esplendor do Tabor e a poeira da estrada para Jerusalém, que o evangelista esculpe a mais completa e desconcertante definição do Messias e daqueles que ousam segui-Lo. Não se trata de um mero registro de eventos, mas da revelação progressiva de um caminho que desce da glória para a obediência, convidando-nos a uma travessia existencial.
+
+## Proposição
+
+Portanto, proponho-vos hoje, a partir deste capítulo denso e multifacetado, que a verdadeira identidade de Cristo e a essência do discipulado autêntico são reveladas não apesar da cruz, mas precisamente em e através do anúncio da cruz, desafiando nossas expectativas de poder e redefinindo o que significa glorioso e bem-sucedido aos olhos de Deus.
+
+## I. O Poder Delegado e a Glória Revelada: A Autoridade que Precede a Renúncia
+
+O capítulo se abre não com mistério, mas com autoridade manifesta. Cristo concede aos Doze *“poder e autoridade sobre todos os demônios e para curar doenças”* (Lc 9:1). É um momento de extraordinária delegação. O Reino não é apenas pregado; seu poder irrompe tangivelmente através daqueles homens comuns. **John Nolland**, em seu *Word Biblical Commentary: Luke 9:21–18:34* (1993), salienta que esta missão é um prólogo extensionista do ministério de Jesus; os discípulos tornam-se, por um tempo, extensões do seu poder real. Eles experimentam um vislumbre do que significa agir pela autoridade do Rei. Contudo, esta experiência de poder é imediatamente confrontada com a perplexidade. Herodes, o tetrarca, ecoa a pergunta que paira sobre todo o Evangelho: *“Quem é este, sobre quem ouço tais coisas?”* (Lc 9:7). A pergunta de Herodes é a pergunta do mundo diante do poder espiritual autêntico: uma mistura de curiosidade mórbida e terror supersticioso.
+
+A narrativa então culmina no evento axial do monte da transfiguração. Enquanto ora, a aparência de seu rosto se altera e suas vestes tornam-se de brancura refulgente. Moisés e Elias aparecem, falando do seu *“êxodo”* (Lc 9:31), termo que **Joachim Jeremias**, em *New Testament Theology* (1971), interpreta como a partida redentora de Jesus através da morte e ressurreição. A glória aqui não é um fim em si mesma; é a confirmação divina do caminho do sofrimento. A voz da nuvem proclama: *“Este é o meu Filho, o meu Eleito; a ele ouvi.”* (Lc 9:35). **Leon Morris**, em *The Gospel According to St. Luke* (1974), vê aqui uma correção divina à sugestão bem-intencionada, mas profundamente equivocada, de Pedro de fazer três tendas. A glória não deve ser contida, nem o momento prolongado. O Filho Eleito deve ser ouvido, e o que Ele dirá a seguir é o anúncio da cruz. Assim, o primeiro ponto nos mostra que o poder delegado ao discípulo e a glória revelada no Mestre não são concessões para um triunfalismo vazio. São, paradoxalmente, a capacitação e a confirmação para o caminho da renúncia que se avizinha. É a autoridade que se veste de humildade, a glória que se esconde no sofrimento.
+
+## II. A Confissão Necessária e o Anúncio Inescapável: A Sombra da Cruz sobre a Estrada
+
+Ao descerem do monte, são recebidos por uma cena de desespero: um pai, seu filho possesso, e a impotência dos discípulos. Jesus exclama: *“Ó geração incrédula e perversa! Até quando estarei convosco e vos sofrerei?”* (Lc 9:41). A frustração de Cristo não é apenas com o demônio, mas com a fé débil que cerca aquele menino. É o contraste gritante entre a glória do monte e a miséria do vale, entre a confissão que está por vir e a incredulidade presente. Este milagre serve como ponte dramática para o momento crucial que se segue. Em meio à solitude de uma estrada poeirenta, Jesus faz a pergunta que ressoa através dos séculos: *“Quem diz o povo que eu sou?”* (Lc 9:18). As respostas refletem expectativas messiânicas populares, mas deslocadas. Então, a pergunta se torna íntima e direta: *“E vós, quem dizeis que eu sou?”* (Lc 9:20).
+
+A resposta de Pedro, *“O Cristo de Deus”*, é correta em seu título, mas perigosamente vazia em seu conteúdo entendido. Pois imediatamente Jesus lhes impõe severa ordem de não o dizerem a ninguém. Por quê? **I. Howard Marshall**, em *The Gospel of Luke: A Commentary on the Greek Text* (1978), argumenta que o motivo é o *“segredo messiânico”*, mas não um segredo de identidade, e sim de *natureza*. O título “Cristo” estava carregado de conotações políticas e triunfalistas que Jesus precisava redefinir radicalmente. E Ele o faz com palavras que devem ter soado como uma blasfêmia aos ouvidos dos discípulos: *“É necessário que o Filho do Homem sofra muitas coisas, e seja rejeitado pelos anciãos, principais sacerdotes e escribas, e seja morto, e ressuscite ao terceiro dia.”* (Lc 9:22). A palavra-chave é *“necessário”* (dei). **Herman N. Ridderbos**, em *The Coming of the Kingdom* (1962), vê aqui a necessidade divina, o *“decreto”* do conselho redentor de Deus. A cruz não é um acidente de percurso, um plano B. É o coração do plano A da redenção. A confissão correta de Pedro, portanto, só é verdadeira quando interpretada à luz da cruz. Fora dela, é um ídolo, um messias projetado por nossas ambições. O segundo ponto, assim, nos confronta com a verdade dura e doce: confessar a Cristo é abraçar o Cristo crucificado. Toda confissão que evita a cruz é uma negação disfarçada. A sombra da cruz define o contorno verdadeiro do Salvador.
+
+## III. A Negação de Si e o Seguimento Radical: O Custo da Travessia após a Glória
+
+A reação de Pedro ao anúncio da paixão é de repreensão, e a contra-repreensão de Jesus é das mais duras das Escrituras: *“Para trás de mim, Satanás! Você é uma pedra de tropeço para mim, não pensa nas coisas de Deus, mas nas dos homens.”* (Mt 16:23, contexto paralelo). Este é o divisor de águas do discipulado. Imediatamente após definir sua própria missão, Jesus define a do seguidor: *“Se alguém quer vir após mim, a si mesmo se negue, dia a dia tome a sua cruz e siga-me.”* (Lc 9:23). **Dietrich Bonhoeffer**, em *Discipulado* (1937), embora não seja um exegeta do primeiro século, captou a essência deste versículo ao escrever: “Quando Cristo chama um homem, ordena-lhe que venha e morra”. A negação de si não é ascetismo por ascetismo; é a transferência radical da soberania da própria vida para as mãos de Cristo. Tomar a cruz diariamente não é suportar uma dor crônica ou um incômodo; é aceitar conscientemente o caminho da rejeição, do sofrimento e da morte para os próprios projetos, em obediência a Deus.
+
+Lucas então ilustra este custo com três encontros breves e cortantes. O primeiro homem oferece-se para seguir Jesus “para onde quer que fores”. A resposta de Jesus é a do nômade radical, do Filho do Homem que não tem onde reclinar a cabeça (Lc 9:57-58). O segundo recebe o chamado direto: “Segue-me”, mas pede para primeiro sepultar seu pai. A resposta parece chocante: *“Deixe que os mortos sepultem os seus próprios mortos; você, porém, vá e proclame o reino de Deus.”* (Lc 9:60). **Joseph A. Fitzmyer**, em *The Gospel According to Luke X–XXIV* (1985), explica que a frase provavelmente não se refere a um funeral iminente, mas à obrigação cultural de cuidar dos pais até a morte. Jesus coloca a prioridade do Reino acima do mais sagrado dos deveres familiares. O terceiro quer despedir-se dos de casa, e ouve a analogia do arado: *“Ninguém que, tendo posto a mão no arado, olha para trás é apto para o reino de Deus.”* (Lc 9:62). **Charles H. Talbert**, em *Reading Luke: A Literary and Theological Commentary* (1982), vê nessa tríade uma progressão: do entusiasmo não calculado, ao dever legítimo que se torna empecilho, à nostalgia que paralisa. O terceiro ponto, portanto, expõe o custo existencial do discipulado. Ele não é um acréscimo à vida; é uma nova vida, com uma nova lealdade soberana, que redefine todos os outros vínculos. A glória do monte só é alcançada através da estrada da negação.
+
+## Conclusão
+
+Irmãos, Lucas 9 é um espelho divino colocado diante de nossas almas. Nele vemos refletidas nossas próprias contradições: desejamos o poder da missão, mas tememos o custo; confessamos o Cristo glorioso, mas rejeitamos o Cristo sofredor; ansiamos pela transfiguração, mas fugimos da cruz diária. O capítulo todo é um convite a uma travessia. Uma travessia da teologia da glória para a teologia da cruz, do discipulado de conveniência para o seguimento radical, do “eu” no centro para o Cristo no centro.
+
+A pergunta final do capítulo não é feita por Jesus, mas é para Ele: *“Quem dizem as multidões que eu sou?”*. A pergunta agora ecoa neste lugar. Quem é Ele para você? Um taumaturgo poderoso? Um mestre ético? Um Cristo à sua própria imagem? Ou é o Filho Eleito, cuja glória resplandece eternamente justamente porque Ele escolheu o caminho do êxodo, da paixão, da cruz? E a pergunta subsequente, íntima e inescapável, vem a você, individualmente: “E você, quem diz que eu sou?”. A resposta não está em palavras ditas levemente, mas em uma vida tomada pela sombra daquela cruz e pelo reflexo daquela glória. Que possamos, pela graça, descer do monte de nossas experiências sublimes e empreender, com olhos abertos e coração rendido, a travessia da obediência, tomando cada dia a cruz que nos é dada, seguindo Aquele que, sendo em forma de Deus, esvaziou-se a si mesmo, tomando a forma de servo, tornando-se obediente até à morte, e morte de cruz. Por isso também Deus o exaltou soberanamente. Esse é o caminho. Esse é o Senhor. A Ele, glória.
+
+## **Amém.**

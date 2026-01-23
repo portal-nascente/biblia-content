@@ -1,0 +1,55 @@
+---
+slug: "lucas-6-pregacao-tecnica"
+titulo: "O Sábado do Coração e a Topografia do Reino: Um Sermão da Planície"
+tipo: "pregacao-tecnica"
+origem: "biblia"
+livro: "lucas"
+capitulo: "6"
+data: "2026-01-20"
+autor: "Capelão Nascente"
+readTime: "75 min de leitura"
+imageUrl: ""
+tema_principal: "PREGAÇÃO EXPOSITIVA  Lucas 6   O Sábado do Coração e a Topografia do Reino: Um Sermão da Planície   Texto-base: Lucas, Capítulo 6   Eixo Teológico: O Cristo que transgride as cerc..."
+tags: ["amor", "sonho"]
+---
+
+# PREGAÇÃO EXPOSITIVA
+# Lucas 6
+
+## ***O Sábado do Coração e a Topografia do Reino: Um Sermão da Planície***
+
+## Texto-base: Lucas, Capítulo 6
+
+## Eixo Teológico: O Cristo que transgride as cercas humanas para estabelecer os limites divinos do amor radical, revelando, na planície, a constituição do cidadão do Seu Reino.
+
+## Introdução
+
+Havia, nos dias de Jesus, uma geografia sagrada da piedade. O templo, com seus átrios concêntricos, marcava quem estava dentro e quem estava fora. O sábado, com sua cerca de proibições minuciosas, delimitava o sagrado do profano. A própria sociedade traçava suas fronteiras entre puros e impuros, justos e pecadores. E então, o Filho do Homem adentra esse campo minado de demarcações humanas. Ele caminha por um campo de trigo e, com gestos simples de colher e esfregar espigas, faz tremer os alicerces de uma religiosidade que confundia observância com obediência, e tradição com verdade. Ele entra numa sinagoga e, diante de um homem com a mão ressequida, ergue a questão que perfura toda hipocrisia: “É permitido no sábado fazer o bem ou o mal, salvar a vida ou destruí-la?”. A resposta silenciosa, dada no poder que restaura o homem, ecoa como um terremoto teológico. Depois deste dia de confronto, Jesus desce. Não sobe a um monte isolado, como faria para a entrega da Lei antiga, mas desce a um lugar plano, uma planície. E ali, para uma grande multidão que busca cura e alívio, Ele pronuncia um discurso que é, ao mesmo tempo, constituição e manifesto. Não é um novo código, mas a revelação do coração de Deus e a descrição do rosto do verdadeiro adorador. O capítulo sexto de Lucas é, portanto, um divisor de águas. Nele, Cristo, o Senhor do sábado, desenha, na planície aberta, a topografia do Seu Reino, uma terra onde as fronteiras são traçadas não pela lei do olho por olho, mas pela geometria divina do amor que se estende até aos inimigos.
+
+## Proposição
+
+Nesta manhã, contemplaremos como o Senhor Jesus, no capítulo sexto do Evangelho segundo Lucas, desmonta meticulosamente a falsa piedade que ergue barreiras e, em seu lugar, ergue os três pilares imutáveis do discipulado genuíno: a **Autoridade que Liberta** (o Senhorio sobre a tradição), a **Eleição que Inverte** (a lógica do Reino na Planície) e o **Amor que Edifica** (o alicerce indestrutível).
+
+## I. A Autoridade que Liberta: Cristo, o Senhor do Sábado e da Sinagoga
+
+O capítulo se abre não com um discurso, mas com dois atos de soberania. No campo, os discípulos, guiados pela fome elementar, colhem espigas. A acusação farisaica não é contra o furto – a lei permitia –, mas contra a suposta violação do sábado. A tradição dos anciãos havia transformado o descanso celebrativo em uma prisão de minúcias. Jesus responde não com uma defesa circunstancial, mas com um golpe de autoridade que remete à própria história da redenção. Ele cita Davi, que comeu os pães da proposição, reservados aos sacerdotes. **Joachim Jeremias**, em *As Parábolas de Jesus* (1970), observa que Jesus aqui “apela para um caso de necessidade humana que anulou uma prescrição cultual”. Mas vai além: “O Filho do Homem é Senhor do sábado”. A declaração é colossal. O sábado foi feito para o homem, não o homem para o sábado, mas quem define seu verdadeiro propósito é Aquele que é anterior e superior a ele: o próprio Filho do Homem, título messiânico que carrega ecos de Daniel 7. **Donald A. Hagner**, em seu *Word Biblical Commentary: Matthew 1-13* (1993), enfatiza que “a autoridade de Jesus é aqui apresentada como algo que transcende até mesmo a lei do sábado, pois Ele está em posição de interpretar e aplicar seu significado último”.
+
+Em seguida, a cena muda para a sinagoga, o centro da vida religiosa e comunitária. A presença do homem da mão ressequida é um teste vivo. A pergunta de Jesus – “É permitido no sábado fazer o bem ou o mal?” – expõe o núcleo podre de uma religião que, para preservar uma regra, estava disposta a negar a misericórdia. A cura que se segue é um ato de criação, um *fiat* divino. A mão seca, símbolo de impotência e esterilidade, é restaurada. **N. T. Wright**, em *Jesus e a Vitória de Deus* (1996), vê neste ato um “sinal do reino”, uma invasão do poder renovador de Deus na esfera da fraqueza humana, deliberadamente realizada no sábado para marcar que “a nova criação estava começando”. A ira dos fariseus e escribas, que imediatamente conspiram, revela o abismo entre um Deus que quer salvar a vida e um sistema religioso que, em sua rigidez, a destrói. A autoridade de Jesus, portanto, não é para oprimir, mas para libertar: libertar o sábado de seu cativeiro legalista, libertar o homem de sua enfermidade, e libertar a piedade de sua caricatura farisaica. Ele é o Senhor que quebra os grilhões para estabelecer o verdadeiro descanso – o descanso em Sua graça.
+
+## II. A Eleição que Inverte: A Constituição do Reino na Planície
+
+Após a noite de oração no monte, Jesus escolhe os Doze, nomeando-os apóstolos. Esta eleição é solene e intencional. Mas então, Ele desce e para em um “lugar plano”. A topografia é teologia. A Lei foi dada no monte Sinai, em meio a trovões e limites. As bem-aventuranças de Lucas – diferentemente do sermão do monte em Mateus, mais extenso e legislativo – são proclamadas em um terreno plano, acessível. É o Reino chegando ao nível do homem comum, do doente, do atormentado. As bem-aventuranças lucanas são visceralmente concretas: “Bem-aventurados vós, os pobres… os que agora tendes fome… os que agora chorais”. **Leonhard Goppelt**, em *Teologia do Novo Testamento* (1975), argumenta que Lucas acentua “a atual situação de necessidade” dos discípulos, enquanto os “ais” dirigidos aos ricos, fartos e risonhos são um juízo escatológico sobre uma autossuficiência que ignora Deus. Esta é a grande inversão: o Reino pertence aos que não têm reino algum neste mundo; a satisfação é prometida aos que têm fome agora; a alegria, aos que carregam o pranto da existência decaída.
+
+Esta inversão continua no mandamento do amor aos inimigos. A ética do “olho por olho” é substituída pela ética do “oferecer a outra face”. **John Stott**, em *A Mensagem do Sermão do Monte* (1978), chama isso de “a distintividade cristã”. Não se trata de uma mera negação da violência, mas de uma iniciativa positiva de amor que quebra o ciclo do mal. “Amai os vossos inimigos, fazei o bem aos que vos odeiam”. O modelo? O Pai celestial, que é “bondoso até para com os ingratos e maus”. **Millard J. Erickson**, em *Teologia Sistemática* (1998), fundamenta esta ética na doutrina da *imago Dei*: “O mandamento de amar o inimigo baseia-se no fato de que todos os seres humanos são criados à imagem de Deus e, portanto, possuem valor intrínseco”. A “regra de ouro” apresentada no verso 31 – “Assim como quereis que os homens vos façam, do mesmo modo lhes fazei vós também” – não é um mero conselho de reciprocidade, mas o princípio áureo que flui da nova natureza implantada pelo Evangelho. A planície, portanto, é o lugar onde Deus declara felizes os que o mundo declara infelizes, e onde estabelece uma nova lei fundamental: a lei do amor que se estende para além dos círculos convenientes do afeto natural.
+
+## III. O Amor que Edifica: O Alicerce Indestrutível da Obediência Radical
+
+A última seção do discurso é uma aplicação prática e urgente da nova realidade do Reino. Jesus emprega duas metáforas poderosas: a do cego guiando outro cego e a do discípulo e seu mestre. Ambas apontam para a necessidade de uma visão correta e de um aprendizado humilde antes de se pretender guiar ou julgar. O julgamento hipócrita – preocupado com o argueiro no olho do irmão, ignorando a trave no próprio – é exposto com um humor cortante que revela uma profunda verdade espiritual sobre a autojustiça. **James Montgomery Boice**, em *The Sermon on the Mount* (1972), comenta: “Jesus não está condenando todo julgamento… Ele está condenando o julgamento hipócrita, aquele que é feito a partir de um padrão falsificado e com uma motivação errada”.
+
+Toda esta ética radical, no entanto, não flutua no ar. Ela encontra seu ponto de convergência e sua prova de fogo na metáfora final, a das duas casas. “Por que me chamais ‘Senhor, Senhor’ e não fazeis o que eu digo?”. A confissão verbal, por mais ortodoxa que seja, é insuficiente. A verdadeira sabedoria, a verdadeira obediência, consiste em “vir a mim, ouvir as minhas palavras e praticá-las”. **Herman N. Ridderbos**, em *A Vinda do Reino* (1962), conecta esta imagem diretamente à cristologia do capítulo: “A obediência a Jesus e a suas palavras é o único alicerce que resiste ao juízo, porque suas palavras são as palavras do Messias, através das quais o poder do Reino de Deus se faz presente”. A casa edificada sobre a rocha resiste à enchente; a casa sobre a areia desaba fragorosamente. A rocha é a pessoa e os ensinos de Cristo. A obediência prática, nascida do amor recebido e do amor que se doa, é o material de construção indestrutível. Não é uma obediência legalista para ganhar mérito, mas uma obediência filial, resposta gratas à autoridade libertadora de Cristo e à eleição graciosa que nos inclui entre os “pobres” e “famintos” do Reino. O amor aos inimigos, a misericórdia, o não-julgamento hipócrita – estas não são opções para o superespiritual; são o cimento e a vigia da casa que permanece para a vida eterna.
+
+## Conclusão
+
+Irmãos, Lucas 6 nos coloca diante de um espelho e de um convite. O espelho revela em qual casa temos vivido: na casa claustrofóbica da religião das cercas, onde vigiamos os passos alheios no sábado mas deixamos ressequir a mão da compaixão? Ou na casa areenta de uma fé apenas verbal, que chama “Senhor, Senhor” mas não obedece ao Seu mandamento mais distintivo? O convite é para descer à planície. Descer da montanha da nossa autojustiça e autossuficiência. Reconhecer-nos pobres, famintos, carentes da graça. E então, ouvindo as palavras dAquele que é o Senhor do sábado e da sinagoga, começar a construir. Construir com o amor que oferece a outra face, que abençoa quem amaldiçoa, que empresta sem esperar receber. Esta é a topografia do Reino. Um lugar plano, onde a graça nos nivela a todos como necessitados, e de onde, alicerçados em Cristo, podemos erguer, com nossas vidas, um monumento à misericórdia do Pai que é perfeito. A tempestade virá. Os rios da tribulação, do sofrimento e do juízo final baterão com fúria. Só uma casa permanecerá: a que foi edificada sobre a Rocha, na obediência do amor radical. Onde está o teu alicerce?
+
+## **Amém.**

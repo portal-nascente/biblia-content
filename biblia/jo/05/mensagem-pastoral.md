@@ -1,0 +1,37 @@
+---
+slug: "jo-5-mensagem-pastoral"
+titulo: "O Som que Desperta os Mortos"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "jo"
+capitulo: "5"
+data: "2026-01-22"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  João 5   O Som que Desperta os Mortos   Introdução  Há um silêncio que é mais do que a ausência de ruído; é um estado de alma. Por trinta e oito anos, um homem..."
+tags: ["esperanca", "fe"]
+---
+
+# MENSAGEM PASTORAL
+# João 5
+
+## ***O Som que Desperta os Mortos***
+
+## Introdução
+
+Há um silêncio que é mais do que a ausência de ruído; é um estado de alma. Por trinta e oito anos, um homem conhecia esse silêncio à beira do tanque de Betesda, um silêncio entranhado de resignação, de esperas frustradas, de olhares que se desviam. Sua história não era apenas a de uma paralisia física, mas a crônica de uma paralisia da esperança. Ele estava preso não apenas a um leito, mas a um ciclo: a lenda de que um anjo agitava as águas, a corrida dos outros, a sua própria impossibilidade de chegar a tempo. Ano após ano, ele via a agitação à distância, ouvia o burburinho daqueles que conseguiam, e recolhia-se novamente ao seu canto, definindo sua vida pelo que nunca conseguia alcançar. Quantos de nós, meus amados, não temos o nosso próprio “tanque de Betesda”? Um lugar simbólico onde depositamos a tênue esperança de que, se algo externo se movesse, se uma circunstância mudasse, se uma pessoa nos estendesse a mão, então, e só então, nossa vida deslancharia. Vivemos à espera do movimento das águas, esquecidos de que Aquele que criou todas as águas está diante de nós, fazendo uma pergunta que atravessa décadas de imobilidade: “Queres ficar são?”
+
+## Desenvolvimento
+
+O encontro narrado no capítulo quinto do Evangelho de João é uma violência sagrada contra a lógica da esperança passiva. Jesus não pergunta sobre a lenda do anjo, não discute a veracidade do fenômeno do tanque. Ele vai direto ao coração da questão humana, que é sempre uma questão de vontade: “Queres ficar são?”. A pergunta parece quase cruel, pois supõe uma possibilidade de escolha onde aparentemente não há nenhuma. **Martyn Lloyd‑Jones**, em *Preaching and Preachers* (1971), observa que o grande obstáculo para a cura divina, muitas vezes, não é a gravidade da doença, mas a acomodação do doente à sua condição. O homem responde não com um “sim” fervoroso, mas com uma explicação que é, no fundo, uma acusação: “Não tenho ninguém que me ponha no tanque”. Sua identidade estava fundida à sua falta. Sua narrativa era a da carência. Cristo, porém, não debate a narrativa; Ele a quebra com uma ordem criadora: “Levanta‑te, toma o teu leito e anda”. A palavra de Cristo não é uma sugestão terapêutica; é uma força geradora. Ela não se adapta à realidade do homem; ela cria uma nova realidade *para* o homem. Imediatamente, o homem se vê forte, capaz, levantando o que antes o carregava. A cura é instantânea, mas seu significado é processual: ele precisa carregar publicamente o símbolo de sua antiga fraqueza, caminhando com ele.
+
+Este milagre, porém, é apenas a abertura de um drama muito mais profundo. Ele ocorre num sábado, e ao ordenar que o homem carregue seu leito, Jesus intencionalmente toca na nervura de uma religiosidade que havia transformado o dom de Deus – o descanso sabático – num fardo de proibições. A reação das autoridades religiosas não é de alegria pela vida restaurada, mas de furor pela regra transgredida. Elas interrogam o homem curado, mas seu interesse não é pela fonte da graça, e sim pela fonte da infração. **John Stott**, em *A Cruz de Cristo* (1986), comenta que o legalismo é cego à pessoa, vendo apenas o princípio; é surdo ao louvor, ouvindo apenas a quebra do protocolo. O homem, então, aponta para Jesus. E é aqui que o conflito se amplia, da periferia do comportamento para o centro da identidade. Jesus, confrontado, não se desculpa. Ele eleva radicalmente o nível da discussão: “Meu Pai trabalha até agora, e eu trabalho também”. Ele não está apenas afirmando uma autoridade sobre o sábado; está afirmando uma identidade com o Pai. As palavras que se seguem são das mais densas e revolucionárias do Evangelho: o Filho nada pode fazer por si mesmo; o Pai mostra ao Filho tudo o que faz; o Pai dá vida aos mortos, e o Filho também os vivifica; o Pai confiou todo o juízo ao Filho.
+
+Aqui, a cura do paralítico se revela como um sinal‑profecia. Era uma ilustração viva de uma verdade espiritual absoluta: assim como a palavra de Jesus deu força a músculos atrofiados, sua voz dá vida a almas mortas. **J. I. Packer**, em *Conhecendo Deus* (1973), nos lembra que a doutrina da regeneração – o novo nascimento – é o coração do evangelho. Não se trata de uma reforma moral, mas de uma ressurreição espiritual. “Em verdade, em verdade vos digo que vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão”. Aquele homem à beira do tanque era uma metáfora ambulante da condição humana sob o pecado: vivo fisicamente, mas morto espiritualmente, incapaz de mover‑se em direção a Deus. A voz do Filho é o único agente capaz de produzir esse despertar. O milagre em Betesda era um microcosmo do grande milagre que Cristo veio realizar.
+
+Jesus então apresenta testemunhas de sua identidade e autoridade: João Batista, as próprias obras que realizava, o Pai que o enviara e, de forma culminante, as Escrituras. Ele acusa seus ouvintes de um erro fatal: “Examinais as Escrituras, porque julgais ter nelas a vida eterna, e são elas mesmas que testificam de mim. Contudo, não quereis vir a mim para terdes vida”. Eis o paradoxo trágico que ainda hoje persegue muitos corações religiosos: um grande zelo pelo texto sagrado, uma dedicação à sua letra, acompanhados de uma resistência íntima à pessoa que é o seu tema central. Estudamos a Bíblia como um fim em si mesma, e não como o meio que nos conduz a Cristo. Apegamo‑nos às suas ordenanças, como o sábado, mas fechamos os ouvidos à sua voz pessoal e transformadora. A mensagem pastoral que emerge deste capítulo é um chamado urgente a passar da veneração do livro para o encontro com o Autor; da busca por vida nas regras, para a recepção da Vida na pessoa de Jesus.
+
+## Conclusão
+
+Meu irmão, minha irmã, qual é o teu “tanque de Betesda”? Em que esperança secundária e falível tens depositado o teu desejo de ser curado, de ser completo, de ter vida? É na agitação de certas circunstâncias? No auxílio de certas pessoas? No cumprimento meticuloso de certas obrigações religiosas? Cristo passa por teu lugar de espera estagnada e te faz a pergunta que dissolve trinta e oito anos de desculpas: “Queres ficar são?”. A resposta não está em explicar a Ele por que ainda não conseguiste. A resposta está em ouvir a ordem que segue: “Levanta‑te”. Sua palavra é criadora. Ela não espera que você se torne forte para se levantar; é ao ouvi‑la e obedecer‑lhe que a força é concedida. Talvez a obediência comece por carregar publicamente a marca de tua antiga fraqueza, agora como um troféu da graça. Não temas a reprovação dos que preferem a ordem das regras à desordem gloriosa de um milagre. Foi para dar vida aos mortos que Ele veio. Sua voz está a soar. Este não é o dia de esperar pelo movimento das águas. É o dia de ouvir o Filho de Deus e viver.

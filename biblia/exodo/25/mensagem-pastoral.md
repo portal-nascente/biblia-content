@@ -1,0 +1,36 @@
+---
+slug: "exodo-25-mensagem-pastoral"
+titulo: "O Coração que Habita entre as Cinzas"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "exodo"
+capitulo: "25"
+data: "2026-01-19"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  Êxodo 25  O Coração que Habita entre as Cinzas   Introdução  Há uma imagem que me persegue há décadas, desde os primeiros anos de um pastorado ainda verde e che..."
+tags: ["amor", "luto", "sonho"]
+---
+
+# MENSAGEM PASTORAL
+# Êxodo 25
+## ***O Coração que Habita entre as Cinzas***
+
+## Introdução
+
+Há uma imagem que me persegue há décadas, desde os primeiros anos de um pastorado ainda verde e cheio de certezas simplórias. Era um homem, um marceneiro, que perdera a esposa de forma súbita e violenta. Em sua oficina, entre serrotes, plainas e o cheiro acre da madeira serrada, ele construía, com uma precisão quase obsessiva, um relicário para guardar as cinzas da mulher. Não era um trabalho por encomenda; era um ritual de luto. Cada encaixe, cada polimento, cada detalhe ornamental era um ato de presença, uma tentativa desesperada de dar um lugar, um *habitat*, ao amor que agora era pó. Ele não construía uma urna; ele construía um santuário para o que restava de sagrado em sua vida despedaçada. Durante anos, ao ler Êxodo 25, essa cena volta à minha mente com a força de uma parábola involuntária. Pois aqui, no deserto mais árido, entre as cinzas da escravidão e a poeira da jornada incerta, Deus ordena a construção de um santuário. Mas não um santuário para guardar cinzas. Um santuário para hospedar a glória. Um lugar onde o Sagrado, vivo e pulsante, consentiria em habitar no meio do pó.
+
+## Desenvolvimento
+
+O capítulo começa com um convite que é, em sua essência, um milagre da graça: “Diga aos israelitas que me tragam uma oferta”. Não uma exigência tributária de um déspota, mas um pedido de um Deus que deseja ser *presente*. **John Calvin**, em seus *Commentaries on the Four Last Books of Moses* (1852), com perspicácia aguda, observa que este pedido revela o coração paternal do Senhor. Ele não precisa do ouro, da prata, dos linhos finos. O que Ele busca, argumenta Calvino, é o coração voluntário doador, pois ao dar dos seus bens, Israel estava, na verdade, consagrando a si mesmo. A oferta era o sacramento exterior de uma entrega interior. O Deus que os libertara com braço forte agora os convidava a uma cooperação íntima: “E me farão um santuário, para que eu possa habitar no meio deles”. O verbo “habitar” – *shakan*, em hebraico – carrega a ideia de permanência, de estabelecer residência, de “tabernacular”. Não uma visita de estado, mas uma mudança de endereço. O Infinito opta pelo limite; o Incircunscrito aceita um perímetro de madeira e peles.
+
+E o coração deste santuário, sabemos, era a arca da aliança, coberta pelo propiciatório de ouro puro, flanqueada pelos querubins. Aqui reside o núcleo da revelação. **A. W. Pink**, em sua obra *Gleanings in Exodus* (1922), dedica páginas preciosas a demonstrar como cada detalhe da arca aponta, com uma clareza quase insuportável, para a pessoa de Cristo. A madeira de acácia, incorruptível, fala de Sua humanidade perfeita; o ouro puro que a reveste por dentro e por fora, de Sua divindade gloriosa. Dentro dela, as tábuas da Lei – a Lei que condena, que revela nossa incapacidade. Sobre ela, o propiciatório – o “lugar de cobrir”, onde o sangue seria aspergido. Pink vê, com os olhos da fé reformada, uma prefiguração sublime: em Cristo, a justiça da Lei (dentro da arca) e a misericórdia propiciatória (sobre a arca) se encontram. Ele é o lugar onde a ira de Deus é aplacada e seu favor é derramado. Os querubins, com rostos voltados para o propiciatório, contemplam, em reverência silenciosa, o mistério da reconciliação que ali se opera – um mistério que eles, seres celestiais, anseiam perscrutar.
+
+Mas há um perigo sutil que **Martyn Lloyd‑Jones**, em *God’s Way of Reconciliation* (1972), nos alerta com sua habitual clareza expositiva. É o perigo de confundir o símbolo com a realidade, a sombra com a substância. Israel poderia, e infelizmente depois o fez, transformar a arca em um talismã, um objeto mágico, como em tempos de Eli. O santuário, por mais glorioso, não era um fim em si mesmo. Era um *meio*, uma pedagogia divina. Lloyd‑Jones argumenta que toda a liturgia do tabernáculo era um sermão em objetos, uma proclamação visual da santidade de Deus, do pecado do homem e da necessidade absoluta de um mediador e de um sacrifício de expiação. A mensagem era: “Aproximem-se, mas só assim; contemplem minha glória, mas só através deste sangue; sintam minha presença, mas só nesta condição”. Era um evangelho em embrião, envolto em véus, mas já apontando com dedo firme para o dia em que o Véu seria rasgado de alto a baixo.
+
+E é aqui que a mensagem se torna pastoral, visceral, para você que me ouve hoje, talvez em seu próprio deserto. Você não está construindo um tabernáculo de madeira e ouro. Mas sua vida, sua casa, seus relacionamentos, sua rotina – não são eles, de certa forma, o santuário que você está erigindo? O que você está colocando no lugar mais sagrado, no “Santo dos Santos” dos seus afetos e prioridades? Está colocando a arca da aliança – Cristo e sua obra mediadora – ou está, como aquele marceneiro, construindo um belo relicário para guardar cinzas? Cinzas de sonhos frustrados, de relacionamentos que viraram pó, de ambições que se consumiram no fogo do tempo. Deus não deseja habitar entre suas cinzas. Ele deseja habitar *em você*, transformando seu pó em glória. A ordem “Façam tudo conforme o modelo que lhes foi mostrado no monte” fala de um padrão divino, não humano. Não podemos inventar nosso próprio caminho de acesso. O modelo é Cristo. Apenas em Cristo, o verdadeiro Tabernáculo, Deus habita conosco de forma plena e definitiva. Sua vida, suas dores, suas alegrias, quando colocadas sobre o propiciatório que é Cristo, tornam-se, elas mesmas, um santuário onde a Shekinah – a glória palpável de Deus – pode repousar.
+
+## Conclusão
+
+Portanto, amado, não se contente em ser um construtor de relicários. Não gaste sua alma dando um lugar bonito à sua tristeza, à sua culpa não resolvida, ao seu orgulho ferido. O Senhor que ordenou a Bezalel e Aoliabe que trabalhassem com arte e excelência, chama você hoje. Ele tem enchido você com seu Espírito, com sabedoria, entendimento e ciência, para toda obra. A obra é esta: levantar, no deserto deste mundo, uma vida que seja um santuário móvel da Sua presença. Uma vida onde Cristo seja a Arca, o Propiciatório, o Sumo Sacerdote e o Cordeiro. Comece trazendo sua oferta voluntária – não o que lhe sobra, mas o que lhe é precioso. Traga seu tempo, seus talentos, suas fragilidades, seu ouro e sua prata espiritual. E então, olhe para o modelo mostrado no monte: olhe para Jesus. Construa a partir dEle. E assim, onde quer que você vá, mesmo que seja através de areias movediças e terrenos áridos, você carregará consigo a certeza indestrutível: “O Tabernáculo de Deus está com os homens. Ele habitará com eles”. A jornada pode ser no deserto, mas o destino já habita em você.

@@ -1,0 +1,40 @@
+---
+slug: "filipenses-3-mensagem-pastoral"
+titulo: "O Esquecimento que Avança"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "filipenses"
+capitulo: "3"
+data: "2026-01-21"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  Filipenses 3  O Esquecimento que Avança   Introdução  Há, nas entranhas da alma humana, um instinto quase aritmético, uma contabilidade implacável que nos perse..."
+tags: ["medo"]
+---
+
+# MENSAGEM PASTORAL
+# Filipenses 3
+## ***O Esquecimento que Avança***
+
+## Introdução
+
+Há, nas entranhas da alma humana, um instinto quase aritmético, uma contabilidade implacável que nos persegue desde a mais tenra consciência. Somos, por natureza, colecionadores de méritos e arquivistas de falhas. A criança guarda o elogio do professor; o jovem acumula conquistas esportivas ou acadêmicas; o adulto edifica um currículo, uma reputação, um patrimônio. E, de forma mais profunda e perigosa, o religioso — e aqui falo daquele impulso que habita mesmo o coração regenerado — tende a catalogar suas virtudes espirituais, seus dias de disciplina, suas obras de piedade. É como se carregássemos, às costas, um pesado volume encadernado a ouro, intitulado “Minhas Conquistas”, e acreditássemos que o peso desse livro nos aproxima do céu. É a essa contabilidade da alma, a essa confiança na carne que Paulo, da prisão romana, dirige um dos mais radicais e libertadores golpes de caneta já registrados. Em Filipenses 3, o apóstolo não nos convida a uma reforma contábil, mas a um incêndio nos arquivos. Não à revisão do currículo, mas ao seu esquecimento deliberado.
+
+## Desenvolvimento
+
+O capítulo começa com uma advertência solene contra os “cães”, os “maus obreiros”, os “mutiladores do corpo”. Paulo se refere, com a força de um pastor que vê o lobo adentrar o aprisco, aos judaizantes, aqueles que insistiam em acrescentar às riquezas insondáveis de Cristo a circuncisão e a observância da lei mosaica como selo final da salvação. Era a velha tentação de acrescentar algo nosso à obra consumada d’Ele. E é precisamente contra essa mentalidade de acréscimo que o apóstolo ergue o seu próprio currículo, não para ostentá-lo, mas para, diante de nossos olhos atônitos, reduzi-lo a cinzas. Ele lista suas credenciais: hebreu de hebreus, da tribo de Benjamim, fariseu irrepreensível quanto à justiça que há na lei. **John Stott**, em *A Mensagem de Filipenses* (2003), observa que “a lista de Paulo não era de um pecador notório, mas de um santo exemplar segundo os padrões religiosos de seu tempo”. Era um patrimônio impecável, a biografia de um homem que poderia, com toda a legitimidade humana, confiar na carne.
+
+E então vem o verbo que muda tudo: *considero*. “Mas o que para mim era ganho, isto considerei perda por causa de Cristo”. O termo grego *hēgeomai* vai além de um mero pensamento; implica um cálculo deliberado, uma avaliação judicial, uma decisão de governo. Paulo, como um administrador diante de dois balanços patrimoniais, colocou de um lado tudo o que era seu — sua linhagem, seu zelo, sua justiça própria — e do outro, colocou Cristo. E a presença de Cristo, a simples possibilidade de ganhá-Lo, fez com que todo o montante do lado esquerdo fosse reclassificado, não como ativo, mas como *perda*. Pior que inútil: como um prejuízo ativo, um obstáculo. **J. I. Packer**, em *Conhecendo Deus* (1973), nos lembra que “a essência da conversão é uma nova avaliação: Cristo passa a ser visto como o Tesouro supremo, e tudo o mais, inclusive o nosso ‘eu’ justo, perde seu valor comparativo”. Mas Paulo não para no *considero*. Ele avança para o verbo mais violento e libertador: *tenho por esterco*. A palavra grega *skybala* é chula, escatológica. Significa lixo, refugo, excremento, aquilo que se joga fora para não contaminar. Não é uma relíquia a ser guardada no porão; é um dejeto a ser eliminado. A justiça própria, o orgulho religioso, a confiança em qualquer conquista humana não são bens neutros; são lixo espiritual que nos intoxica.
+
+Por quê? “Para ganhar a Cristo e ser encontrado nele, não tendo justiça própria, que procede de lei, mas a que vem mediante a fé em Cristo, a justiça que procede de Deus e se baseia na fé”. Aqui reside o coração do evangelho reformado, o *sola fide*. A justiça que nos salva, que nos torna aceitáveis diante de Deus, não é uma justiça infusa, uma qualidade que passa a habitar em nós. É uma justiça *alheia*, imputada. É a justiça perfeita de Cristo creditada à nossa conta, enquanto nossos pecados foram debitados na d’Ele na cruz. É um ato forense, exterior a nós. Confiar em qualquer justiça própria, por mínima que seja, é tentar acrescentar um centavo nosso ao tesouro infinito de Deus para comprar o que já nos foi dado de graça. É um insulto à suficiência de Cristo. **Timothy Keller**, em *A Cruz do Rei* (2012), argumenta que “a justiça própria é o último reduto do orgulho humano, a última moeda com a qual tentamos barganhar com Deus. O evangelho exige que declaremos falência espiritual total”.
+
+Mas a mensagem de Filipenses 3 não é apenas sobre o ponto de partida — a justificação pela fé. É sobre a jornada toda. “Não que eu já tenha obtido tudo isso ou tenha sido aperfeiçoado, mas prossigo para conquistar aquilo para o que também fui conquistado por Cristo Jesus”. A vida cristã é um paradoxo gracioso: é um esquecimento ativo do que fica para trás e um estiramento agonizante para o que está à frente. A imagem é a de um corredor que não olha para os metros já percorridos, nem sequer para os troféus da parede, mas fixa os olhos exclusivamente na linha de chegada. O passado de fracasso deve ser esquecido no perdão. O passado de sucesso deve ser esquecido na humildade. Tudo, absolutamente tudo, é lançado no mar do esquecimento de Deus, para que nossas mãos fiquem livres para se agarrar apenas a Cristo. **Martyn Lloyd-Jones**, em *A Vida de Paz* (1973), pregava que “o cristão é aquele que vive entre a memória da cruz e a esperança da glória, e esse tensionamento liberta-o da tirania do passado, seja ele de culpa ou de glória”.
+
+E qual é a linha de chegada? “A soberana vocação de Deus em Cristo Jesus”. A ressurreição. A conformidade final com Ele. A cidade celestial. É por esse prêmio, que é a própria pessoa de Cristo glorificado, que corremos. A vida cristã, portanto, não é um estado de repouso contemplativo, mas uma corrida de resistência, um “prossigo para o alvo”, impulsionado não pelo medo do castigo, mas pela atração magnética da beleza de Cristo. Tudo o mais — sofrimento, perda, incompreensão — é parte do “despojar-se” necessário para correr mais leve. A cruz precede a coroa, o esvaziamento precede o enchimento, o morrer com Cristo precede o viver com Ele.
+
+## Conclusão
+
+Irmão, irmã, que carga você carrega hoje? Que volume pesado de “conquistas” você ostenta, secretamente acreditando que ele torna você mais amável aos olhos de Deus? É seu histórico de serviço na igreja? Sua leitura bíblica ininterrupta? Sua família modelar? Sua abstinência de pecados grosseiros? Ou, talvez, é o volume oposto: o livro negro de seus fracassos, suas recaídas, suas dúvidas, que você acha que o afasta da graça? O apelo pastoral de Filipenses 3 é o mesmo para ambos: *Jogue fora o livro*. A contabilidade foi fechada na cruz. O único registro que Deus agora contempla sobre você está escrito no livro da vida do Cordeiro, e nele consta apenas o nome de Cristo, e você, nele.
+
+Não se trata de desprezar a santificação ou de viver na indolência. Pelo contrário. É apenas quando nossas mãos estão vazias do nosso próprio mérito que podemos, de fato, agarrar com força a Cristo e correr em sua direção, livres, leves, impulsionados não pelo medo do fracasso, mas pela atração do Prêmio. A mensagem pastoral deste capítulo é um convite ao alívio glorioso do esquecimento. Esqueça o que você era. Esqueça o que você fez. Esqueça o que você conquistou. Fixe os olhos n’Aquele que, desde a eternidade, fixou os olhos em você, e o conquistou ao preço do seu sangue. E então, corra. Corra para Ele. Tudo o mais é *skybala*. Tudo o mais é perda. Só Cristo é ganho.

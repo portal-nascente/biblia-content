@@ -1,0 +1,57 @@
+---
+slug: "exodo-34-pregacao-tecnica"
+titulo: "O Rosto Desvelado: A Glória do Deus que Se Renova em Aliança"
+tipo: "pregacao-tecnica"
+origem: "biblia"
+livro: "exodo"
+capitulo: "34"
+data: "2026-01-19"
+autor: "Capelão Nascente"
+readTime: "75 min de leitura"
+imageUrl: ""
+tema_principal: "PREGAÇÃO EXPOSITIVA  Êxodo 34   O Rosto Desvelado: A Glória do Deus que Se Renova em Aliança   Texto-base: Êxodo Capítulo 34 (NVI/Almeida Atualizada)   Eixo Teológico: A autorreve..."
+tags: ["amor", "medo"]
+---
+
+# PREGAÇÃO EXPOSITIVA
+# Êxodo 34
+
+## ***O Rosto Desvelado: A Glória do Deus que Se Renova em Aliança***
+
+## Texto-base: Êxodo Capítulo 34 (NVI/Almeida Atualizada)
+
+## Eixo Teológico: A autorrevelação de Deus como fundamento da aliança renovada, expondo Sua glória como um paradoxo de graça imerecida e justiça inexorável, que transforma o adorador.
+
+## Introdução
+
+Há uma cena na história da arte que captura, de forma pungente, o dilema humano diante do divino. Moisés, de Michelangelo, sentado na basílica de São Pedro em Vincoli, segura as tábuas da lei enquanto seu rosto se contorce numa mistura de fúria santa e de uma tristeza abissal. O mármore parece gemer sob o peso da revelação recebida e da rebelião testemunhada. Essa tensão entre o sublime da montanha e a tragédia do vale é precisamente o palco sobre o qual se desenrola o capítulo trinta e quatro do Êxodo. Não estamos diante de um episódio isolado, mas do clímax narrativo e teológico do drama do Sinai. O bezerro de ouro não foi um mero deslize litúrgico; foi um rompimento catastrófico da aliança, um retorno espiritual ao Egito. As tábuas quebradas ao pé do monte são o símbolo gráfico de um pacto quebrado. E então, na desolação do fracasso humano, surge a pergunta que ecoa através dos séculos: O que faz um Deus santo com um povo infiel? A resposta não está num decreto frio, mas numa teofania íntima, num rosto que se desvela, e numa glória que passa, deixando atrás de si não cinzas, mas a possibilidade milagrosa de um novo começo. **John Calvin**, em seus *Commentaries on the Four Last Books of Moses* (1563), observa que aqui “Deus, como que esquecendo a injúria, não apenas restaura a aliança, mas a grava em caracteres mais brilhantes”. É nesta restauração, porém, que descobrimos a essência mais profunda de quem Deus é.
+
+## Proposição
+
+Portanto, proponho-vos nesta manhã que a glória de Deus, manifestada a Moisés na fenda da rocha, é a revelação definitiva que sustenta a aliança renovada, e que esta revelação nos convoca a uma transformação radical, evidenciada em três movimentos divinos: I. A Proclamação do Nome: A Glória como Caráter Revelado; II. A Renovação do Pacto: A Glória como Graça Incondicional; e III. O Rosto Resplandecente: A Glória como Transformação Iminente.
+
+## I. A Proclamação do Nome: A Glória como Caráter Revelado (vs. 1-9)
+
+O Senhor ordena a Moisés que talhe novas tábuas, iguais às primeiras. O ato inicial parte de Deus, mas a matéria-prima – a pedra – deve ser providenciada pelo homem. Há aqui uma sutil teologia da cooperação divino-humana na restauração: a iniciativa é soberana, a obediência é necessária. Moisés sobe, sozinho, carregando o peso da pedra e o peso do povo. E então, no versículo cinco, ocorre uma das cenas mais sublimes das Escrituras: “Então o Senhor desceu na nuvem, permaneceu ali com ele e proclamou o seu nome: Senhor”. Deus não se apresenta com novos títulos, mas desce para *proclamar o Seu nome*. Este não é um mero enunciado fonético; é uma autorrevelação performática, uma definição de Sua essência em ato. **Brevard S. Childs**, em seu *The Book of Exodus: A Critical, Theological Commentary* (1974), enfatiza que esta proclamação “é a interpretação autoritativa do significado do nome Yahweh... é a própria natureza de Deus tornada conhecida”.
+
+E o que este nome proclama? Um paradoxo que é o coração do evangelho antes do evangelho: “Senhor, Senhor, Deus compassivo e misericordioso, paciente, cheio de amor e de fidelidade, que mantém o seu amor a milhares e perdoa a maldade, a rebelião e o pecado. Contudo, não deixa de punir o culpado”. Observem a estrutura desta confissão divina. A graça é extensiva, abundante, transbordante – “compassivo, misericordioso, paciente, cheio de *hesed* (amor leal) e *emeth* (fidelidade)”. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), nos lembra que o *hesed* é “o amor que é fiel à sua aliança, que não abandona o objeto de seu amor, mesmo quando este é infiel”. É o amor que se agarra. Mas este amor não é uma sentimentalidade barata. Ele repousa sobre a fidelidade (*emeth*), a solidez moral do caráter divino. E por isso mesmo, este Deus que “perdoa a maldade, a rebelião e o pecado” é o mesmo que “não deixa de punir o culpado”. A justiça não é negada; é absorvida no contexto maior da misericórdia, mas nunca abolida. **A.W. Pink**, em *The Attributes of God* (1918), argumenta que “a misericórdia de Deus nunca se exerce em detrimento de Sua santidade”. A glória de Deus, portanto, não é primeiro um brilho cegante, mas um caráter declarado. É a beleza moral de um ser que é inteiramente amor sem deixar de ser inteiramente justo. A resposta de Moisés é imediata e modelar: uma adoração apressada e um pedido que brota desta revelação: “Se de fato me aceitas, ó Senhor, vá o Senhor conosco”. A fé, tocada pela glória do caráter divino, ousa suplicar pela presença contínua daquele mesmo Deus.
+
+## II. A Renovação do Pacto: A Glória como Graça Incondicional (vs. 10-28)
+
+Diante da resposta suplicante de Moisés, Deus declara: “Vou fazer uma aliança com você”. Notem o pronome: “*Vou fazer*”. Esta é uma aliança que brota do pronunciamento do nome, é fruto da natureza revelada de Deus. Não é uma renegociação onde o povo traz novas promessas. É um ato unilateral de graça soberana. Os termos que se seguem, porém, podem parecer à primeira vista um paradoxo. Deus promete maravilhas incomparáveis, expulsando nações poderosas. Mas imediatamente adverte: “Não faça aliança com elas”. A graça que resgata é também a graça que separa. A aliança renovada não é uma licença para o sincretismo; é um chamado à santidade distintiva. As proibições que se seguem – contra ídolos, festas com os cananeus, a fundição de deuses de metal – são ecos diretos da catástrofe do capítulo trinta e dois. **Gordon J. Wenham**, em *Exploring the Old Testament: A Guide to the Pentateuch* (2003), vê aqui “a reafirmação das cláusulas básicas da aliança, mas com um foco especial nos perigos da idolatria, que havia acabado de demonstrar sua atração fatal”.
+
+A graça incondicional da aliança, portanto, estabelece condições para o gozo da comunhão. É o mesmo princípio do evangelho: “Fostes graciosamente salvos, por meio da fé... não por obras, para que ninguém se glorie. Pois somos feitura dele, criados em Cristo Jesus para as boas obras” (Ef 2:8-10). As obras não compram a aliança; fluem dela. Os detalhes sobre as festas (Páscoa, Pentecostes, Tabernáculos) e sobre os primogênitos (vs. 19-20) não são um legalismo árido. São a estrutura rítmica da vida em aliança, lembretes periódicos da redenção e da propriedade divina. Até a ordem peculiar sobre não cozer o cabrito no leite da própria mãe (v. 26), que pode soar enigmática, é interpretada por **Umberto Cassuto** em *A Commentary on the Book of Exodus* (1967) como uma proibição contra um ritual cananeu de fecundidade, uma ruptura com a ordem natural para fins mágicos. Tudo, até o aparentemente trivial, é englobado no chamado à separação: sereis meus, e de mais ninguém. A glória da graça incondicional é uma graça que santifica.
+
+## III. O Rosto Resplandecente: A Glória como Transformação Iminente (vs. 29-35)
+
+O epílogo do capítulo é uma das narrativas mais visualmente poderosas e teologicamente ricas de toda a Bíblia. Moisés desce do monte. As novas tábuas da aliança estão em suas mãos, mas algo mais radical aconteceu: “ele não sabia que o seu rosto resplandecia por ter falado com o Senhor”. A glória que ele suplicara para ver (“Mostra-me a tua glória”, Ex 33:18) não pôde ser contemplada face a face, mas impregnou seu próprio ser. A luz não vinha de fora; irradiava de dentro. **Jonathan Edwards**, em *A Treatise Concerning Religious Affections* (1746), usaria esta cena para descrever a verdadeira conversão: “Uma transformação na natureza da alma... uma comunicação da natureza divina”. Moisés tornou-se um portador, um refletor da glória que o havia interceptado na fenda da rocha.
+
+A reação de Arão e do povo é de medo. O resplendor era evidência de uma santidade transcendente e assustadora. Moisés, então, adota um ritual: cobre o rosto com um véu para falar ao povo, retirando-o apenas ao entrar na Tenda do Encontro para falar com Deus, e ao proclamar os mandamentos recebidos. A interpretação paulina em 2 Coríntios 3 é fundamental aqui. Paulo vê aquele véu não apenas como uma concessão ao medo do povo, mas como um símbolo da cegueira espiritual da antiga aliança, uma glória que era *fadada a desvanecer-se*. O véu, paradoxalmente, escondia o desvanecimento. **F.F. Bruce**, em seu *Paul: Apostle of the Heart Set Free* (1977), comenta que “a glória no rosto de Moisés era real, mas temporária; a glória da nova aliança no rosto de Cristo – e, por extensão, na vida dos crentes pelo Espírito – é permanente e crescente”. A glória do Sinai transformou Moisés de fora para dentro, de forma visível e intimidante. A glória do Calvário, contudo, promete uma transformação mais profunda, interior e permanente, pela habitação do Espírito. O véu é removido em Cristo. A sequência de Moisés, porém, nos ensina um princípio perene: a comunhão íntima com Deus (“face a face”) é a fonte de qualquer autoridade espiritual autêntica para se falar ao povo (“mandamentos”). A mensagem que transforma brota do encontro que transformou.
+
+## Conclusão
+
+Irmãos, o monte Sinai, com seu fogo, fumaça e voz trovejante, não é o quadro final da relação de Deus com o homem. O quadro final é um homem com o rosto resplandecente, descendo do monte carregando a lei do amor gracioso em suas mãos, e a evidência desse amor em seu próprio rosto. Êxodo 34 não é apenas sobre a renovação de um pacto antigo; é uma profecia em sombras da nova aliança. A glória plena do Deus “compassivo e misericordioso” não passaria por uma fenda na rocha, mas seria cravada em um madeiro numa colina. A justiça que “não deixa de punir o culpado” encontraria seu alvo no Cordeiro que tira o pecado do mundo. E a transformação que começou no rosto de Moisés seria oferecida a todo aquele que, com o véu removido, contempla a glória de Deus na face de Cristo.
+
+Hoje, você pode estar ao pé do seu monte pessoal, entre as ruínas das tábuas quebradas dos seus próprios fracassos e rebeliões. A mensagem de Êxodo 34 é que Aquele que desceu na nuvem para Moisés, desceu ainda mais profundamente na carne para você. Seu nome foi proclamado na cruz. Sua aliança foi selada no sangue. E Sua glória está disponível para transformar não apenas seu rosto, mas seu coração de pedra em coração de carne. Você não precisa talhar suas próprias tábuas. Ele já escreveu Sua lei no mais íntimo do seu ser pelo Espírito. Saia hoje deste lugar não com o véu do medo ou da vergonha, mas com o rosto descoberto, refletindo, ainda que imperfeitamente, a glória d’Aquele que o chamou das trevas para a Sua maravilhosa luz. A fenda na rocha está aberta. A glória está à espera.
+
+## **Amém.**

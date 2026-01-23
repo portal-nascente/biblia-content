@@ -1,0 +1,55 @@
+---
+slug: "numeros-25-terminologias-chave"
+titulo: "A Ira Ardente e o Zelo Perfurante: Uma Anatomia Lexical da Apostasia em Sitim"
+tipo: "terminologias-chave"
+origem: "biblia"
+livro: "numeros"
+capitulo: "25"
+data: "2026-01-20"
+autor: "Capelão Nascente"
+readTime: "25 min de leitura"
+imageUrl: ""
+tema_principal: "TERMINOLOGIAS CHAVES  Números 25  A Ira Ardente e o Zelo Perfurante: Uma Anatomia Lexical da Apostasia em Sitim  O capítulo vigésimo quinto do Livro de Números ergue-se como um pi..."
+tags: []
+---
+
+# TERMINOLOGIAS CHAVES
+# Números 25
+## ***A Ira Ardente e o Zelo Perfurante: Uma Anatomia Lexical da Apostasia em Sitim***
+
+O capítulo vigésimo quinto do Livro de Números ergue-se como um pilar de fogo e sangue na narrativa do deserto, um episódio de violenta ruptura na fronteira mesma da Terra Prometida. Em Sitim, Israel prostitui-se com as filhas de Moabe e inclina-se aos seus deuses, desencadeando uma praga que ceifa vidas e uma resposta sacerdotal que se torna paradigmática. Para além do drama histórico, o texto pulsa com uma densidade terminológica que molda sua compreensão teológica. Três termos hebraicos, em particular, funcionam como nervos expostos da narrativa: **צָמַד (tsamad)**, usualmente traduzido como “juntar-se” ou “aliar-se” em sua forma niphal; **קִנְאָה (qin’ah)**, a “ira zelosa” ou “ciúme”; e **כָּפַר (kaphar)**, o verbo central para “expiar” ou “fazer propiciação”. Uma dissecação lexical destes termos, à luz de suas raízes e uso contextual, não apenas ilumina a crise em Sitim, mas revela as profundas tensões da aliança, da santidade divina e da mediação necessária.
+
+## צָמַד (tsamad): A Aliança Profana e a Adesão Idolátrica
+
+O verbo **צָמַד (tsamad)** surge no versículo 3 de forma decisiva e fatídica: “Israel **juntou-se** (וַיִּצָּמֶד, vayyitsammed) a Baal-Peor”. A raiz צמד carrega a ideia fundamental de unir, ligar, aderir firmemente. Em sua forma simples (qal), pode referir-se a unir animais sob um mesmo jugo (1 Reis 19:19). No entanto, sua ocorrência na voz niphal (reflexiva/passiva) aqui em Números 25 é carregada de conotação relacional e, neste contexto, profundamente negativa. **Francis Brown, S. R. Driver e Charles A. Briggs**, em seu monumental *A Hebrew and English Lexicon of the Old Testament* (1906), definem a niphal de צמד como “juntar-se a, associar-se com, especialmente em idolatria”. Esta não é uma mera associação social ou política; é uma adesão religiosa, uma união íntima e pactuada com uma entidade rival a Javé.
+
+O exegeta **Gordon J. Wenham**, em *Numbers: An Introduction and Commentary* (1981), aprofunda esta análise ao contrastar o uso de צמד aqui com outras fórmulas de infidelidade. Ele argumenta que o termo implica uma “aliança deliberada”, uma vinculação formal e voluntária ao culto de Baal-Peor, deus moabita associado à fertilidade e a ritos orgiásticos. Esta não é uma queda acidental em tentação, mas uma decisão corporativa de romper o vínculo exclusivo com Javé e estabelecer um novo laço de lealdade. A escolha lexical é, portanto, teologicamente explosiva: o povo que foi “ligado” a Javé pela aliança do Sinai (Êxodo 24) agora “liga-se” a um ídolo, criando um jugo impróprio e profano. **Martin Noth**, em *Numbers: A Commentary* (1968), observa que o termo estabelece a apostasia não como um deslize moral privado, mas como um ato público e coletivo de traição à aliança, uma “adesão” que equivale a uma declaração de nova filiação.
+
+A gravidade desta “junção” é amplificada pelo objeto: Baal-Peor. O ato de **צָמַד** transcende, assim, a fornicação física (também presente) e atinge o cerne da idolatria: a transferência de devoção e dependência. O povo não apenas comete imoralidade, mas **une-se** a um sistema de significado e poder alternativo. O lexicógrafo **Ludwig Koehler**, em cooperação com **Walter Baumgartner**, no *The Hebrew and Aramaic Lexicon of the Old Testament* (1994-2000), reforça que nesta passagem צמד denota “vincular-se em lealdade a uma divindade estrangeira”, destacando o aspecto pactual da infidelidade. A praga que se segue é, então, a resposta judicial direta a esta ruptura do pacto exclusivo, uma dissolução pelo juízo do laço profano que Israel ousou criar.
+
+## קִנְאָה (qin’ah): O Fogo da Ira Zelosa do Pacto
+
+Se **צָמַד** descreve o crime, **קִנְאָה (qin’ah)** revela a natureza da reação divina. O termo, derivado de uma raiz que evoca calor intenso, vermelhidão, ardor, é traduzido de forma multifacetada: “zelo”, “ciúme”, “ira ardente”. No versículo 11, é atribuído a Fineias, cujo “**zelo** pelo seu Deus” (קִנְאָה לֵאלֹהָיו, qin’ah lelohav) detém a praga. No entanto, este zelo humano é um reflexo do atributo divino fundamental. Javé é repetidamente chamado de “Deus zeloso” (אֵל קַנָּא, El qanna), cuja **קִנְאָה** é despertada pela idolatria (Êxodo 20:5, 34:14).
+
+O teólogo reformado **Herman Bavinck**, em *The Doctrine of God* (1951), oferece uma distinção crucial: a **קִנְאָה** divina não é um ciúme patológico ou inseguro, mas a reação necessária e santa de um Deus pessoal e pactuante à violação do relacionamento exclusivo que Ele estabeleceu. É o fogo que guarda a santidade do vínculo conjugal da aliança. **John Calvin**, em seus *Commentaries on the Four Last Books of Moses* (1563), ao tratar deste capítulo, enfatiza que a “ira zelosa” de Deus é inseparável de seu amor pactual. Ele escreve: “Pois como Ele se dignou a nos escolher para ser sua porção peculiar, tão zelosamente requer para Si nossa fidelidade; e não sem causa, pois nossa salvação repousa nisto.” A praga em Números 25 é, portanto, a **קִנְאָה** de Javé em ação judicial, um fogo consumidor que purga a infidelidade introduzida pelo **צָמַד** idólatra.
+
+O ato de Fineias, porém, introduz uma dimensão performativa do zelo. **Jacob Milgrom**, em sua obra definitiva *Numbers: The JPS Torah Commentary* (1990), realiza uma análise minuciosa do termo neste contexto. Ele argumenta que o “zelo” de Fineias (25:11,13) não é simplesmente um fervor emocional, mas um ato legal e judicial específico: a execução sumária de transgressores da aliança, prescrita em leis como Deuteronômio 13:7-10. A **קִנְאָה** humana, quando alinhada com a **קִנְאָה** divina, torna-se o instrumento pelo qual a justiça pactual é administrada, “tornando atrás a minha ira”, como diz o texto. **Geerhardus Vos**, em *Biblical Theology* (1948), vê neste episódio um princípio teológico profundo: o zelo que vindica a honra de Deus é, paradoxalmente, o meio pelo qual a misericórdia é liberada para o remanescente. O golpe de lança de Fineias não é um ato de violência autônoma, mas a encarnação do **zelo judicial de Deus**, perfurando a dupla transgressão (idolatria e imoralidade) e, ao fazê-lo, fazendo cessar o **juízo expiatório** (a praga).
+
+## כָּפַר (kaphar): A Propiciação pelo Zelo e a Aliança Perpétua
+
+O clímax teológico do capítulo reside no versículo 13, onde a ação de Fineias é declarada como tendo um efeito expiatório: “e fez **expiação** (וַיְכַפֵּר, vaykhapper) pelos filhos de Israel”. O verbo **כָּפַר (kaphar)** é o termo técnico para cobrir, propiciar, fazer expiação. Sua ocorrência aqui, fora do contexto ritual estrito do sacrifício animal, é de extrema significância. Como pode um ato de violência judicial, um golpe de lança, “fazer expiação”?
+
+A resposta exige uma compreensão ampla de **כָּפַר**. **Leon Morris**, em *The Apostolic Preaching of the Cross* (1955), em seu estudo seminal sobre a expiação, demonstra que a ideia fundamental de **kaphar** não é simplesmente “cobrir” o pecado da vista de Deus, mas “cobrir” de modo a remover a ameaça que o pecado representa para a relação pactual. Envolve aplacar a ira justa (**קִנְאָה**) através da aplicação de um meio designado. **C. H. Dodd**, embora controverso em sua rejeição da “propiciação”, em *The Bible and the Greeks* (1935), reconhece que no contexto hebraico, **kaphar** frequentemente opera no cenário da ira divina, sendo o meio pelo qual ela é desviada.
+
+**Jacob Milgrom**, mais uma vez, oferece a análise mais penetrante para Números 25. Ele propõe que a expiação aqui opera através do princípio da “eliminação do pecado”. A praga é a manifestação da ira divina. O pecado que a desencadeou é a infidelidade corporativa (**צָמַד**). Fineias, movido por um zelo que espelha o de Deus (**קִנְאָה**), elimina fisicamente a fonte do pecado (os transgressores flagrantes) do meio do acampamento. Esta eliminação radical do mal é, em si, um ato **כָּפַר**. A ira divina, uma vez que sua justiça foi satisfeita pela execução dos culpados, cessa. A expiação não é alcançada por um sacrifício substitutivo, mas por um julgamento executivo que purga a comunidade. **John Owen**, o puritano, em *The Death of Death in the Death of Christ* (1647), embora não comente este texto especificamente, articula um princípio que se aplica: a expiação está intrinsecamente ligada à satisfação da justiça e à remoção do pecado que provoca a ira santa.
+
+A “aliança de paz” e o “pacto de sacerdócio perpétuo” concedidos a Fineias (v.12-13) são, portanto, a confirmação divina de que sua ação foi aceita como um ato válido de **כָּפַר**. Ele agiu como um sacerdote não apenas ao interceder, mas ao executar o juízo, restaurando a integridade da comunidade santa. O reformador **Martinho Lutero**, em suas *Preleções sobre Números* (1525), vê em Fineias uma figura de Cristo: o Zeloso que, por um ato de juízo e graça (a cruz), faz expiação definitiva, desviando a ira de Deus e estabelecendo uma aliança eterna. Enquanto a ação de Fineias expiou temporariamente, apontava para o Zeloso definitivo que carregaria a ira e removeria o pecado de uma vez por todas.
+
+## Síntese Lexical: A Dinâmica da Ruptura e da Restauração
+
+A interação destes três termos em Números 25 desenha um quadro teológico completo e austero. A sequência é causal e judicial:
+1.  **צָמַד**: Israel une-se a Baal-Peor. Este é o pecado radical, uma nova aliança idolátrica que rompe a aliança com Javé.
+2.  **קִנְאָה**: A ira zelosa de Javé é acendida, manifestando-se na praga mortífera. Sua santidade pactual exige uma resposta à traição.
+3.  **כָּפַר**: O zelo sacerdotal de Fineias, ao eliminar os transgressores, executa o juízo em nome de Deus, propiciando Sua ira e fazendo expiação pelo povo.
+
+A crise em Sitim, portanto, não é primariamente moral, mas **pactual**. O vocabulário hebraico força esta leitura. A solução não é apenas perdão, mas **expiação judicial**. A lição perene é que o Deus da aliança é um fogo consumidor para a infidelidade (**קִנְאָה**), e que a restauração do relacionamento quebrado (**צָמַד**) requer uma cobertura (**כָּפַר**) que lide radicalmente com o pecado e satisfaça a justiça santa. O capítulo permanece como um monumento lexical à terrível beleza da santidade de Deus e ao custo infinito de se fazer paz com Ele.

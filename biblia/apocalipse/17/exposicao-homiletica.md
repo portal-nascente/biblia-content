@@ -1,0 +1,56 @@
+---
+slug: "apocalipse-17-pregacao-tecnica"
+titulo: "A Prostituta, a Besta e o Cordeiro: O Desvelar Final da Grande Controvérsia"
+tipo: "pregacao-tecnica"
+origem: "biblia"
+livro: "apocalipse"
+capitulo: "17"
+data: "2026-01-22"
+autor: "Capelão Nascente"
+readTime: "75 min de leitura"
+imageUrl: ""
+tema_principal: "PREGAÇÃO EXPOSITIVA  Apocalipse 17   A Prostituta, a Besta e o Cordeiro: O Desvelar Final da Grande Controvérsia   Texto-base: Apocalipse 17  Eixo Teológico: A vitória absoluta de..."
+tags: ["batalha"]
+---
+
+# PREGAÇÃO EXPOSITIVA
+# Apocalipse 17
+
+## ***A Prostituta, a Besta e o Cordeiro: O Desvelar Final da Grande Controvérsia***
+
+## Texto-base: Apocalipse 17
+## Eixo Teológico: A vitória absoluta de Cristo e de sua Noiva sobre o sistema religioso-político apóstata e sedutor do mundo.
+
+## Introdução
+
+Há visões que nos cegam de terror, e há visões que nos cegam de glória. O capítulo que temos diante de nós pertence à primeira ordem, mas apenas para aqueles cujos olhos estão fixos nas sombras deste século. Para o peregrino cuja cidadania está nos céus, esta é uma visão de clareza soberana, um mapa divino que desenha, com cores vivas e terríveis, a rota final do mal antes de seu naufrágio eterno. João, exilado em Patmos, é transportado em espírito a um deserto. Não o deserto da aridez, mas o deserto da revelação, o lugar do despojamento onde os véus são arrancados e a realidade última se mostra em sua crueza nua. E o que ele vê não é um império, nem um exército, mas uma mulher. Uma figura de paradoxo avassalador: esplendor profano e corrupção abissal entrelaçados. Esta visão não é um mero oráculo sobre Roma do primeiro século; é a anatomia profética de um princípio perene, a quintessência de toda aliança ilícita entre o poder religioso desviado e o poder político brutal, vestida com as roupagens de cada era. **Herman Bavinck**, em *A Filosofia da Revelação* (1909), adverte que “o Apocalipse não nos dá um álbum de fotografias da história, mas um conjunto de radiografias da realidade espiritual subjacente”. É essa radiografia da sedução e da queda que contemplamos agora.
+
+## Proposição
+
+Portanto, nesta manhã, proponho-vos que a visão da Grande Prostituta de Babilônia nos revela, com precisão cirúrgica, três realidades fundamentais: **I. A Natureza Sedutora e Parasítica do Sistema Mundano Apóstata; II. A Aliança Cínica e Autodestrutiva entre a Religião Corrompida e o Poder Político; e III. A Vitória Absoluta e Soberana do Cordeiro sobre Todas as Pretensas Autoridades.**
+
+## I. A Mulher sobre a Besta: A Glória Falsificada e a Essência Parasítica
+
+A primeira cena é de uma opulência que enjoa. Uma mulher, sentada sobre uma besta escarlate, vestida de púrpura e carmesim, adornada de ouro, pedras preciosas e pérolas. Em sua mão, um cálice de ouro, cheio das abominações e da imundícia da sua prostituição. Seu nome, um mistério: “BABILÔNIA, A GRANDE, A MÃE DAS PROSTITUIÇAS E DAS ABOMINAÇÕES DA TERRA”. Irmãos, não vemos aqui uma meretriz de esquina, mas uma imperatriz do mal. Seu esplendor é um evangelho invertido, uma liturgia do engano. Ela não se vende por migalhas; ela seduz nações e reis com a promessa de significado, unidade e poder, oferecendo um culto substituto, uma espiritualidade sem cruz, uma graça sem arrependimento. **G. K. Beale**, em seu magistral *The Book of Revelation* (1999), observa que o cálice de ouro é uma paródia blasfema do cálice da Nova Aliança. Enquanto o cálice do Senhor contém o vinho da sua redenção, o dela contém o vinho intoxicante da idolatria, que leva as nações a um êxtase de auto-adoração e ódio a Deus.
+
+Ela está sentada sobre muitas águas, que são “povos, multidões, nações e línguas”. E está sentada sobre a besta. Esta é a sua base, o seu trono. Toda a sua glória é derivada, parasitária. Ela não tem poder inerente; ela se apega ao poder bruto, ao Estado, à força coercitiva do mundo. Sua beleza é um verniz sobre a ferocidade. Ela precisa da besta para ser elevada, e a besta a tolera enquanto ela for útil para intoxicar os povos e mantê-los dóceis. **Richard Bauckham**, em *The Theology of the Book of Revelation* (1993), chama nossa atenção para o contraste radical que se desenvolverá no capítulo 21: a Noiva, a esposa do Cordeiro, desce do céu, de Deus, adornada para seu marido. Sua glória é intrínseca, refletida, dada pelo Pai. Babilônia, a prostituta, sobe das profundezas, do abismo, e sua glória é roubada, acumulada da riqueza das nações que ela devora. Uma é doação de graça; a outra, extorsão da cobiça. A sedução do mundo, meus amigos, sempre se veste com as vestes da religião, da cultura elevada, da filosofia profunda, do sucesso visível. Oferece um cálice de ouro, mas seu conteúdo é morte. Ela promete um trono, mas seu assento é sobre um animal destinado à destruição.
+
+## II. O Mistério da Besta e os Dez Chifres: A Aliança que se Devolora
+
+Então o anjo conduz João ao significado do mistério: a besta que viste, era e não é, e está para subir do abismo e ir para a perdição. Os sete cabeças são sete montes e também sete reis. Os dez chifres são dez reis. Aqui a visão mergulha na complexidade da história humana sob a perspectiva da soberania divina. A besta é uma paródia blasfema de Cristo – ela era, não é, e há de vir (cf. Ap 1:4, 8). É a encarnação do poder político perseguidor, desde o Egito faraônico até Roma imperial e além, que recebe sua autoridade do dragão, o antigo serpente. A mulher, o sistema religioso apóstata, se embriaga com o sangue dos santos, o sangue das testemunhas de Jesus. Ela não é perseguida; ela é a perseguidora. A religião mundanizada sempre se torna inquisitorial, porque deve eliminar o testemunho puro que a condena por sua infidelidade.
+
+Mas o clímax da ironia divina está nos versículos 12-17. Os dez reis, que recebem poder como a besta por uma hora, têm um só intento: ceder seu poder e autoridade à própria besta. Eles guerrearão contra o Cordeiro. Contudo, o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis. E então, o inesperado: “Os dez chifres que viste, e a besta, estes odiarão a prostituta, e a farão devastada e despojada, e comerão as suas carnes, e a queimarão no fogo.” **William Hendriksen**, em *Mais que Vencedores* (1939), comenta com perspicácia: “Aqui está a lei da história ímpia: os poderes do mundo se unem contra Deus e seu povo, mas no final se voltam uns contra os outros. A aliança entre a religião falsa e o estado ateu é, por natureza, instável e autofágica.” A besta e os chifres odeiam a prostituta. O poder político, em seu estágio final e mais concentrado (a besta que “era, não é, e há de vir”), não tolerará mais nenhum rival, nem mesmo o religioso que o serviu. Ele devorará seu próprio instrumento de sedução. O estado totalitário, seja de que ideologia for, acabará por devorar a igreja nominal que lhe fez a corte, porque no fim só admite uma religião: a adoração a si mesmo. **Osvaldo Lopes**, em *A Batalha do Apocalipse* (2015), lembra-nos que “Babilônia é julgada com as mesmas armas com que julgou: a violência que ela instigou se volta contra ela”. Deus, em seu propósito soberano, coloca nos corações dos reis cumprirem a vontade dele, até mesmo em sua rebelião. Eles executam, sem saber, a sentença divina contra o sistema que usaram.
+
+## III. A Mulher é a Grande Cidade: A Soberania do Cordeiro e a Clareza do Juízo
+
+O anjo conclui: “A mulher que viste é a grande cidade que reina sobre os reis da terra.” A identificação é crucial. Babilônia não é apenas um sistema religioso; é uma civilização inteira, uma cidade, um modelo de sociedade organizada em oposição a Deus. É a contraparte terrestre da Jerusalém celestial. É a soma total da vida humana autônoma, da cultura, do comércio, do poder e do prazer, construída sem referência ao Criador e redentor, e muitas vezes usando o nome de Deus em vão. **Vern S. Poythress**, em *The Returning King* (2000), argumenta que “Babilônia representa a tentação constante da igreja de buscar poder e legitimação nos corredores do império, de trocar sua identidade de peregrina pela de conselheira real”. Ela reina. Ela dita os termos. Sua lei é a norma. Sua moeda é a aceita. Mas o anjo já revelou seu fim: devastada, despojada, devorada, queimada.
+
+Por quê? Porque “Deus lhes pôs no coração que realizem o seu pensamento, o executem unânimes e deem à besta o reino que possuem, até que se cumpram as palavras de Deus.” Irmãos, eis o âmago da pregação reformada: a absoluta soberania de Deus até sobre a rebelião mais feroz. Faraó, Nabucodonosor, César, e todos os poderes concentrados no último anticristo, são, nas palavras do **Dr. Martyn Lloyd‑Jones** em *Deus o Pai, Deus o Filho* (1977), “meros instrumentos inconscientes na mão do Oleiro, que os forma para honra ou para desonra, conforme o conselho da sua vontade”. Eles guerreiam contra o Cordeiro. Mas o Cordeiro os vencerá. Notem o tempo do verbo. No ápice de sua fúria, no auge de sua conspiração, sua derrota já é anunciada como um fato consumado. O Cordeiro vence. Como? Pelo seu sangue (Ap 12:11) e pela fidelidade da sua palavra (Ap 19:13). A vitória não está em ser mais forte militarmente, mas em ser mais fiel sacrificialmente. A besta e a prostituta representam o poder que toma; o Cordeiro representa o poder que se dá. E no grande conflito cósmico, o poder que se dá é o poder que permanece, porque é o poder do próprio Deus.
+
+## Conclusão
+
+Qual é, então, a aplicação para nós, que vivemos em cidades que, em muitos aspectos, respiram o ar de Babilônia? Primeiro, *discernimento*. Não nos deixemos seduzir pelo cálice de ouro. Toda oferta de significado, sucesso ou influência que nos afaste da cruz, que nos faça negociar nossa fidelidade, que nos incite a usar os métodos do mundo para supostamente avançar o reino de Deus, vem daquela mulher. Segundo, *desapego*. Não podemos nos embriagar com o sangue dos santos (isto é, participar do sistema opressor), mas também não devemos temer quando nosso sangue for derramado. Nossa segurança não está em nossa utilidade para a besta, mas em nossa união com o Cordeiro. Terceiro, *esperança*. O espetáculo é assustador. A aliança entre a religião superficial e o estado autoritário parece invencível. Mas a Palavra nos mostra o fim: eles se devoram. A sentença está decretada. A prostituta será julgada. A besta será lançada no lago de fogo. E a cidade que desce do céu, a Noiva adornada para seu Marido, permanecerá para sempre.
+
+Portanto, saiamos deste lugar não com terror no coração, mas com uma solene e jubilosa confiança. Nosso Senhor é o Cordeiro que foi morto, e que reina. Ele segura nas mãos, não um cálice de abominações, mas o rolo da história, selado com seus sete selos. E ele os está abrindo, um a um. Até que, no último, não ouçamos mais o riso embriagado da prostituta, mas o grande estrondo de muitas águas e fortes trovões, dizendo: “Aleluia! Pois reina o Senhor, nosso Deus, o Todo-Poderoso. Regozijemo-nos, e alegremo-nos, e demos-lhe a glória; porque são chegadas as bodas do Cordeiro, e já a sua noiva se aprontou.”
+
+## **Amém.**

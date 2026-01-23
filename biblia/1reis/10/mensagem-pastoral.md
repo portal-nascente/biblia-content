@@ -1,0 +1,34 @@
+---
+slug: "1reis-10-mensagem-pastoral"
+titulo: "A Glória que Não Satisfaz o Coração"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "1reis"
+capitulo: "10"
+data: "2026-01-21"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  1Reis 10  A Glória que Não Satisfaz o Coração   Introdução  Há um vazio que nenhum esplendor preenche, uma sede que nenhum ouro sacia. Imagino, caro leitor, o o..."
+tags: ["amor"]
+---
+
+# MENSAGEM PASTORAL
+# 1Reis 10
+## ***A Glória que Não Satisfaz o Coração***
+
+## Introdução
+
+Há um vazio que nenhum esplendor preenche, uma sede que nenhum ouro sacia. Imagino, caro leitor, o olhar da rainha de Sabá ao adentrar os átrios de Jerusalém. Não era uma mulher comum; vinha de um reino distante, portadora de uma sabedoria reconhecida, acostumada às riquezas e à grandeza. Seu palácio, certamente, não era desprovido de beleza. No entanto, algo a impulsionou a empreender uma jornada árdua, carregada de perguntas difíceis e de um anseio que seus próprios tesouros não conseguiam aquietar. Ela chegou, testou Salomão com enigmas, contemplou a casa que ele edificara, a comida de sua mesa, a organização de seus servos, a vestimenta de seus ministros, e os holocaustos que ele oferecia na Casa do Senhor. E o texto sagrado registra que “não restou mais espírito nela”. Foi tomada por um assombro tão profundo que a deixou sem fôlego, sem palavras que pudessem, de imediato, traduzir a magnitude do que seus olhos viam e sua alma percebia. Aquela cena, mais do que um relato histórico, é um espelho colocado diante de cada um de nós, que vivemos em um mundo ofuscante, que nos oferece diariamente seu fausto e nos sussurra que a plenitude está na próxima aquisição, no próximo reconhecimento. A rainha de Sabá nos ensina, em sua peregrinação, que há uma diferença abismal entre a glória que se acumula e a Glória que se adora.
+
+## Desenvolvimento
+
+A narrativa de 1 Reis 10 é, superficialmente, um ápice. É o cume visível do reinado de Salomão, o momento em que a promessa de sabedoria e riqueza feita por Deus em Gibeão atinge sua expressão mais tangível e internacionalmente reconhecida. A rainha do sul vem e confessa: “Foi verdade a palavra que ouvi na minha terra, acerca dos teus feitos e da tua sabedoria. Eu, contudo, não acreditava no que diziam, até que vim e os meus olhos viram; e eis que me não disseram metade; sobrepujaste em sabedoria e prosperidade a fama que ouvi.” A glória de Salomão era tão real que excedia até mesmo os relatos hiperbólicos que a antecediam. **Matthew Henry**, em seu *Commentary on the Whole Bible* (1706), observa com perspicácia pastoral que a visita da rainha foi uma grande honra para Salomão e para Israel, um testemunho público da singular bênção de Deus sobre Seu povo e Seu rei, um sinal visível do cumprimento da promessa feita a Davi. Toda aquela pompa, no entanto, não era um fim em si mesma. Era um testemunho. A sabedoria de Salomão apontava para uma Sabedoria maior; a riqueza de sua corte, para um Reino mais duradouro; a admiração das nações, para uma glória que um dia atrairia todos os povos.
+
+Contudo, é precisamente neste capítulo de esplendor máximo que o leitor atento começa a sentir um frio sutil, um prenúncio da queda. O texto detalha, com minúcia quase contábil, a quantidade de ouro que chegava anualmente (666 talentos, um número simbolicamente significativo), a fabricação dos escudos de ouro batido, o trono de marfim revestido de ouro, a frota de Társis. Tudo é descrito, mas algo essencial não é nomeado. Onde está o coração de Salomão neste momento? O capítulo anterior já nos alertara sobre seus amores desviados; o capítulo 11 confirmará a tragédia. A glória, quando divorciada da adoração exclusiva ao Doador da glória, torna-se um ídolo pesado e frio. **John Piper**, em *Desiring God* (1986), argumenta de forma penetrante que o maior perigo da prosperidade não é a pobreza que ela pode evitar, mas o deus que ela pode se tornar. Salomão, cercado pelo brilho do ouro de Ofir, pode ter começado a confundir o reflexo com a fonte. A rainha ficou sem fôlego diante da glória de Deus manifesta em Sua dádiva a Salomão. A questão que permanece é se Salomão ainda conseguia ficar sem fôlego diante do Doador.
+
+Há, portanto, uma tensão pastoral profundíssima neste texto. Por um lado, ele celebra a fidelidade de Deus em abençoar e exaltar o rei que Lhe pediu sabedoria. Por outro, ele nos coloca diante do abismo da ingratidão humana, da nossa propensão a admirar o presente e esquecer o Presenteador. **Timothy Keller**, em *Counterfeit Gods* (2009), nos lembra que um ídolo é qualquer coisa mais importante para você do que Deus, qualquer coisa que absorva seu coração e imaginação mais do que Deus. O capítulo 10 de 1 Reis não mostra Salomão adorando ídolos de madeira e pedra; ele mostra, de maneira mais insidiosa, como a própria bênção de Deus pode, se nosso coração não for vigilante, ocupar o lugar de Deus. A riqueza, a sabedoria, o sucesso, o reconhecimento – todos dons bons em si mesmos – tornam-se “cavaleiros de ouro” (como os que Salomão possuía) que, aos poucos, podem cavalgar sobre nossa devoção. A rainha de Sabá viu e louvou a Deus que estava por trás de Salomão. Tememos que, naquele momento, Salomão estivesse começando a ver apenas a si mesmo.
+
+## Conclusão
+
+Então, qual é a mensagem pastoral para nós, que não temos tronos de marfim nem recebemos 666 talentos de ouro por ano? É justamente esta: o seu coração é a verdadeira Sabá. Ele é o reino distante de onde parte uma peregrinação constante. Ele é movido por perguntas difíceis e por um anseio que nada neste mundo consegue aquietar. E ele só encontrará repouso quando, após uma longa jornada através das glórias efêmeras e das sabedorias passageiras, se prostrar diante de um Rei maior que Salomão. Jesus Cristo, referindo-se a esta mesma história, declarou: “Eis que está aqui quem é maior do que Salomão” (Mateus 12:42). A Ele foi dada toda a glória, um reino que não terá fim, uma sabedoria que é poder de Deus. Nele, e só nEle, o assombro que nos tira o fôlego é redentor, porque não aponta para uma dádiva, mas para o próprio Doador, que é a nossa herança eterna. Que a nossa oração não seja pela glória de Salomão, mas pelo espírito da rainha de Sabá: um coração inquieto que não se contenta com relatos, que busca até encontrar, e que, ao encontrar Aquele que é a verdadeira Sabedoria e a verdadeira Riqueza, fique finalmente sem fôlego de adoração, e não de mera admiração. Que nossas vidas não sejam um inventário de bens acumulados, mas um testemunho vivo de que há uma Glória que, uma vez vista, faz toda outra glória parecer insignificante, e que satisfaz, profundamente, o coração.

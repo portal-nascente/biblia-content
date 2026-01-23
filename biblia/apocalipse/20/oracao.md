@@ -1,0 +1,27 @@
+---
+slug: "apocalipse-20-oracao"
+titulo: "Ó Fim de Todas as Coisas, Dá-nos o Teu Princípio"
+tipo: "oracao"
+origem: "biblia"
+livro: "apocalipse"
+capitulo: "20"
+data: "2026-01-22"
+autor: "Capelão Nascente"
+readTime: "5 min de leitura"
+imageUrl: ""
+tema_principal: "ORAÇÃO  Apocalipse 20   Ó Fim de Todas as Coisas, Dá-nos o Teu Princípio  Senhor, nós nos prostramos diante do mistério do teu tempo, diante da visão que rasga o véu e nos mostra..."
+tags: ["amor", "batalha", "medo"]
+---
+
+# ORAÇÃO
+# Apocalipse 20
+
+## ***Ó Fim de Todas as Coisas, Dá-nos o Teu Princípio***
+
+Senhor, nós nos prostramos diante do mistério do teu tempo, diante da visão que rasga o véu e nos mostra o fim de todas as histórias. Vemos, com os olhos da fé que João nos emprestou, o anjo que desce do céu, segurando a chave do abismo e uma grande corrente em sua mão. Ele prende o dragão, a antiga serpente, que é o Diabo e Satanás, e o lança no abismo, fechando-o e selando-o sobre ele, para que não mais engane as nações, até que os mil anos se completem. Ó Deus, diante desta imagem de triunfo vindouro, nossos corações se enchem de um clamor paradoxal: enquanto aguardamos a consumação, vivemos na tensão do agora. Enquanto sonhamos com o dia em que a mentira será acorrentada, nós respiramos um ar intoxicado por seus vapores. Enquanto ansiamos pelo descanso dos santos que reinarão contigo, nós nos arrastamos na fadiga de uma batalha que parece interminável. Senhor, entre a vitória já decretada no teu conselho eterno e a realidade presente de nossas lutas, há um abismo que só pode ser transposto por um milagre. E é por este milagre que clamamos. Dá-nos, ó Cristo, um avivamento que seja um antegozo do teu reino, um lampejo dos mil anos de paz no meio do caos dos séculos.
+
+Nós vemos as almas daqueles que foram degolados por causa do testemunho de Jesus e da palavra de Deus. Elas vivem e reinam contigo durante esses mil anos. Esta é a primeira ressurreição. Ó Pastor das Almas, que visão é esta que mistura martírio e majestade, sofrimento e soberania! Estas são as testemunhas fiéis, aqueles que não amaram a própria vida, mesmo diante da morte. E nós, Senhor? Nós, que tropeçamos diante de um olhar de desdém, que nos calamos por medo de um constrangimento trivial, que negociamos a integridade do nosso testemunho por um pouco de conforto passageiro? O sangue deles clama do altar, e o nosso morno compromisso clama por misericórdia. Entre a coroa dos mártires e a nossa complacência, há um abismo de fidelidade. Preenche este abismo com o teu Espírito Santo. Traz sobre nós um avivamento de coragem santa, uma paixão pela tua verdade que seja mais forte do que o nosso instinto de preservação. Que a primeira ressurreição, a ressurreição da alma para a vida em ti, manifeste-se em nós com tal poder, que a morte ao mundo, ao pecado e ao eu seja uma realidade tão vívida, que nos torne destemidos. Faz de nós, nesta geração, almas que vivem e reinam contigo agora, no meio da tribulação, antecipando o triunfo final.
+
+E então, Senhor, a visão se projeta para além dos mil anos. Satanás é solto da sua prisão e sai a seduzir as nações que estão nos quatro cantos da terra, Gogue e Magogue, a fim de reuni-las para a batalha. O cerco à cidade amada, e o fogo que desce do céu e os devora. O juízo final se instala diante do grande trono branco. Os livros são abertos. Outro livro, o Livro da Vida. Os mortos, grandes e pequenos, são julgados conforme o que estava escrito nos livros, segundo as suas obras. A morte e o inferno são lançados no lago de fogo. Esta é a segunda morte. Ó Juiz de toda a terra, que cena solene e terrível! Ela não nos permite ilusões. Ela dissipa toda a fumaça do relativismo e coloca cada vida sob a luz implacável da tua santidade. Entre a graça que nos alcança hoje e o juízo que aguarda o impenitente, há um abismo que só a cruz de Cristo pode transpor. E é por esta consciência que clamamos. Dá-nos, Espírito de Deus, um avivamento de urgência evangelística. Que a visão do trono branco nos tire do sono e nos lance, com lágrimas e compaixão, para os que caminham para este destino. Que o Livro da Vida não seja para nós um mero símbolo, mas a motivação mais profunda de nossos lábios e de nossos passos. Faz-nos instrumentos do teu milagre de conversão, para que nomes sejam inscritos, para que almas sejam arrancadas do fogo.
+
+Senhor, nós nos rendemos. Rendemos nossa preguiça espiritual, nosso medo, nossa acomodação com as trevas deste século. Clamamos pelo milagre do teu reino adiantado em nossos dias. Que a corrente que prenderá o Maligno para sempre, prenda agora o seu poder em nossas vidas. Que a primeira ressurreição que vivificou os mártires, nos vivifique hoje para uma oblação viva. Que a visão do juízo final nos conceda uma santa sobriedade e um zelo incansável. Aviva a tua obra, ó Deus, no meio dos anos. Entre a revelação do fim e a experiência do agora, derrama o teu Espírito. Faze-nos chorar por um avivamento que não seja apenas emoção, mas um retorno radical à tua Palavra; que não seja apenas fenômeno, mas um reavivamento da tua autoridade em cada coração; que não seja para nossa glória, mas para a glória do Cordeiro que foi morto e que vive para todo o sempre. Nós suplicamos, não por mérito algum, mas pelo sangue da Nova Aliança e em nome daquele que tem as chaves da morte e do inferno, Jesus Cristo, nosso Senhor. Amém.

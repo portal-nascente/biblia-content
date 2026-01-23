@@ -1,0 +1,37 @@
+---
+slug: "lucas-18-mensagem-pastoral"
+titulo: "A Oração do Humilde e o Encontro do Rico"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "lucas"
+capitulo: "18"
+data: "2026-01-21"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  Lucas 18   A Oração do Humilde e o Encontro do Rico   Introdução  Há, no coração humano, uma tensão que se arrasta desde a queda, uma dualidade que nos persegue..."
+tags: ["esperanca", "fe"]
+---
+
+# MENSAGEM PASTORAL
+# Lucas 18
+
+## ***A Oração do Humilde e o Encontro do Rico***
+
+### Introdução
+
+Há, no coração humano, uma tensão que se arrasta desde a queda, uma dualidade que nos persegue nos corredores da alma: a busca por justificação e o apego à auto-suficiência. É a história do fariseu que sobe ao templo confiante em seu próprio mérito, e do publicano que nem ousa levantar os olhos. É a narrativa do jovem rico, cujas mãos estão cheias de posses, mas cujo coração está vazio da única posse que importa. Lucas, o médico amado, em seu décimo-oitavo capítulo, nos apresenta uma série de parábolas e encontros que funcionam como um espelho espiritual, refletindo não o que pensamos ser, mas o que realmente somos diante do Santo de Israel. Venhamos, pois, com humildade, não como quem vem ensinar, mas como quem vem aprender aos pés do Mestre, deixando que estas palavras antigas confrontem nossas modernas ilusões.
+
+### Desenvolvimento
+
+A cena inicial, proposta por Jesus, é de uma ironia divina profundamente pedagógica. **João Calvino**, em seus *Sermões sobre a Harmonia dos Evangelhos* (1555), observa que a parábola do fariseu e do publicano não é primariamente sobre oração, mas sobre o estado do coração diante de Deus. A oração é apenas o sintoma, a manifestação vocal de uma condição espiritual. O fariseu ora “consigo mesmo”; seu monólogo é um solilóquio de auto-admiração, um fechamento em sua própria justiça fabricada. Ele agradece a Deus não pela graça, mas por não ser como os outros homens. Sua lista de virtudes é real – ele não é ladrão, injusto, adúltero; jejua, dá dízimos –, mas é uma lista que o separa, que ergue um muro entre ele e os “pecadores”, e, tragicamente, entre ele e o Deus que justifica o ímpio. O publicano, contudo, sequer possui uma lista. Seu único patrimônio é sua miséria: “Ó Deus, tem misericórdia de mim, pecador!”. A nota singular aqui, como bem aponta **Martyn Lloyd-Jones** em *Estudos no Sermão do Monte* (1959), é que ele não ora por *mais* misericórdia, como se já tivesse alguma. Ele ora *por* misericórdia, partindo do ponto zero de sua indignidade. Ele não se compara a ninguém; compara-se apenas à santidade de Deus, e nessa luz, tudo o que sobra é a necessidade de um perdão radical. A justificação, portanto, não é uma recompensa por desempenho, mas um veredito de graça sobre um coração que desiste de pleitear seus próprios méritos.
+
+Este princípio da graça justificadora que humilha os auto-suficientes e exalta os quebrantados ecoa no episódio das crianças. Os discípulos, ainda impregnados pela lógica farisaica do mérito e da importância, repreendem os que trazem os pequenos. Jesus, porém, convoca uma revolução de valores: “Deixem vir a mim as crianças e não as impeçam; porque o Reino de Deus é dos que são semelhantes a elas”. **Timothy Keller**, em *A Oração Generosa* (2014), reflete que uma criança não vem com credenciais, currículo ou poder de barganha. Ela vem na dependência total, na confiança simples de que será recebida. O Reino não é conquistado pela sofisticação teológica ou pela acumulação de boas obras, mas recebido com as mãos vazias da dependência. É a mesma postura do publicano. É o antídoto para a oração do fariseu.
+
+E então, surge a figura trágica e profundamente contemporânea do jovem governante rico. Ele corre, ajoelha-se, usa o título honorífico “Bom Mestre”. Sua pergunta é a pergunta farisaica por excelência: “Que farei para herdar a vida eterna?”. Ele busca um *complemento*, uma obra final que complete seu já impressionante portfólio de obediência à lei desde a juventude. A resposta de Jesus é um duplo golpe. Primeiro, Ele redireciona a honra para Deus: “Ninguém é bom, senão um, que é Deus”. É um lembrete de que a bondade que salva é atributo divino, não conquista humana. Depois, Ele vai direto ao ídolo do coração do jovem: “Falta-te ainda uma coisa: vende tudo o que tens, dá-o aos pobres e terás um tesouro nos céus; depois, vem e segue-me”. **Charles Spurgeon**, em seu sermão *O Jovem Rico* (1887), comenta com aguda percepção pastoral: “Cristo não estava fazendo da pobreza um requisito universal para a salvação. Ele estava realizando uma cirurgia espiritual. Ele estava expondo o deus que este jovem realmente adorava: sua riqueza e sua posição”. A tristeza que se abate sobre o rosto do jovem não é a tristeza de um homem que ouviu uma exigência difícil; é a tristeza de um idólatra que vê seu ídolo ser desafiado. Ele preferiu o tesouro na terra, que pode ser perdido, ao Tesouro nos céus, que é a própria pessoa de Cristo. A observação de Jesus que se segue – “Quão dificilmente entrarão no Reino de Deus os que têm riquezas!” – não é uma condenação da posse em si, mas um diagnóstico da ilusão de autossuficiência que a riqueza frequentemente produz. O camelo e o fundo da agulha ilustram a impossibilidade humana. A salvação é impossível aos homens, mas não a Deus. A graça é o Deus do impossível operando o milagre de desapegar um coração e atraí-lo a Si.
+
+O capítulo segue com o anúncio da paixão, a cura do cego de Jericó (que, em gritante contraste com o jovem rico, *jogou fora sua capa* – seu único bem – para ir a Jesus) e a conversão de Zaqueu. Este último é a antítese perfeita do jovem governante. Zaqueu, também rico, não recebeu uma ordem para vender tudo. No entanto, ao encontrar-se com a graça de Jesus que o procurava e o chamava pelo nome, sua resposta espontânea foi a restituição e a generosidade. A salvação veio à sua casa não porque ele deu metade dos bens, mas porque o encontro com Cristo transformou seu coração, e a generosidade foi o fruto visível dessa transformação. A lei, para o jovem rico, era um fardo a ser cumprido para *ganhar*. Para Zaqueu, transformado, a justiça tornou-se um prazer a ser praticado por *gratidão*.
+
+### Conclusão
+
+Irmãos, a mensagem pastoral que ecoa de Lucas 18 é uma só, vestida de várias histórias: o Reino de Deus pertence aos pobres de espírito. Aos que, como o publicano, não têm nada a oferecer a não ser seu pecado. Aos que, como as crianças, não têm poder a não ser o de confiar. Aos que, como o cego Bartimeu, reconhecem sua cegueira e clamam por misericórdia. Aos que, como Zaqueu, se deixam encontrar pela graça que os persegue. O grande perigo, o obstáculo intransponível, é a justiça própria. É a oração que agradece a Deus por não sermos como os outros. É a pergunta “que farei?” carregada do veneno da auto-realização. O convite de Cristo é um convite ao despojamento. Não necessariamente de bens materiais, mas certamente da idolatria que eles podem representar. É um convite a trocar a pesada capa da autojustificação pela leve vestimenta da justiça de Cristo, imerecida e gratuita. Hoje, Ele nos pergunta, como perguntou ao jovem rico: “O que ainda te falta?”. Qual é o ídolo que você segura com tanta força que seus dedos não podem se abrir para receber o verdadeiro Tesouro? Abandone-o. Venha como o publicano. Venha como a criança. Venha como o cego. A porta estreita é a porta da humildade, e apenas os que se curvam para entrar, encontram a vida.

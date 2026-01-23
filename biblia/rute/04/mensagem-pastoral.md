@@ -1,0 +1,37 @@
+---
+slug: "rute-4-mensagem-pastoral"
+titulo: "O Redentor na Praça Pública"
+tipo: "mensagem-pastoral"
+origem: "biblia"
+livro: "rute"
+capitulo: "4"
+data: "2026-01-21"
+autor: "Capelão Nascente"
+readTime: "7 min de leitura"
+imageUrl: ""
+tema_principal: "MENSAGEM PASTORAL  Rute 4   O Redentor na Praça Pública   Introdução  Há uma espécie de solidão que não se mede pela ausência de pessoas, mas pela presença esmagadora de um destin..."
+tags: ["amor"]
+---
+
+# MENSAGEM PASTORAL
+# Rute 4
+
+## ***O Redentor na Praça Pública***
+
+### Introdução
+
+Há uma espécie de solidão que não se mede pela ausência de pessoas, mas pela presença esmagadora de um destino que parece selado. Imagino a cena, caro leitor, não como um quadro antigo e distante, mas com a crueza de um drama humano que se desenrola em qualquer esquina de nossa existência. Rute e Noemi, duas mulheres marcadas pela perda e pela penúria, observam, talvez de uma janela estreita, o movimento na porta da cidade. Tudo o que lhes resta de esperança repousa sobre os ombros de um parente distante, Boaz, e sobre um arcabouço legal antigo — a lei do resgatador. O capítulo final deste singelo livro é a crônica de uma transação jurídica, um ato de resgate que, à primeira vista, parece frio e procedural. Mas é precisamente na obediência às regras, na publicidade do ato, na renúncia de um e na fidelidade de outro, que o Evangelho, em sua forma mais pura e prática, irrompe na história. Não é um milagre espetacular, mas a graça operando dentro dos limites da lei e da cultura. É a redenção vestindo roupas comuns e caminhando até a praça pública.
+
+### Desenvolvimento
+
+A narrativa se desloca para o cenário oficial da comunidade: a porta da cidade. Aquele não era um local qualquer; era o fórum, o tribunal, o centro nervoso da vida cívica e jurídica de Belém. **Boaz** não age nas sombras. Ele busca o resgate no pleno dia, diante das testemunhas, dos anciãos. Há uma integridade translúcida em seus atos. Ele apresenta ao parente mais próximo, cujo nome sequer é registrado para a posteridade — um detalhe profundamente significativo — a oportunidade de resgatar a terra de Elimeleque. O homem aceita prontamente. A herança era um bem tangível, um aumento do patrimônio. Contudo, Boaz então desdobra a cláusula integral da lei levítica: resgatar a terra implicava também tomar **Rute**, a moabita, por esposa, "para suscitar o nome do falecido sobre a sua herança" (Rt 4:5). Diante desta condição, o parente mais próximo recua: "Não a poderei resgatar, para que não prejudique a minha própria herança" (Rt 4:6). **Matthew Henry**, em seu *Commentary on the Whole Bible* (1706), observa com perspicácia pastoral que "aqui vemos como os homens podem estar dispostos a assumir a parte fácil e lucrativa de um dever, mas recuam quando ele se torna custoso ou inconveniente". Sua recusa é a imagem de uma religião de conveniência, que busca os benefícios da aliança sem assumir seus encargos de amor e fidelidade.
+
+É então que Boaz, diante das testemunhas, profere as palavras que ecoam como um juramento solene: "Adquiro tudo o que foi de Elimeleque, Quiliom e Malom, das mãos de Noemi. E também tomo por mulher a Rute, a moabita, que foi mulher de Malom, para suscitar o nome do falecido sobre a sua herança, para que o nome do falecido não seja eliminado dentre seus irmãos e da porta do seu lugar" (Rt 4:9-10). O ato de Boaz vai muito além do mero cumprimento legal. É um ato de *hesed* — aquela palavra hebraica densa que conjuga amor leal, misericórdia pactuada e graça obstinada. Ele resgata não apenas um campo, mas uma história interrompida. Restaura não apenas a posse, mas a posteridade. **Timothy Keller**, em *The Meaning of Marriage* (2011), nos lembra que "o evangelho é que, através da grande obra de Jesus Cristo, o próprio Deus desposou-se com uma humanidade que não tinha dote algum, que estava em ruínas e pobre". Boaz é uma sombra pálida, porém bela, desse Redentor divino que assume sobre Si não apenas nossas dívidas, mas nossa identidade dilacerada, nossa linhagem quebrada pela queda.
+
+Os anciãos e todo o povo presentes não são meros espectadores; são a comunidade da aliança testemunhando e abençoando o ato. Sua bênção sobre Boaz e Rute é profética: "Faça o SENHOR que esta, que entra na tua casa, seja como Raquel e como Lia, que, ambas, edificaram a casa de Israel... e seja a tua casa como a casa de Pérez, que Tamar deu a Judá, pela descendência que o SENHOR te der desta moça" (Rt 4:11-12). Eles conectam imediatamente este ato local de redenção à grande narrativa da redenção nacional. Rute, a estrangeira, é comparada às matriarcas. A casa de Boaz é ligada à linhagem de Judá, através de Pérez, nascido de outra história complexa de resgate e inclusão (Tamar). O autor sagrado, então, com uma sobriedade que esconde triunfo, narra o nascimento de Obede. A criança é colocada no colo de Noemi, e as mulheres da cidade proclamam: "Para tua nora, que te ama, o deu, e que te é melhor do que sete filhos" (Rt 4:15). A amargura de Noemi ("Não me chameis Noemi; chamai-me Mara" - Rt 1:20) é agora dulcificada. O vazio foi preenchido. **John Piper**, em *The Pleasures of God* (1991), reflete que "Deus ama mostrar seu poder redentor não apagando histórias dolorosas, mas entrando nelas e tecendo, a partir dos fios quebrados, um tapete de glória mais belo do que o original". A redenção não ignora a dor; ela a assume e a transforma em um cântico novo.
+
+E eis que a genealogia final (Rt 4:18-22) soa como um rufar de tambores que anuncia a chegada do Rei. De Pérez a Davi. Esta não é uma mera lista genealógica; é a estrada real pela qual a graça de Deus viajou através de gerações, incluindo uma viúva moabita, para cumprir suas promessas. **Francis Schaeffer**, em *Genesis in Space and Time* (1972), argumenta que "a história bíblica é linear e teleológica; cada evento, por menor que seja, está ligado ao grande desígnio redentor de Deus". Rute, a estrangeira, encontra-se não apenas na linhagem de Davi, mas, como o evangelho de Mateus nos mostrará, na linhagem do próprio Messias, Jesus Cristo. O Redentor de Rute e Boaz é a pré-figuração do Redentor definitivo, que iria à praça pública do Calvário, diante das testemunhas celestes e terrenas, para resgatar uma Noemi global, uma humanidade amargurada e sem herança, pagando o preço integral que nós, como o parente mais próximo, não poderíamos nem desejaríamos pagar.
+
+### Conclusão
+
+Qual é, então, a mensagem pastoral que extraímos deste capítulo final? Primeiro, que a redenção de Deus opera frequentemente através de processos comuns, legais e sociais. Não espere sempre por um raio; aprenda a discernir a graça no cumprimento fiel do dever, na integridade nas transações, na lealdade familiar. Segundo, que a verdadeira redenção é sempre custosa. Boaz pagou um preço. O parente mais próximo recuou diante do custo. O Evangelho nos confronta com esta pergunta: estamos dispostos a abraçar os encargos do amor, ou buscamos apenas os benefícios da religião? Por fim, e mais importante, sua história, por mais quebrada, solitária ou marcada por perdas que parecem fatais, não é um beco sem saída. Ela pode ser, pela graça do Grande Resgatador, um elo crucial no fio dourado do propósito redentor de Deus. Você pode se sentir uma Rute, uma Noemi, à margem da praça. Mas o Redentor vem. Ele vem à porta. Ele chama as testemunhas. Ele paga o preço. Ele toma você para Si. E, ao fazê-lo, insere seu nome, sua história restaurada, na mais gloriosa de todas as genealogias: a dos redimidos pelo Cordeiro.
