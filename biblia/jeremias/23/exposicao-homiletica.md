@@ -1,16 +1,58 @@
 ---
 slug: "jeremias-23-pregacao-tecnica"
-titulo: ""
+titulo: "O Pastor, os Mercenários e o Renovo: Um Contraste Divino no Vale das Sombras"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "jeremias"
 capitulo: "23"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Jeremias 23   O Pastor, os Mercenários e o Renovo: Um Contraste Divino no Vale das Sombras   Texto-base: Jeremias 23:1-40  Eixo Teológico: A justa ira de Deus..."
+tags: ["ansiedade", "luto", "sonho"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Jeremias 23
 
+## ***O Pastor, os Mercenários e o Renovo: Um Contraste Divino no Vale das Sombras***
+
+## Texto-base: Jeremias 23:1-40
+## Eixo Teológico: A justa ira de Deus contra os falsos pastores que dispersam o seu rebanho é superada pela sua graça soberana em prometer o Pastor perfeito, o Renovo justo, que reunirá e governará seu povo em segurança eterna.
+
+## Introdução
+
+Imaginemos um vale árido, onde o sol inclemente resseca a terra e a sombra é mercadoria rara. Nele, um rebanho desorientado, com os flancos magros e os olhos fundos de sede, vagueia sem rumo. Os cajados que deveriam guiá-los suavemente para os pastos verdejantes e as águas tranquilas são, na verdade, varas de ferro que ferem. As vozes que deveriam ser familiares e reconfortantes são gritos ásperos que espantam, dispersando as ovelhas para os desfiladeiros e para as garras dos predadores. Este não é um cenário de tragédia natural, mas de traição pastoral. É a imagem vívida que o profeta Jeremias, com a alma dilacerada e o espírito inflamado pelo fogo do Senhor, pinta no capítulo vigésimo terceiro de sua profecia. Em um tempo de colapso nacional, quando a sombra da Babilônia alongava-se sobre Jerusalém, a crise mais profunda não era militar ou política, mas espiritual: uma crise de liderança. Os pastores de Israel, os reis e líderes religiosos, haviam se tornado mercenários, e o povo, como ovelhas sem pastor, estava sendo devorado. É neste vale das sombras da morte que a voz de Jeová soa, primeiro como trovão de juízo, depois como melodia de uma esperança indestrutível.
+
+## Proposição
+
+Portanto, diante deste texto solene, proponho que contemplemos o contraste absoluto que Deus estabelece entre a infidelidade catastrófica dos pastores falsos e a fidelidade consumada do Pastor prometido, aprendendo que o juízo sobre os que corrompem a verdade é inevitável, mas que a esperança do crente repousa exclusivamente no Renovo justo, o Senhor, nossa Justiça.
+
+## I. O Anúncio do Juízo: Ai dos Pastores que Destroem e Dispersam as Ovelhas (vv. 1-2, 9-40)
+
+A proclamação divina abre com uma interjeição de dor e ira: "Ai dos pastores que destroem e dispersam as ovelhas do meu pasto!" (v.1). **John Calvin**, em seus *Commentaries on the Book of the Prophet Jeremiah* (1850), observa que este "ai" não é uma mera exclamação de pesar, mas uma sentença legal pronunciada pelo Juiz de toda a terra. Os pastores, encarregados por Deus da guarda, alimentação e condução do rebanho—uma clara referência aos reis da linhagem de Davi e aos líderes religiosos—falharam de modo abissal. Eles não negligenciavam por omissão, mas agiam por comissão maligna: *destruíam* e *dispersavam*. **Walter Brueggemann**, em *A Commentary on Jeremiah: Exile and Homecoming* (1998), salienta que o verbo "dispersar" (*pitsets*) carrega a violência de um esmagamento, de uma fragmentação intencional da comunidade da aliança.
+
+A acusação é detalhada com a precisão de um cirurgião espiritual. Eles não visitaram as ovelhas perdidas, não buscaram a desgarrada, não curaram a doente, nem fortaleceram a fraca (Ez 34:4, ecoada aqui). Em vez disso, as ovelhas tornaram-se "presa" e "pastagem" para todas as feras do campo (v.1). A liderança corrupta havia transformado o rebanho de Deus em mercadoria para seu próprio benefício, expondo-o aos perigos espirituais e políticos. A consequência anunciada é direta e terrível: "Castigarei a maldade de vossas ações" (v.2). A dispersão causada por eles seria consumada pelo próprio Deus através do exílio babilônico. Mas a profecia não se detém no cargo político; ela mergulha no abismo da corrupção profética. Dos versículos 9 à 40, desenrola-se um dos diagnósticos mais contundentes da falsa profecia em toda a Escritura. Os profetas de Jerusalém tornaram-se semelhantes aos de Baal, adúlteros, mentirosos, fortalecendo as mãos dos iníquos (v.14). **J. A. Thompson**, em *The Book of Jeremiah* (1980), nota que a expressão "profetizam por Baal" indica uma completa inversão de lealdade: em vez de serem canais da palavra de Jeová, tornaram-se arautos de um espírito estranho, conduzindo o povo para o erro.
+
+Pior ainda, sua falsidade era revestida de uma confiança onírica e roubada. "Ouvi o que dizem os profetas que profetizam mentiras em meu nome, dizendo: Sonhei, sonhei!" (v.25). Eles confundiam as vãs imaginações de seu próprio coração com a visão divina, oferecendo uma paz falsa—"Paz, paz"—quando não havia paz (v.17). **Brevard S. Childs**, em *Biblical Theology of the Old and New Testaments* (1992), argumenta que este é o pecado supremo contra a aliança: substituir a Palavra soberana de Deus por um subjetivismo conveniente que santifica os desejos do povo. Por isso, Deus os declara "insensatos" e "loucos" (v.13, 16), e sua palavra torna-se um fardo desprezível, um peso morto a ser jogado fora (v.33-40). O juízo sobre eles é ser esquecidos, suas palavras reduzidas a um "oráculo" vazio. A lição é férrea: Deus não tolera para sempre aqueles que, vestidos com os trajes da verdade, traficam em mentiras e dispersam suas preciosas ovelhas.
+
+## II. A Promessa da Graça: Eis que Eu Mesmo Reunirei o Restante das Minhas Ovelhas (vv. 3-4)
+
+Contudo, no ápice da denúncia, surge uma transição que só a teologia da aliança, com sua tensão entre juízo e misericórdia, pode explicar. O mesmo Deus que diz "castigarei" diz, com igual força: "Eu mesmo reunirei o restante das minhas ovelhas" (v.3). Este é o coração pulsante do capítulo. A ação não é delegada a outro pastor, por mais fiel que seja. O pronome enfático "Eu mesmo" (*Anoki*) ressoa como um eco da autorredenção divina. **Geerhardus Vos**, em *Biblical Theology: Old and New Testaments* (1948), vê aqui um princípio teológico fundamental: a falha dos mediadores humanos nunca frustra os propósitos últimos de Deus. Ele intervém diretamente como o *Pastor Theos*, o Pastor Divino.
+
+A promessa é tripla: *reunião*, *retorno* e *frutificação*. Ele as reunirá "de todas as terras" para as quais foram dispersas—uma clara antecipação do cativeiro e da futura restauração. Ele as fará *retornar* aos seus currais, um termo que evoca segurança, identidade e pertencimento. E, maravilhosamente, "frutificarão e se multiplicarão" (v.3). A maldição da dispersão e da esterilidade espiritual é revertida. Mas a graça não para aí. Deus promete levantar sobre elas "pastores" (no plural) que as apascentem (v.4). **O. Palmer Robertson**, em *The Christ of the Prophets* (2004), explica que este é um duplo cumprimento: primeiro, nos líderes pós-exílicos como Esdras e Neemias, que guiaram o remanescente com fidelidade relativa; segundo, e de modo pleno, nos apóstolos e ministros do Novo Pacto, que são verdadeiros subpastores sob o Sumo Pastor. Sob este cuidado fiel, "não temerão, nem se espantarão, e nem uma delas faltará" (v.4). A imagem é de uma paz tão profunda, de uma segurança tão absoluta, que a ansiedade e o pavor—frutos diretos da má liderança—são banidos para sempre. Este é o antídoto divino para a devastação causada pelos mercenários: a intervenção pessoal, graciosa e eficaz do próprio Dono do rebanho.
+
+## III. A Proclamação do Renovo: Eis que Vêm Dias… Levantarei a Davi um Renovo Justo (vv. 5-8)
+
+Todavia, o clímax da passagem, o sol que dissipa definitivamente as sombras do vale, encontra-se nos versículos 5 a 8. "Eis que vêm dias, diz o SENHOR, em que levantarei a Davi um Renovo justo" (v.5). A linguagem muda da metáfora pastoral para a imagética real e botânica. O termo "Renovo" (*Tsemach*) é um título messiânico carregado de esperança escatológica. Após o inverno do juízo, após o tronco aparentemente cortado da linhagem davídica (que se mostrara tão podre), um novo broto, vivo, vigoroso e puro, surgirá da própria raiz. **Herman Bavinck**, em *Reformed Dogmatics: God and Creation* (2004), enfatiza que este Renovo não é uma mera reforma ou um simples sucessor. É uma nova criação, um rei que personificará a justiça que os reis anteriores apenas deveriam administrar.
+
+Seu governo será marcado por duas características fundamentais: *justiça* e *salvação*. "Reinará como rei, será sábio, e executará o juízo e a justiça na terra" (v.5). Esta não é a justiça retributiva dos tribunais, mas a *sedaqah* hebraica, a justiça relacional que restaura, que põe tudo em seu devido lugar, que faz florescer a *shalom* integral. Ele não apenas decreta a justiça; Ele a *executa*. E o resultado desta justiça executiva é a salvação: "Nos seus dias, Judá será salvo, e Israel habitará seguro" (v.6). A unificação do reino dividido é implícita, mas o escopo é ainda maior. O nome que será dado a Ele revela o cerne de sua obra: "E este será o nome com que o chamarão: SENHOR, Justiça Nossa" (*YHWH Tsidqenu*).
+
+Este é um dos versículos mais cristocêntricos do Antigo Testamento. **Franz Delitzsch**, em seu *Commentary on the Old Testament in Ten Volumes* (1866), comenta que este nome não é um epíteto honorífico, mas uma declaração de eficácia salvífica. A justiça que o povo necessitava, mas que nunca poderia produzir por si mesmo—nem através da lei, nem dos reis, nem dos sacerdotes—seria *Ele mesmo*, pessoal e imputadamente. Ele não seria apenas um rei justo; Ele seria a justiça de seu povo. Por fim, a promessa atinge um ápcio cósmico-histórico, transcendendo até mesmo o êxodo do Egito (v.7-8). A nova redenção será tão marcante que o antigo paradigma de libertação será ofuscado. O povo não jurará mais "pela vida de Jeová que tirou os filhos de Israel do Egito", mas "pela vida de Jeová que tirou e levou a descendência da casa de Israel da terra do norte" (v.7-8). A obra do Renovo inaugurará uma nova e eterna aliança, com uma nova e mais gloriosa Páscoa.
+
+## Conclusão
+
+Irmãos, o vale de Jeremias 23 é, em verdade, o vale da história humana. Nele, ainda ecoam os gritos dos falsos pastores—os ideólogos que prometem paz sem arrependimento, os gurus espirituais que vendem sonhos por preço de banana, os líderes religiosos que trocam a cruz por conforto e a verdade por relevância. Eles dispersam, ferem e deixam desprotegidas as almas. A sentença de "Ai!" sobre eles permanece em vigor. Mas, no centro deste vale, ergue-se uma árvore que é, ao mesmo tempo, trono. Do tronco cortado da humanidade caída e da linhagem real falida, brotou, na plenitude dos tempos, o Renovo justo. Jesus Cristo é o Pastor que deu a vida pelas ovelhas, que busca a perdida, cura a enferma e a todas chama pelo nome. Ele é o Rei que reina com justiça e sabedoria absolutas. E, acima de tudo, Ele é "SENHOR, Justiça Nossa". Nele, e somente nele, a acusação divina é silenciada, o juízo é satisfeito, o exílio termina e as ovelhas dispersas de Deus são reunidas em um só rebanho, sob um só Pastor, para habitar em segurança eterna. Portanto, fuja dos mercenários. Despreze os sonhos roubados. E descanse, alma cansada e oprimida, no único que pode carregar o nome que é acima de todo nome: Jeová, Justiça Nossa.
+
+## **Amém.**

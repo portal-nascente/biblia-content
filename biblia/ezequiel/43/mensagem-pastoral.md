@@ -1,16 +1,38 @@
 ---
 slug: "ezequiel-43-mensagem-pastoral"
-titulo: ""
+titulo: "A Glória que Retorna e o Coração que Permanece"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "43"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Ezequiel 43  A Glória que Retorna e o Coração que Permanece   Introdução  Há uma espécie de saudade que não se mede pela distância, mas pela ausência. É a sensa..."
+tags: ["ansiedade"]
 ---
 
+# MENSAGEM PASTORAL
+# Ezequiel 43
+## ***A Glória que Retorna e o Coração que Permanece***
 
+## Introdução
+
+Há uma espécie de saudade que não se mede pela distância, mas pela ausência. É a sensação que toma conta de um lar quando a figura paterna parte para uma longa viagem; os móveis estão no lugar, as refeições são servidas, a rotina segue seu curso, mas um silêncio palpável paira sobre os cômodos, um vazio que transforma a casa em mero abrigo. Por décadas, o povo de Deus viveu sob essa sombra de uma ausência gloriosa. O templo, em Jerusalém, poderia estar de pé — e por um tempo esteve —, mas a Shekinah, a glória manifesta do Senhor, havia se retirado lentamente, como um pai que, ferido pela rebeldia dos filhos, afasta-se para o pátio. Ezequiel, o profeta do exílio, testemunhara essa partida solene e devastadora. Em visões anteriores, vira a glória de Deus abandonar o templo profanado, elevando-se do Santo dos Santos, pousando sobre o monte das Oliveiras e, por fim, desaparecendo (Ezequiel 10-11). Era o diagnóstico final de uma doença espiritual terminal: a presença de Deus não pode coexistir com a idolatria institucionalizada. E então, no capítulo que temos diante de nós, o inefável acontece. A visão se inverte. Do mesmo oriente de onde partira, uma voz como de muitas águas anuncia o retorno. “E eis que a glória do Deus de Israel vinha do caminho do oriente” (Ezequiel 43:2). Irmãos, não estamos diante de um mero rearranjo arquitetônico em visão; estamos diante do pulsar mais profundo do coração do Evangelho: a graça que busca, a fidelidade que restaura, a glória que retorna para habitar.
+
+## Desenvolvimento
+
+O texto nos apresenta, primeiro, o esplendor avassalador do Retorno. A descrição é de uma majestade que esmaga qualquer tentativa de domesticação litúrgica. Sua voz é como o estrondo de grandes águas, e a terra resplandece com a sua glória. A visão era a mesma que Ezequiel conhecera junto ao rio Quebar — a aparência do Ser glorioso, como de homem, envolto em fogo e esplendor. Este não é um deus local, um ídolo que se carrega em procissão. É o Senhor dos Exércitos, cuja glória enche o templo que a visão detalhara. Há aqui um princípio pastoral fundamental, tão necessário em nossa era de um cristianismo minimalista e centrado no homem: **Derek Thomas**, em *God Strengthens: Ezekiel Simply Explained* (1993), observa com precisão que “a visão da glória de Deus é sempre o antídoto para uma visão diminuída de Deus”. Nossos problemas, nossas ansiedades, nossos pecados parecem monstruosos precisamente porque encolhemos Deus ao tamanho de nossas crises. Ezequiel nos força a erguer os olhos. O Deus que retorna é aquele diante de quem o profeta, conhecendo-O, cai com o rosto em terra. O verdadeiro reavivamento começa não com estratégias, mas com terror santo, com a redescoberta da transcendência absoluta d’Aquele com quem temos que ver.
+
+Esse retorno, porém, não é um ato arbitrário de poder. É um retorno condicionado a um *limiar*. “Filho do homem”, pergunta a voz, “este é o lugar do meu trono, o lugar onde pousam os meus pés, onde habitarei no meio dos filhos de Israel para sempre” (v.7). Mas imediatamente segue a exposição da condição: “Nunca mais os da casa de Israel contaminarão o meu santo nome”. A contaminação anterior é descrita com uma imagem visceral e chocante: prostituição e os cadáveres de seus reis, colocando seu limiar junto ao meu limiar, seus umbrais junto aos meus umbrais, com apenas uma parede entre mim e eles. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1565), via aqui a essência da idolatria: não a mera adoração a um bloco de madeira, mas a tentativa presunçosa de estabelecer um ponto de contato, uma ponte, em termos humanos e carnais, com o Deus Santo. Colocar seus umbrais junto ao umbral de Deus é querer definir os termos do encontro, é trazer para dentro do santo os cadáveres de suas ambições políticas (os reis) e de suas paixões desordenadas (a prostituição). A glória só habita onde há separação, onde o Santo é tratado como Santo. O limiar, portanto, não é uma barreira para manter Deus longe, mas o marco de proteção que permite que Ele permaneça perto, sem que Sua santidade consuma a impureza.
+
+E é aqui que a mensagem se torna profundamente pastoral e introspectiva. O capítulo não termina com a glória estática no Santo dos Santos. Ela fala. E sua palavra é de ordem e medição. “Tu, filho do homem, mostra este templo à casa de Israel” (v.10). A revelação da glória tem um propósito pedagógico: que se envergonhem das suas iniquidades. E mais: que guardem a sua *forma* e seus *estatutos*. **Timothy Keller**, em *The Prodigal Prophet* (2018), faz uma aplicação penetrante: “A lei, os estatutos, a forma do templo — tudo isso, na visão de Ezequiel, não é um fardo legalista, mas a ‘planta baixa’ da graça. É o desenho de como uma comunidade ferida e quebrada pode viver segura na presença de um Deus glorioso e santo”. A medição minuciosa do altar, os ritos de expiação e consagração (vs. 18-27), tudo isso comunica uma verdade consoladora: o acesso a este Deus glorioso é possível, mas é *um acesso provido por Ele mesmo*. O altar deve ser purificado, e a expiação deve ser feita. É um evangelho em sombras, apontando para o único Altar verdadeiro, o Cordeiro de Deus que tira o pecado do mundo, cujo sacrifício único e perfeito nos consagra para sempre.
+
+Qual é, então, a aplicação para nós, que vivemos não sob a sombra do templo de pedra, mas sob a realidade do templo que é o Corpo de Cristo, a Igreja? A mensagem é clara: a presença gloriosa de Deus em nosso meio — seja na congregação reunida, na vida do indivíduo crente, templo do Espírito Santo — não é um direito adquirido. É um dom gracioso que demanda santidade como resposta de gratidão, não como condição de mérito. A pergunta pastoral que Ezequiel 43 nos lança é: onde temos colocado “nossos umbrais” junto ao “umbral” de Deus? Onde, em nosso culto, em nossa vida privada, em nossa ética, temos tentado reduzir a santidade de Deus a um padrão que acomode nossos “cadáveres” — nossas lealdades políticas idolátricas, nossos pecados acariciados, nossa busca por relevância mundana? A glória retorna quando o limiar é respeitado. Quando confessamos que Ele é Santo, e que o acesso a Ele só é possível pelo Caminho que Ele mesmo estabeleceu: Jesus Cristo, a expressa imagem da Sua glória.
+
+## Conclusão
+
+Irmãos, a visão de Ezequiel é, em última instância, uma visão de esperança indestrutível. O Deus que se foi por causa do pecado é o mesmo que volta por causa da Sua aliança e misericórdia. A mensagem pastoral deste capítulo é um chamado duplo. Primeiro, um chamado à *adoração reverente*: a redescobrir o Deus da glória, cuja voz ainda ressoa como muitas águas sobre a banalidade de nossos dias. Segundo, um chamado à *santidade prática*: a examinar os limiares de nosso coração, a expulsar os cadáveres que profanam, confiando que Aquele que mediu o altar e proveu a expiação na visão, já proveu, na história, o perfeito sacrifício que nos lava, nos santifica e nos permite, temerosos e admirados, permanecer para sempre em Sua luz. A glória retornou. Em Cristo, ela nunca mais se irá. Que nossos corações sejam, então, a morada permanente que Ele deseja.
+
+## **Amém.**

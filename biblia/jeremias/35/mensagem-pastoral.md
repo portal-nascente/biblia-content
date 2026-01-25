@@ -1,16 +1,41 @@
 ---
 slug: "jeremias-35-mensagem-pastoral"
-titulo: ""
+titulo: "A Taça Recusada: Uma Lição de Fidelidade em Tempos de Apostasia"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "jeremias"
 capitulo: "35"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Jeremias 35   A Taça Recusada: Uma Lição de Fidelidade em Tempos de Apostasia   Introdução  Há, nas dobras da história, momentos em que a luz mais pura não bril..."
+tags: ["amor", "ansiedade"]
 ---
 
+# MENSAGEM PASTORAL
+# Jeremias 35
 
+## ***A Taça Recusada: Uma Lição de Fidelidade em Tempos de Apostasia***
+
+## Introdução
+
+Há, nas dobras da história, momentos em que a luz mais pura não brilha nos grandes candelabros dos palácios ou nas cátedras dos sábios, mas sim na humilde lâmpada de uma casa simples, onde uma decisão silenciosa e obstinada desafia o ruído ensurdecedor de uma época inteira. Jerusalém, nos dias do profeta Jeremias, era um caldeirão de ansiedade política e decadência espiritual. O rei Zedequias, um fantoche da potência babilônica, reinava sobre um povo cujo coração se afastara, de maneira sistemática e voluntariosa, dos caminhos antigos do Senhor. O templo ainda estava de pé, os sacrifícios ainda fumegavam, mas a alma da nação estava em frangalhos, dilacerada pela idolatria e pela desobediência crônica. É neste cenário sombrio, onde a palavra profética era como uma voz clamando no deserto da indiferença, que o Eterno, em sua pedagogia soberana, conduz o profeta a um bairro provavelmente modesto da cidade, à casa de um homem chamado Jaazanias, líder dos recabitas. O que se segue não é um discurso teológico complexo dirigido aos príncipes, mas um objeto lesson, uma parábola viva, onde a fidelidade de um grupo marginal se torna o espelho mais cruel e mais claro da infidelidade do povo da aliança.
+
+## Desenvolvimento
+
+O Senhor ordena a Jeremias que leve os recabitas à casa do Senhor, a uma das câmaras, e lhes ofereça vinho em taças. O gesto é, em si, um teste e uma encenação profética. Os recabitas, no entanto, recusam com uma cortesia firme e uma argumentação impecável. Sua recusa não se baseia em um capricho momentâneo, nem em uma preferência dietética, mas em um mandamento ancestral. **Jonadabe, filho de Recabe, nosso antepassado**, disseram eles, **nos ordenou: ‘Nunca bebam vinho, nem vocês nem os seus descendentes. Não construam casas, não façam plantações, não cultivem vinhas nem as possuam; mas vivam sempre em tendas, para que vivam muito tempo na terra na qual são nômades’**. Aqui reside o núcleo da lição. A obediência dos recabitas era histórica, era comunitária e era radical. Não era uma mera tradição cultural, mas um *ethos* recebido, uma identidade forjada na submissão à voz do pai fundador. Por gerações, atravessando reinados, guerras e mudanças sociais, eles preservaram esse estilo de vida distintivo, esse pacto familiar que os mantinha como peregrinos, desapegados das seguranças sedentárias de Canaã.
+
+**John Calvin**, em seus *Commentaries on the Book of the Prophet Jeremiah* (Volume 4, 1563), observa com precisão cirúrgica o contraste que Deus estava estabelecendo: “Vede aqui uma notável demonstração; pois o Senhor não traz à luz os recabitas para que Jeremias os elogie por sua própria causa, mas para que, por meio de seu exemplo, condene a desobediência do povo. É como se dissesse: ‘Vede estes estrangeiros, que têm mostrado tão grande reverência ao seu pai morto; no entanto, meus filhos desprezam-me, que sou seu Pai eterno, e vivo sempre’”. A fidelidade dos recabitas a um mandamento humano, finito e temporal, era constante. A fidelidade de Judá ao mandamento divino, eterno e vivo, era inconstante, quebradiça, sujeita aos ventos da conveniência. Eles honravam a memória de Jonadabe mais do que Judá honrava a presença de Jeová.
+
+O profeta então se volta para o povo de Judá com uma pergunta que ecoa como um golpe de martelo: **“Acaso aprenderão a lição e obedecerão às minhas palavras?”, pergunta o Senhor. “As ordens de Jonadabe, filho de Recabe, foram obedecidas; ele ordenou aos seus descendentes que não bebessem vinho, e até hoje não bebem, porque obedecem à ordem do seu antepassado. Mas eu tenho falado a vocês vezes sem conta, e vocês não me obedeceram”**. A lógica é avassaladora em sua simplicidade e em sua condenação. Se a autoridade de um homem, falecido há séculos, consegue forjar uma disciplina transgeracional, quanto mais a autoridade do Deus vivo, que fala persistentemente através de seus profetas! A desobediência de Judá, portanto, não era um lapso, uma fraqueza compreensível; era uma escolha deliberada, uma rebeldia cultivada. Eles haviam trocado a glória do Deus imutável pela instabilidade de seus próprios desejos.
+
+**Matthew Henry**, em sua *Exposition of the Old and New Testaments* (1706), aprofunda a aplicação pastoral desta cena, destacando a natureza da palavra que foi desprezada: “Eles não obedeceram às minhas palavras, que lhes foram faladas *vezes sem conta*; não uma vez apenas, mas repetidas vezes; não por um só profeta, mas por muitos; não de maneira obscura, mas com clareza; não com frieza, mas com paixão; não apenas com argumentos, mas com exortações, promessas e ameaças”. A palavra divina era insistente, multifacetada, carregada de graça e de advertência. Rejeitá-la era, portanto, um ato de endurecimento cardíaco que não encontrava desculpa. Enquanto os recabitas, por sua obediência, receberiam a promessa de que **sempre haverá um descendente de Jonadabe, filho de Recabe, que me servirá**, Judá, pela sua desobediência teimosa, atraía sobre si toda a calamidade que Deus havia pronunciado. A benção da continuidade fiel era para os estrangeiros obedientes; a maldição da ruptura e do exílio era para o povo da aliança infiel.
+
+**J. A. Motyer**, em *The Message of Jeremiah* (1993), traz uma reflexão crucial sobre o cerne da questão: a obediência dos recabitas era “uma obediência ao *passado*”, enquanto a que Deus exigia de Judá era uma obediência ao *presente* – à sua palavra viva e atual. O grande pecado de Judá era a surdez contemporânea. Eles podiam venerar tradições humanas (como, de fato, o faziam em seus cultos sincréticos), mas fechavam os ouvidos à voz profética que os confrontava no *aqui e agora* com a santidade e a vontade de Deus. A lição é perene: não basta a reverência ao legado dos pais na fé; é necessária a escuta submissa à voz do Pai que fala hoje através de seu Filho e de sua Palavra escrita.
+
+## Conclusão
+
+Irmãos, a mensagem de Jeremias 35 atravessa os séculos e nos encontra em nossa própria Jerusalém, em nossa própria era de ruído e de apostasia sutil. A pergunta de Deus ecoa em nossos ouvidos: “Aprenderão a lição?”. Olhamos para os recabitas e vemos um espelho que nos mostra, não o que somos, mas o que deveríamos ser: uma comunidade distintiva, marcada por uma obediência radical, transgeracional e custosa à Palavra recebida. Nossa fidelidade não é a um mandamento humano sobre não beber vinho ou viver em tendas, mas ao mandamento divino de sermos santos, de amarmos uns aos outros, de sermos luz no mundo, de nos apartarmos da impureza do tempo presente. Enquanto o mundo oferece suas taças – a taça do materialismo, do hedonismo, do relativismo, do individualismo feroz –, somos chamados a recusar, não com arrogância, mas com a cortesia firme de quem tem um compromisso superior: “Não podemos beber, porque nosso Pai celestial nos ordenou…”
+
+A obediência dos recabitas os manteve como nômades, desinstalados do sistema corrompido de Judá. Nossa obediência a Cristo deve nos manter como peregrinos e forasteiros neste mundo, cidadãos de um reino que não é deste mundo, desapegados de suas seguranças ilusórias e fiéis às ordens do nosso Rei. Que a história da taça recusada nos lembre, de maneira pungente, que no fim dos tempos, a maior bênção não será a dos adaptados e conformados, mas a dos fiéis e obedientes, aos quais o Senhor dirá: “*Sempre haverá um descendente que me servirá*”. A fidelidade em um mundo infiel é o nosso culto racional, a nossa resposta de amor ao Pai que nos falou, vezes sem conta, em seu Filho amado. Que tenhamos ouvidos para ouvir e coragem para recusar as taças erradas, para que possamos, um dia, beber do vinho novo no reino de nosso Pai.

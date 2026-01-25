@@ -1,16 +1,37 @@
 ---
 slug: "salmos-11-mensagem-pastoral"
-titulo: ""
+titulo: "Onde Pousará o Pássaro Ameaçado?"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "salmos"
 capitulo: "11"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Salmos 11   Onde Pousará o Pássaro Ameaçado?   Introdução  Há uma espécie de angústia que não se anuncia com alarido, mas que se instala como uma névoa fria na..."
+tags: ["amor", "batalha", "medo"]
 ---
 
+# MENSAGEM PASTORAL
+# Salmos 11
 
+## ***Onde Pousará o Pássaro Ameaçado?***
+
+### Introdução
+
+Há uma espécie de angústia que não se anuncia com alarido, mas que se instala como uma névoa fria na alma do homem que vê os alicerces de seu mundo serem minados. É o sentimento do justo que, olhando para a praça pública, para os tribunais, para as conversas nos corredores do poder, percebe que a flecha da verdade foi trocada pela seta envenenada da conveniência, e que os fundamentos da retidão parecem desmoronar-se como colunas de areia sob a maré alta da maldade. É a esta sensação visceral de desalento, a este tremor que percorre os ossos diante do conselho perverso, que o salmista Davi dá voz no limiar deste décimo primeiro salmo. E ele o faz não como um teórico distante, mas como um homem acuado, para quem o conselho mais lógico e humano é a fuga: “Foge para o teu monte, como pássaro”. Quantas almas, ao longo dos séculos, não ouviram este mesmo sussurro, este apelo à retirada tática, ao abrigo egoísta, quando a escuridão parece triunfar? É a você, cujo coração hoje conhece este sibilo da retirada, que esta palavra pastoral se dirige.
+
+### Desenvolvimento
+
+A tentação que se apresenta ao salmista, e que se apresenta a cada um de nós quando a iniquidade se assenta no lugar do juízo, é a da fuga geográfica. “Foge para o teu monte”, aconselham os bem-intencionados, os realistas, os que já desistiram da batalha pelo centro. É a sugestão de que a santidade só pode ser preservada no isolamento, de que a fé é uma planta de estufa que não sobrevive ao clima hostil do mundo. Há, sem dúvida, um lugar para o retiro temporário, para o monte da oração e do encontro com Deus, como o próprio Cristo nos ensinou. Mas a sugestão aqui é outra: é a da deserção permanente, da abdicação do posto que Deus nos designou. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), com aguda percepção pastoral, observa que “os ímpios, quando conseguem perturbar a ordem estabelecida, pensam que tudo lhes é permitido”, e que o conselho de fuga nasce do pânico que esta desordem causa no coração dos fiéis. É o medo que nos persuade a trocar a fortaleza invisível por um refúgio visível e, portanto, falível.
+
+Contra este conselho baseado na aparência imediata das coisas, o salmista ergue um brado de fé que é, antes de tudo, uma reafirmação de cosmovisão. “No Senhor me refugio”. A reviravolta não é tática, mas teológica. Ele não discute a logística da fuga; ele questiona a sua própria premissa. A pergunta “Como, pois, dizeis à minha alma…” é um ajuste de lentes. Ele está dizendo: o seu diagnóstico parte de um erro categórico. Vocês estão olhando para os fundamentos abalados da cidade dos homens, e a partir daí me aconselham. Eu, porém, fixo meus olhos no trono que está nos céus. O verdadeiro fundamento não é a sociedade que se corrompe, mas o Deus que reina. **Augustus H. Strong**, em sua obra sistemática *Systematic Theology* (1907), fundamenta esta ideia ao afirmar que “a visão correta de Deus é o antídoto para todo o erro e para todo o temor”. O salmista pratica esta verdade. Ele não nega a realidade da ameaça – as flechas nas sombras, os alicerces destruídos – mas a redefine dentro de um quadro maior, infinitamente mais sólido.
+
+E qual é este quadro? É a visão do Senhor em seu santo templo, o Senhor cujo trono está nos céus. Esta não é a imagem de um Deus distante e filosófico, mas de um Soberano ativo e interessado. Seus olhos examinam, suas pálpebras provam os filhos dos homens. A linguagem é intensamente pessoal e escrutinadora. **J. I. Packer**, em seu clássico pastoral *Conhecendo a Deus* (1973), dedica um capítulo inteiro a “A Majestade de Deus” e nos lembra que este atributo divino não é motivo para terror paralizante para o crente, mas para um “temor reverente que confia”. O Senhor que examina é o mesmo que conhece o caminho do justo. Sua prova não é caprichosa, mas um refinamento, um discernimento que separa a substância da aparência. Enquanto os ímpios, na sua arrogância, pensam que suas ações estão ocultas nas trevas, o olhar divino as ilumina com uma claridade desconcertante. O juízo não é uma possibilidade remota; é uma certeza iminente. O cálice na mão do Senhor, imagem de sua ira justa e medida, será derramado, e os ímpios, que amam a violência, beberão de seus próprios métodos até as fezes.
+
+E aqui chegamos ao âmago da mensagem de consolo e coragem. Por que o justo pode permanecer? Porque o Senhor é justo e ama a justiça. O seu caráter é o alicerce inabalável. A retidão não é uma abstração cósmica; é a própria natureza do Deus que nos vê. O rosto do Senhor está contra os que praticam o mal, para desarraigá-los da terra. Mas, e o justo? O salmista encerra com uma declaração de beleza e doçura infinita: “Os retos verão a sua face”. Esta é a antítese perfeita do “fuge para o teu monte”. A recompensa da permanência fiel, da recusa em fugir do chamado mesmo quando os fundamentos humanos estremecem, não é a segurança terrena. É a visão beatífica. É o privilégio supremo de contemplar, sem véu, o rosto d’Aquele cuja justiça é nosso refúgio. **Jonathan Edwards**, em seu sermão *A Divina e Sobrenatural Luz* (1734), explora esta realidade quando descreve a visão de Deus como a própria essência da recompensa celestial, uma comunhão de amor e conhecimento direto que transforma o salvo. O pássaro ameaçado não precisa de um monte; ele precisa lembrar-se de que seu verdadeiro pouso é na mão do Pai, e seu destino final é habitar na luz inacessível onde a injustiça jamais penetrará.
+
+### Conclusão
+
+Portanto, amada congregação, alma cansada que hoje ouve o sussurro do desespero aconselhando a fuga, eu lhe pergunto pastoralmente: para que monte você fugiria? Para o monte do isolamento ressentido? Para o monte do pragmatismo que abandona os princípios? Para o monte do silêncio covarde? Nenhum destes montes pode sustentá-lo quando o vento soprar mais forte. O salmo de hoje nos convida a uma fuga, sim, mas uma fuga *para cima*. “No Senhor me refugio”. Esta é a única migração segura. Quando tudo ao seu redor grita que os fundamentos se foram, fixe os olhos, pela fé, no trono que permanece para sempre. Traga seu medo, sua sensação de desamparo, sua justa indignação, e coloque-os diante d’Aquele cujos olhos tudo veem e cujo coração ama a justiça. Permaneça em seu posto. Testemunhe em seu vale. Ore em sua cela. Ame em seu deserto. Faça-o não porque seja fácil, mas porque Aquele que é justo está no controle, e Ele promete que os retos, aqueles que perseveram confiando em seu caráter, verão o seu rosto. Esta esperança não é um placebo para o sofrimento; é a âncora da alma, segura e firme, que penetra além do véu. O Senhor reina. Você pode descansar. Você pode permanecer.

@@ -1,16 +1,35 @@
 ---
 slug: "jo-15-devocional"
-titulo: ""
+titulo: "O Vinhedo e a Videira Verdadeira: Uma História de Permanência"
 tipo: "devocional"
 origem: "biblia"
 livro: "jo"
 capitulo: "15"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "DEVOCIONAL  João 15  O Vinhedo e a Videira Verdadeira: Uma História de Permanência   Introdução Conheci um homem, anos atrás, cujo avô havia plantado um vinhedo nos contrafortes d..."
+tags: ["amor", "medo"]
 ---
 
+# DEVOCIONAL
+# João 15
+## ***O Vinhedo e a Videira Verdadeira: Uma História de Permanência***
 
+### Introdução
+Conheci um homem, anos atrás, cujo avô havia plantado um vinhedo nos contrafortes da serra. A videira-mãe, plantada no dia de seu nascimento, era mais do que uma planta; era um membro da família, um testemunho silencioso do tempo. Quando o neto herdou a propriedade, encontrou-a coberta de brotos selvagens, galhos secos e uma produção ínfima. Movido por uma memória afetiva, ele hesitou. Poderia aquele emaranhado improdutivo ainda ser salvo? Ele contratou um viticultor ancião, de mãos calejadas e olhar perspicaz. O velho homem não fez discursos. Apenas pegou sua podadeira afiada e, com um misto de dor e precisão, começou a cortar. Galho após galho, broto após broto, caíam no chão. O herdeiro observava, com o coração apertado, vendo a planta que amava ser reduzida a pouco mais que o tronco principal e alguns ramos essenciais. "Por quê?", ele perguntou, a voz embargada. O viticultor ergueu os olhos, segurando um galho seco. "Porque tudo o que não dá uva, tira a vida dela. Para que ela viva e dê fruto, você deve escolher: a memória do que ela era, ou a realidade do que ela pode ser. Para florescer, ela precisa estar *conectada* apenas a si mesma, e tudo o mais deve ir."
+
+### Desenvolvimento
+A narrativa pungente da poda encontra seu eco mais profundo e transformador nas palavras de Cristo no limiar da Paixão. Em João 15, Jesus, caminhando provavelmente à sombra de videiras reais, oferece aos discípulos assustados e perplexos a imagem definitiva da vida espiritual genuína: "Eu sou a videira verdadeira, e meu Pai é o agricultor" (João 15:1). A metáfora é agrícola, terrena, mas sua verdade é cósmica e espiritual. **Augustus H. Strong**, em *Systematic Theology* (1907), observa que esta declaração é a culminação da autorrevelação de Jesus no Evangelho de João ("Eu sou"): não apenas o pão, a luz ou o pastor, mas a própria fonte e seiva da vida para todo o seu povo. O Pai, como o divino Viticultor, não é um observador distante. Sua atividade é constante, amorosa e, por vezes, dolorosamente cirúrgica: "Todo ramo que, estando em mim, não dá fruto, ele corta; e todo que dá fruto, poda para que dê mais fruto ainda" (João 15:2).
+
+Aqui reside a tensão e o conforto. A poda não é um castigo para o ramo frutífero, mas um ato de aperfeiçoamento. O ramo infrutífero, no entanto, enfrenta uma realidade severa: desconectado da vida da videira, ele é apenas lenha seca, coletada e lançada ao fogo. A questão central, então, não é a atividade aparente do ramo, mas sua conexão vital. "Permaneçam em mim, e eu permanecerei em vocês", suplica Jesus (João 15:4). O verbo "permanecer" (*menō* em grego) é a chave do capítulo. Não indica uma visita ocasional ou uma conexão esporádica, mas uma habitação constante, uma fixação residencial. **J. C. Ryle**, em suas *Expository Thoughts on the Gospels* (1869), comenta com típica clareza pastoral: "Permanecer em Cristo é manter uma comunhão viva com Ele pela fé, oração e obediência. É uma união viva, ativa e contínua, que se evidencia por seus frutos." O fruto não é um esforço hercúleo do ramo para se tornar uma boa maçã ou uva; é a consequência orgânica, inevitável, de estar ligado à Videira que é a própria fonte de seiva, nutrição e vida.
+
+E qual é o fruto? O contexto é explícito: amor. "Como o Pai me amou, assim eu os amei. Permaneçam no meu amor" (João 15:9). Este não é um sentimento vago, mas um amor sacrificial, obediente e prático, que se expressa em guardar os mandamentos de Cristo (João 15:10) e em dar a vida pelos amigos (João 15:13). É um amor que transborda da comunhão com a Trindade para a comunhão uns com os outros. **D. A. Carson**, em *The Gospel According to John* (1991), salienta que o "permanecer" nunca é uma experiência mística privada; seu teste público e inevitável é o amor sacrificial pelos irmãos, o mesmo tipo de amor que levou Jesus à cruz. A poda do Pai muitas vezes visa justamente remover de nós os espinhos do egoísmo, o excesso de folhagem da autossuficiência e os galhos secos do amor próprio, para que o fruto do amor divino, que é a própria seiva de Cristo em nós, possa brotar e amadurecer sem impedimentos.
+
+### Conclusão
+A história do vinhedo e a verdade da Videira se encontram em nosso cotidiano. Quantas vezes nos apegamos, como aquele herdeiro, a galhos secos de hábitos, relacionamentos tóxicos, orgulho intelectual ou atividades religiosas infrutíferas, apenas porque fazem parte da "paisagem" da nossa vida? Ouvimos o sussurro do Viticultor amoroso, que segura a podadeira não para nos destruir, mas para nos liberar. Sua pergunta ecoa: Você escolhe a memória do que era, ou a realidade do que pode ser em Mim? Permanecer não é sobre agarrar-se com força, mas sobre descansar na conexão. É uma rendição confiante à seiva que flui d'Ele para nós. Hoje, olhe para os galhos que compõem sua vida. Os que estão dando o fruto do amor, da alegria, da paz? Esses, mesmo que a poda do momento doa, estão seguros. Os que estão secos, que só servem para aparência ou peso morto? Talvez seja hora de ouvir o som da podadeira do Pai, não como ruína, mas como o prelúdio de uma colheita mais abundante. A vida, a verdadeira vida, só flui de uma fonte: da Videira Verdadeira. Permaneça nela.
+
+### Oração
+Pai, Viticultor divino, confesso que muitas vezes tenho medo da Tua podadeira. Apego-me a galhos secos de autossuficiência, a brotos selvagens de vaidade, porque eles fazem parte da silhueta que chamo de "eu". Mas vejo, hoje, que eles estão roubando a seiva que deveria produzir fruto em mim. Dá-me a coragem da rendição. Corta o que precisa ser cortado. Ajuda-me a não confundir Tua cirurgia amorosa com abandono. Jesus, Videira Verdadeira, anseio permanecer em Ti. Que minha fé não seja um evento, mas uma habitação. Que minha oração não seja um grito de emergência, mas a respiração constante da minha alma conectada à Tua. Que minha obediência não seja um fardo, mas a evidência natural de que Tua vida flui em mim. Enche-me do Teu amor, até que ele transborde em gestos concretos para os que estão ao meu redor. Que eu não seja apenas mais um ramo na parede, mas um ramo frutífero, que glorifica o Pai pelo fruto que Tu mesmo produces em mim. Em Teu nome, que é a própria seiva da minha vida, oro.
+## Amém.

@@ -1,16 +1,45 @@
 ---
 slug: "ezequiel-35-estudo-tematico"
-titulo: ""
+titulo: "O Julgamento de Seir: Uma Teologia da Inimizade Consagrada"
 tipo: "estudo-tematico"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "35"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "95 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "ESTUDO TEMÁTICO  Ezequiel 35   O Julgamento de Seir: Uma Teologia da Inimizade Consagrada   A Natureza da Culpa de Edom: Mais que uma Traição Política  O capítulo trinta e cinco d..."
 tags: []
 ---
 
+# ESTUDO TEMÁTICO
+# Ezequiel 35
 
+## ***O Julgamento de Seir: Uma Teologia da Inimizade Consagrada***
+
+## A Natureza da Culpa de Edom: Mais que uma Traição Política
+
+O capítulo trinta e cinco do profeta Ezequiel constitui um oráculo divino singular e devastadoramente específico, dirigido não a Babilônia, a grande opressora, mas a Edom, o irmão vizinho. A condenação pronunciada contra os montes de Seir transcende, em sua ferocidade profética, uma mera reprimenda por deslealdade geopolítica. Aqui, revela-se uma teologia profunda da inimizade que atinge o cerne do caráter de Deus e de Seu propósito redentivo. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1565), observa que a peculiar severidade do julgamento edomita deriva de uma perversão fundamental da relação fraternal. "Edom", escreve Calvino, "não era um inimigo comum, mas um irmão degenerado. Seu pecado foi um pecado contra o sangue, contra a memória de um pacto familiar que remontava a Esaú e Jacó. Sua hostilidade possuía o caráter venenoso de um fratricídio espiritual prolongado". Esta não é uma guerra entre nações estranhas, mas o julgamento sobre uma nação que, conhecedora da eleição de Israel e da história dos patriarcas, escolheu conscientemente posicionar-se como antagonista permanente do povo da aliança. A acusação central – "porquanto tiveste inimizade perpétua" (Ez 35:5) – estabelece o crime não como um ato isolado, mas como uma disposição constitutiva, uma identidade forjada na oposição a Jacó.
+
+Esta inimizade perpétua manifestou-se de forma culminante e particularmente odiosa durante a calamidade de Jerusalém. **Daniel I. Block**, em sua obra monumental *The Book of Ezekiel, Chapters 25–48* (1998), analisa que Edom não se limitou a uma neutralidade cínica ou a um aproveitamento oportunista. O profeta Obadias (v. 10-14) e os Salmos (Sl 137:7) corroboram a visão de Ezequiel: os edomitas posicionaram-se nas encruzilhadas para capturar fugitivos hebreus, entregando-os aos babilônios, e até mesmo alegraram-se com a destruição, proclamando: "Foi destruída! Foi destruída!" sobre a cidade santa. **Walther Eichrodt**, em *Ezekiel: A Commentary* (1970), vai além, interpretando a ação de Edom como uma tentativa de "apagar a memória de Israel" (Ez 35:5, 10), um esforço teológico de genocídio cultural e espiritual. Ao apoiar a potência mundial pagã no seu ato de aniquilar o povo que carregava o nome de Yahweh, Edom alinhou-se com as forças do caos contra a ordem criadora e redentora de Deus. Seu pecado foi, portanto, uma afronta teológica: uma tentativa de desfazer, pelas mãos humanas, o plano divino de salvação que, misteriosamente, passava por aquele povo sofrente.
+
+## A Teologia da Terra e a Cobiça como Idolatria
+
+Um segundo eixo teológico crucial neste oráculo é a conexão entre a inimizade e a cobiça territorial. O Senhor acusa Edom: "Porquanto disseste: Estas duas nações e estas duas terras serão minhas, e as possuirei, embora o SENHOR ali estivesse" (Ez 35:10). A ambição edomita não era por terras quaisquer, mas especificamente pela "terra de Israel" e a "terra de Judá". **Christopher J. H. Wright**, em *The Message of Ezekiel* (2001), argumenta que aqui se revela uma compreensão profundamente espiritual da geografia. A Terra Prometida não era um mero pedaço de geopolítica; era o *palco terrestre da aliança*, o dom tangível de Yahweh a seu povo, o lugar onde Ele fazia habitar o seu nome. Cobiçar aquela terra era, em última instância, cobiçar a herança de Deus, contestar a Sua soberania distributiva e pretender usurpar o lugar simbólico do Seu reino na terra.
+
+Esta cobiça, como bem analisa **Martin Luther** em suas *Preleções sobre os Profetas Menores* (1525), ao comentar Obadias, é a materialização da inveja primordial de Esaú, que desprezou sua primogenitura e depois lamentou sua perda não com arrependimento, mas com ódio contra o irmão que a recebeu. Lutero vê em Edom um arquétipo da "justiça própria" que, frustrada por não ser o objeto da eleição divina, transforma-se em hostilidade violenta contra o eleito e, por extensão, contra o Deus que elege. A terra, neste sentido, torna-se o símbolo da bênção. A tentativa de possuí-la é uma tentativa de invalidar o decreto divino, de provar, pela força, que a bênção poderia ser tomada, não dada. O comentário final – "embora o SENHOR ali estivesse" – é a chave. Edom, em sua cegueira idolátrica, tratou a Terra Santa como um território comum, ignorando a presença covenantal de Yahweh. Sua cobiça era, portanto, uma forma de ateísmo prático, uma negação da realidade invisível mais fundamental: a habitação de Deus no meio do seu povo.
+
+## O Princípio da *Lex Talionis* Divina: A Medida da Retribuição
+
+A sentença pronunciada por Ezequiel segue um rigoroso princípio de retribuição poética, a *lex talionis* aplicada em escala nacional. O julgamento não é arbitrário, mas espelha, com assustadora precisão, o pecado cometido. **Geerhardus Vos**, em *Biblical Theology* (1948), enfatiza que a justiça retributiva de Deus nas narrativas proféticas não é vingança, mas a reafirmação da ordem moral do universo por Ele criado. O mal, quando maduro, gera seu próprio fruto de destruição. Assim, a Edom que disse "tornar-te-ei uma desolação perpétua" (Ez 35:9) sobre a terra de Israel, ouve a sentença: "Eu te tornarei uma desolação perpétua" (Ez 35:3, 7, 9, 14). A nação que intentou apagar a memória de Israel será ela mesma esquecida, reduzida a "desolação eterna" (Ez 35:9). Aquele que se alegrou com a herança de Israel devastada verá sua própria herança, os montes de Seir, devastada.
+
+**John Owen**, em *A Dissertation on Divine Justice* (1653), reflete sobre este princípio à luz da santidade de Deus. A punição "segundo o seu ódio" (Ez 35:11) significa que Deus tratará Edom de acordo com a qualidade moral intrínseca de suas ações. O ódio perpétuo de Edom, que era desprovido de causa justa e alimentado pela malícia, encontra sua contrapartida na ira santa e justa de Deus. Não é um ódio emocional, mas a necessária e inevitável reação do Ser perfeitamente bom contra o mal consolidado e impenitente. A sentença, portanto, revela um aspecto terrível da soberania divina: Deus concede ao ímpio a colheita plena da semente que ele mesmo, livremente, escolheu plantar. Edom desejou a aniquilação de outro; sua sentença é experimentar a essência daquilo que desejou. O monte Seir, outrora fortaleza inexpugnável, se tornará o epitáfio de uma nação que definiu sua existência pela oposição a Yahweh e ao seu Ungido.
+
+## A Universalização do Princípio Edomita e sua Cristologia
+
+Embora histórico, o oráculo contra Edom projeta uma sombra longa que alcança a teologia do Novo Testamento. Edom torna-se o arquétipo de toda potência, espírito ou sistema que se levanta em inimizade perpétua contra Deus e seu povo. **Herman Bavinck**, em *Reformed Dogmatics, Vol. 3: Sin and Salvation in Christ* (1906), identifica em Edom uma prefiguração do "princípio mundano" (*mundus*) em sua hostilidade essencial ao reino de Deus. Não é por acaso que Herodes, o Grande, o assassino dos inocentes de Belém, era um idumeu (descendente de Edom). Ele encarna, na narrativa evangélica, a última e mais desperate tentativa do "monte Seir" de destruir a semente prometida, o verdadeiro Israel e herdeiro de Jacó: Jesus Cristo.
+
+Neste ponto, a cristologia reformada ilumina profundamente a passagem. **Oswald T. Allis**, em *Prophecy and the Church* (1945), embora em contexto dispensacionalista, reconhece que a inimizade edomítica encontra sua plena expressão e derrota na cruz. Na crucificação, as forças do mundo (representadas por Roma), os poderes religiosos corruptos (parte do Sinédrio) e até a traição de um discípulo (uma forma de fratricídio espiritual) uniram-se no ódio contra o Santo de Deus. O Gólgota foi o ápice da "inimizade perpétua". No entanto, foi precisamente ali, onde o ódio pareceu triunfar, que Deus executou o julgamento definitivo sobre o princípio do ódio, desarmando os principados e potestades (Cl 2:15). A ressurreição de Cristo é a declaração divina de que toda tentativa de "apagar a memória" do povo de Deus – e do próprio Filho de Deus – está fadada ao fracasso. O túmulo vazio é a resposta final à exclamação edomita: "Foi destruída!".
+
+Portanto, o estudo de Ezequiel 35 não é um mero exercício de arqueologia profética. É uma exploração da natureza persistente do mal que se opõe ao reino de Deus, uma meditação sobre a justiça retributiva que sustenta a ordem moral do cosmos, e um vislumbre, à sombra da lei, da graça que seria manifestada. A desolação perpétua de Seir serve como um monumento solene: a inimizade contra o povo da aliança é, em última análise, inimizade contra o próprio Yahweh, uma batalha perdida antes mesmo de começar, cujo fim certo é a desolação. Enquanto isso, a verdadeira herança – a terra renovada do novo céu e da nova terra – permanece guardada, não para os que a cobiçam pela força, mas para os que a recebem como dádiva, pela fé no descendente de Jacó, Jesus Cristo, em quem todas as promessas de Deus são "Sim" e "Amém".

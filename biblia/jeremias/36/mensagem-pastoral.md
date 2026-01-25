@@ -1,16 +1,35 @@
 ---
 slug: "jeremias-36-mensagem-pastoral"
-titulo: ""
+titulo: "O Pergaminho e o Fogo: Quando a Palavra Enfrenta o Desprezo Real"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "jeremias"
 capitulo: "36"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Jeremias 36   O Pergaminho e o Fogo: Quando a Palavra Enfrenta o Desprezo Real   Introdução  Há, em certas tardes de outono, um silêncio que pesa mais do que o..."
+tags: ["esperanca", "fe"]
 ---
 
+# MENSAGEM PASTORAL
+# Jeremias 36
 
+## ***O Pergaminho e o Fogo: Quando a Palavra Enfrenta o Desprezo Real***
+
+## Introdução
+
+Há, em certas tardes de outono, um silêncio que pesa mais do que o granito, um arrepio no ar que antecipa não o frio, mas uma devastação. Imagino Baruque, o escriba, sentado naquela pequena sala, a luz fraca de uma lamparina dançando sobre o rosto de Jeremias. O profeta, proibido de entrar no templo, ditava. Palavras de juízo, de arrependimento urgente, de um último apelo divino antes que o caldeirão do norte transbordasse sobre Jerusalém. Baruque, com a mão firme de um profissional, traduzia a voz rouca da angústia em traços elegantes de tinta sobre um rolo de pergaminho. Cada letra era um peso; cada linha, uma sentença. Eles não produziam um tratado filosófico, mas um artefato sagrado e perigoso, uma mensagem que, lida em voz alta, tinha o poder de desviar a ira de Deus. Essa cena íntima, esse ato fiel de registrar a Palavra proibida, é o coração pulsante do capítulo trinta e seis de Jeremias, um texto que nos fala, com dramática clareza, sobre a autoridade da Palavra de Deus, a responsabilidade humana de ouvi-la e o trágico destino daqueles que a desprezam com soberba calculada.
+
+## Desenvolvimento
+
+O episódio se desenrola como um drama em três atos, cada um revelando uma postura distinta diante da Revelação. No primeiro ato, vemos a **obediência vulnerável**. Jeremias, sob direção divina, chama Baruque para ser sua boca e sua mão. **John Calvin**, em seus *Commentaries on the Book of the Prophet Jeremiah* (Volume 4, 1563), observa com perspicácia que aqui Deus, em sua condescendência, utiliza meios humanos frágeis para transmitir seu decreto solene. O profeta, silenciado, e o escriba, anônimo, tornam-se canais. A Palavra não perde seu poder por ser transmitida por um homem impedido de ir ao santuário ou escrita por uma mão que não era a do profeta original. Ela mantém sua autoridade intrínseca. Baruque então vai ao templo, no dia de jejum, e lê o rolo perante todo o povo. É um momento de graça comum, uma oferta de escape. A leitura pública da Palavra é, em si, um ato de misericórdia, um chamado ao arrependimento antes que o juízo se concretize.
+
+O segundo ato nos apresenta a **reverência intermediária**. Quando as palavras chegam aos ouvidos dos príncipes, sentados na câmara do escrivão, sua reação é imediata e temerosa. Eles mandam buscar Baruque e o rolo, ouvem por si mesmos, e ficam possuídos de um “temor” que os leva a um conselho prudente: “Vamos, certamente, anunciar ao rei todas estas palavras”. Eles reconhecem a gravidade. No entanto, antes de levarem a mensagem ao rei, aconselham Jeremias e Baruque a se esconderem. Há aqui um respeito pela Palavra, um reconhecimento de sua origem divina e de seu conteúdo ameaçador, mas é um respeito misturado com cálculo político e autopreservação. Eles são como aqueles que, diante de um raio, reconhecem seu poder destrutivo e se abrigam, mas não se prostram em humildade diante do Deus que o envia. **Martyn Lloyd‑Jones**, em *Preaching and Preachers* (1971), frequentemente alertava sobre o perigo de uma apreciação meramente intelectual ou emocional da Palavra, que não se converte em submissão existencial. Os príncipes tiveram a primeira, mas faltou-lhes a coragem para a segunda.
+
+Então, chegamos ao terceiro ato, o clímax de uma **rejeição deliberada e arrogante**. O rei Jeoaquim, aquecendo-se ao braseiro no seu quarto de inverno, ouve as palavras do rolo. Conforme três ou quatro colunas são lidas, ele, com um canivete de escrivão, as corta e lança ao fogo, até que todo o rolo é consumido nas chamas. O gesto é carregado de um simbolismo devastador. Não é um ato de raiva impulsiva, mas de desprezo metódico e real. Ele acredita que, destruindo o símbolo físico, destrói a verdade e anula o decreto. **Timothy Keller**, em *Counterfeit Gods* (2009), analisaria este momento como a adoração suprema ao ídolo do poder e do controle. Jeoaquim, sentado em seu trono, acredita-se acima da Palavra, capaz de julgá-la e descartá-la. Seus servos, inclusive alguns daqueles príncipes que antes tremeram, permanecem inertes. A cena é uma pintura vívida da incredulidade em sua forma mais pura: a tentativa humana de silenciar a Deus. No entanto, o fogo no braseiro não pode queimar a Palavra eterna. A resposta divina é imediata e irônica: Jeremias recebe ordem de escrever *outro* rolo, com todas as palavras anteriores, acrescentando um juízo específico e terrível sobre o próprio Jeoaquim. A Palavra de Deus é indestrutível. O homem pode queimar o pergaminho, mas não pode anular a sentença. Pode cortar as colunas com um canivete, mas não pode cortar o fio da soberania divina.
+
+## Conclusão
+
+Irmãos, esta não é uma crônica distante de um reino antigo. É um espelho colocado diante de nossas almas. Quantas vezes, no aconchego de nossos “quartos de inverno” – nossos espaços de conforto, nossa autossuficiência intelectual, nossos hábitos arraigados – ouvimos a Palavra sendo lida, e, silenciosamente, com o canivete de nossa indiferença, de nosso racionalismo, de nossa prioridade prática, vamos cortando e lançando ao fogo aquelas colunas que nos confrontam? A mensagem de Jeremias era incômoda, era sobre juízo e a necessidade de humilhação. Nossa tendência não é a de um Jeoaquim, mas a de um ouvinte moderno que, diante do desconforto, simplesmente muda de canal, fecha o livro, ou reduz a mensagem a uma abstraição teológica sem implicações pessoais. A lição pastoral aqui é profunda: a Palavra de Deus é viva, eficaz e indestrutível. Ela chega até nós por meio de vasos de barro – pastores, professores, amigos –, mas sua autoridade é a do próprio Deus. Podemos recebê-la com o temor reverente que leva ao arrependimento, como deveria ter feito o povo no templo. Podemos acolhê-la com uma reverência intermediária que a respeita, mas não se deixa transformar por ela, como os príncipes. Ou podemos, Deus nos livre, repetir o gesto frio de Jeoaquim, crendo que nosso poder, nosso status ou nossa opinião podem neutralizar sua verdade. A mensagem final do capítulo, porém, é de esperança teológica: o fogo humano é impotente. A Palavra permanece. E ela nos convida, hoje, não à fogueira do desprezo, mas ao coração quebrantado e contrito, que é o único altar onde o fogo do juízo divino se transforma em brasa que purifica, aquece e salva.

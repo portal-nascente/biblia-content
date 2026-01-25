@@ -1,16 +1,58 @@
 ---
 slug: "ezequiel-32-pregacao-tecnica"
-titulo: ""
+titulo: "O Último Lamento Sobre os Monstros: A Queda Final da Arrogância"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "32"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 32   O Último Lamento Sobre os Monstros: A Queda Final da Arrogância   Texto-base: Ezequiel 32:1-32  Eixo Teológico: A soberania universal de Yahweh,..."
+tags: ["batalha", "luto", "medo"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 32
 
+## ***O Último Lamento Sobre os Monstros: A Queda Final da Arrogância***
+
+## Texto-base: Ezequiel 32:1-32
+## Eixo Teológico: A soberania universal de Yahweh, o Deus de Israel, manifesta no juízo inexorável sobre os poderes mundiais que se exaltam contra Ele e oprimem o Seu povo, um juízo que é ao mesmo tempo terrível, pública e terminal.
+
+## Introdução
+
+Há um silêncio que precede o trovão mais devastador, uma calmaria que anuncia o furacão. No décimo segundo ano, no décimo segundo mês, ao primeiro dia do mês, a palavra do Senhor veio novamente a Ezequiel, o profeta do exílio. A Babilônia, o martelo de Deus, já havia desferido seu golpe contra Jerusalém. O templo era pó, a cidade, um montão de ruínas. E agora, a atenção profética, que havia chorado sobre a princesa dos povos, se volta para o sul, para o grande crocodilo do Nilo, para Faraó e para o Egito. Não é mais uma palavra de confronto para um povo rebelde, mas um cântico fúnebre, uma *qinah*, um lamento fúnebre entoado para um império ainda respirando, mas já morto diante dos olhos de Deus. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1565), observa que este capítulo serve como um solene lembrete de que Deus não é apenas o juiz de Sua igreja, mas o governador moral de toda a história, diante do qual todos os reis e nações devem prestar contas. Estamos, portanto, diante não de um oráculo político, mas de uma teodiceia pública, uma revelação do caráter santo de Deus aplicado aos corredores do poder mundial. A questão que paira sobre este texto não é se o Egito cairá, mas como a sua queda revela a glória dAquele que está entronizado acima dos círculos da terra.
+
+## Proposição
+
+O lamento de Ezequiel 32 demonstra, através de três imagens vívidas e terríveis, que o juízo de Deus sobre a arrogância autossuficiente das nações é (I) uma captura pessoal e humilhante do monstro que se fez deus, (II) um eclipse cósmico que apaga toda a luz da glória terrena, e (III) um sepultamento comum no Sheol, o grande nivelador, onde a pompa do poder se encontra com a poeira do esquecimento.
+
+## I. A Captura do Crocodilo: A Humilhação Pessoal do Poder que se Exalta
+
+O oráculo começa com uma metáfora já conhecida, mas agora levada à sua conclusão fatal. Faraó é o *tannin*, o grande monstro, o crocodilo ou dragão, deitado em seus rios. Ele turbava as águas com os pés e as enlameava. Sua força era sua identidade. O Nilo era sua veia vital, sua fonte de riqueza, poder e mitologia. Ele se via como um deus, um ser cósmico em seu domínio aquático. **Daniel I. Block**, em *The Book of Ezekiel: Chapters 25–48* (1998), salienta que a imagem não é de um animal inofensivo, mas de um predador aquático primordial, um símbolo do caos e da oposição à ordem criada de Deus. No mito cananeu e egípcio, o deus guerreiro derrota o monstro do mar para estabelecer a realeza. Aqui, Yahweh se apropria dessa linguagem para declarar: *Eu sou o verdadeiro Rei e Vencedor do Caos*. “Eis que eu estou contra ti, ó Faraó, rei do Egito”, diz o Senhor. A ação é direta, pessoal, íntima. O juízo não é impessoal.
+
+A cena descrita é de uma caçada divina. Yahweh lançará Sua rede—uma aliança de nações, a Babilônia—e, com uma companhia de muitos povos, fará com que o crocodilo seja arrastado para a terra. Será lançado sobre a face do campo, onde as aves de rapina e as feras da terra se banquetearão com sua carne. A imagem é de uma humilhação total. O que era temido nas profundezas é exposto na secura do deserto. O que se considerava invencível é reduzido a carniça. **Christopher J. H. Wright**, em *The Message of Ezekiel* (2001), vê aqui um princípio teológico crucial: a autodeificação e a opressão são inseparáveis. O monstro “turbava as águas”, uma imagem da desordem e injustiça que regimes arrogantes espalham, perturbando a vida dos povos. O juízo, portanto, não é arbitrário, mas a colheita necessária de uma semente de violência plantada. A terra será embebida com seu sangue, até os montes, e os cursos de água se encherão dele. É a inversão completa: as águas que eram seu trono se tornam seu túmulo líquido. Quando eu extinguir a tua luz, diz o Senhor. A primeira imagem é de captura e exposição. O poder, quando divorciado do temor de Deus, não passa de um monstro que será, mais cedo ou mais tarde, arrastado para a praia da história por Aquele que mediu as águas na concha de Sua mão.
+
+## II. O Eclipse do Sol: O Luto Cósmico pela Queda da Glória Terrena
+
+A segunda seção do lamento (vs. 7-8) eleva o drama do plano terrestre para o celeste. A queda de Faraó não é um evento local, mas um trauma cósmico. “E, quando tu se apagares, cobrirei os céus e enegrecerei as suas estrelas; com nuvens encobrirei o sol, e a lua não dará a sua luz. Todas as luzes brilhantes, no céu, eu as enegrecerei sobre ti e trarei trevas sobre a tua terra.” Esta linguagem é a linguagem do Dia do Senhor, aplicada agora a uma nação gentia. **Walther Eichrodt**, em *Ezekiel: A Commentary* (1970), interpreta este fenômeno não como mera poesia, mas como uma declaração teológica: a ordem criada está integralmente ligada ao seu Criador e ao Seu propósito moral. Quando um pilar principal da ordem humana—ainda que ímpio—desaba em juízo, todo o “sistema” visível treme. A luz que se apaga é a luz da glória egípcia, sua civilização, seu esplendor, sua influência. É o fim de uma era.
+
+Mas há uma profundidade ainda maior. O profeta está dizendo que a autossuficiência humana em sua forma mais grandiosa—a civilização que se constrói sem referência a Deus—é, em última análise, uma farsa iluminada por lâmpadas próprias. Quando Deus sopra sobre essas lâmpadas, a escuridão é absoluta. **Timothy Keller**, em suas reflexões sobre o ídolo do poder, frequentemente argumenta que a idolatria não é apenas quebrar um regra, é atribuir a uma coisa criada—seja nação, sucesso ou glória—a capacidade de fornecer a luz e o significado que só Deus pode dar. O Egito era um farol para o mundo antigo, mas seu farol era alimentado pelo combustível da arrogância. O eclipse descrito por Ezequiel é a retirada da permissão divina para que aquela luz falsa continue a brilhar. E as consequências são um luto universal: “Assustarei com a tua queda muitos povos, e os corações de muitos reis se horrorizarão, quando eu brandir a minha espada diante deles.” O terror que o Egito inspirava pela força será substituído pelo terror que sua queda inspira pela revelação do Juiz. A queda de um gigante é um sermão pregado a todos os outros gigantes. O sol pode se pôr para um império, mas é para que todos aprendam que há apenas um Sol da Justiça, cujo curso não pode ser obstruído.
+
+## III. A Descida ao Sheol: O Sepultamento Comum no Grande Nivelador
+
+A parte final e mais extensa do capítulo (vs. 17-32) é uma das passagens mais vívidas e sombrias de toda a Escritura. No trigésimo dia do mesmo mês, o lamento continua, mas o cenário muda da superfície da terra para as suas profundezas: o Sheol. O profeta é comandado a prantear a multidão do Egito e fazê-la descer, juntamente com outras nações poderosas, às regiões inferiores. O que se segue é um inventário fúnebre da história. **Paul M. Joyce**, em *Ezekiel: A Commentary* (2009), vê nesta descensão coletiva ao Sheol a demolição final da ideologia nacionalista. No mundo antigo, um herói morto em batalha poderia ser celebrado; um rei poderia ter uma tumba monumental. Mas aqui, a mensagem é que *todos* os poderes opressores, independentemente de seu esplendor, compartilham o mesmo destino final na poeira da morte, longe da glória de Deus.
+
+A Assíria está lá, com toda a sua multidão, seus túmulos ao redor dela, todos ela, traspassados pela espada. Elá e sua multidão estão ao redor de sua sepultura. Estão os príncipes do Norte—Meseque e Tubal—com toda a sua turbamulta, seus terrores passados agora neutralizados pela vergonha eterna. Edom está lá, seus reis e príncipes, que, apesar de sua astúcia, foram postos com os traspassados. Todos os príncipes do Zinri e os sidônios desceram com os traspassados, envergonhados pelo terror que causaram em vida. E então, para Faraó, o veredito final: “Ele verá a todos e se consolará por toda a sua multidão… Faraó e todo o seu exército, traspassados pela espada, diz o Senhor Deus.” A cena é de uma ironia divina profundamente perturbadora. No Sheol, o conforto de Faraó é ver que não está sozinho em sua ruína. A solidariedade da condenação é seu único consolo. **Iain Duguid**, em *Ezekiel* (1999), aponta que esta descrição serve para minar qualquer noção de glória póstuma para o poder ímpio. A fama, o medo que inspiravam, os monumentos—tudo é reduzido a uma posição comum entre os mortos, não-distingíveis em sua humilhação.
+
+Este é o grande nivelador. O Sheol não faz distinção entre o carrasco e a vítima no que diz respeito ao poder terreno? Não, a distinção aqui é teológica. Estes são os que “aterrorizavam a terra dos viventes”. O juízo é sobre o *uso* do poder. O conforto perverso que encontram uns nos outros é a confirmação de que sua sentença é justa e coletiva. E, num golpe final de clímax teológico, o profeta coloca o próprio Faraó, o deus-autoproclamado, em seu lugar: “Deitado no meio dos incircuncisos, com os traspassados pela espada.” A circuncisão, o sinal da aliança, está ausente. Eles estão fora do povo de Deus, fora das promessas, fora da esperança. A mensagem para o exílio de Judá é clara: confiar no Egito, temer o Egito, admirar o Egito, é confiar, temer e admirar um cadáver em decomposição na câmara mortuária das nações. A verdadeira segurança, a verdadeira glória, está apenas em pertencer ao Deus vivo, cujo trono está acima dos céus e cujo domínio se estende até às profundezas do Sheol.
+
+## Conclusão
+
+Então, o que este lamento fúnebre por um império há muito desaparecido tem a dizer a nós, que vivemos sob o brilho de novos impérios, de novas autocontemplações, de novas formas de turbarmos as águas com nossos pés? A palavra de Ezequiel 32 é uma sentença gravada não apenas na história do Egito, mas na parede de toda civilização que ergue seu monumento à autonomia humana. Primeiro, ela nos adverte que todo poder que se exalta será humilhado. O crocodilo será arrastado para a praia. A rede de Deus, tecida com os fios da providência e da história, é infalível. Segundo, ela declara que toda luz que não é reflexo dAquele que é a Luz se extinguirá em trevas cósmicas. O eclipse é certo. A cultura, a tecnologia, o progresso, quando divorciados do temor do Senhor, são apenas um crepúsculo prolongado. E por fim, ela proclama o veredito final: o Sheol aguarda. O grande nivelador recebe todos os orgulhosos, todos os opressores, todos os que aterrorizaram a terra dos viventes. Eles terão apenas a companhia uns dos outros, na fria solidariedade da condenação.
+
+Mas, oh, há uma esperança que brilha através deste texto sombrio! Porque há Um que também desceu. Um que também foi contado com os transgressores. Um que foi traspassado por nossas transgressões. Ele desceu às profundezas, ao lugar dos mortos, mas não para ficar. Ele quebrou as portas do Sheol por dentro. E porque Ele ressuscitou, aquele que nEle crê não verá a corrupção. A nós, que nos refugiamos no Cordeiro traspassado, é prometido não um sepultamento entre os incircuncisos, mas uma ressurreição entre os primogênitos. O juízo que caiu sobre Faraó caiu, em sua plenitude, sobre Cristo no Calvário, para que a graça que levanta os abatidos pudesse chegar até a nós. Portanto, hoje, a escolha se coloca: identificar-se com o crocodilo que será capturado, ou com o Cordeiro que já foi sacrificado? Confiar na luz que se apaga, ou nAquele que é a Luz do mundo? Temer a descida ao Sheol, ou seguir Aquele que já percorreu suas profundezas e saiu vitorioso? A queda dos monstros é certa. A vitória do Cordeiro já está consumada. Em qual reino você fará a sua morada?
+
+## **Amém.**

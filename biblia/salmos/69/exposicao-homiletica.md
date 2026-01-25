@@ -1,16 +1,49 @@
 ---
 slug: "salmos-69-pregacao-tecnica"
-titulo: ""
+titulo: "O Grito no Abismo e o Cântico no Monte: A Oração do Sofredor Justo"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "69"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 69   O Grito no Abismo e o Cântico no Monte: A Oração do Sofredor Justo   Texto-base: Salmos 69 (Integral)   Eixo Teológico: A oração angustiada do ser..."
+tags: ["amor", "futuro"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 69
 
+## ***O Grito no Abismo e o Cântico no Monte: A Oração do Sofredor Justo***
+
+## Texto-base: Salmos 69 (Integral)
+
+## Eixo Teológico: A oração angustiada do servo sofredor, que, imerso nas águas do abandono humano, clama pela justiça divina e, em sua agonia, profeticamente delineia o caminho do Cristo rejeitado, encontrando, por fim, o fundamento da esperança na fidelidade salvadora de Deus.
+
+## Introdução
+
+Imaginemos um homem à beira de um pântano traiçoeiro. Não um pântano qualquer, mas aquele lamaçal profundo e sem fundo, onde não se pode firmar os pés. As águas não são refrescantes; são águas de aflição, turvas pela lama da calúnia e amargas pelo fel da rejeição. Ele está ali, não por acidente, mas porque foi empurrado. Sua devoção a Deus o colocou naquela posição. Cada grito por socorro parece ser abafado pela própria viscosidade do ambiente. Seus inimigos riem à margem, seguros em terra firme. Este é o cenário vívido que o salmista, tradicionalmente associado a Davi em sua perseguição, mas que ecoa com uma profundidade cristológica inegável, pinta para nós no Salmo 69. Não estamos diante de um lamento qualquer; estamos diante da anatomia da angústia piedosa, do diário de um coração que ama a Deus e é, por isso mesmo, odiado pelo mundo. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa que este salmo "exibe a condição geral da Igreja, e de cada membro dela, em meio às perseguições do mundo". É um espelho para toda alma que, por causa da justiça, se vê afogando em águas que não são suas. Hoje, mergulharemos nessas águas profundas para descobrir não apenas o grito do salmista, mas o eco do Gólgota e a promessa segura da ressurreição.
+
+## Proposição
+
+Através do lamento intenso do Salmo 69, aprendemos que o caminho do servo fiel frequentemente atravessa o vale da rejeição profunda e do sofrimento imerecido, mas que neste mesmo vale, o clamor por justiça divina se funde com a submissão à vontade de Deus, projetando uma sombra profética da obra de Cristo e encontrando sua âncora final não na vindita pessoal, mas na certeza do livramento e louvor vindouros que Deus mesmo garantirá.
+
+## I. As Águas do Abandono: O Clamor do Injustiçado que Afunda
+
+*“Salva-me, ó Deus, pois as águas me sobem até ao pescoço. Estou atolado em profundo lamaçal, onde não se pode firmar o pé; entrei nas profundezas das águas, e a correnteza me submerge”* (v.1-2). O salmista não começa com uma queixa sussurrada, mas com um brado de desespero. A metáfora aquática é avassaladora e progressiva: águas que sobem, um lamaçal sem fundo, profundezas oceânicas, uma correnteza irresistível. É a sensação de ser tragado por forças que estão além do seu controle. **Derek Kidner**, em seu precioso *Psalms 1–72* (1973), nota que esta "descrição vívida de um afogamento" simboliza "uma situação de extremo perigo e desamparo". Mas qual é a fonte dessas águas? O salmista é explícito: não é por um pecado oculto (v.5), mas *“por tua causa suporto afrontas, e o vexame cobre o meu rosto. Tornaste-me estranho a meus irmãos, e desconhecido para os filhos de minha mãe; pois o zelo da tua casa me consumiu, e as afrontas dos que te afrontam caíram sobre mim”* (v.7-9). Aqui reside a chave de sua agonia: seu sofrimento é *vicário*, é um sofrimento por associação. Seu zelo por Deus, pela casa de Deus, tornou-o um alvo. A rejeição é total, vinda até dos mais íntimos. Ele chora até ficar exausto, espera por Deus até que seus olhos falhem (v.3). **Augustus H. Strong**, o sistemático batista, em sua *Systematic Theology* (1907), ao discutir a imputação do pecado, vê neste salmo um reflexo da solidão do Redentor, pois "Cristo, embora santo, sofreu como se fosse culpado". O salmista experimenta um antegosto dessa solidão. Sua oração não é por vingança imediata, mas por um Deus que vê: *“Tu, porém, conheces a minha afronta, a minha vergonha e a minha ignomínia; diante de ti estão todos os meus adversários”* (v.19). O primeiro movimento da alma piedosa em meio ao abandono não é o contra-ataque, mas o derramamento perante Aquele que conhece todas as coisas.
+
+## II. O Fel da Traição e a Taça da Intercessão: A Sombra da Cruz no Lamento
+
+O salmista detalha sua dor: é traído na mesa da comunhão (*“Até mesmo o pão que como se tornou em afronta para mim”* – v.21, Almeida), é dado fel para comida e vinagre para sede (v.21). A crueldade é refinada, aproveita-se dos gestos mais básicos de sustento para infligir tormento. Não é difícil para o leitor do Novo Testamento ver aqui um padrão que se cumpre com uma precisão arrepiante na paixão de Cristo. O apóstolo João vê no verso 9 (*“o zelo da tua casa me consumiu”*) uma descrição exata de Jesus ao limpar o templo (João 2:17). O apóstolo Paulo aplica o verso 9b (*“as afrontas dos que te afrontam caíram sobre mim”*) diretamente a Cristo (Romanos 15:3). E, de forma mais pungente, o oferecimento de fel e vinagre na cruz (Mateus 27:34, 48) é um cumprimento direto do verso 21. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), argumenta que os Salmos, especialmente os de lamento, são "a linguagem do Mediador sofredor", e que em Salmo 69 "a voz do salmista se funde com a voz de Cristo". Este é o milagre da inspiração: o salmista, em sua dor histórica e pessoal, é levado pelo Espírito a articular uma dor cósmica e redentora. Mas há uma virada crucial. No auge de seu sofrimento, o salmista não pede apenas por seu próprio livramento; sua oração se expande: *“Acrescenta iniquidade à iniquidade deles, e não tenham parte na tua justiça. Sejam riscados do livro da vida e não sejam inscritos com os justos”* (v.27-28). Estas são as chamadas "imprecações", palavras que chocam o leitor moderno. **John Piper**, em *Desiring God* (1986), oferece uma chave hermenêutica vital: estas não são explosões de raiva vingativa, mas *“súplicas para que a justiça de Deus prevaleça sobre o mal persistente e blasfemo”*. É um apelo para que Deus defenda a honra do seu Nome, manchada pelos que oprimem o seu servo. É a oração de um homem que, identificado com a causa de Deus, deseja que o mal não triunfe definitivamente. Na cruz, Cristo, o verdadeiro Salmista, encarna esta intercessão de forma transformadora: “Pai, perdoa-lhes, porque não sabem o que fazem” (Lucas 23:34). A justiça que o salmista invoca, Cristo a absorve em si mesmo, convertendo a maldição em bênção potencial para todo aquele que crê.
+
+## III. O Cântico que Brota do Lodo: A Certeza do Louvor que Vem do Monte
+
+Apesar da profundidade do desespero, o salmo não termina no lamaçal. Há uma transição marcante, uma fenda de luz no céu escuro. *“Eu, porém, estou aflito e sofrendo; a tua salvação, ó Deus, me ponha a salvo num alto monte... Louvarei o nome de Deus com cânticos e proclamarei sua grandeza com ações de graças”* (v.29-30). A imagem muda radicalmente: das águas profundas para um *alto monte*, lugar de segurança, visão e encontro com Deus. O salmista antevê, pela fé, um livramento tão certo que já começa a compor o hino de gratidão. **Geerhardus Vos**, o pai da teologia bíblica, em *The Pauline Eschatology* (1930), ensina que a esperança no Antigo Testamento frequentemente assume esta forma de "prolepsis do louvor", onde a certeza da fidelidade de Deus permite que o crente cante do futuro como se fosse presente. O salmista sabe que o seu Deus *“ouve os necessitados e não despreza o seu povo, que está preso”* (v.33). O clímax é uma visão que transcende sua situação pessoal: *“Pois Deus salvará a Sião e reconstruirá as cidades de Judá. O povo ali viverá e possuirá a terra; a descendência dos seus servos a herdará, e nela habitarão os que amam o seu nome”* (v.35-36). O sofrimento do indivíduo não é um fim em si; está conectado ao grande plano redentor de Deus para o seu povo. **Oswald Chambers**, em *My Utmost for His Highest* (1927), refletindo sobre a obra de Deus no sofrimento, escreve: "Deus está construindo um palácio; Ele precisa cavar fundo para colocar os alicerces da glória". O salmista, em sua agonia, está sendo usado como uma pedra fundamental nessa construção. Sua oração termina não com um gemido, mas com uma profecia de restauração cósmica. Aquele que clamou das profundezas termina apontando para os céus novos e a terra nova onde a justiça habita. A sua história pessoal de sofrimento se dissolve na grande história da salvação de Deus.
+
+## Conclusão
+
+Irmãos, o Salmo 69 é um mapa para a alma em aflição. Ele nos ensina que não há profundidade de abandono, traição ou dor que esteja fora do alcance da oração. O servo de Deus pode, *deve*, clamar com toda a honestidade de seu ser aflito. Ele nos mostra que o sofrimento por causa da justiça não é um sinal do abandono de Deus, mas, paradoxalmente, um sinal de nossa união com Aquele que foi "desprezado e rejeito pelos homens, homem de dores e que sabe o que é padecer" (Isaías 53:3). Cada gota de fel que o salmista experimentou foi um prenúncio do cálice que Cristo beberia por nós. Mas o salmo também nos ergue do pó. Ele nos tira das águas turbulentas e nos coloca no alto monte da promessa. A mesma fé que nos permite clamar das profundezas é a que nos permite cantar do cume. Sua mensagem final é esta: o sofrimento do justo nunca é o último capítulo. Há um livramento vindouro, há um louvor preparado, há uma cidade que será reconstruída. O Deus que ouviu o clamor de Davi, que sustentou o Filho Davídico na cruz, é o mesmo que ouve o seu clamor hoje. Ele não está distante do seu lamaçal. Ele está nele com você. E Ele já está preparando o seu cântico de vitória. Clame a Ele. Confie nEle. Espere nEle. O amanhecer do monte está prestes a raiar.
+
+## **Amém.**

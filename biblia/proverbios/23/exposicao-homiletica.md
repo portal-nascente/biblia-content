@@ -1,16 +1,56 @@
 ---
 slug: "proverbios-23-pregacao-tecnica"
-titulo: ""
+titulo: "O Banquete da Sabedoria e os Venenos do Coração"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "proverbios"
 capitulo: "23"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Provérbios 23   O Banquete da Sabedoria e os Venenos do Coração   Texto-base: Provérbios 23  Eixo Teológico: A verdadeira sabedoria, dom da graça de Deus, é u..."
+tags: ["amor", "futuro"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Provérbios 23
 
+## ***O Banquete da Sabedoria e os Venenos do Coração***
+
+## Texto-base: Provérbios 23
+## Eixo Teológico: A verdadeira sabedoria, dom da graça de Deus, é um banquete que nutre a alma e imuniza o coração contra os venenos sutis da ganância, da luxúria e da inveja, conduzindo-nos ao temor do Senhor.
+
+## Introdução
+
+Imaginemos, por um momento, um grande salão, um verdadeiro palácio. À mesa principal, um rei generoso estende um convite não para seus cortesãos, mas para qualquer viajante, qualquer homem comum que passe pelo caminho. A mesa está posta com os manjares mais finos, os vinhos mais puros, os pães mais macios. É um banquete de graça, oferecido gratuitamente. Contudo, ao redor dessa mesa real, nas sombras do salão, outros vendedores ambulantes oferecem suas iguarias: taças reluzentes com líquidos que adormecem a alma, pratos de ouro que contêm veneno para o caráter, iguarias que prometem deleite mas entregam apenas ruína. Este, meus amados, é o cenário vívido que o sábio, inspirado pelo Espírito, pinta para nós no capítulo vigésimo terceiro do Livro dos Provérbios. Não se trata de uma coleção aleatória de máximas, mas de um mapa espiritual intenso, um tratado sobre os apetites da alma. Aqui, somos confrontados com a escolha fundamental: nos assentaremos à mesa do Rei, cujo filho é a própria Sabedoria encarnada, ou nos deixaremos seduzir pelos banquetes efêmeros que o mundo, a carne e o príncipe das trevas nos estendem? O convite está feito. A escolha, como nos lembrará o texto, é de vida ou morte.
+
+## Proposição
+
+O capítulo de Provérbios 23 nos ensina, através de três grandes metáforas existenciais, que a vida sob o temor do Senhor é um constante discernimento entre o banquete divino que sacia e os venenos mundanos que corrompem, exigindo de nós vigilância sobre nossos apetites mais profundos.
+
+## I. O Controle do Apetite Externo: A Faca Invisível sobre a Garganta do Ganancioso
+
+Os primeiros versículos deste capítulo soam com a crueza de um diagnóstico cirúrgico: “Quando te assentares a comer com um governante, considera atentamente o que está diante de ti; põe uma faca à tua garganta, se és homem de grande apetite. Não cobices os seus manjares delicados, porque é comida enganosa” (Pv 23:1-3, ARA). A cena é social, mas a doença é espiritual: a ganância, o desejo incontrolável de possuir o que é do outro, de ascender por meio da bajulação e da cobiça. **Bruce K. Waltke**, em seu monumental *The Book of Proverbs, Chapters 15–31* (2005), observa que esta “faca à garganta” é a mais vívida das metáforas para o autocontrole. Não é um chamado à automutilação, mas à mortificação. É a imagem de um homem que, para não se render a um apetite que o destruiria, aplica sobre si mesmo a disciplina mais severa. O “governante” aqui representa qualquer fonte de poder ou riqueza que nos tenta a trocar nossa integridade por migalhas de status. A “comida enganosa” não é venenosa ao estômago, mas à alma: ela promete prosperidade, mas entrega dependência; promete aceitação, mas escravidão.
+
+O sábio prossegue, ligando este apetite à efemeridade das riquezas: “Não trabalhes para ser rico; dá de mão à tua própria sabedoria. Fitando tu os olhos nas riquezas, elas se vão; pois fazem para si asas, como a águia que voa pelos céus” (Pv 23:4-5). Aqui, a voz do pregador adquire o tom grave de **Jeremiah Burroughs**, o puritano que, em *The Rare Jewel of Christian Contentment* (1648), nos ensinaria que a alma que busca a riqueza como fim último está sempre em fuga de si mesma. As riquezas têm asas. Elas são, por natureza, instáveis e fugidias. Trabalhar *para* ser rico é diferente de trabalhar *sendo* diligente. O primeiro é uma idolatria do resultado; o segundo, uma mordomia do processo dado por Deus. O apetite descontrolado por mais—mais comida, mais riqueza, mais status—é um buraco negro na alma que nenhuma posse material pode preencher. **Timothy Keller**, em *Counterfeit Gods* (2009), argumenta de forma penetrante que a riqueza, quando se torna um ídolo, exige de nós um sacrifício perpétuo de tempo, relações e integridade, apenas para, no final, alçar voo e nos deixar na mais profunda pobreza espiritual. A faca à garganta, portanto, é o símbolo da graça comum que nos permite dizer “não” ao apetite desordenado, e da graça especial que nos aponta para Aquele que é o Pão da Vida, o único que pode saciar nossa fome última.
+
+## II. O Cuidado do Apetite Interno: A Fonte da Vida e os Poços Secos da Luxúria e da Embriaguez
+
+Se a primeira advertência trata do que desejamos *ter*, a segunda mergulha nas profundezas do que desejamos *ser* e *experimentar*. O sábio volta-se para os relacionamentos e para os prazeres que buscam anestesiar o coração. “Não fales aos ouvidos do tolo, porque desprezará a sabedoria das tuas palavras” (Pv 23:9). E, de forma mais aguda, adverte sobre os perigos da embriaguez e da luxúria: “Não olhes para o vinho quando se mostra vermelho, quando resplandece no copo e se escoa suavemente. No seu fim, morderá como a cobra, e como o basilisco picará” (Pv 23:31-32). A descrição é quase poética em sua sedução, o que torna o desfecho ainda mais chocante. **Derek Kidner**, em *Proverbs: An Introduction and Commentary* (1964), comenta que este é um dos mais poderosos retratos das consequências do vício em toda a literatura bíblica. O vinho brilha, promete suavidade, prazer, escape. Mas seu fim é o veneno de uma serpente, uma picada que paralisa e mata.
+
+Este apetite por fuga e prazer proibido está intrinsecamente ligado ao coração. “Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida” (Pv 23:26, ARA). Eis o versículo-charneira do capítulo. **John Flavel**, o puritano, dedicou um tratado inteiro a este versículo: *Keeping the Heart* (1671). Para Flavel, guardar o coração é “o trabalho santo e diligente, pelo qual o crente mantém sua alma livre dos pecados e resiste às tentações que o assediam”. O coração, na antropologia bíblica, não é o assento romântico das emoções, mas o centro unificado da personalidade humana—intelecto, emoção e vontade. É a fonte. Se a fonte for envenenada pelo vinho da embriaguez, pela água parada da imoralidade (“Não cobices a sua formosura no teu coração”, Pv 23:33a), ou pelo lodo da companhia corrupta (“Não estejas entre os beberrões de vinho, nem entre os comilões de carne”, Pv 23:20), toda a vida que dela emana estará contaminada. O apelo do sábio é paternal: “Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando ela envelhecer” (Pv 23:22). É um apelo à tradição da sabedoria, à aliança familiar da fé, como antídoto para os poços secos que o mundo oferece. **Herman Bavinck**, em nossa *Reformed Dogmatics* (1906), nos lembraria que a santificação é, em essência, a obra do Espírito Santo em redirecionar nossos apetites, em fazer com que a fonte do coração jorre para Deus, encontrando no temor do Senhor a sua alegria suprema e mais doce.
+
+## III. A Direção do Apetite Eterno: A Alegria do Coração que Segue a Sabedoria
+
+O capítulo não é apenas uma série de advertências sombrias. Entre os “nãos” ressoa um “sim” glorioso e convidativo. É o sim da Sabedoria personificada, que aqui fala como um pai amoroso e um mestre compassivo: “Não tenha o teu coração inveja dos pecadores; antes, no temor do SENHOR persevera todo o dia. Porque certamente há um futuro, e a tua esperança não será frustrada” (Pv 23:17-18, ARA). A inveja é o último veneno do apetite: desejar a porção aparentemente folgada e prazerosa daqueles que vivem sem Deus. Contra isso, o antídoto é o *temor do SENHOR* e a *esperança no futuro*. Esta esperança não é um otimismo vago, mas uma certeza escatológica. **Geerhardus Vos**, o pai da teologia bíblica reformada, em *The Pauline Eschatology* (1930), demonstraria como o Antigo Testamento já pulsava com esta esperança futura, uma expectativa de que a justiça de Deus seria plenamente vindicada. O sábio que teme ao Senhor pode olhar para o banquete efêmero do pecador e não cobiçá-lo, porque seus olhos estão fitos em um banquete eterno.
+
+E quem é o modelo supremo deste coração sábio? “Dá-me, filho meu, o teu coração, e os teus olhos se agradem dos meus caminhos” (Pv 23:26). Este é o clímax do convite. A Sabedoria divina, que em Cristo se fez carne, clama não por uma obediência mecânica, mas por uma entrega afetiva e total do centro do nosso ser. **Charles Spurgeon**, em seu sermão “The Great Bank-Note Case” (1862), bradaria com sua eloqüência característica: “Ele não diz, ‘Dá-me teus bens, teu trabalho, teu talento’, mas ‘Dá-me o teu *coração*’… Pois se Ele tem o coração, Ele tem tudo”. Quando o coração é dado a Deus, os apetites são redimidos. A disciplina, antes um fardo, torna-se doce: “Não retires a disciplina da criança; pois se a fustigares com a vara, não morrerá. Tu a fustigarás com a vara e livrarás a sua alma do inferno” (Pv 23:13-14). Até a correção é um ato de amor do Pai celestial, que nos disciplina para o nosso bem, “a fim de sermos participantes da sua santidade” (Hb 12:10). **Martyn Lloyd-Jones**, em *Spiritual Depression: Its Causes and Cure* (1965), nos conduziria a ver que a alegria cristã não é a ausência de dor, mas a presença de um fundamento inabalável mesmo no meio da dor. O coração que segue a Sabedoria encontra, por fim, um gozo que nenhum veneno do mundo pode contaminar: “O justo se alegrará muito no SENHOR, e confiará nele; e todos os de coração reto se gloriarão” (Sl 64:10, ecoando o espírito de Provérbios).
+
+## Conclusão
+
+Assim, chegamos ao fim deste banquete de palavras. Provérbios 23 nos deixou com um sabor inconfundível na boca da alma. De um lado, o amargor mortal dos venenos: a ganância que nos faz colocar uma faca à própria garganta espiritual; a luxúria e a embriaguez que picam como serpentes; a inveja que corrói a alegria. De outro, o sabor doce e eterno do pão da Sabedoria, que é Cristo. Ele é o Governante à cuja mesa somos verdadeiramente convidados, não por nossos méritos, mas por sua graça. Ele é a Fonte de água viva que jorra para a vida eterna, limpando nossa fonte interior. Ele é o Pai que disciplina os que ama e a quem podemos, com segurança e alegria, entregar nosso coração.
+
+O apelo final, portanto, não é para uma mera reforma de comportamento. É para uma conversão do apetite. É para que você deixe os pratos vazios do mundo e se assente, hoje, à mesa do Rei. É para que você guarde seu coração, não no sentido de trancá-lo em desconfiança, mas de entregá-lo Àquele que pode guardá-lo de tropeçar. A faca do autocontrole, a vigilância sobre as fontes, a esperança no futuro—todas são dons da graça, frutos de um coração que aprendeu a temer e a amar ao Senhor. Que o Espírito Santo aplique esta palavra aos nossos corações, transformando nossos desejos mais profundos, para que vivamos não como escravos dos apetites, mas como filhos livres, banqueteados na casa do Pai, para sempre.
+
+## **Amém.**

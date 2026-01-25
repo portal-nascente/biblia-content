@@ -1,16 +1,58 @@
 ---
 slug: "salmos-85-pregacao-tecnica"
-titulo: ""
+titulo: "Entre o Cântico da Graça e o Gemido da História: A Tensão Escatológica do Avivamento"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "85"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 85   Entre o Cântico da Graça e o Gemido da História: A Tensão Escatológica do Avivamento   Texto-base: Salmos 85  Eixo Teológico: O Avivamento genuíno..."
+tags: ["amor", "futuro"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 85
 
+## ***Entre o Cântico da Graça e o Gemido da História: A Tensão Escatológica do Avivamento***
+
+## Texto-base: Salmos 85
+## Eixo Teológico: O Avivamento genuíno é a manifestação histórica e experiencial da graça já conquistada, operando em um povo que vive na tensão entre o "já" da redenção e o "ainda não" da consumação.
+
+## Introdução
+
+Há uma melodia que percorre a alma do povo de Deus através dos séculos, uma composição que oscila entre o tom maior da gratidão e o tom menor da súplica. É a música da memória e da esperança, do que já se provou e do que ainda se aguarda. O Salmo 85 nos coloca precisamente nesse intervalo sagrado, nesse espaço tenso e fértil entre um livramento passado, celebrado com júbilo, e uma restauração futura, almejada com ardente expectativa. Não é o canto ingênuo de quem ignora as sombras do presente, nem o lamento desesperançado de quem esqueceu as luzes do passado. **Hermann Gunkel**, em *Introduction to the Psalms* (1967), classifica esta oração como uma "súplica comunitária pós-exílica", um gemido litúrgico de um povo que retornou geograficamente, mas que ainda aguarda o pleno retorno do favor divino. É a oração de uma congregação que habita no "e já" – já restaurados do cativeiro – e no "mas ainda" – mas ainda não experimentaram o avivamento prometido. Nesta noite, queridos, não observaremos um artefato histórico distante, mas um espelho da condição da igreja peregrina em qualquer era, inclusive a nossa: uma comunidade salva, justificada, reconciliada, que, no entanto, caminha por um vale de ossos secos, clamando pelo sopro vivificador do Espírito.
+
+## Proposição
+
+Portanto, proponho-vos esta noite, a partir do Salmo 85, que o caminho para o avivamento autêntico é trilhado na trilogia da memória da graça, da confissão presente e da esperança escatológica, demonstrando que Deus responde ao gemido de Seu povo não com novidades, mas com a profundização das realidades eternas de Sua aliança.
+
+## I. A Memória como Alicerce da Súplica: O Avivamento é uma Obra na Continuidade da Graça (vs. 1-3)
+
+O salmo não começa com um grito de desespero, mas com um murmúrio de gratidão. "Foste favorável à tua terra, ó Senhor" (v.1a). A primeira palavra do salmista é um verbo no passado: *rastah*, "agradaste-te", "achaste favor". A oração por um novo avivamento nasce do solo fértil da memória de um avivamento anterior. A fé que suplica pelo futuro é a mesma que recorda o passado. Observe a tríade de ações divinas celebradas: favor à terra, fim do cativeiro, perdão da iniquidade. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), vê aqui a essência do caráter de Deus em ação: "Ele aqui celebra a graça de Deus, pela qual tinha sido reconciliado com o seu povo... pois nada nos pode acontecer de mais desejável do que Deus estar em paz conosco." A petição futura é legitimada pela experiência histórica. O povo não pede algo que Deus nunca fez; pede que Ele seja, novamente, quem Ele já se revelou ser.
+
+E aqui reside uma verdade profunda, muitas vezes negligenciada em nossos clamores por renovação: não suplicamos por um Deus diferente, mas pelo mesmo Deus, agindo em consonância com o Seu caráter imutável. "Retiraste a culpa do teu povo e cobriste todos os seus pecados" (v.2). O termo hebraico *kissah*, "cobrir", é aquele mesmo usado no Dia da Expiação, apontando para uma expiação completa, uma cobertura que remove da vista. **Derek Kidner**, em *Psalms 73–150* (1975), nota que "a linguagem é sacrificial", indicando que a base de toda restauração, passada ou futura, é a obra expiatória. O verso 3 então declara: "Retiraste toda a tua ira e te afastaste do furor da tua indignação." A ira, aqui, não é um capricho divino, mas a resposta santa à violação da aliança. O seu afastamento é a consequência do perdão. A memória, portanto, não é mera nostalgia; é teologia aplicada. É lembrar que o avivamento não é primeiro um êxtase emocional, mas um retorno à paz com Deus, fundamentada no perdão judicialmente concedido. Nossa oração por avivamento deve sempre começar aqui: "Senhor, tu já fizeste. Tu já perdoaste. Tu já te reconciliaste. Agora, faze-o novamente, de maneira visível, palpável, transformadora em nosso meio." A súplica é por uma manifestação presente de uma realidade eterna.
+
+## II. A Confissão como Condição da Intervenção: O Avivamento Exige o Reconhecimento da Tensão Presente (vs. 4-7)
+
+Aqui a melodia muda. Do majestoso *andante* da memória, passamos ao *largo* suplicante da confissão. "Restaura-nos, ó Deus, nossa salvação, e da sobre nós a tua indignação!" (v.4). O verbo *shuv*, "restaurar", "fazer voltar", é crucial. Implica que algo se perdeu, desviou-se. Apesar do perdão passado e da restauração nacional, algo da plenitude da salvação (*yeshuah*) e do favor (*ratson*) divino parece ausente. É a experiência da igreja de Éfeso em Apocalipse 2: abandonou o primeiro amor. É o paradoxo do crente justificado que, no entanto, clama: "Miserável homem que eu sou!" O salmista não nega a realidade da graça passada; ele confessa a carência da graça presente. **Willem A. VanGemeren**, em *The Expositor's Bible Commentary* (1991), observa que a petição "da sobre nós a tua indignação" é surpreendente, mas reveladora. É um reconhecimento de que a ausência do favor pleno tem, em si, um sabor de juízo, uma suspensão da alegria da comunhão.
+
+Os versos 5-7 ampliam este gemido com uma série de perguntas angustiadas e retóricas: "Estarás indignado conosco para sempre? Prolongarás a tua ira de geração em geração?" (v.5). A questão não é sobre a ira judicial do verso 3, já afastada, mas sobre a ira paternal, disciplinadora, que parece persistir. É a sensação de que Deus está distante, que Suas bênçãos são contidas. E então, no ápice desta seção, surge a petição central: "Não voltarás a dar-nos vida, para que o teu povo se alegre em ti?" (v.6). A expressão "dar-nos vida" é o poderoso *techayyenu*, do verbo *chayah*, "viver", "reviver". Este é o coração do conceito de avivamento: não uma reforma moral, mas uma ressurreição espiritual, um sopro de vida divina que desperta a alma adormecida e a faz pulsar novamente de alegria *em Deus*. A alegria não é no avivamento em si, mas no Deus que aviva. **J. I. Packer**, em seu clássico *Entre os Gigantes de Deus* (1991), ao falar dos puritanos e seu anseio por avivamento, diria que este é o objetivo: uma renovação tal que "Deus se torna gloriosamente central na vida das pessoas". O verso 7 então conclui este movimento suplicante: "Mostra-nos a tua misericórdia, ó Senhor, e concede-nos a tua salvação." (*chesed* e *yeshuah*). A confissão da necessidade não termina em desespero, mas em um apelo direto aos atributos imutáveis de Deus: Sua misericórdia leal da aliança e Seu poder salvador. O avivamento é, portanto, um derramamento especial de *chesed*, a graça covenantal, em resposta ao reconhecimento humilde de nossa morte espiritual.
+
+## III. A Esperança como Certeza da Resposta: O Avivamento é a Colisão da Fidelidade Divina com a Realidade Humana (vs. 8-13)
+
+Aqui ocorre uma virada dramática. Do "eu" suplicante da comunidade, passamos para o "eu" profético do salmista, possivelmente um levita ou sacerdote, que se coloca para ouvir a resposta de Deus. "Escutarei o que Deus, o Senhor, disser" (v.8a). A oração dá lugar à escuta. E o que ele ouve não é uma nova lei, mas uma reafirmação da antiga promessa de paz (*shalom*) para o seu povo, os seus santos, com a condição imperativa: "que não voltem à insensatez" (v.8b). A resposta de Deus ao clamor por avivamento começa com um chamado à fidelidade, ao retorno perseverante. **Hans-Joachim Kraus**, em *Psalms 60–150* (1989), vê aqui a estrutura da aliança: a graça prometida exige a resposta obediente do povo. O avivamento não é mágico; é relacional.
+
+Então, os versos 9-13 desdobram-se em uma das mais belas e ricas descrições poéticas da salvação em toda a Escritura. A "salvação" (*yeshuah*) está "próxima" daqueles que O temem (v.9). Não é mais um objeto distante de súplica, mas uma realidade iminente para os reverentes. E então, num movimento de genialidade teopoética, quatro atributos divinos são personificados em um cortejo nupcial cósmico: "A fidelidade (*emet*) e a misericórdia (*chesed*) se encontraram; a justiça (*tsedeq*) e a paz (*shalom*) se beijaram" (v.10). Este é o clímax do Salmo e o cerne da teologia do avivamento. **Geerhardus Vos**, em *Biblical Theology* (1948), explicaria que aqui temos a "harmonia dos atributos divinos na obra da redenção". No Calvário, a fidelidade de Deus às Suas promessas e Sua misericórdia para com os pecadores encontraram-se. No mesmo evento, a justiça que exige punição e a paz que anseia pela reconciliação beijaram-se. O avivamento é a irradiação histórica e experiencial deste encontro cósmico e eterno. É quando a igreja vive, sente e proclama de forma vívida que em Cristo não há dicotomia entre a santidade e o amor de Deus.
+
+A cena final (vs. 11-13) é de fertilidade e fecundidade resultantes desta reconciliação: "A fidelidade brota da terra, e a justiça olha dos céus" (v.11). A bênção covenantal de Deuteronômio 28 é poetizada. A justiça divina não é mais uma sentença, mas um olhar benéfico. O próprio Senhor dará o que é bom (v.12a), e a justiça (*tsedeq*) irá adiante dEle, preparando o caminho para os Seus passos (v.13). **Alec Motyer**, em *The Psalms* (2016), vê aqui uma "imagem do Senhor voltando para o seu povo", com a justiça como Seu arauto. O avivamento, portanto, é a visitação de Deus, onde os atributos que pareciam em conflito em nossa experiência se revelam harmoniosos, produzindo uma colheita de verdade, bondade e retidão na vida da comunidade. É a chegada prática do reino de Deus.
+
+## Conclusão
+
+Irmãos, o Salmo 85 nos ensina que clamar por avivamento não é um exercício de criatividade espiritual, mas de memória, humildade e esperança teológica. Não estamos invocando um estranho, mas suplicando ao nosso Redentor histórico que repita, em profundidade e poder, a obra que já consumou em Cristo. O avivamento não é o Deus do verso 7 respondendo ao povo do verso 4; é o Deus dos versos 1-3, o Deus da graça justificadora, manifestando-se como o Deus dos versos 9-13, o Deus da glória santificadora, no meio do povo que vive nos versos 4-7, o povo da tensão confessional.
+
+Portanto, saiamos daqui não com uma técnica, mas com uma tríade de convicções. Primeiro, lembre-se: sua oração tem alicerce. Deus já foi favorável a você em Cristo. Segundo, confesse: você vive na tensão. A alegria plena ainda é futura. Clame por vida. Terceiro, espere: a resposta já foi dada na cruz. A fidelidade e a misericórdia já se encontraram. A justiça e a paz já se beijaram. O avivamento é a experiência coletiva e avassaladora desta verdade. Que nos coloquemos como o salmista, em silêncio diante dEle, para ouvir o que o Deus da aliança dirá, crendo que Ele está prestes a fazer brotar a fidelidade da terra árida de nossos dias.
+
+## **Amém.**

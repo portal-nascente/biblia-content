@@ -1,16 +1,48 @@
 ---
 slug: "salmos-114-pregacao-tecnica"
-titulo: ""
+titulo: "Quando a Geografia Treme: O Êxodo como Poesia do Poder Divino"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "114"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 114   Quando a Geografia Treme: O Êxodo como Poesia do Poder Divino   Texto-base: Salmos 114  Eixo Teológico: A presença do Deus da Aliança transforma..."
+tags: ["amor", "luto", "medo"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 114
 
+## ***Quando a Geografia Treme: O Êxodo como Poesia do Poder Divino***
+
+## Texto-base: Salmos 114
+## Eixo Teológico: A presença do Deus da Aliança transforma a criação comum em teatro do seu poder redentor, estabelecendo um povo peculiar para o seu louvor.
+
+## Introdução
+
+Há poemas que decoramos nas paredes da infância, e há poemas que esculpem os alicerces da alma de um povo. O Salmo 114 pertence a esta segunda e mais rara categoria. Não é um mero registro histórico, mas uma liturgia concentrada, um hino lapidar que condensa o evento fundante de Israel – o Êxodo – numa sinfonia de imagens cósmicas. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa que este salmo “não é uma narrativa comum, mas uma celebração poética que eleva os fatos à esfera do assombro teológico”. Diante de nós, não está uma crônica, mas um catecismo cantado, onde montanhas dançam, rios fogem e a terra inerte é convocada a testemunhar. O pregador do Tabernáculo Metropolitano, **Charles Spurgeon**, em *The Treasury of David* (1870), intitulou este salmo “um diamante poético”, notando que “cada verso brilha com uma faceta diferente do mesmo fulgor: a glória irresistível de Jeová em marcha”. É para este assombro que somos conduzidos: contemplar não um Deus distante, mas o Santo que, ao escolher um povo, faz tremer os próprios pilares do mundo natural, porque onde o Rei se estabelece, a criação não pode permanecer indiferente.
+
+## Proposição
+
+O Salmo 114 nos revela, através de quatro estrofes de poderosa economia lírica, que o Êxodo foi muito mais que uma libertação política; foi uma invasão teológica na ordem criada, demonstrando que o Deus de Jacó é o Senhor da natureza, da história e do culto, cuja presença santifica um povo e reorganiza a geografia da graça.
+
+## I. A Eleição que Cria uma Geografia Sagrada: A Separação do Povo Peculiar
+
+O salmo irrompe não com um milagre, mas com um fato sociológico aparentemente simples: “Quando Israel saiu do Egito, e a casa de Jacó, do meio de um povo de língua estranha”. A repetição paralela – “Israel” e “casa de Jacó” – não é redundância poética, mas profundidade teológica. **Walter Brueggemann**, em *The Message of the Psalms* (1984), argumenta que esta abertura estabelece o tema central da *diferença*. O Egito é descrito não por sua opressão, mas por sua “língua estranha”, um símbolo de uma cultura, uma cosmovisão, uma ordem de vida alienada do Deus de Abraão, Isaque e Jacó. A saída, portanto, é mais que uma jornada geográfica; é um parto espiritual. **Herman Bavinck**, em sua *Dogmática Reformada* (1906), vê aqui o princípio da eleição graciosa em ação: Deus separa um povo para si, não por mérito, mas por puro beneplácito, para que fosse seu “tesouro pessoal”. Judá tornou-se seu “santuário”, e Israel, seu “domínio”. O teólogo holandês salienta que “santuário” (*miqdash*) aqui não se refere primariamente ao tabernáculo, mas ao próprio povo. Israel, coletivamente, torna-se o lugar da morada divina, o *locus* da presença santa no mundo. Esta é a primeira e mais fundamental convulsão: Deus redefine o que é “sagrado”. A santidade não está mais confinada a um monte cósmico distante; ela agora se desloca com um bando de escravos libertos. **Gordon Wenham**, em *Psalms as Torah* (2012), enfatiza que este versículo funda a identidade de Israel: eles são um povo cuja essência é ser o “domínio real” de Deus, uma colônia do céu em território hostil. A geografia sagrada começa com um povo andante.
+
+## II. A Presença que Convulsiona a Criação Ordinária: O Mar, o Rio e as Montanhas em Fuga
+
+Então, o poema avança para o inefável. A reação da criação à presença deste Deus que marcha com seu povo é de pânico cósmico: “O mar viu e fugiu; o Jordão tornou atrás. Os montes saltaram como carneiros, e os outeiros, como cordeiros”. A linguagem é de animismo poético, mas a verdade é metafísica. O mar (Yam Suf, o Mar Vermelho) e o Jordão são as barreiras aquáticas primordiais que delimitam a terra prometida. Eles não são atravessados; eles *fogem*. **Bernhard Anderson**, em *Understanding the Old Testament* (1975), explica que nas cosmologias do Antigo Oriente Próximo, o mar e os rios eram frequentemente personificados como forças do caos (Yam, Tehom) que se opunham ao Deus criador. Aqui, contudo, eles não lutam; recuam em reconhecimento instantâneo da autoridade superior. É uma desmitologização pelo poder: as supostas divindades caóticas são reduzidas a servos assustados. As montanhas e colinas, símbolos universais de estabilidade eterna e morada dos deuses no paganismo cananeu, “saltam” como animais jovens e ágeis. **John Goldingay**, em seu *Psalms Volume 3* (2008), vê aqui um humor divino e uma inversão radical: o que é mais firme na criação torna-se movediço, e o que é mais ameaçador (o caos aquático) retrocede. Tudo isto, pergunta o salmista? “Que tens tu, ó mar, para fugires? E tu, Jordão, para tornares atrás? Montes, que saltais como carneiros? E vós, outeiros, como cordeiros?” A pergunta é retórica e reveladora. A criação não age por capricho. **Geerhardus Vos**, em *Biblical Theology* (1948), conecta esta convulsão ao tema da “teofania”. A vinda de Deus em juízo e graça é frequentemente acompanhada por terremotos (Juízes 5:4-5; Salmos 18:7; Habacuque 3). O Êxodo é a teofania fundante, o padrão para todas as outras. A natureza não é autônoma; é um reflexo, um eco. Ela treme porque reconhece, em seu nível ontológico, a aproximação do seu Criador e Rei. A presença de Deus com o seu povo santificado torna a jornada deles um evento cósmico.
+
+## III. O Tremor que Revela o Objeto do Culto: A Terra que se Derrete diante do Deus de Jacó
+
+A pergunta retórica encontra sua resposta devastadora na conclusão do salmo: “Treme, terra, na presença do Senhor, na presença do Deus de Jacó”. O clímax não é uma nova ação, mas a revelação da Causa. O verbo “tremer” (*chul*) pode também significar “contorcer-se como em dores de parto”. Toda a agitação anterior – a fuga, o salto – é agora identificada como um *tremor* reverencial. A terra inteira é convocada a uma resposta adequada: temor sacro. Mas note o nome divino usado: “o Deus de Jacó”. Esta não é uma manifestação do poder divino em abstrato. É o poder do Deus *da aliança*. **Oswald T. Allis**, em *God Spake by Moses* (1951), destaca a importância deste título. O Deus que faz a terra tremer é o mesmo que se ligou a um enganador em Padã-Arã, que lutou com ele no vau do Jaboque e o abençoou. Seu poder é exercido em fidelidade relacional. A imagem final é sublime: “que converteu a rocha em lençol de água, e o seixo, em manancial”. A rocha em Refidim (Êxodo 17) e talvez em Cades (Números 20) é lembrada. **Derek Kidner**, em seu conciso e profundo *Psalms 73-150* (1975), comenta que este milagre é o oposto complementar dos anteriores. Lá, o que era fluido (mar, rio) solidificou-se em caminho; aqui, o que era sólido (rocha) liquefaz-se em fonte. O Deus que domina o caos também supre a necessidade. Ele é tanto o Guerreiro que abre caminho quanto o Pastor que provê sustento. **Francis Schaeffer**, em *No Final das Contas* (1972), via nesta sequência uma mensagem para todas as eras: o Deus que interveio no espaço-tempo da história é o mesmo que pode transformar a dureza do coração humano – a rocha de nossa rebeldia – em um manancial de vida e adoração. O tremor da terra não é um fim em si; aponta para Aquele que é digno de todo o temor e de toda a confiança.
+
+## Conclusão
+
+Irmãos, o Salmo 114 termina, mas seu eco não se cala. Ele nos pergunta: diante de qual realidade nós, de fato, trememos? Trememos diante dos faraós modernos – o mercado volátil, a instabilidade política, a doença, a morte? Ou nosso tremor, nosso assombro fundamental, está reservado para “o Deus de Jacó”? A mensagem deste salmo é que o maior acontecimento da história não foi a fuga de um povo, mas a marcha de um Deus. O Êxodo foi a prova visível de que o universo tem um Dono, e que este Dono ligou o seu nome, o seu caráter e o seu poder a um povo que Ele redimiu. A igreja de Jesus Cristo é o verdadeiro “Israel de Deus” (Gálatas 6:16), o “povo adquirido” (1 Pedro 2:9) que foi tirado do domínio das trevas e constituído santuário do Espírito Santo. Nossa jornada, portanto, também é acompanhada por convulsões. A cruz de Cristo foi o maior tremor cósmico, onde as rochas se fenderam e o véu do templo se rasgou. A ressurreição foi o Jordão revertido, a morte fugindo diante do Vencedor. E agora, enquanto peregrinamos rumo à Cidade celestial, somos chamados a viver como um povo peculiar, cuja mera existência – santuário ambulante de Deus – deve causar um certo desconforto nas estruturas deste mundo. Que nossa vida, individual e coletiva, seja um poema contínuo que proclame: aqui marcha o povo do Deus de Jacó. E que diante dEle, todas as potências, todos os medos, todas as durezas de coração, tremam e se derretam, transformados em mananciais de adoração. O Êxodo começou no Egito, mas só termina quando toda a terra, renovada, tremer de amor e alegria na presença do seu Senhor.
+
+## **Amém.**

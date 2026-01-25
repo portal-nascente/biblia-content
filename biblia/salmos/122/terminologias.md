@@ -1,16 +1,47 @@
 ---
 slug: "salmos-122-terminologias-chave"
-titulo: ""
+titulo: "Jerusalém, Alegria e a Busca da Paz: Uma Análise Lexical do Salmo 122"
 tipo: "terminologias-chave"
 origem: "biblia"
 livro: "salmos"
 capitulo: "122"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TERMINOLOGIAS CHAVES  Salmos 122   Jerusalém, Alegria e a Busca da Paz: Uma Análise Lexical do Salmo 122  O Salmo 122, um dos Cânticos dos Degraus atribuído a Davi, ergue-se como..."
 tags: []
 ---
 
+# TERMINOLOGIAS CHAVES
+# Salmos 122
 
+## ***Jerusalém, Alegria e a Busca da Paz: Uma Análise Lexical do Salmo 122***
+
+O Salmo 122, um dos Cânticos dos Degraus atribuído a Davi, ergue-se como um monumento poético e teológico que transcende a mera nostalgia geográfica. Ele encapsula a experiência do peregrino que, após a árdua jornada, contempla os muros e portas de Jerusalém. Para desvendar a profundidade espiritual deste salmo, é imperativo mergulhar nas águas profundas de sua linguagem hebraica, onde termos aparentemente simples revelam camadas de significado aliancista, escatológico e comunitário. A análise que se segue não se contentará com definições superficiais; buscará, através do rigor filológico e da lente da teologia reformada confessional, expor o coração pulsante do texto. Três termos-chave servirão como portais de entrada: **שָׁלֹום** (*shalom*), **שָׁלַו** (*shalav*) na forma substantivada **שַׁלְוָה** (*shalvah*), e o verbo **עָמַד** (*amad*) no contexto do **בֵּית־יְהוָה** (*beit-YHWH*). Cada um destes vocábulos, examinado em sua etimologia, uso no cânon e implicações doutrinárias, iluminará a visão do salmista sobre a cidade de Deus, a verdadeira natureza da paz e a vocação da comunidade dos fiéis.
+
+## A Multidimensionalidade de **שָׁלֹום** (*Shalom*): Muito Além da Ausência de Conflito
+
+O termo **שָׁלֹום** (*shalom*) reverbera no salmo como um refrão teológico, aparecêndo três vezes (vv. 6, 7, 8). A tradução comum por “paz” é, nas palavras do eminente lexicógrafo **Ludwig Koehler**, em *The Hebrew and Aramaic Lexicon of the Old Testament* (2001), “uma pobre e inadequada redução de um conceito hebraico integral”. **Shalom** não denota primariamente a mera cessação das hostilidades, mas um estado de completude, integridade, bem-estar e prosperidade que permeia todas as esferas da existência – individual, comunitária e cósmica. **Gerhard von Rad**, em sua obra seminal *Teologia do Antigo Testamento* (1962), argumenta que *shalom* é a condição na qual todas as relações – com Deus, com o próximo, com a criação e consigo mesmo – estão em harmonia plena, conforme estabelecido na aliança.
+
+No verso 6, a exortação “Orai pela paz (*shalom*) de Jerusalém” deve ser lida à luz desta plenitude. O salmista não pede simplesmente que a cidade esteja livre de ataques militares. Ele convoca o povo da aliança a orar para que Jerusalém realize plenamente seu *telos* divino: ser o lugar onde Deus habita, de onde emana o governo teocrático perfeito (צֶדֶק, *tzedeq* – justiça/retidão, v.5) e onde a comunhão com Yahweh é desimpedida. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), com perspicácia pastoral, observa: “A paz de Jerusalém aqui desejada não é outra senão que Deus reinasse nela por seu Cristo, de modo que, por seu intermédio, a verdadeira religião e a piedade florescessem em perpetuidade”. A paz, portanto, é cristocêntrica e aliancista. Ela é inseparável da presença do Rei messiânico que trará a paz definitiva, como profetizado em Isaías 9:6.
+
+O uso do termo no verso 8, “Por causa de meus irmãos e amigos, pedirei: ‘Haja paz (*shalom*) em ti’”, revela a dimensão comunitária e solidária do conceito. A paz da cidade não é um bem privado, mas o fundamento do bem-estar de toda a irmandade da fé. O teólogo reformado **Herman Bavinck**, em *Reformed Dogmatics* (1906), articula que o *shalom* bíblico é um aspecto fundamental do reino de Deus, um estado de justiça que flui da obediência à aliança e que antecipa a restauração escatológica de todas as coisas. Assim, orar pelo *shalom* de Jerusalém é orar pela consumação do propósito redentor de Deus para o seu povo e, por extensão, para toda a criação (Rom 8:21).
+
+## **שַׁלְוָה** (*Shalvah*): A Segurança Ilusória e a Verdadeira Tranquilidade
+
+Um termo de contraste sutil e profundamente significativo no Salmo 122 é a palavra traduzida como “prosperidade” na Almeida Atualizada (v.7, “Haja paz dentro dos teus muros e prosperidade (*shalvah*) nos teus palácios”). O substantivo **שַׁלְוָה** (*shalvah*) deriva da raiz **שָׁלַו** (*shalav*), que carrega a ideia de estar tranquilo, em repouso, seguro. Contudo, seu uso no Antigo Testamento é frequentemente ambivalente, servindo como um espelho para a condição espiritual do povo. **William Gesenius**, em seu clássico *A Hebrew and English Lexicon of the Old Testament* (1847), nota que *shalvah* pode indicar tanto uma “tranquilidade segura” (positiva) quanto uma “falsa segurança” ou “complacência” (negativa), esta última muitas vezes resultante do afastamento de Deus.
+
+No contexto do Salmo 122, a petição por *shalvah* nos palácios deve ser interpretada à luz da primeira e positiva conotação, mas com a sombra da advertência profética pairando sobre ela. O salmista ora para que a tranquilidade e a segurança dentro dos muros de Jerusalém sejam o fruto legítimo do *shalom* de Deus, da justiça e do temor a Yahweh. É a segurança que flui da fidelidade à aliança. No entanto, o exegeta **Derek Kidner**, em *Psalms 73–150: A Commentary* (1975), alerta que esta mesma palavra é usada por profetas como Jeremias e Ezequiel para descrever a arrogante e pecaminosa autoconfiança de Judá e Israel antes do juízo (cf. Jr 22:21; Ez 23:42). A *shalvah* pode degenerar-se em uma ilusão de segurança baseada em fortificações humanas e riqueza, e não em Deus.
+
+Esta tensão lexical enriquece profundamente a aplicação. A oração do salmista é, portanto, também um apelo à vigilância espiritual. Ele não deseja uma prosperidade que leve ao esquecimento de Deus, mas uma tranquilidade que seja o selo da presença divina. **Martyn Lloyd-Jones**, em seus sermões sobre os Salmos, frequentemente destacava que a única segurança verdadeira para o crente, individual ou coletivamente, é aquela que está ancorada na rocha que é Cristo, e não nas areias movediças da circunstância ou da autossuficiência. A *shalvah* nos palácios de Jerusalém aponta, em última instância, para a segurança inquebrantável da Nova Jerusalém, onde “não haverá mais morte, nem tristeza, nem choro, nem dor” (Ap 21:4), porque o Cordeiro é a sua luz e o seu fundamento.
+
+## **עָמַד** (*Amad*) e o **בֵּית־יְהוָה** (*Beit-YHWH*): A Estática que é Dinâmica na Casa de Deus
+
+O salmo abre com uma declaração de alegria ligada a um convite para ir “à casa do Senhor” (בֵּית־יְהוָה, *beit-YHWH*). No verso 2, o salmista declara: “Os nossos pés já se acham **standing** dentro das tuas portas, ó Jerusalém”. O verbo traduzido aqui é uma forma do verbo **עָמַד** (*amad*), que fundamentalmente significa “estar de pé”, “parar”, “ficar em pé”, “permanecer”. A princípio, parece denotar uma simples ação física. No entanto, no contexto cultual e aliancista, **עָמַד** adquire uma densidade teológica extraordinária. **Francis Brown, S. R. Driver e Charles A. Briggs**, no autoritário *A Hebrew and English Lexicon of the Old Testament* (1906), listam entre seus significados “estar presente (perante Deus)”, “servir (a Deus)”, e até “manter-se firme” em um sentido de fidelidade.
+
+Estar de pé (**עָמַד**) dentro dos portões de Jerusalém, especificamente com o objetivo declarado de ir à *Casa de Yahweh*, é muito mais do que uma chegada geográfica. É um posicionamento espiritual. É assumir o lugar de um adorador, um súdito que se apresenta perante o Rei. No tabernáculo e no templo, os levitas “estavam de pé” (**עָמַד**) para ministrar (1 Cr 23:30; Dt 10:8). O profeta Micaías viu Yahweh “assentado em seu trono, e todo o exército do céu **em pé** (**עֹמֵד**) à sua direita e à sua esquerda” (1 Rs 22:19). A posição de estar de pé, portanto, implica serviço, atenção reverente, prontidão e pertencimento à corte celestial.
+
+**Geerhardus Vos**, o pai da teologia bíblica reformada, em *Biblical Theology: Old and New Testaments* (1948), enfatizava que o culto no Antigo Testamento era uma “antecipação proleptática” da comunhão escatológica com Deus. Assim, o **עָמַד** do peregrino no Salmo 122 é uma participação real, ainda que sombria e tipológica, na realidade última descrita no Apocalipse, onde uma grande multidão “está de pé” (**ἑστῶτες**, *hestōtes* – LXX usa ἵστημι, cognato conceptual de **עָמַד**) diante do trono e do Cordeiro (Ap 7:9). A Casa de Deus (**בֵּית־יְהוָה**) deixa de ser um mero edifício de pedra para se tornar, na interpretação do Novo Testamento, a própria comunidade da aliança, o corpo de Cristo (1 Co 3:16; Ef 2:19-22). O ato de permanecer, de estar firme nessa casa, torna-se uma metáfora para a perseverança na fé e no serviço.
+
+A síntese destes três termos – **שָׁלֹום**, **שַׁלְוָה** e **עָמַד** – no ambiente do **בֵּית־יְהוָה**, pinta um quadro coerente e desafiador da vida da comunidade da fé. A Igreja, a Jerusalém espiritual, é chamada a ser o lugar onde a plenitude do *shalom* de Cristo é buscada e experimentada em comunhão; onde a segurança (*shalvah*) não é uma presunção orgulhosa, mas uma confiança humilde na fidelidade do Deus da aliança; e onde cada crente, firmemente de pé (**עָמַד**) na graça, se apresenta para adorar e servir, dentro dos portões da cidade de Deus, aguardando a Jerusalém celestial onde toda a terminologia encontra sua consumação perfeita e eterna. A análise lexical, longe de ser um exercício árido, revela-se assim como uma jornada espiritual que nos conduz, com o peregrino do salmo, das palavras para a Palavra, e da cidade terrestre para a cidade que tem fundamentos, cujo arquiteto e edificador é Deus.

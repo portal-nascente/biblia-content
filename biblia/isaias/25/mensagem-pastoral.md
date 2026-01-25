@@ -1,16 +1,35 @@
 ---
 slug: "isaias-25-mensagem-pastoral"
-titulo: ""
+titulo: "O Banquete no Monte da Derrota"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "isaias"
 capitulo: "25"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Isaías 25   O Banquete no Monte da Derrota   Introdução  Há um silêncio peculiar que desce sobre uma cidade após uma grande tempestade. O vento que uivava nas f..."
+tags: ["ansiedade", "batalha", "futuro", "luto", "medo"]
 ---
 
+# MENSAGEM PASTORAL
+# Isaías 25
 
+## ***O Banquete no Monte da Derrota***
+
+### Introdução
+
+Há um silêncio peculiar que desce sobre uma cidade após uma grande tempestade. O vento que uivava nas frestas cessa, a chuva que batia feroz contra os vidros se aquieta, e um sol pálido, quase hesitante, rasga as nuvens em retirada. As pessoas saem de seus abrigos, olham para os estragos, para as árvores arrancadas, para as ruas alagadas, e respiram fundo. Não é o silêncio da paz conquistada, mas o da exaustão após o combate, o do alívio incrédulo de quem sobreviveu. É nesse intervalo frágil, entre a memória do terror e a incerteza do amanhã, que o profeta Isaías nos convida a sentar. Ele não nos leva a um palácio intacto, a um jardim imune à devastação. Ele nos conduz, com uma solenidade que comove, até este monte Sião, que mais parece um campo de batalha varrido pelo vendaval da história. E sobre os escombros da cidade forte dos opressores, sobre a poeira que foi o orgulho dos ímpios, ele nos mostra uma mesa posta. Um banquete. É para os cansados, para os que choram, para os que carregam o peso de lutos antigos e medos presentes, que a voz pastoral do Eterno dirige esta palavra: “O SENHOR dos Exércitos dará neste monte a todos os povos um festim de coisas gordurosas, um banquete de vinhos envelhecidos” (Is 25:6). A mensagem que temos diante de nós não é um tratado sobre a vitória divina abstraída da nossa dor; é um convite para jantar com Deus no exato lugar da nossa derrota.
+
+### Desenvolvimento
+
+O capítulo se abre com um cântico, um salmo de ação de graças que é, em sua essência, uma confissão teológica da soberania de Deus sobre o caos. **John Calvin**, em seus *Commentaries on the Book of the Prophet Isaiah* (1559), observa com precisão que o profeta, ao exaltar os feitos maravilhosos do Senhor, está fundamentando a esperança futura na fidelidade histórica passada. “Porque fizeste maravilhas; os teus conselhos antigos são verdade e firmeza” (Is 25:1). A cidade forte, o refúgio dos pobres, é demolida. A opressão, que se erguia como um muro alto contra os indefesos, é reduzida a pó. O canto de Isaías nos ensina que a primeira resposta da fé ante a promessa de um banquete futuro não é a ansiosa pergunta “quando?”, mas a contemplativa afirmação “quem?”. Quem é este que promete? Aquele cujos atos no passado são a garantia irrefutável de sua palavra para o futuro. A nossa esperança não repousa sobre um sentimento otimista, mas sobre o caráter imutável de um Deus que transforma cidades fortíssimas em ruínas permanentes para que os oprimidos tenham abrigo. Esta é a pedra angular de todo conforto pastoral: a certeza de que Aquele que prometeu é poderoso para cumprir.
+
+E então, o profeta desloca nossa atenção do ato passado para o cenário presente e futuro. O monte, outrora lugar de fortaleza e terror, torna-se o local do festim. A imagem é profundamente contra-intuitiva e gloriosamente graciosa. Não somos transportados para um paraíso intocado; a redenção acontece *in loco*, no próprio lugar da nossa maior aflição. **Timothy Keller**, em *The Prodigal Prophet* (2018), reflete sobre essa dinâmica ao escrever que “Deus não apenas nos resgata *do* deserto; ele muitas vezes nos dá fontes *no* deserto, faz brotar jardins *no* deserto. A alegria dele não ignora a nossa dor; ela a invade e a transforma.” O banquete de coisas gordurosas – os melhores pedaços, a riqueza da comunhão – e de vinhos envelhecidos – a alegria madura, a celebração que foi preparada com paciência – é oferecido “a todos os povos”. A graça do Deus de Israel explode os limites étnicos e nacionais, estendendo-se a uma humanidade dilacerada. E o cardápio deste banquete é, ele próprio, uma terapia divina para as chagas da alma humana. O véu, o pano que cobre todos os povos, o xale pesado da mortalidade, da ignorância espiritual e da separação de Deus, será destruído (Is 25:7). A morte, essa inimiga última, a que engole sorrisos, apaga vozes e semeia o luto em cada família, será tragada para sempre. E as lágrimas, aquelas que escorrem em silêncio no travesseiro, que queimam o rosto na solidão, que marcam a face da viúva e do órfão, serão enxugadas do rosto de cada pessoa. **D. Martyn Lloyd-Jones**, em *The Kingdom of God* (1992), com sua habitual profundidade, argumenta que esta passagem não pode ser espiritualizada de forma a perder seu escândalo concreto. “A destruição do véu fala da revelação final e completa de Deus, da remoção de toda a escuridão e ignorância. A destruição da morte fala da ressurreição corporal, da vitória sobre a lei da entropia e da decadência que assombra a criação. E o enxugar das lágrimas fala de um consolo tão pessoal, tão íntimo, que penetra na mais profunda solidão da dor humana.” Este é o triunfo completo: intelectual, físico e emocional. Deus ataca a raiz de toda a nossa miséria.
+
+A culminância pastoral deste capítulo está no versículo nove: “Naquele dia, se dirá: Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará; este é o SENHOR, a quem aguardávamos; na sua salvação exultaremos e nos alegraremos.” A espera, por vezes tão longa que se confunde com desesperança, finda em reconhecimento. Não é o reconhecimento de um estranho, mas de um Deus conhecido na expectativa. “Eis que este é o nosso Deus”. A fé torna-se visão, a esperança torna-se posse, a oração torna-se louvor. O banquete não é apenas a satisfação de uma necessidade; é a consumação de um relacionamento. O povo que caminhou na escuridão, sustentado apenas pela promessa, vê a grande luz e senta-se à mesa com o Autor da Luz.
+
+### Conclusão
+
+Irmão, irmã, que carrega no peito o luto por uma perda recente ou antiga, que sente o véu da depressão ou da ansiedade cobrir sua visão da graça, que encara a morte – seja a física, seja a morte de um sonho, de um casamento, de uma saúde – como uma sombra gelada, esta palavra é para você. O Senhor não te convida primeiro para uma palestra sobre escatologia. Ele te convida para um banquete. Ele te chama para vir, como está, cansado e faminto de justiça, de paz, de alegria, e se assentar à Sua mesa, posta no monte do Calvário. Porque foi ali, naquele monte onde a cidade forte do pecado e a morte pareciam ter vencido, que o véu do templo se rasgou de alto a baixo, que a morte foi tragada na vitória da ressurreição, e que as lágrimas da humanidade foram recolhidas no sofrimento do Cordeiro. O banquete de Isaías 25 foi inaugurado por Jesus Cristo. Ele é o manjar fino e o vinho puro. A tua espera, por mais que doa, não é em vão. Aguarda com paciência, pois aquele dia virá. E naquele dia, a única resposta possível será a do reconhecimento adorador: “Eis que este é o nosso Deus!”. Até lá, vivamos como convidados que, antecipando a festa, já começam a saborear, na comunhão dos santos e na Ceia do Senhor, os primeiros e preciosos frutos do banquete eterno.

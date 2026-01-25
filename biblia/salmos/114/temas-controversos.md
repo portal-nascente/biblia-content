@@ -1,16 +1,49 @@
 ---
 slug: "salmos-114-temas-controversos"
-titulo: ""
+titulo: "O Êxodo como Teofania e Juízo: A Controvérsia da Natureza e do Propósito do Milagre no Salmo 114"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "salmos"
 capitulo: "114"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Salmos 114   O Êxodo como Teofania e Juízo: A Controvérsia da Natureza e do Propósito do Milagre no Salmo 114   A Tensão  O Salmo 114, um hino conc..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Salmos 114
 
+## ***O Êxodo como Teofania e Juízo: A Controvérsia da Natureza e do Propósito do Milagre no Salmo 114***
+
+## A Tensão
+
+O Salmo 114, um hino conciso e poderoso que integra o *Hallel* egípcio (Salmos 113-118), apresenta-se como um monumento poético ao evento fundante de Israel: o Êxodo. Sua linguagem é vívida, antropomórfica, quase mítica: o mar vê e foge, o Jordão retrocede, os montes saltam como carneiros e as colinas como cordeiros. A terra treme na presença do Senhor. Esta apresentação não é mera celebração retórica; ela ergue, no centro da fé israelita, uma série de questões teológicas profundas e persistentemente controversas. A tensão fundamental reside na interpretação da natureza desses fenômenos. Estamos diante de uma descrição poética de eventos históricos e naturais, ainda que sobrenaturais? Ou o salmista, mergulhado numa cosmovisão antiga, está a descrever uma *teofania* – uma manifestação avassaladora da presença de Deus – que reconfigura a própria criação, fazendo-a reagir como um ser vivo diante do seu Criador? A controvérsia se desdobra em dois eixos principais: primeiro, a disputa sobre a *literalidade* e o *gênero literário* das imagens; segundo, e mais crucial, o debate sobre o *propósito teológico* desses atos divinos. São meramente demonstrações de poder para libertação, ou possuem um caráter judicial e cósmico mais amplo, anunciando um reordenamento da criação sob o domínio do Deus da aliança? A resposta a estas perguntas define se lemos o Salmo 114 como um hino nacionalista ou como um manifesto teocósmico.
+
+## Perspectiva Histórica A: A Escola Literal-Histórica e a Defesa do Milagre como Evento Prodigioso
+
+Uma corrente significativa de interpretação, com raízes profundas na tradição judaica e em setores da exegese cristã pré-crítica e conservadora, insiste na leitura mais direta possível do texto. Para estes intérpretes, as imagens do salmo, por mais vívidas que sejam, referem-se a eventos reais e milagrosos ocorridos durante o Êxodo e a Conquista. A fuga do Mar Vermelho (Êxodo 14), o retrocesso das águas do Jordão (Josué 3), e os tremores de terra no Sinai (Êxodo 19) são o substrato histórico incontornável. A personificação da natureza é um recurso poético para destacar o assombro e a obediência cósmica diante do agir de Yahweh, mas não nega a factualidade dos eventos.
+
+O grande exegeta reformado **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), embora reconheça o estilo poético, ancorava firmemente o salmo na história da redenção. Para Calvino, o salmo não celebra uma mera metáfora, mas o poder *histórico* de Deus em favor de seu povo eleito. A reação da natureza serve para humilhar a arrogância humana, demonstrando que até os elementos mais imponentes e estáveis – mares, rios, montanhas – se curvam ante a vontade soberana de Deus quando Ele age para cumprir seus propósitos salvíficos. A ênfase aqui é *soteriológica* e *demonstrativa*: os milagres são provas incontestáveis do favor divino para com Israel e do seu poder para salvar.
+
+Na mesma linha, mas com um olhar mais voltado para a apologética, **Matthew Henry**, em sua *Exposition of the Old and New Testaments* (1710), via no Salmo 114 uma sequência de “maravilhas” operadas por Deus. Henry argumenta que a descrição hiperbólica tem um propósito claro: impressionar a mente com a grandeza do livramento. “O mar viu e fugiu”, escreve ele, “não por qualquer causa natural, mas porque viu o poder de Deus, e não ousou opor-se aos desígnios daquele que o criou”. A controvérsia, para esta escola, é minimizada: o texto é uma crônica poética de fatos. Qualquer tentativa de suavizar o milagre, seja através de explicações naturalistas (como ventos orientais fortes para o mar, ou deslizamentos de terra que barraram o Jordão), seria, na visão destes autores, uma capitulação ao racionalismo e um esvaziamento do testemunho bíblico sobre a intervenção direta de Deus na história.
+
+## Perspectiva Histórica B: A Escola Crítico-Histórica e a Mitologização do Evento Fundante
+
+Em oposição diametral à visão anterior, o advento da crítica histórica, particularmente a partir do século XIX, propôs uma releitura radical do Salmo 114 e das narrativas do Êxodo. Estudiosos como **Julius Wellhausen** e seus seguidores, dentro do paradigma da *História das Religiões*, enxergaram no salmo não um registro histórico, mas a projeção litúrgica e mítica de uma fé posterior. Para esta escola, o Êxodo como evento unificado e massivo é questionável. O salmo, então, refletiria não memórias factuais, mas a *crença* de Israel em seu Deus como Senhor da natureza, crença esta formulada e expressa através de linguagem mitopoética comum ao Antigo Oriente Próximo.
+
+O foco desloca-se do “o que aconteceu” para o “porque esta história foi contada desta forma”. **Hermann Gunkel**, pioneiro da crítica das formas, em sua obra *Die Psalmen* (1926), classificou o Salmo 114 como um “Hino” de teofania. Para Gunkel, o núcleo do salmo não é a história, mas a manifestação de Deus. As imagens do mar fugindo e das montanhas saltando são *topoi* literários, motivos convencionais para descrever a aparição terrível e sublime da divindade (cf. Juízes 5:4-5; Salmos 18:7-15; Habacuque 3). O salmo seria, portanto, uma peça litúrgica que utiliza linguagem mitológica para evocar o temor reverente perante o divino. O evento histórico do Êxodo é a ocasião, mas a mensagem é teológica e cultual: Deus é tremendo em seu poder cósmico.
+
+Uma vertente mais radical desta perspectiva, influenciada pelo comparativismo religioso, sugeriu até mesmo empréstimos diretos de mitologias cananeias ou mesopotâmicas, onde deuses batalham contra monstros do caos (como Yam, o mar) ou fazem tremer as montanhas. Nesta leitura, o Salmo 114 seria uma “demitologização” ou uma historicização desses mitos, onde as forças da natureza não são deuses rivais, mas meras criaturas que se submetem ao único Deus verdadeiro, Yahweh. A controvérsia aqui é transferida para a arena da historicidade e da origem das ideias religiosas de Israel, muitas vezes negando o caráter único e sobrenatural dos eventos para enquadrá-los em processos evolutivos da religião.
+
+## Síntese Reformada: Teofania Judicial e o Reordenamento Cósmico da Aliança
+
+Uma terceira via, que busca superar o impasse entre o literalismo ingênuo e o reducionismo histórico-crítico, emerge de uma exegese confessionalmente reformada, profundamente arraigada na teologia bíblica da aliança. Esta síntese aceita a plena carga poética e teofânica do salmo, identificada pela escola crítica, mas a reconecta com solidez a um evento histórico real e redentor, conforme defendido pela escola literal-histórica. No entanto, vai além de ambas ao discernir no texto uma profundidade *judicial* e *cósmica* frequentemente negligenciada.
+
+O teólogo holandês **Geerhardus Vos**, em sua *Biblical Theology* (1948), oferece uma chave magistral. Para Vos, o Êxodo não é apenas um resgate nacional; é um *ato de juízo divino* que estabelece uma nova ordem. A passagem pelo Mar Vermelho é, tipologicamente, um batismo (1 Coríntios 10:2) e um juízo sobre o Egito, o poder opressor que simboliza o mundo hostil a Deus. As reações da natureza no Salmo 114, portanto, não são meros espetáculos de poder, mas *sinais do advento do Grande Rei* para julgar e salvar. A criação inteira é convulsionada porque o próprio Autor da aliança adentra a história para reivindicar um povo para si e inaugurar um novo éon. O tremor da terra não é só no Sinai; é a resposta do cosmos à intrusão do Reino de Deus no domínio das trevas.
+
+Aprofundando esta visão judicial, **O. Palmer Robertson**, em *The Christ of the Covenants* (1980), vê no Salmo 114 uma dramatização do princípio da “aliança da criação”. Quando Deus vem em juízo para redimir seu povo da aliança (Israel), a criação, que estava sujeita à vaidade por causa do pecado do homem (Romanos 8:20), reage com alvoroço. O mar, frequentemente símbolo do caos e das nações ímpias (Isaías 17:12-13), recua. O Jordão, barreira para a Terra Prometida, abre caminho. As montanhas, símbolos de estabilidade e, por vezes, de falsos refúgios (Salmo 121:1), são sacudidas. Não se trata de mito, mas de *prolepsis* – um antegozo do grande dia do Senhor, quando “os céus passarão com estrepitoso estrondo, e os elementos se desfarão abrasados; também a terra e as obras que nela existem serão atingidas” (2 Pedro 3:10). O Êxodo é um microcosmo do juízo final e da nova criação.
+
+Finalmente, a perspectiva cristocêntrica reformada, exemplificada por **Sidney Greidanus** em *Preaching Christ from the Old Testament* (1999), conclui que o Salmo 114 encontra seu cumprimento definitivo em Jesus Cristo. Ele é o verdadeiro Israel que passa pelas águas do juízo (o batismo, identificando-se com seu povo) e as vence. Em sua morte e ressurreição, o poder último do “Egito” (o pecado e a morte) é julgado e derrotado. A ressurreição é o grande tremor de terra (Mateus 28:2) que anuncia a nova criação. Assim, o salmo deixa de ser um cântico arqueológico sobre o passado e se torna um hino profético ao único Redentor que, por seu juízo expiatório e poder ressurreto, faz fugir o mar da condenação, abre o caminho do Jordão da morte e estabelece os alicerces inabaláveis do Monte Sião celestial (Hebreus 12:22-24). A síntese reformada, portanto, resolve a controvérsia elevando-a: o milagre é histórico, é teofânico, mas é, sobretudo, *judicial e tipológico*, apontando para a reconfiguração de toda a criação através da obra do Messias, o último e maior Moisés.

@@ -1,16 +1,57 @@
 ---
 slug: "salmos-91-temas-controversos"
-titulo: ""
+titulo: "O Abrigo Inexpugnável e o Escândalo do Sofrimento: Uma Exegese da Tensão entre Promessa e Experiência no Salmo 91"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "salmos"
 capitulo: "91"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Salmos 91   O Abrigo Inexpugnável e o Escândalo do Sofrimento: Uma Exegese da Tensão entre Promessa e Experiência no Salmo 91   A Tensão  O Salmo 9..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Salmos 91
 
+## ***O Abrigo Inexpugnável e o Escândalo do Sofrimento: Uma Exegese da Tensão entre Promessa e Experiência no Salmo 91***
+
+## A Tensão
+
+O Salmo 91 ergue-se no saltério como uma cidadela de consolo, um monumento verbal à proteção divina tão absoluta que beira o incondicional. Suas imagens — o refúgio sob as asas do Onipotente, a armadura contra setas mortais, a imunidade ante pestes e desastres — forjam uma teologia da providência imediata e tangível que, ao ser confrontada com a crueza da experiência humana, gera uma das mais profundas e pastorais controvérsias da fé. Como harmonizar a promessa de que “nenhum mal te atingirá, praga alguma chegará à tua tenda” (v. 10) com a realidade visceral do crente que adoece, que é vítima da violência, que perece em desastres naturais? Esta não é uma questão acadêmica, mas um grito existencial que ecoa nos corredores dos hospitais e nos campos de batalha da alma. A tensão reside no aparente abismo entre a proclamação litúrgica do salmo e a narrativa, por vezes trágica, da vida sob o sol. Interpretar este salmo é, portanto, navegar entre o escolho da superstição — que o transforma em amuleto mágico — e o abismo do ceticismo — que o reduz a uma poesia piedosa sem correspondência na realidade. A chave hermenêutica, como argumentarão os reformadores, não está na negação de uma das pontas da tensão, mas na reconfiguração cristológica e escatológica de ambas.
+
+## Perspectiva Histórica A: A Visão da Proteção Incondicional e Tangível (Leitura “Triunfalista” ou “Teologia da Retribuição Imediata”)
+
+Uma corrente de interpretação, fortemente arraigada em algumas leituras patrísticas e que ressurge em certas expressões da piedade moderna, entende as promessas do Salmo 91 de maneira literal, direta e condicionada principalmente à fidelidade do crente. Nesta leitura, o salmo opera como um contrato espiritual: a habitação no esconderijo do Altíssimo (v. 1) garante, de forma quase mecânica, uma imunidade física e material contra os males deste mundo. O “mal” do versículo 10 é compreendido primariamente como calamidade física, e a “praga” como doença epidêmica. A proteção dos anjos (v. 11-12) é vista como uma guarda visível e constante contra perigos acidentais.
+
+**Agostinho de Hipona**, em seus *Comentários aos Salmos*, embora profundamente espiritual, em certa medida alimenta esta leitura ao enfatizar a realidade da proteção divina para a Igreja como um todo, um refúgio corporativo contra as perseguições e heresias. Ele tende a interpretar os perigos — “laço do passarinheiro” (v. 3), “peste que devasta ao meio-dia” (v. 6) — como alegorias das tentações e dos falsos ensinos, mas a promessa de livramento permanece tangível para a comunidade fiel. Uma leitura menos nuanceada de Agostinho pode, portanto, ser apropriada para sustentar uma expectativa de livramento físico imediato para o indivíduo piedoso.
+
+Esta perspectiva encontra um expoente moderno em figuras como **Smith Wigglesworth**, o evangelista pentecostal do início do século XX, para quem o Salmo 91 era uma declaração de fé para a cura divina e proteção sobrenatural. Em seus sermões, Wigglesworth tratava o salmo como uma autoridade espiritual para reivindicar saúde e segurança, argumentando que a dúvida quanto a essas promessas era, em si, uma falha de fé que abria a porta para o mal. A ênfase recai sobre a posicionalidade do crente: “habitar” (v. 1) é um ato contínuo de fé e obediência que ativa o mecanismo da proteção divina. O sofrimento, nesta ótica, é sempre atribuível a uma brecha nessa habitação — seja por pecado, incredulidade ou falta de vigilância espiritual.
+
+O perigo desta leitura, como apontam seus críticos, é duplo. Primeiro, ela pode levar a uma cruel culpabilização da vítima: o doente, o assaltado, o enlutado é implicitamente ou explicitamente acusado de não ter tido fé suficiente ou de não ter “habitado” corretamente. Segundo, ela corre o risco de reduzir Deus a um talismã cósmico, cuja principal função é garantir o bem-estar físico de seus devotos, uma teologia que se desfaz dramaticamente ante a realidade da cruz e do martírio.
+
+## Perspectiva Histórica B: A Espiritualização Completa e a Escatologização Radical (Leitura “Alegórica” ou “Escatológica Pura”)
+
+Em reação aos excessos da leitura triunfalista, uma segunda corrente, com raízes também na tradição patrística e acentuada por certa teologia medieval e pietista, opta por uma espiritualização quase completa das promessas. Nesta visão, o “mal” e a “praga” do salmo referem-se exclusivamente ao mal espiritual — o pecado e a condenação eterna — e os perigos físicos são meras metáforas para as tentações e assaltos do Diabo. A proteção prometida é, portanto, inteiramente referente à alma e à sua salvação final, sem implicações diretas para o corpo e as circunstâncias históricas.
+
+**Orígenes de Alexandria**, em sua obra *Contra Celso*, exemplifica esta tendência alegórica. Para ele, o verdadeiro “esconderijo” é o Logos, Cristo, e os perigos dos versículos 3 a 7 são as forças demoníacas e as heresias que assediam o cristão. A proteção dos anjos é a guarda providencial contra influências espirituais malignas. O livramento “da peste que devasta ao meio-dia” (v. 6) seria a preservação da alma no juízo final, quando o brilho da verdade divina expõe toda falsidade. Esta abordagem salva a aparente contradição com a experiência ao transferir totalmente o cumprimento das promessas para o plano espiritual e escatológico.
+
+Um expoente reformado desta linha de pensamento, embora com nuances, é **Johannes Cocceius**, teólogo federal holandês do século XVII. Em sua *Summa Doctrinae de Foedere et Testamento Dei*, Cocceius enxerga no Salmo 91 uma descrição das bênçãos do pacto da graça, cujos benefícios primários são espirituais e eternos. A linguagem de proteção física é, para ele, uma forma vívida de descrever a segurança da alma no pacto. O sofrimento físico do crente é dissociado das promessas do salmo, sendo explicado por outras categorias teológicas, como a disciplina divina ou a participação nos sofrimentos de Cristo.
+
+O risco desta perspectiva é o de desencarnar a fé, tornando as consolações do salmo etéreas e distantes da angústia concreta do ser humano que sofre no corpo. Ela pode, inadvertidamente, sugerir que Deus não se importa com o sofrimento físico e histórico de seus filhos, concentrando-se apenas em seu destino eterno, uma visão que parece em tensão com a própria encarnação de Cristo, que curou corpos e chorou diante da morte física.
+
+## Síntese Reformada: A Proteção na Providência Soberana, a Realidade do Mal e o Refúgio Cristocêntrico
+
+A tradição reformada confessional, ancorada no realismo bíblico e na doutrina da providência soberana, oferece uma síntese que evita os extremos das leituras anteriores. Ela afirma a veracidade e a potência das promessas do Salmo 91 sem negar a realidade do sofrimento do justo, reorientando o foco para a natureza, o âmbito e o *telos* (propósito final) da proteção divina.
+
+**João Calvino**, em seu *Comentário sobre os Salmos*, fornece a pedra angular desta síntese. Calvino começa por rejeitar a leitura supersticiosa que espera uma imunidade milagrosa contínua. Ele argumenta: “Não devemos entender que os servos de Deus estão isentos de todos os males; mas que, quaisquer males que os acometam, Deus os transformará para o seu bem.” Para Calvino, o “mal” do versículo 10 é, em última análise, o mal *final* — a condenação e a separação eterna de Deus. A proteção prometida é, antes de tudo, *preservação espiritual*. No entanto, Calvino não espiritualiza completamente o salmo. Ele vê na linguagem de livramento físico uma descrição da *providência geral* de Deus, que governa todos os eventos, inclusive os perigos, para o bem de seus eleitos. O crente não está prometido de *encontrar* o perigo, mas de ser *guardado por Deus* dentro e através do perigo. A promessa não é de ausência de guerra, mas de que nenhuma seta terá poder para destruir a alma que está em Cristo.
+
+**Charles Haddon Spurgeon**, em *O Tesouro de Davi*, expande esta visão com seu típico vigor pastoral. Spurgeon insiste que o salmo é “a experiência de um homem que habita em Deus”, mas adverte que “habitar” não é um ato mágico, mas uma relação viva de dependência e comunhão. Ele trata das “setas” (v. 5) como sendo tanto literais quanto espirituais, e vê a proteção como frequentemente operando através de meios comuns: o cuidado divino que ordena os eventos para que o perigo seja desviado, ou que sustenta o coração no meio da calamidade. Para Spurgeon, a maior prova da veracidade do salmo não é a vida isenta de problemas de um supercrente, mas a paz inabalável de um mártir na fogueira ou de um doente no leito de dor. A promessa se cumpre na serenidade da alma que, em meio ao caos, sabe que está sob as asas do Onipotente.
+
+**Herman Bavinck**, em sua *Dogmática Reformada*, aporta a fundamentação teológica sistemática. Bavinck explica que as promessas do Antigo Testamento, como as do Salmo 91, eram frequentemente formuladas em termos terrenos e nacionais, dentro da estrutura da antiga aliança. Com a vinda de Cristo, essas promessas são *transfiguradas* e *aprofundadas*, não anuladas. Em Cristo, o verdadeiro “Refúgio” e “Fortaleza” (v. 2), o crente recebe a garantia última de que todas as coisas — inclusive sofrimento, perigo e morte — cooperam para o seu bem (Romanos 8:28). A proteção é, portanto, *teleológica*: garante que nenhum mal, por mais terrível que seja, terá a palavra final ou poderá separar-nos do amor de Deus. A praga, a guerra, a fome são instrumentos nas mãos de um Pai soberano que, mesmo quando não os impede, os governa com um propósito redentor.
+
+Portanto, a síntese reformada apresenta o Salmo 91 não como uma apólice de seguro contra a desgraça, mas como um hino à *segurança ontológica* do crente em Deus. O salmo não descreve um *perímetro* geográfico livre de perigo, mas um *estado de alma* inexpugnável dentro do perigo. A controvérsia entre promessa e experiência se dissolve quando compreendemos que a mais alta realização da promessa não é a isenção do sofrimento de Cristo, mas a participação em sua segurança e, paradoxalmente, em seus sofrimentos. O próprio Cristo, ao ser tentado no deserto, citou os versículos 11-12 deste salmo (Mateus 4:6), recusando-se a usá-lo como garantia de um livramento espetacular que contornasse o caminho da obediência e da cruz. Ele, o *Habitat* perfeito do Pai, enfrentou a seta mortal do pecado e da morte em nosso lugar. Assim, para o crente, o Salmo 91 aponta para a cruz: é porque Cristo foi ferido por nossas setas que nenhum mal final nos pode atingir; é porque Ele enfrentou a praga do juízo divino que podemos habitar, seguros, na fenda da Rocha que é Ele mesmo. A proteção suprema é sermos conformados à imagem do Filho, e isso pode ocorrer tanto no palácio quanto na masmorra, tanto na saúde quanto na enfermidade, pois em todos esses estados, estamos sob as suas asas. O salmo, lido à luz do Calvário e da manhã da Ressurreição, não promete uma jornada sem tempestades, mas garante um Porto seguro que nenhuma tempestade poderá jamais destruir.
+
+## **Amém.**

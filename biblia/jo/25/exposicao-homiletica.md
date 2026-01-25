@@ -1,16 +1,48 @@
 ---
 slug: "jo-25-pregacao-tecnica"
-titulo: ""
+titulo: "O Cordeiro no Trono: A Parábola do Julgamento e a Inversão da História"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "jo"
 capitulo: "25"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  João 25   O Cordeiro no Trono: A Parábola do Julgamento e a Inversão da História   Texto-base: João 25:31-46  Eixo Teológico: A identidade do Rei-Juiz revelad..."
+tags: ["amor"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# João 25
 
+## ***O Cordeiro no Trono: A Parábola do Julgamento e a Inversão da História***
+
+## Texto-base: João 25:31-46
+## Eixo Teológico: A identidade do Rei-Juiz revelada na solidariedade com os últimos, redefinindo a ética do Reino e expondo o coração humano.
+
+## Introdução
+
+Há um silêncio que precede os grandes acontecimentos da história, um vácuo de som no qual o destino parece suspenso, à espera de uma palavra que o desencadeie. Assim era o mundo antes do dilúvio, assim era a noite no Getsêmani, e assim será, segundo a descrição solene do nosso Senhor, no limiar da consumação de todas as coisas. No capítulo vinte e cinco do Evangelho de João, somos transportados, pela palavra profética de Cristo, para além do véu do tempo, para aquele grande e terrível dia em que o Filho do Homem se assentará no trono da sua glória. Não é uma narrativa sobre o fim, meus amigos, mas sobre o desvelar final de todas as coisas. **Herman Bavinck**, em *A Doutrina de Deus* (1918), observa que o juízo final não é um ato arbitrário de poder, mas a necessária revelação pública da justiça divina que sempre operou na história. Aqui, na parábola das ovelhas e dos bodes, Cristo não está simplesmente descrevendo um protocolo celestial; Ele está oferecendo uma lente através da qual toda a vida humana, em sua aparente banalidade, é vista em sua verdadeira dimensão eterna. O drama não se desenrola em um palácio distante, mas nos becos, nos leitos de hospitais, nas celas de prisões e nas mesas vazias dos famintos. O Rei vem julgar, e o critério do seu julgamento nos surpreende e nos desnuda.
+
+## Proposição
+
+Portanto, proponho-vos nesta noite que a Parábola do Juízo Final, registrada em João 25, revela três verdades fundamentais e interligadas: primeiro, que a identidade do Juiz é inseparável da sua solidariedade com os pequenos; segundo, que o critério do julgamento é a graça recebida e praticada, manifesta em atos concretos de misericórdia; e terceiro, que o veredito eterno expõe, de uma vez por todas, a natureza íntima de cada coração, separando a fé viva da religiosidade morta.
+
+## I. O Trono da Glória e a Identidade Ocultada do Rei
+
+Ao iniciar sua descrição com a imagem do Filho do Homem vindo em glória, acompanhado de todos os anjos, para assentar-se no trono da sua majestade, Cristo evoca deliberadamente a visão de Daniel 7. Contudo, há uma inversão chocante. **D.A. Carson**, em *O Comentário do Evangelho de João* (1991), salienta que a majestade do Juiz universal é imediatamente reinterpretada através de uma identificação radical e perturbadora: "Tive fome, e vocês me deram de comer; tive sede, e me deram de beber; era estrangeiro, e me receberam; estava nu, e me vestiram; enfermo, e me visitaram; preso, e me foram ver". O Rei dos reis, o Senhor dos senhores, o Juiz de toda a terra, declara ter estado escondido na pessoa do indigente, do marginalizado, do enfermo e do encarcerado. Esta não é uma metáfora piedosa; é uma afirmação teológica de consequências sísmicas. **Jürgen Moltmann**, em *O Caminho de Jesus Cristo* (1989), desenvolve esta ideia ao afirmar que a crucificação de Cristo já havia revelado Deus na solidariedade com os abandonados, e o juízo final é a consumação pública desta mesma verdade. O trono da glória é, paradoxalmente, o trono da cruz estendido para abranger toda a história humana. A pergunta surpresa tanto dos justos quanto dos ímpios – "Senhor, quando foi que te vimos...?" – revela que o encontro com Cristo não ocorreu primariamente nos santuários ou nas experiências místicas elevadas, mas nos encontros não calculados, nas interrupções inconvenientes, nas demandas silenciosas dos que sofrem. A glória do Rei é uma glória kenótica, uma glória que se esvaziou e que se identifica de tal forma com a humanidade sofredora que julgar os últimos é julgar a Ele próprio. **John Stott**, em *A Cruz de Cristo* (1986), nos lembra que a doutrina da substituição penal encontra aqui um correlato social: Cristo não apenas carrega o nosso pecado na cruz, mas na história carrega a nossa dor, a nossa fome, a nossa solidão. Ignorar esta identificação é ignorar a própria natureza do Deus revelado em Jesus.
+
+## II. Os Atos de Misericórdia como a Linguagem do Reino
+
+O critério do julgamento, como exposto pelo Rei, é desconcertantemente simples e concretamente material. Não é uma profissão de fé ortodoxa, não é o conhecimento de credos complexos, não é a participação em ritos religiosos, nem mesmo a invocação do nome do Senhor. São atos de misericórdia elementar: dar de comer, dar de beber, hospedar, vestir, visitar. **Timothy Keller**, em *Justiça Generosa* (2010), argumenta que estes atos são a evidência inevitável de um coração transformado pela graça. Eles são a linguagem natural do Reino, a gramática da nova criação fluindo para a antiga. A surpresa dos justos é significativa: eles não praticaram essas obras para ganhar mérito ou sequer para servir a Cristo conscientemente. Eles o fizeram movidos por uma compaixão que brotava de uma nova natureza, uma natureza regenerada que, como **Augustus Strong** definiu em *Teologia Sistemática* (1907), é "a implantação de um novo princípio de vida, que se manifesta em novas atitudes e ações". A misericórdia para com o próximo é, portanto, o fruto orgânico da fé, não sua raiz. É a evidência de que a graça de Deus, recebida gratuitamente, tornou-se um rio que transborda. Por outro lado, a condenação dos ímpios não recai sobre grandes crimes ou heresias monstruosas, mas sobre a omissão. Sobre o não fazer. Sobre a indiferença. **Jonathan Edwards**, em *A Caridade e seus Frutos* (1738), pregou que o amor é o sumário de toda a virtude cristã, e sua ausência é a essência de todo o pecado. A passividade diante do sofrimento alheio é revelada como uma recusa ativa de reconhecer a imagem de Deus no outro e, por extensão, uma recusa de reconhecer o Cristo que neles se identifica. O julgamento, então, não introduz uma nova métrica; ele apenas traz à luz o que sempre foi verdade: que a fé que não se traduz em amor é morta, e que o amor que não se encarna em atos é ilusório. **Dietrich Bonhoeffer**, em *Discipulado* (1937), ecoa esta verdade ao afirmar que somente o que obedece crê, e a obediência a Cristo passa inexoravelmente pelo serviço ao irmão mais pequeno.
+
+## III. A Separação Eterna e a Revelação dos Corações
+
+A imagem final da parábola é a da separação irrevogável: as ovelhas à direita, os bodes à esquerda. A direita, na linguagem bíblica, é o lugar do favor, da herança, do Reino preparado desde a fundação do mundo. A esquerda, o lugar da rejeição, do fogo eterno preparado para o diabo e seus anjos. Esta separação, longe de ser um ato arbitrário, é apresentada como o desfecho natural de duas trajetórias de vida, a consumação de duas naturezas distintas. **John Murray**, em *Redenção: Consumada e Aplicada* (1955), enfatiza que o juízo final é a ratificação pública do veredito já proferido na consciência de cada indivíduo e na obra de Cristo. A sentença apenas torna manifesto o que já era uma realidade espiritual. A pergunta dos condenados é patética: "Senhor, quando foi que te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou preso, e não te servimos?". Ela revela uma religiosidade auto-referente, que busca a Deus em esferas "espirituais" separadas da vida comum, e que nunca compreendeu que o culto aceitável a Deus transborda para o serviço ao próximo. Eles chamam "Senhor, Senhor", mas não fazem a vontade do Pai que está nos céus. A resposta do Rei é a mais solene de todas as Escrituras: "Em verdade vos digo que, sempre que o deixastes de fazer a um destes mais pequeninos, a mim o deixastes de fazer". Aqui, a máscara cai. A indiferença para com o necessitado é, em última análise, indiferença para com Cristo. **Francis Schaeffer**, em *O Deus que Intervém* (1968), via nesta passagem o fundamento para uma apologética da vida: a verdade cristã deve ser visível em uma comunidade de amor tangível, pois o mundo julgará a veracidade do Evangelho pelo amor que vê entre os crentes e para além deles. A separação eterna, portanto, não é apenas um castigo por ações más, mas a confirmação de um estado de coração que, mesmo diante da graça comum de Deus manifesta na humanidade sofredora, permaneceu fechado, auto-suficiente e alheio ao amor que é a própria essência de Deus.
+
+## Conclusão
+
+Irmãos, o que temos diante de nós nesta noite não é um quadro para alimentar especulações escatológicas ociosas, mas um espelho que reflete a verdade de nossas almas. O Juiz que virá é o mesmo que passou fome nas ruas de nossas cidades, que teve sede nos campos de refugiados, que esteve nu nas favelas, que esteve enfermo nos corredores superlotados dos hospitais, que esteve preso nas celas de solidão e desespero. O critério do julgamento já está em operação hoje, no fluxo comum de nossos dias. Cada prato de comida oferecido, cada copo de água dado, cada porta aberta, cada coberta compartilhada, cada visita feita – ou a sua ausência – é um sinal que aponta para a eternidade. Não sejamos como os insensatos da parábola, que pensavam que a religião era um assunto entre eles e um Deus distante. O Deus de Jesus Cristo está irremediavelmente envolvido com a sua criação sofredora. A pergunta que ecoa deste trono de glória para os corredores de nossas vidas é esta: Onde você viu o seu Rei hoje? E o que a sua mão fez ao vê-Lo? Que o Espírito Santo nos conceda olhos para ver Cristo nos pequeninos e um coração transbordante do seu amor, para que, no último dia, ouvindo as bem-aventuradas palavras "Vinde, benditos de meu Pai", possamos entrar, não por mérito de nossas obras, mas pela graça que as produziu, na posse do Reino preparado para nós desde a fundação do mundo.
+
+## **Amém.**

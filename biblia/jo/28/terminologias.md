@@ -1,16 +1,53 @@
 ---
 slug: "jo-28-terminologias-chave"
-titulo: ""
+titulo: "A Sabedoria Inescrutável: Uma Dissecação Lexical do Capítulo Ápice do Drama de Jó"
 tipo: "terminologias-chave"
 origem: "biblia"
 livro: "jo"
 capitulo: "28"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TERMINOLOGIAS CHAVES  Jó 28   A Sabedoria Inescrutável: Uma Dissecação Lexical do Capítulo Ápice do Drama de Jó  O vigésimo oitavo capítulo do Livro de Jó constitui um poema autôn..."
 tags: []
 ---
 
+# TERMINOLOGIAS CHAVES
+# Jó 28
 
+## ***A Sabedoria Inescrutável: Uma Dissecação Lexical do Capítulo Ápice do Drama de Jó***
+
+O vigésimo oitavo capítulo do Livro de Jó constitui um poema autônomo de rara beleza e profundidade filosófica, um interlúdio lírico que suspende momentaneamente o debate acalorado para erguer um monumento verbal à sabedoria divina. É um canto à incomensurável distância entre a engenhosidade humana, capaz de violar as entranhas da terra, e a Sabedoria metafísica, cuja morada é inacessível ao mero intelecto criado. Para desvendar as camadas deste texto, é imperativo uma imersão nos termos hebraicos que sustentam sua arquitetura conceitual. Analisaremos, portanto, os vocábulos-chave que tecem a trama deste capítulo: **חָכְמָה** (*ḥokmâ* – sabedoria), **בִּינָה** (*bînâ* – entendimento), **עֵז** (`êz` – força, lugar forte) e a crucial pergunta retórica **מַה** (*mah* – “onde?”), que dirige toda a investigação poética.
+
+### **חָכְמָה (Ḥokmâ) e בִּינָה (Bînâ): A Dicotomia da Compreensão Integral**
+
+O termo **חָכְמָה** (*ḥokmâ*) permeia o capítulo como seu leitmotiv, aparecendo sete vezes (vv. 12, 12, 18, 20, 20, 23, 28). **Francis Brown, S. R. Driver e Charles A. Briggs**, em sua seminal *A Hebrew and English Lexicon of the Old Testament* (1906), definem *ḥokmâ* primariamente como “habilidade técnica” (como em artesanato, navegação, administração), estendendo-se depois para “sabedoria em assuntos administrativos”, “sabedoria política” e, no ápice, “sabedoria ética e religiosa”. Jó 28 opera precisamente nesta transição escalonada. Os versículos iniciais (1-11) celebram a *ḥokmâ* como habilidade técnica humana: o homem descobre veios de prata, traz à luz coisas escondidas nas trevas. É a sabedoria da engenharia de minas, uma *savoir-faire* conquistadora.
+
+Contudo, a partir do versículo 12, o termo é catapultado a um plano ontológico totalmente distinto. **Bruce K. Waltke**, em seu tratado *The Book of Proverbs: Chapters 1-15* (2004), faz uma distinção vital: a *ḥokmâ* em Jó 28 não é mais uma competência a ser adquirida, mas uma entidade quase hipostasiada, uma realidade objetiva e transcendente. “Onde se achará a sabedoria?” pergunta o poeta. Ela se torna um *objeto* de busca, não um *atributo* do buscador. Esta personificação prepara o terreno para a revelação final de que ela é, em essência, temer a Deus (v.28).
+
+Paralela e complementar a *ḥokmâ* está **בִּינָה** (*bînâ*), termo que aparece nos versículos 12 e 20. **Ludwig Koehler e Walter Baumgartner**, na *The Hebrew and Aramaic Lexicon of the Old Testament* (1994-2000), traçam sua raiz para a ideia de “discernir”, “separar”, “entender”. Enquanto *ḥokmâ* pode denotar um conhecimento prático e abrangente, *bînâ* frequentemente carrega a nuance do discernimento analítico, da capacidade de separar o verdadeiro do falso, de penetrar na essência das coisas. A pergunta “Onde está o lugar do entendimento?” (v.12) não é redundante. Ela busca o *locus* não apenas do conhecimento geral, mas da faculdade de julgar, interpretar e discernir o significado profundo da experiência humana – faculdade essa que os amigos de Jó alegavam possuir, mas que o capítulo demonstra ser igualmente inacessível.
+
+**John Calvin**, em seus *Sermons on Job* (publicados postumamente em 1574), comenta precisamente esta dupla busca: “O homem pode cavar até os confins da terra para ouro e prata, mas para encontrar a verdadeira sabedoria e o correto entendimento das coisas de Deus, todos os seus esforços são em vão. Elas estão escondidas, não em cavernas escuras, mas na majestade inatingível do próprio Deus.” Calvino percebe que o poema estabelece uma crise epistemológica: as ferramentas que servem para dominar a criação material são totalmente inadequadas para apreender a Sabedoria que ordena o cosmos moral e espiritual.
+
+### **עֵז (`Êz): A Fortaleza Inexpugnável da Sabedoria**
+
+Um termo de significado denso e controverso neste capítulo é **עֵז** (`êz*), encontrado no versículo 9: “Estende a mão contra a rocha (*sela‘*) e revolve os montes desde as suas raízes. Nos penhascos (*ḥallamîš*) abre canais, e seus olhos veem toda coisa preciosa. Ata os rios para que não gotejem, e tira à luz o que estava escondido.” A questão recai sobre a frase “revolve os montes desde as suas **raízes**”. A palavra traduzida como “raízes” no português é justamente `êz*. **Brown-Driver-Briggs** lista seus significados primários como “força”, “poder”, “fortaleza”. A ideia de “raízes” (adotada pela Almeida Atualizada e NVI) é uma extensão metafórica: a base forte de uma montanha, seu alicerce. No entanto, **Marvin H. Pope**, em sua crítica no *Anchor Yale Bible Commentary: Job* (1965), argumenta que manter a tradução “força” ou “alicerce” é mais fiel e poético: o homem, em sua busca por minerais, “revira os montes desde o seu *alicerce*”, desde sua *força fundamental*. Esta leitura intensifica o contraste: o homem é capaz de deslocar as fundações geológicas da terra, uma demonstração de força (*‘ôz*, termo correlato) e *ḥokmâ* técnica colossal, mas é impotente para deslocar ou mesmo encontrar a Sabedoria divina.
+
+Esta interpretação é enriquecida por **Gregório de Nazianzo**, o teólogo capadócio do século IV, que, em sua *Oração Teológica* (Oração 28), embora não comente Jó diretamente, reflete sobre a inacessibilidade da essência divina: “A mente humana pode medir montanhas, contar as areias do mar… mas medir a Natureza divina está infinitamente além de seu poder.” O `êz* dos montes, sua solidez aparentemente eterna, pode ser violado; o `êz* da Sabedoria, sua fortaleza ontológica, permanece intocada. A tradução “raízes” perde um pouco desta rica antítese entre a força da criação e a força do Criador, entre o alicerce físico e o fundamento metafísico de toda a sabedoria.
+
+### **מַה (Mah) – “Onde?”: A Pergunta que Estrutura a Busca Desesperada**
+
+O operador linguístico que dá ritmo e profundidade filosófica a todo o capítulo é a partícula interrogativa **מַה** (*mah*), que aqui, no contexto, assume o sentido de “onde?”. Ela inaugura a segunda e decisiva seção do poema: “**Mas onde** (*mah*) se achará a sabedoria? E **onde** está o lugar do entendimento?” (v.12). Esta pergunta, repetida e ecoada, não é uma indagação casual, mas o grito de uma humanidade desorientada. **David J. A. Clines**, em seu monumental *Word Biblical Commentary: Job 21-37* (2006), observa que o uso de *mah* aqui transforma a busca por sabedoria numa jornada espacial e existencial. Não se pergunta “o que é a sabedoria?”, mas “**onde** ela está?”. A sabedoria é tratada como tendo uma localização, um domicílio, um *locus* teológico.
+
+Esta pergunta “onde?” expõe a tragédia da condição pós-Queda. O homem sabe *que* a sabedoria existe – ele a vê refletida na ordem da criação (vv. 23-27) –, mas ignora totalmente suas *coordenadas*. Ele não tem acesso ao seu mapa. **Martinho Lutero**, em suas *Preleções sobre Jó* (*Vorlesungen über Hiob*, 1524-1526), vê nesta pergunta o eco da pergunta de Adão após o pecado: “Onde estás?” (Gênesis 3:9). A inversão é significativa. Na queda, Deus pergunta ao homem “onde estás?”, revelando sua fuga da Presença. Em Jó 28, é o homem, confuso e sofrendo num mundo que não mais decifra, quem pergunta a Deus (ou ao universo): “Onde estás, ó Sabedoria?”. É o grito da criatura que sente a ausência do sentido.
+
+A resposta à pergunta *mah* é progressivamente revelada. Não está nos abismos (v.14), nem no mar (v.14), nem pode ser comprada por ouro (v.15). Cada negativa aprofunda o abismo entre a busca humana e o objeto buscado. Finalmente, a resposta é dada não como um endereço, mas como um ato de revelação e um imperativo ético: “E disse ao homem: Eis que o temor do Senhor é a sabedoria, e o apartar-se do mal é o entendimento” (v.28). **A localização da sabedoria (*mah*-onde) não é um lugar geográfico, mas uma postura relacional: o temor do Senhor.** **Johannes G. von Herder**, filósofo e exegeta do século XVIII, em seu *Vom Geist der Ebräischen Poesie* (1782-1783), captou isso brilhantemente: “O poeta de Jó conduz nossa mente por uma peregrinação cósmica, do centro da terra aos confins do mar, apenas para nos trazer de volta ao ponto de partida: o coração humano em reverência. A Sabedoria não está *lá fora* para ser descoberta, mas se torna presente *aqui dentro* quando o espírito se curva em temor.”
+
+### **Síntese Lexical e Teológica: Do Cavoucar ao Curvar-se**
+
+A análise destes termos revela a jornada magistral de Jó 28. Começa-se com a **חָכְמָה** (*ḥokmâ*) como técnica triunfante, uma força (**עֵז** – `êz*) que domina a matéria. A pergunta **מַה** (*mah*) interrompe esta narrativa de progresso humano e lança a busca para um plano superior. A *ḥokmâ* e sua parceira **בִּינָה** (*bînâ*) são agora entidades celestiais, cujo valor excede todo o ouro e pedras preciosas que a *ḥokmâ* técnica extrai.
+
+O clímax do capítulo (vv. 23-27) descreve Deus não apenas como *possuidor*, mas como *artífice* da Sabedoria. Ele a viu, declarou, estabeleceu e esquadrinhou. Ele a empregou na fundação da criação. Aqui, a Sabedoria aproxima-se da figura da *Logos* pré-incarnada, um conceito que **Fílon de Alexandria** desenvolveria e que o Prólogo do Evangelho de João cristalizaria. A Sabedoria não é uma abstração, mas o princípio ordenador e inteligível do cosmos, conhecido plenamente apenas por Deus.
+
+Portanto, a resposta final do versículo 28 não é um anticlímax moralista, mas a única conclusão possível da investigação lexical e teológica. A **חָכְמָה** (*ḥokmâ*) suprema, inalcançável por esforço humano, torna-se acessível apenas através do “temor do SENHOR” (*yir’at ‘ădōnāy*). O **בִּינָה** (*bînâ*) genuíno, o discernimento último sobre o sofrimento e a justiça (o tema central do livro), manifesta-se no “apartar-se do mal”. A busca espacial (“onde?” – *mah*) termina numa transformação ético-religiosa. A lição lexical é profunda: o significado mais denso das palavras para “sabedoria” e “entendimento” só pode ser plenamente apreendido quando o coração humano abandona a postura do minerador que *cavouca* a terra para dominá-la, e assume a postura do adorador que se *curva* em reverência perante Aquele que é, Ele próprio, a fonte e a fortaleza (`êz*) de toda a Sabedoria.

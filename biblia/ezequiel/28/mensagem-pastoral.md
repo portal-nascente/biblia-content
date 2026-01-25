@@ -1,16 +1,37 @@
 ---
 slug: "ezequiel-28-mensagem-pastoral"
-titulo: ""
+titulo: "O Coração que se Elevou e a Graça que se Abaixa"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "28"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Ezequiel 28   O Coração que se Elevou e a Graça que se Abaixa   Introdução  Permita-me, filho amado, irmão na caminhada, que eu lhe fale não como um teórico dis..."
+tags: ["esperanca", "fe"]
 ---
 
+# MENSAGEM PASTORAL
+# Ezequiel 28
 
+## ***O Coração que se Elevou e a Graça que se Abaixa***
+
+### Introdução
+
+Permita-me, filho amado, irmão na caminhada, que eu lhe fale não como um teórico distante, mas como um pastor que já viu, em trinta anos de ministério, a silhueta sombria da soberba erguer-se nos lugares mais improváveis. Já a vi no olhar do seminarista recém-formado, seguro de suas novas ferramentas exegéticas; já a senti no suspiro da irmã idosa, que julga sua longa fidelidade como um crédito perante o Altíssimo; já a percebi, com um nó na garganta, no próprio espelho da minha alma, quando os aplausos após um sermão soam mais doces que o sussurro do Espírito. É para este coração nosso, tão propenso a construir tronos em poeira, que o capítulo vigésimo oitavo de Ezequiel se dirige com uma severidade que é, em sua essência mais profunda, um ato de misericórdia extrema. Ele nos apresenta dois lamentos fúnebres, duas elegias: uma para um príncipe humano, o rei de Tiro; e outra para uma potência cósmica, o querubim ungido. E no espelho quebrado dessas duas figuras, vemos refletida, de maneira terrível e salutar, a condição de toda alma que esquece sua origem.
+
+### Desenvolvimento
+
+O profeta começa dirigindo-se ao *nagid*, ao príncipe de Tiro. A cidade era o ápice da civilização humana de seu tempo, um emporio de riquezas, uma obra-prima de engenharia e comércio. E seu rei, personificação desse sucesso, havia internalizado a glória de sua cidade até confundir-se com uma divindade. “Tu és homem, e não Deus”, grita Ezequiel, num golpe desnudador que ecoa através dos séculos (Ez 28:2). A acusação central é a do coração inchado: “Elevou-se o teu coração, e disseste: Eu sou Deus” (Ez 28:2, ARA). **Timothy Keller**, em *A Fé na Era do Ceticismo* (2008), observa com perspicácia que a idolatria moderna raramente assume a forma de estátuas de barro; ela se veste de conquistas profissionais, de beleza estética, de intelecto afiado ou de influência social. O rei de Tiro era um *self-made man* que, contemplando sua obra, decidiu que ele próprio era o artífice último de seu destino. Sua sabedoria e entendimento, contudo, eram apenas instrumentais, voltados para a acumulação de prata e ouro, para a violência e o pecado (Ez 28:4-5, 16). **Martyn Lloyd-Jones**, em seu sermão *O Perigo da Prosperidade*, alerta que não há cego mais perigoso do que aquele que, cercado pelas evidências da graça comum de Deus – talento, sucesso, beleza –, atribui a si mesmo a glória. A sentença sobre esse coração elevado é a queda. Da companhia das pedras preciosas no Éden metafórico de sua opulência, ele será lançado ao chão, exposto e destruído (Ez 28:17). É o fim inevitável de toda autonomia que se declara divina.
+
+Mas então, o oráculo faz uma curva vertiginosa, transcendendo a esfera puramente humana. O profeta é levado a contemplar uma figura por trás do trono, uma realidade espiritual que o rei terreno apenas espelhava de forma pálida e distorcida: o querubim ungido, guardião do monte santo de Deus. Aqui, a linguagem se torna cósmica, retrocedendo a um estado primordial de perfeição. Ele estava no Éden, jardim de Deus, adornado com toda pedra preciosa (Ez 28:13). Era “perfeito nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti” (Ez 28:15, ARA). **John Calvin**, em seus *Comentários sobre Ezequiel*, pondera que este trecho nos permite um vislumbre do abismo da queda angelical. A iniquidade não foi implantada pelo Criador; foi *achada*. Surgiu de dentro. O mecanismo foi o mesmo: “Elevou-se o teu coração por causa da tua formosura, corrompeste a tua sabedoria por causa do teu resplendor” (Ez 28:17). A beleza, um dom, tornou-se o motivo do auto-engrandecimento. A sabedoria, um presente, foi pervertida em instrumento de auto-adoração. E a sentença é a mesma, porém infinitamente mais grave: “Profanei-te, e te lancei fora do monte de Deus, e te fiz perecer, ó querubim protetor, do meio das pedras afogueadas” (Ez 28:16). Esta é a radiografia da Queda original, o câncer do pecado que nasce quando a criatura, fascinada com seus próprios dons, desvia o olhar do Doador.
+
+O que temos, então, são duas quedas que se iluminam mutuamente. A queda do rei de Tiro nos mostra a feiura mundana da soberba humana em sua expressão histórica e política. A queda do querubim ungido nos revela a tragédia metafísica e espiritual que está na raiz de toda soberba. Uma é a sombra, a outra é a substância. E nós, onde nos encaixamos? **Augustus Nicodemus Lopes**, em *O Caminho da Graça* (2019), nos lembra que Adão, no Éden, foi tentado pela mesma serpente que havia caído pela mesma soberba: “sereis como Deus” (Gn 3:5). A essência do pecado herdado é este movimento do coração para dentro de si mesmo, esta insurreição ontológica. Cada vez que preferimos nossa opinião à Palavra revelada, cada vez que usamos os dons de Deus para nossa própria glória, cada vez que olhamos para o irmão com desdém, estamos reencenando, em escala menor, o drama de Tiro e a tragédia do querubim. Estamos dizendo, em atos e atitudes: “Eu sou. A minha vontade prevalece.”
+
+### Conclusão
+
+Irmão, irmã, esta mensagem é um espelho duro. Mas ela não é o fim da história. Ela é a diagnose necessária para apreciarmos o remédio. O evangelho começa exatamente onde a condenação de Ezequiel 28 termina. Pois se o problema é um coração elevado, a solução só pode vir de um Coração que se abaixou. O Verbo eterno, a verdadeira imagem do Deus invisível, “a si mesmo se esvaziou, assumindo a forma de servo… a si mesmo se humilhou, tornando-se obediente até à morte, e morte de cruz” (Fp 2:7-8). O querubim caído buscou ser igual a Deus. O Filho de Deus, sendo Deus, fez-se igual a nós. Na cruz, Ele carregou a sentença de nossa soberba – a morte, a separação, a humilhação total. E ressuscitou, não para nos restaurar ao Éden de pedras preciosas, mas para nos dar algo infinitamente maior: Sua própria justiça e um coração novo.
+
+A aplicação pastoral que lhe deixo é esta: hoje, ao sair daqui, você será tentado a construir um pequeno trono. Pelo sucesso no trabalho, pela educação dos filhos, pela espiritualidade aparente. Quando sentir aquele calorzinho do orgulho começando a subir, lembre-se do rei de Tiro reduzido a cinzas. Lembre-se do querubim, da mais esplêndida das criaturas, expulso da presença divina. E então, olhe para a cruz. Veja ali o único Rei legítimo, coroado não de ouro, mas de espinhos, exaltado não por sua força, mas por sua obediência. A humilhação de Cristo é o antídoto eterno para a exaltação do nosso eu. Nosso chamado não é tentar, em vão, esmagar sozinhos nossa soberba. É correr, repetidas vezes, para Aquele que já a esmagou por nós, e pedir que o Seu Espírito, dia após dia, molde em nós a mente humilde de Cristo. Pois só um coração que conhece a profundidade de sua queda pode apreciar a altura da graça que o levantou.

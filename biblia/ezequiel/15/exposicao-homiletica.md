@@ -1,16 +1,49 @@
 ---
 slug: "ezequiel-15-pregacao-tecnica"
-titulo: ""
+titulo: "A Videira Inútil: Quando a Graça se Torna um Verdicto"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "15"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 15   A Videira Inútil: Quando a Graça se Torna um Verdicto   Texto-base: Ezequiel 15   Eixo Teológico: A justiça de Deus em rejeitar o que, por natur..."
+tags: ["amor"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 15
 
+## ***A Videira Inútil: Quando a Graça se Torna um Verdicto***
+
+## Texto-base: Ezequiel 15
+
+## Eixo Teológico: A justiça de Deus em rejeitar o que, por natureza, é infrutífero e, por rebeldia, se torna combustível para o juízo.
+
+## Introdução
+
+Há, na economia divina, uma hierarquia de valores que frequentemente subverte nossas avaliações mundanas. O profeta Ezequiel, no exílio babilônico, é confrontado com uma visão que parece, à primeira vista, banal, quase desprezível: um pedaço de madeira de videira. Não o cedro do Líbano, símbolo de realeza e força; não a oliveira, emblema da unção e da paz; não a figueira, promessa de doçura e sustento. A videira. E, mais especificamente, um sarmento, um galho cortado, separado da seiva que lhe poderia dar propósito. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1849), observa com precisão cirúrgica que o profeta é levado a considerar “não a videira em seu estado natural, e carregada de frutos, mas um galho seco e estéril, separado da raiz”. É a partir desse objeto aparentemente insignificante que o Senhor tece uma parábola de fogo, uma alegoria devastadora sobre o destino de Jerusalém, a cidade que se tornou, aos olhos do Santo de Israel, nada mais que lenha para a fornalha. Nesta manhã, deixemos que essa madeira queimada fale. Deixemos que o cinzeiro do juízo nos instrua sobre a natureza da graça desperdiçada e a terrível consequência de uma existência que falha em cumprir seu fim designado.
+
+## Proposição
+
+A visão profética de Ezequiel 15 demonstra, com clareza implacável, que uma entidade escolhida por Deus, quando persistentemente infrutífera e corrompida pela rebeldia, perde toda a sua utilidade intrínseca e se torna, inevitavelmente, objeto do juízo consumidor, pois a santidade de Deus não pode compactuar com uma instrumentalidade pervertida.
+
+## I. A Natureza Intrínseca: A Inutilidade da Videira sem seu Fruto
+
+O diálogo divino inicia com uma pergunta retórica que carrega em si o veredicto: “Filho do homem, em que é superior a madeira da videira a qualquer outro pedaço de madeira que está entre as árvores da floresta?”. A resposta é um eco solene de inutilidade. A madeira da videira é tortuosa, frágil, de fibras curtas. **Derek Kidner**, em sua obra *The Message of Ezekiel* (2020), salienta que “a videira tem um único propósito: dar fruto. Sua madeira é inútil para a carpintaria ou para a construção”. Não se faz vigia de telhado com ela, nem móveis, nem ferramentas. Seu valor está inextricavelmente ligado à sua função orgânica, produtiva. Separada dessa função, ela é menos que as outras madeiras. Esta é a primeira camada da acusação contra Jerusalém. Israel foi plantado como uma videira escolhida (Salmo 80:8-11; Isaías 5:1-7). Sua *raison d'être*, seu propósito de existência, era produzir o fruto da justiça, da fidelidade e do conhecimento de Deus. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), fundamenta isso na doutrina da criação e da aliança: “Todas as coisas foram criadas com um fim teleológico, um propósito para a glória de Deus. Israel, em particular, foi formado para ser um reino de sacerdotes”. Contudo, ao rejeitar a Lei e perseguir a idolatria, Jerusalém tornou-se como esse galho seco. Perdeu sua única razão de ser. A graça da eleição não é um amuleto; é uma designação para um serviço. Quando o serviço é negado, resta apenas a materialidade vazia de um objeto que falhou em seu desígnio. **Iain Duguid**, no comentário *Ezekiel* (1999), da série NIV Application Commentary, vai além: “A questão não é se a madeira da videira é *boa* para algo, mas se é *boa em* algo. E a resposta é um retumbante ‘não’”. Jerusalém, em sua autossuficiência orgulhosa, imaginava-se como cedro, mas aos olhos de Deus era apenas um sarmento estéril, cuja única aptidão era para o fogo.
+
+## II. A Condição Agravada: A Corrupção que Consuma a Última Possibilidade de Utilidade
+
+O Senhor, porém, não para na avaliação do galho em seu estado natural. Ele propõe um experimento mental: “Eis que, posto no fogo para servir de combustível, o fogo devorou as suas duas extremidades, e o meio ficou chamuscado; serviria para alguma obra?”. A imagem é profundamente trágica. O galho já inútil é submetido ao fogo. As pontas são consumidas, o centro é carbonizado. O que era meramente inútil torna-se agora positivamente inadequado. A ação do fogo não o purifica, não o tempera, não o transforma em carvão útil. Apenas o destrói parcialmente, tornando-o ainda mais desprezível. **Walther Eichrodt**, em sua *Theology of the Old Testament* (1967), vê aqui um símbolo das invasões e calamidades que já haviam assolado Judá. As “extremidades” queimadas podem representar o reino do Norte, há muito levado pela Assíria, e talvez as primeiras levas do exílio babilônico. O “meio chamuscado” é Jerusalém, ferida, humilhada, mas não consumida… ainda. A questão crucial é: essa experiência de juízo parcial a tornou mais útil? A aflição a levou ao arrependimento? A queimadura a purificou? A resposta profética é um não devastador. **Christopher J.H. Wright**, em *The Message of Ezekiel* (2001), aplica: “O julgamento de Deus não estava tornando Israel melhor. A experiência do cerco e da derrota não estava refinando seu caráter. Estava apenas expondo sua corrupção fundamental”. O fogo da adversidade, quando não é recebido como disciplina amorosa (Hebreus 12:5-11), apenas revela a podridão interior. Jerusalém, após repetidos avisos e castigos, permanecia impenitente. Seu coração, longe de se amolecer, havia se endurecido como carvão. **John Owen**, em seu tratado *The Nature and Power of Indwelling Sin* (1668), fornece a análise sistemática: “O pecado, quando resiste à correção divina, carboniza a alma. Tira-lhe a flexibilidade para o bem, a receptividade à graça, deixando-a num estado de inutilidade espiritual irremediável, exceto por um milagre de renovação”. A cidade não aprendera a lição. O fogo que deveria refinar apenas a marcara com o selo da reprovação.
+
+## III. O Destino Inexorável: A Consignação ao Fogo Consumidor da Ira Divina
+
+O veredicto final é aterrador em sua lógica férrea: “Como estava verde, e já se pôs no fogo para ser consumido, assim determinarei contra os habitantes de Jerusalém”. A linguagem é judicial: “determinarei”. Não é um acesso de raiva, mas um decreto soberano. Se o galho já queimado é inútil, qual seu destino? Apenas um: voltar ao fogo, desta vez para ser completamente consumido. A analogia é elevada do objeto para as pessoas: “Porei a minha face contra eles; sairão de um fogo, mas outro fogo os consumirá”. **Daniel I. Block**, em seu magistral comentário *The Book of Ezekiel, Chapters 1–24* (1997), explica que “a expressão ‘porei a minha face contra’ é idiomática para hostilidade divina total e irrestrita”. Não há mais mediação, não há mais intercessão (Ezequiel 14:14-20). A paciência de Deus esgotou-se. A cidade que sobreviveu ao cerco de Nabucodonosor em 597 a.C. (o “meio chamuscado”) não escapará ao cerco final de 586 a.C. Este é o “outro fogo”. A ira de Deus, uma vez acionada em seu curso judicial, é completa. **Francis Turretin**, em seus *Institutes of Elenctic Theology* (1679), discorre sobre a justiça vindicativa de Deus: “A punição é necessária não apenas pela ordem moral do universo, mas pela própria natureza de Deus, que é infinitamente justo. A impenitência obstinada torna a aplicação dessa justiça não apenas possível, mas inevitável”. Jerusalém, a videira do Senhor, havia se tornado “lenha para o fogo”. **Geerhardus Vos**, em *Biblical Theology* (1948), conecta esta visão ao arcabouço da aliança: “A maldição da aliança, prefigurada nas madeiras das ofertas queimadas e agora vivida por Jerusalém, é a antítese da bênção da vida. É a devolução da criatura rebelde ao estado de não-ser, simbolizado pelo fogo consumidor”. O profeta não vê esperança neste capítulo. É um oráculo de escuridão total. O único vislumbre de luz – e este capítulo não o oferece – viria do mesmo Deus que julga, mas que, em sua misericórdia insondável, um dia plantaria uma Videira Verdadeira, que daria fruto perfeito e que suportaria, em Si mesmo, o fogo da ira que nós, sarmentos inúteis, merecíamos.
+
+## Conclusão
+
+Irmãos, a lição da videira queimada é solene e pessoal. Ela nos pergunta, hoje, qual é o fruto de nossas vidas. A graça que nos alcançou, que nos enxertou na Videira Verdadeira que é Cristo, não nos foi dada para nossa ornamentação pessoal, mas para frutificação. **Jonathan Edwards**, em seu sermão *A True Christian’s Life a Journey Towards Heaven* (1734), admoesta: “Não se enganem: Deus não manterá em sua vinha ramos que, estação após estação, permanecem estéreis. A profissão de fé sem as obras da fé é como a madeira da videira: pode ter a aparência, mas não a utilidade”. O fogo das provações que nos alcança – a doença, a perda, a angústia – qual é seu efeito em nós? Está nos carbonizando em amargura e autopiedade, ou está queimando as impurezas para que demos mais fruto? O capítulo de Ezequiel 15 é um espelho negro. Nele, vemos o destino da religião formal, da identidade étnica ou denominacional vazia, da vida que se apoia no privilégio da eleição sem buscar a santidade que ela demanda. Mas, graças a Deus, o Evangelho nos mostra outra madeira: a cruz. Nela, o Fogo da ira divina foi totalmente consumido pelo Cordeiro de Deus. E todo aquele que está unido a Ele pela fé, ainda que passe pelo fogo da disciplina, nunca será lançado no fogo da condenação. Que nossa oração seja a do salmista: “Restaura-nos, ó Deus dos Exércitos; faze resplandecer o teu rosto, e seremos salvos” (Salmo 80:19). Para que não sejamos lenha, mas ramos frutíferos, para a glória do Agricultor.
+
+## **Amém.**

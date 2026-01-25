@@ -1,16 +1,57 @@
 ---
 slug: "jo-39-pregacao-tecnica"
-titulo: ""
+titulo: "O Deus que Pastoreia os Monstros e Ensina os Corvos"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "jo"
 capitulo: "39"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Jó 39   O Deus que Pastoreia os Monstros e Ensina os Corvos  Texto-base: Jó 39  Eixo Teológico: A Soberania Inescrutável e a Providência Paternal de Deus sobr..."
+tags: ["amor", "batalha", "medo"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Jó 39
 
+## ***O Deus que Pastoreia os Monstros e Ensina os Corvos***
+## Texto-base: Jó 39
+## Eixo Teológico: A Soberania Inescrutável e a Providência Paternal de Deus sobre toda a Criação, das Bestas ao Homem Sofredor.
+
+## Introdução
+
+Há um silêncio que não é vazio, mas pleno. Um silêncio que pesa, que desce sobre a alma como uma neblina densa, após o fragor dos raios e o estrondo dos trovões. Foi esse o silêncio que se abateu sobre Jó, após o discurso do Senhor que, do meio do redemoinho, desfilara diante dele as maravilhas da criação cósmica e terrena. Agora, no capítulo trinta e nove, a voz divina não se eleva aos astros, mas se abaixa. Desce ao nível do chão, ao pó, ao estrume dos currais e aos penhascos inacessíveis. O Senhor não apresenta mais constelações, mas cabras monteses. Não fala de fundamentos da terra, mas do parto difícil da corça. É aqui, na aparente insignificância do mundo animal, no reino do instinto e da força bruta, que Deus ergue seu mais formidável e lírico púlpito. Ele convida Jó, e a nós com ele, a contemplar um seminário de teologia prática ministrado nos campos abertos, onde os professores são animais selvagens e o currículo é a soberania silenciosa. **John Calvin**, em seus *Sermons on the Book of Job* (1574), observa que neste capítulo, “Deus, por um lado, humilha Jó ao mostrar-lhe criaturas que ele não pode governar, e por outro, o consola, ao revelar-se como o Governador perfeito de todas elas.”
+
+## Proposição
+
+Diante do sofrimento que questiona e do silêncio que atormenta, o capítulo trinta e nove de Jó nos proclama, através de um tríplice retrato da criação animal, que o Deus que sustenta o universo é o mesmo que, com sabedoria inefável e cuidado minucioso, governa cada detalhe da vida mais obscura e aparentemente desgovernada, convidando-nos a trocar nossa demanda por explicações por uma postura de humilde admiração e confiança filial.
+
+## I. A Soberania que Liberta o Selvagem: A Glória do Inútil e do Incontrolável (Jó 39:1-12)
+
+O discurso divino abre com um paradoxo pastoral: Deus é apresentado como o grande criador e observador de criaturas que fogem completamente ao controle e à utilidade humana. As cabras monteses e as corças são postas em cena em seu momento mais crítico e íntimo: o parto. “Sabes tu o tempo em que as cabras montesas parem?” (v.1). A pergunta é devastadora em sua simplicidade. Jó, em sua angústia, estava obcecado com o *seu* tempo, com a cronologia de seu sofrimento. Deus aponta para outro tempo, um tempo sagrado e regulado não por relógios humanos, mas por um decreto celestial inscrito no corpo das fêmeas selvagens. **Francisco Lacueva**, em seu *Comentario de Job* (1984), salienta que “Deus mostra a Jó que há uma Providência especialíssima até para os partos no deserto, que escapam totalmente à vista e ao cuidado do homem.” O parto delas é difícil, doloroso (“lançam fora suas dores”, v.3), mas é seguido de uma libertação imediata. Os filhotes crescem, se fortalecem e “saem, e não tornam para elas” (v.4). Há uma beleza trágica e livre nesse ciclo. Deus as criou assim. Ele as governa assim.
+
+A cena então se desloca para o animal mais emblemático da liberdade indomável: o jumento selvagem. “Quem deixou livre o jumento selvagem?” (v.5). A resposta é óbvia: Deus. E por que o deixou livre? Para habitar os ermos e os terrenos salgados, desprezando “o alvoroço da cidade” e “as gritarias do condutor” (v.7). Este animal é a antítese da domesticação, um monumento vivo à autonomia concedida pelo Criador. Ele ri da força humana. Ele explora as montanhas como seu pasto, perseguindo toda a verdura (v.8). Aqui, a soberania de Deus se manifesta não no controle apertado, mas na concessão deliberada de liberdade. **Derek Kidner**, em *The Wisdom of Proverbs, Job and Ecclesiastes* (1985), vê aqui uma lição profunda: “Deus aprecia e sustenta formas de vida que não têm valor utilitário para o homem. Sua soberania não é microgerencial no sentido de esmagar a autonomia; ela a estabelece e a sustenta.” O ápice desta primeira seção é o misterioso *reém* (v.9-12), frequentemente traduzido como boi selvagem ou unicórnio. Será que Jó pode domesticá-lo? Pode confiar nele para arar seus campos? A resposta é um retumbante não. Esta criatura poderosa, que desafia todas as tentativas de aproveitamento humano, serve a Deus. Sua força descomunal, inútil para Jó, é um tributo à grandeza de quem a criou. A mensagem para o sofredor é clara: há vastas dimensões da realidade, criaturas cheias de força e vida, que existem completamente fora do teu círculo de controle e compreensão, e todas elas estão sob o olhar e o governo perfeito de Deus. Se Ele cuida do inútil e governa o incontrolável, não pode estar ausente do teu sofrimento.
+
+## II. A Sabedoria que Dota o Instinto: A Graça no Absurdo e no Abandonado (Jó 39:13-30)
+
+Deus então vira sua atenção para as criaturas aladas, e o tom muda ligeiramente. Da força bruta e da liberdade indomável, passamos para uma sabedoria instintiva que beira o absurdo e para uma destreza que desafia a lógica. A avestruz é a protagonista desta seção, e ela é um escândalo zoológico. “O pavão tem penas de bondade e amor; mas a avestruz deixa os seus ovos na terra” (v.13-14, na força do original). **Edward J. Young**, em *Studies in Genesis One* (1964), embora focando em Gênesis, capta o princípio aqui exposto: “A obra de Deus na criação nem sempre se ajusta aos nossos padrões de eficiência e beleza.” A avestruz é pintada como uma mãe terrível. Esquece que um pé pode esmagar seus ovos, ou que um animal selvagem pode pisá-los (v.15). Seu tratamento com os filhotes é “áspero”, como se não fossem seus (v.16). Tudo nela parece um erro da natureza, uma piada do Criador. No entanto, eis o golpe de graça: “Deus a privou de sabedoria, e não lhe deu entendimento. Mas, no momento em que se levanta para fugir, zomba do cavalo e do seu cavaleiro” (v.17-18). Sua estupidez como mãe é compensada por uma velocidade sobrenatural. Ela é um paradoxo ambulante. E Deus a fez assim. Ele dotou o absurdo com uma graça específica. A lição para Jó é que os caminhos de Deus não são lineares. O que parece uma falta, uma deficiência gritante (como a falta de sabedoria da avestruz), é parte de um desenho maior onde uma graça compensatória se manifesta de forma espetacular (sua velocidade). O sofrimento de Jó, que parecia um absurdo, uma falta de cuidado divino, poderia ser o terreno onde uma graça diferente, ainda não vista, estava para se manifestar?
+
+A cena muda novamente, subindo das planícies quentes para os penhascos gelados. O cavalo de guerra e a águia (ou falcão) são apresentados. O cavalo é pura energia canalizada, um instrumento de terror e glória humana (v.19-25). Ele ri do medo, anseia pela batalha, e sua força é celebrada. Mas quem o fez assim? Quem lhe deu “o pescoço revestido de crina”? (v.19). A resposta, mais uma vez, é Deus. Até a ferocidade belicosa, usada pelos homens para seus fins, é uma dotação divina. Finalmente, a águia. Por ordem divina, ela “se remonta e faz no alto o seu ninho” (v.27). Dali, seus olhos penetrantes avistam a presa de longe (v.29). Seus filhotes chupam sangue (v.30). É uma criatura de hábitos violentos, mas de uma nobreza e liberdade aéreas inigualáveis. **Gleason L. Archer**, em *The Book of Job: God’s Answer* (1982), comenta: “Deus não está justificando a crueldade na natureza, mas demonstrando que Ele sustenta todo o ciclo de vida e morte, até seus aspectos mais duros. A águia, em sua impiedade, cumpre um propósito no ecossistema divino.” A sabedoria de Deus, portanto, não é sentimental. Ela dota cada criatura com os instintos necessários para seu nicho, por mais duros ou incompreensíveis que nos pareçam. Se Ele sustenta com tanta precisão o mundo instintivo e “cruel” dos animais, seu governo sobre o mundo moral e espiritual dos homens, mesmo em seu sofrimento, não pode ser menos sábio ou menos intencional.
+
+## III. A Providência que Interroga o Sofredor: A Humilhação que é Consolo (Jó 39:30 – Implícito no Arremate)
+
+O capítulo não tem uma conclusão formal. Ele termina com a imagem da águia e seus filhotes saciados, e o silêncio volta a cair. Mas a conclusão é visceral e está impressa em cada pergunta retórica. O fio condutor de todo o discurso é uma interrogação: “Sabes tu?... Conheces tu?... Darás tu?...” (vv.1, 2, 5, 19, 26, 27). Este não é o questionamento de um inquisidor irado, mas o de um pedagogo amoroso que leva seu aluno aos limites de sua ignorância para que ele veja a grandeza do Mestre. **John Piper**, em *The Pleasures of God* (1991), embora não comentando Jó diretante, capta a essência desta pedagogia divina: “Deus se revela para ser admirado. E uma das formas de suscitar admiração é nos levar a contemplar as facetas de sua glória que estão totalmente além de nossa capacidade de reproduzir ou mesmo de compreender plenamente.” A humilhação de Jó é, paradoxalmente, seu maior consolo.
+
+Por quê? Porque a mensagem subjacente a cada criatura descrita é: “Jó, você não entende o parto da cabra montesa, não controla o jumento selvagem, não doma o *reém*, não explica a avestruz, não infunde a coragem no cavalo e não comanda o voo da águia. Todas estas criaturas, em sua obviedade animal, são mistérios fechados para você. No entanto, eu as conheço, eu as criei, eu as sustento, eu as governo. Cada uma delas cumpre o propósito para o qual a desenhei.” A implicação é esmagadora e doce: se o universo está repleto de mistérios que Jó não pode desvendar, mas que Deus governa com perfeição, então o *sofrimento de Jó* é também um desses mistérios. Não é um acidente, não é um erro, não é uma prova de abandono. É um território específico, um “nicho ecológico” dentro da soberania divina, onde Deus, que pastoreia os monstros e ensina os corvos a buscar alimento, está igualmente presente e ativo. **Matthew Henry**, em seu célebre *Commentary* (1710), sintetiza: “Deus apela aqui para as obras da natureza, as obras das suas mãos, para convencer Jó da sua ignorância e da sua impotência. Se não podemos julgar as obras da natureza, que são menos, como poderemos julgar os desígnios da graça, que são maiores?”
+
+## Conclusão
+
+Irmãos, o capítulo trinta e nove de Jó é um antídoto divino para a alma que, no calabouço do sofrimento, começa a acreditar que Deus perdeu o controle ou que se esqueceu dela. Deus não apresenta a Jó um tratado de teodiceia. Ele lhe apresenta um documentário da natureza. Ele não dá explicações; Ele dá a Si mesmo, revelado como o Senhor de todos os processos, até os mais obscuros, dolorosos e aparentemente irracionais.
+
+A pergunta final que ecoa deste púlpito dos campos e dos penhascos não é “Jó, você entende o seu sofrimento?”, mas “Jó, você confia em Mim?”. A soberania que liberta o jumento selvagem é a mesma que cerca o teu caminho. A sabedoria que dota a avestruz de velocidade é a mesma que te dotará de graça para o momento preciso. A providência que alimenta os filhotes da águia é a mesma que sustentará a tua alma no vale.
+
+Deixe, pois, que o silêncio que se segue a este discurso seja preenchido não com novas demandas, mas com uma admiração humilde. Contemple o Deus que pastoreia os monstros. E saiba, no fundo da alma ferida, que o Pastor de toda a criação é também o Pastor do teu coração. A Ele, que ensina aos corvos e governa os leviatãs, e que em Cristo Jesus demonstrou que seu governo supremo é um governo de amor crucificado, seja toda a nossa confiança, nossa submissão e nosso louvor.
+
+## **Amém.**

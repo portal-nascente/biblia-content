@@ -1,16 +1,56 @@
 ---
 slug: "ezequiel-10-pregacao-tecnica"
-titulo: ""
+titulo: "A Glória que Parte: O Último Suspiro do Santuário"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "10"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 10   A Glória que Parte: O Último Suspiro do Santuário   Texto-base: Ezequiel 10  Eixo Teológico: A retirada progressiva e judicial da glória de Deus..."
+tags: ["futuro"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 10
 
+## ***A Glória que Parte: O Último Suspiro do Santuário***
+
+## Texto-base: Ezequiel 10
+## Eixo Teológico: A retirada progressiva e judicial da glória de Deus é a consequência última da idolatria institucionalizada, anunciando juízo mas preservando um remanescente da esperança.
+
+## Introdução
+
+Há um silêncio que é mais eloquente que qualquer trovão; há uma partida que é mais aterradora que qualquer invasão. O profeta Ezequiel, cativo junto ao rio Quebar, não testemunha a queda imediata de Jerusalém, mas algo infinitamente mais solene: a partida lenta, deliberada e agonizante da própria glória de Deus do lugar que Ele escolheu para habitar. O capítulo décimo deste livro profético não é meramente uma visão estranha de querubins e rodas; é uma autópsia espiritual, uma narrativa do último suspiro do santuário. Enquanto os anciãos de Judá, em sua cegueira, talvez ainda confiassem nas pedras do templo, Ezequiel vê a realidade invisível e decisiva: o *Kabod*, o peso glorioso da Presença, levantando-se de seu trono entre os querubins. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1849), observa que esta visão serve como "um espelho terrível no qual Deus colocou diante dos olhos de seu profeta a desertão iminente do templo, para que todos soubessem que o juízo vinha não de baixo, mas do alto." Estamos, portanto, diante não de um evento histórico, mas de um princípio teológico de eterna gravidade: a glória de Deus não negocia com a idolatria, e Sua presença condicional se retira quando o Seu nome é profanado por mãos que O buscam com lábios, mas cujos corações adoram ídolos de carvão em brasa.
+
+## Proposição
+
+Através da visão da glória que se move, do fogo que se espalha e do trono que se eleva, o Senhor nos revela, nesta manhã, três verdades solenes: primeiro, que a idolatria corrompe até os lugares mais sagrados, transformando o altar em fornalha; segundo, que o juízo de Deus é meticuloso e completo, executado por agentes da própria ordem criada; e terceiro, que a partida da glória não é o fim da história de Deus com seu povo, mas o doloroso prelúdio de uma futura restauração.
+
+## I. O Altar Transformado em Fornalha: A Corrupção Idolátra do Sagrado (vs. 1-7)
+
+A visão começa onde a anterior terminou, mas com uma transição de uma solenidade celestial para uma ação judicial terrível. Ezequiel vê novamente o firmamento e os querubins, mas agora sua atenção é dirigida para um homem vestido de linho. **Daniel I. Block**, em *The Book of Ezekiel: Chapters 1–24* (1997), identifica esta figura como um ser celestial, um anjo sacerdotal, cuja vestimenta de linho fala de pureza ritual, preparado para uma tarefa de juízo santo. A ele é ordenado: "Vai entre as rodas, debaixo dos querubins, enche as mãos de brasas de fogo de entre os querubins e espalha-as sobre a cidade" (v.2). O simbolismo é profundo e devastador. As brasas de fogo não são tiradas de uma fornalha comum, mas "de entre os querubins", do próprio entorno do trono de Deus. **Walther Eichrodt**, em *Ezekiel: A Commentary* (1970), salienta que isto demonstra que "o fogo do juízo é, em última análise, o fogo da santidade divina que não pode tolerar a impureza." O fogo que aquece, ilumina e consome no altar do holocausto é o mesmo fogo que, quando rejeitado e profanado, torna-se o instrumento da destruição.
+
+Mas observe o local de onde as brasas são tiradas: o espaço sob os querubins, associado ao lugar do altar no templo terrestre. Aqui reside a tragédia indizível. O altar, destinado a receber sacrifícios de expiação e adoração pura, tornou-se, pela idolatria do povo, um depósito de carvões prontos para a conflagração da cidade. A idolatria de Jerusalém, tão vividamente retratada no capítulo 8, havia contaminado o próprio princípio da mediação. **Christopher J.H. Wright**, em *The Message of Ezekiel* (2001), aplica este princípio com precisão: "Quando o povo de Deus substitui a adoração ao Criador pela adoração à criatura, eles não apenas quebram o primeiro mandamento; eles invertem a função da graça. O meio de expiação torna-se o meio de execução." O homem de linho cumpre sua ordem sob a sombra majestosa da glória, e os querubins, essas criaturas complexas e cheias de olhos, cooperam com o juízo. Um deles entrega as brasas às mãos do homem vestido de linho. Até as criaturas celestiais mais próximas do trono são agentes da santidade judicial de Deus. Não há rebelião na corte celestial, apenas uma obediência triste e perfeita à vontade do Rei que foi desprezada por seu próprio povo escolhido. A cena é uma parábola visual da verdade de que o maior perigo não é o ataque externo, mas a corrupção interna que transforma os dons de Deus em armas contra nós mesmos.
+
+## II. As Rodas Cheias de Olhos: A Meticulosidade do Juízo Soberano (vs. 8-17)
+
+O profeta então descreve novamente os querubins e, com atenção redobrada, as rodas que os acompanham. A repetição da descrição do capítulo 1 não é redundância literária, mas intensificação teológica. Agora, Ezequiel nota um detalhe crucial: "as rodas eram chamadas, na minha audiência, de 'roda dentro de roda'" (v.10), e, mais significativamente, "todo o corpo dos querubins, as costas, as mãos, as asas, e as rodas, estavam cheias de olhos em toda a volta" (v.12). **Iain Duguid**, em seu comentário *Ezekiel* (1999), vê nesta profusão de olhos um símbolo da onisciência e da onipresença de Deus em Seu juízo. O juízo que vem sobre Jerusalém não é um ato cego de fúria cósmica; é a execução precisa, cirúrgica e completa de um Deus que tudo vê. Nada escapa ao Seu olhar. Os pecados feitos nas trevas, as idolatrias praticadas nas câmaras secretas, as injustiças sussurradas nos corredores do poder – todos estão expostos diante da multidão de olhos que revestem os agentes do Seu tribunal móvel.
+
+O movimento destas criaturas é descrito com uma precisão mecânica e sobrenatural: "Quando os querubins andavam, andavam também as rodas ao lado deles; quando os querubins levantavam as asas para se elevarem da terra, as rodas não se separavam deles" (v.16). A unidade de ação é absoluta. **Geoffrey Grogan**, em *The Expositor's Bible Commentary* (1986), destaca que isto comunica a inseparabilidade do juízo celestial da realidade terrena. O trono de Deus não está distante e desinteressado; ele se move, e seu movimento sobre os "quatro rostos" (de homem, leão, boi e águia) simboliza que todo o espectro da criação – o racional, o real, o forte, o celestial – está envolvido e sujeito a este juízo. Não há esfera da vida, nenhum domínio da existência em Jerusalém, que possa reivindicar imunidade. O comércio (rosto de homem), a realeza (rosto de leão), a agricultura (rosto de boi) e a religião (rosto de águia) – todos foram corrompidos e todos serão varridos pelo fogo que o homem de linho espalha. O juízo de Deus é holístico porque o pecado do homem é holístico. Ele atinge não apenas os atos, mas as instituições; não apenas os indivíduos, mas a cultura que eles construíram sobre a fundação da apostasia. As rodas cheias de olhos nos confrontam com a desconcertante verdade de que nossa fuga para o pecado é, na verdade, uma corrida direta para o olhar penetrante d'Aquele que julga.
+
+## III. O Trono que se Eleva: A Partida Dolorosa e a Semente da Esperança (vs. 18-22)
+
+Então, o clímax da visão, um momento de pathos divino quase insuportável: "Então a glória do SENHOR se retirou de sobre a entrada do templo e parou sobre os querubins. Estes, levantando as asas, elevaram-se da terra à minha vista, e as rodas os acompanhavam; pararam à entrada da porta oriental do templo do SENHOR, e a glória do Deus de Israel estava em cima, sobre eles" (vs. 18-19). A glória (*Kabod*) abandona o Santo dos Santos, o propiciatório, o centro teológico do universo israelita. Ela paira sobre os querubins, que agora se tornam seu carro de partida. **Peter C. Craigie**, em *Ezekiel* (1983), chama este momento de "o êxodo reverso". No Êxodo, a glória veio para habitar no tabernáculo; aqui, ela se retira. A Presença que era a única razão de ser de Jerusalém, sua única defesa real, abandona a cidade à sua própria sorte, que é, em essência, a sorte do juízo.
+
+A partida, porém, não é súbita. É lenta, deliberada, quase relutante. A glória para à entrada do templo, depois à porta oriental. É como se Deus, em sua longanimidade, desse uma última pausa, um último suspiro de oportunidade. **Herman Bavinck**, em sua *Dogmática Reformada* (1906), reflete sobre este atributo divino: "A santidade de Deus exige o juízo; sua misericórdia protela a execução. A partida da glória é a misericórdia endurecendo-se em juízo, porque a paciência foi esgotada." Ezequiel reconhece os mesmos seres vistos à beira do rio Quebar (v.20, 22). Esta identificação é crucial. A glória que está partindo de Jerusalém é a mesma glória que apareceu a Ezequiel no exílio. **Timothy Keller**, em *Deus na Era Secular* (2015), extrai uma aplicação poderosa: "Isto mostra que Deus não está vinculado a geografias ou instituições. Sua glória pode deixar um templo de pedra para encontrar-se com um profeta cativo à beira de um rio estrangeiro. A esperança, portanto, não morre com o edifício; ela se transfere para onde o povo de Deus, mesmo um remanescente, se encontra." A partida é juízo, sim, mas também é a preservação da santidade de Deus e a demonstração de sua liberdade soberana. Ele não está preso aos nossos sistemas religiosos falidos. Sua glória pode partir do santuário, mas não do universo, e ela carrega consigo a promessa implícita de que onde quer que ela vá, ali está a possibilidade de encontro, de arrependimento e, finalmente, de restauração. A visão termina com os querubins de asas baixas, e a glória acima deles – uma cena estática que ecoa com o som de um adeus divino, mas que, para o olhar da fé, contém o germe silencioso de um futuro "Eis que faço novas todas as coisas".
+
+## Conclusão
+
+Irmãos, a visão de Ezequiel 10 não é um artefato arqueológico de um juízo antigo. É um espelho colocado diante da Igreja de Cristo em todos os tempos. Nós, que temos a presença do Espírito Santo habitando em nós como em um templo (1 Coríntios 6:19), devemos tremer diante desta revelação. A idolatria moderna pode não esculpir ídolos de madeira, mas ela ergue altares ao ego, ao sucesso, ao conforto, à ideologia, no lugar mais sagrado de todos: o coração. E o princípio permanece: a glória não habita onde rivais dividem o trono. O fogo do Espírito, destinado a nos purificar e capacitar, pode, pela obstinação do pecado, tornar-se o prenúncio de uma esterilidade espiritual, de uma partida da sensibilidade à Sua presença.
+
+Contudo, para nós, há uma diferença fundamental e gloriosa. Em Cristo, a glória de Deus não apenas visitou o seu templo, ela se fez carne e habitou entre nós (João 1:14). Em Cristo, o juízo que nossas idolatrias mereciam caiu sobre Ele na cruz. Em Cristo, a glória que partiu do templo de pedra ressuscitou no templo do seu corpo e agora, pelo Espírito, habita para sempre em seu povo. A lição final de Ezequiel 10, vista à luz do Calvário, não é apenas de advertência, mas de graça imerecida. É um chamado a examinar nossos templos, a expulsar os ídolos com o fogo do arrependimento, e a nos apegarmos, com temor e tremor, a Aquele que prometeu: "Nunca te deixarei, nunca te abandonarei" (Hebreus 13:5). A glória partiu de Siló, mas em Jesus, ela veio para ficar.
+
+## **Amém.**

@@ -1,16 +1,54 @@
 ---
 slug: "jo-21-pregacao-tecnica"
-titulo: ""
+titulo: "O Fogo na Praia: Graça, Chamado e a Morte que Glorifica"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "jo"
 capitulo: "21"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  João 21   O Fogo na Praia: Graça, Chamado e a Morte que Glorifica   Texto-base: João 21:1-25  Eixo Teológico: A graça restauradora de Cristo redefine o fracas..."
+tags: ["amor", "futuro", "medo"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# João 21
 
+## ***O Fogo na Praia: Graça, Chamado e a Morte que Glorifica***
+
+## Texto-base: João 21:1-25
+## Eixo Teológico: A graça restauradora de Cristo redefine o fracasso, reconstrói o chamado e redireciona a vida para uma morte que glorifica a Deus.
+
+## Introdução
+
+O amanhecer pós-ressurreição, sobre as águas cinzentas do Mar da Galileia, carrega um silêncio denso, um vácuo entre o milagre consumado e a vida que precisa ser, de algum modo, retomada. Sete discípulos, entre eles Pedro, voltam ao que sabiam fazer, ao ofício antigo das redes e dos barcos, numa fuga quase confessional para a rotina conhecida, como se as águas familiares pudessem lavar a memória da negação, do medo, e da perplexidade diante do túmulo vazio. É neste cenário de retorno melancólico ao passado, de noite infrutífera e fadiga da alma, que uma figura se destaca na praia, junto a um braseiro. Não é um aparecimento espetacular no cenáculo trancado, mas uma aparição matinal, doméstica, cheirando a peixe grelhado e carvão. **Gerhard von Rad**, em *Teologia do Antigo Testamento* (1962), nos lembraria que o Deus da Aliança frequentemente Se revela no ordinário, transformando o comum em sacramento. Aqui, o Cristo ressurreto, o Senhor da vida, Se faz cozinheiro na praia, acendendo não apenas um fogo para assar pão e peixe, mas reacendendo, no coração de Pedro e no nosso, as brasas moribundas do chamado. Esta narrativa, um epílogo divinamente inspirado, não é um apêndice, mas a pedra angular pastoral do Evangelho de João: um tratado magistral sobre como a graça alcança o fracassado, redefine o sucesso e inscreve a sombra da cruz até no horizonte do futuro.
+
+## Proposição
+
+Diante do braseiro na praia, Cristo Ressurreto ministra uma graça que (I) **Reconhece e Redime o Fracasso** no fogo do questionamento amoroso, (II) **Redefine e Recomissiona o Chamado** na tríplice ordem de amor e pastoreio, e (III) **Redireciona a Vida para uma Morte que Glorifica**, desafiando nossas comparações e fixando nossos olhos no fim que honra a Deus.
+
+## I. O Fogo do Reconhecimento: A Graça que Interroga para Restaurar (Jo 21:1-17)
+
+A cena é carregada de um simbolismo profundo e doloroso. Enquanto os discípulos pescam em vão, Jesus, já na praia, ordena o lançamento da rede à direita do barco. A obediência resulta numa pesca milagrosa, um eco deliberado do chamado inicial em Lucas 5. **D. A. Carson**, em *The Gospel According to John* (1991), observa que o milagre serve como um *inclusio*, um marco literário que encerra o ministério público de Jesus onde começou, reafirmando Sua autoridade sobre a vocação daqueles homens. João, o discípulo amado, é o primeiro a reconhecer: “É o Senhor!”. Pedro, impulsivo como sempre, veste a túnica e se lança ao mar – um ato que **F. F. Bruce**, em *The Gospel of John* (1983), interpreta não apenas como ânsia, mas talvez como um desejo inconsciente de purificação nas águas antes do encontro. E então, eles chegam à praia. E lá está: “um braseiro aceso, com peixe em cima, e pão”. O verbo grego para “aceso” (*anakeimenon*) é o mesmo usado para descrever a posição de João à mesa durante a última ceia. É um cenário de intimidade, de refeição compartilhada. Mas para Pedro, aquele carvão em brasa (*anthrakia*) só poderia evocar uma memória agonizante: o pátio do sumo sacerdote, onde ele se aqueceu junto a outro braseiro (*anthrakia*, em João 18:18) enquanto negava conhecer Jesus.
+
+É neste palco de graça armado que Jesus pergunta, não uma, mas três vezes: “Simão, filho de João, você me ama?”. A pergunta não é um inquérito judicial, mas um ato cirúrgico de amor. **Andreas Köstenberger**, em *A Theology of John’s Gospel and Letters* (2009), destaca a nuance linguística: Jesus usa o verbo *agapao* (amor sacrificial, deliberado) nas duas primeiras perguntas; Pedro responde com *phileo* (amor de afeição, amizade). Na terceira, Jesus desce ao nível de Pedro, usando *phileo*. É como se Cristo dissesse: “Comecemos de onde você está”. Cada resposta de Pedro – “Sim, Senhor, tu sabes que te amo” – é uma confissão queimada no fogo da memória de sua negação. **Martyn Lloyd-Jones**, em *Spiritual Depression* (1965), pregando sobre este texto, afirmaria que “Deus, em Sua graça, muitas vezes nos leva de volta ao local de nossa queda, não para nos humilhar, mas para nos curar”. A restauração é completa, mas não é barata. Ela passa pelo reconhecimento honesto da falha. E a cada confissão de amor, mesmo que titubeante, Jesus confia a Pedro uma responsabilidade crescente: “Apascente meus cordeiros… Pastoreie minhas ovelhas… Apascente minhas ovelhas”. O chamado pastoral nasce, não da força do caráter de Pedro, mas da força do amor redentor de Cristo. A missão é fundada na graça que conhece o pior sobre nós e ainda assim nos entrega o melhor de Seu rebanho.
+
+## II. A Reconfiguração do Chamado: Do Sucesso Pessoal à Entrega Sacrificial (Jo 21:18-19)
+
+Após a restauração e a recomissão, Jesus profere palavras que mudam para sempre a trajetória de Pedro: “Digo-lhe a verdade: Quando você era mais jovem, vestia-se e ia para onde queria; mas quando for velho, estenderá as mãos e outra pessoa o vestirá e o levará para onde você não deseja ir”. O evangelista é explícito: “Jesus disse isso para indicar o tipo de morte com a qual Pedro iria glorificar a Deus”. Este é o clímax do chamado reconfigurado. A vida cristã, especialmente a vida de um líder, não é uma jornada de autorealização, mas de entrega progressiva. **J. I. Packer**, em *Conhecendo Deus* (1973), escreve que “o chamado de Deus é sempre um chamado à cruz, à morte do egoísmo e à vida de serviço sacrificial”.
+
+A metáfora é poderosa. Na juventude, Pedro era autônomo, auto-determinado (“vestia-se e ia para onde queria”). Seu impulso natural o levou a cortar a orelha de Malco, a seguir Jesus à distância, a negá-Lo com juramentos. Sua força era sua fraqueza. Agora, o chamado o levará a uma vida onde a vontade própria será crucificada. “Estenderá as mãos” é uma clara alusão à crucificação, um eufemismo comum no mundo antigo. **George R. Beasley-Murray**, em *John* (1999), na Word Biblical Commentary, nota que a frase “outra pessoa o vestirá” sugere uma perda total de autonomia, uma dependência completa – a do prisioneiro ou do escravo. O chamado de Pedro não o levará a um trono, mas a uma cruz. Sua autoridade pastoral, recém-confirmada, será exercida a partir da vulnerabilidade e do sacrifício. “Seguir-me” (v. 19), a ordem final, ecoa o chamado inicial, mas agora carregado com um significado sombrio e glorioso. Seguir a Cristo é assinar, em branco, um contrato cujo destino final é uma morte que, nas mãos soberanas de Deus, se torna um ato de glorificação. A eficácia do pastor não está em seus dons, carisma ou sucesso numérico, mas em quanto de sua vida – e finalmente de sua morte – reflete o amor sacrificial do Sumo Pastor.
+
+## III. A Sombra da Cruz e a Liberdade da Graça: O “E Quanto a Este?” (Jo 21:20-25)
+
+Pedro, ouvindo sobre seu futuro martírio, vira-se e vê João seguindo-os. E então surge a pergunta humana, quase infantil em sua lógica defeituosa: “Senhor, e quanto a ele?”. É a pergunta da comparação, da justiça proporcional, do “é justo que eu sofra assim e ele não?”. A resposta de Jesus é um dos cortes mais pastorais e libertadores de toda a Escritura: “Se eu quiser que ele permaneça vivo até que eu volte, que lhe importa? Quanto a você, siga-me”. **Timothy Keller**, em *A Cruz e o Rei* (2013), explora esta passagem para mostrar como a graça nos liberta da “tirania da comparação”. A missão de Pedro é única. O caminho de João é único. A soberania de Cristo é absoluta sobre ambos. O dever de Pedro não é esquadrinhar o mapa da vida alheia, mas obedecer ao seu próprio chamado, por mais difícil que seja.
+
+O equívoco que se espalhou entre os irmãos – de que João não morreria – nos alerta para o perigo de distorcer as palavras de Jesus. O evangelista, escrevendo já idoso, corrige o registro: “Jesus não disse que ele não morreria”. A lição é profunda. O chamado de João, de “permanecer” (um verbo teologicamente carregado no Evangelho de João, ligado à permanência em Cristo), também culminaria no testemunho fiel e na morte. Seu caminho foi diferente – o exílio em Patmos, a longevidade, a profundidade contemplativa de seu evangelho e apocalipse – mas não menos sob a soberania de Deus. **Herman Bavinck**, em *A Teologia de João* (póstumo, 1977), argumenta que este fecho do evangelho sublinha a incomensurável plenitude da pessoa e obra de Cristo: “Jesus fez muitas outras coisas… Se cada uma delas fosse escrita, penso que nem mesmo no mundo inteiro haveria espaço suficiente para os livros que seriam escritos”. É uma hipérbole que aponta para a infinitude do Filho de Deus. O convite final, portanto, não é para esgotarmos o conhecimento sobre Cristo ou para compararmos nossos caminhos, mas para, como Pedro, segui-Lo. O epílogo nos deixa com esta verdade consoladora e desafiadora: nossa história, com seus fracassos, seu chamado redefinido e seu fim desconhecido, está segura nas mãos d’Aquele que cozinha na praia, que pergunta com amor e que ordena: “Siga-me”.
+
+## Conclusão
+
+Irmãos, voltemos nossa vista para a praia da Galileia. Vejamos o braseiro. Ele não queima para condenar, mas para purificar; não para consumir, mas para confabular. Cristo Ressurreto não evita o local de nossa vergonha. Ele ali acampa, e do carvão da nossa negação acende o fogo da nossa restauração. Sua graça é tão específica que nomeia nosso pecado, e tão poderosa que o transforma no alicerce de nosso serviço. Ele não nos chama para sucessos mensuráveis, mas para uma entrega que, na juventude ou na velhice, na força ou na dependência, aprende a dizer “sim” ao caminho que glorifica a Deus, mesmo quando esse caminho leva ao madeiro. E Ele nos liberta do olhar lateral, da pergunta “e quanto a este?”, para fixarmos os olhos apenas n’Ele, o autor e consumador da fé. O chamado soa, claro e pessoal, sobre as águas de nossa rotina e sobre as cinzas de nossos fracassos: “Siga-me”. Que tenhamos a coragem de Pedro de sair do barco estéril, a honestidade de confessar nosso amor falho, e a fé para seguir, sabendo que Aquele que cozinha o café da manhã na praia é o mesmo que segura as chaves da vida e da morte, e que nosso fim, em Suas mãos, será para a glória de Deus.
+
+## **Amém.**

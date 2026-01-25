@@ -1,16 +1,64 @@
 ---
 slug: "ezequiel-13-pregacao-tecnica"
-titulo: ""
+titulo: "O Gesso sobre o Muro Fendido: A Ira de Deus contra os Profetas da Mentira"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "13"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 13   O Gesso sobre o Muro Fendido: A Ira de Deus contra os Profetas da Mentira   Texto-base: Ezequiel 13:1-23  Eixo Teológico: O juízo divino sobre a..."
+tags: ["amor", "duvida", "futuro", "sonho"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 13
 
+## ***O Gesso sobre o Muro Fendido: A Ira de Deus contra os Profetas da Mentira***
+
+## Texto-base: Ezequiel 13:1-23
+## Eixo Teológico: O juízo divino sobre a falsa profecia é uma expressão necessária de seu amor pela verdade e por seu povo.
+
+## Introdução
+
+Havia, nos dias do exílio babilônico, uma sombra que se alongava sobre os corações dos cativos de Judá. Não era apenas a sombra dos zigurates pagãos ou a saudade dos montes de Sião; era uma sombra mais profunda, uma névoa de incerteza que envolvia o futuro. Em meio ao desespero, erguiam-se vozes. Vozes que sussurravam promessas de alívio imediato, que pintavam com cores otimistas um muro que rachava de alto a baixo. Eram os profetas da conveniência, os adivinhos da paz barata, aqueles que, nas palavras do Senhor a Ezequiel, *"profetizam do seu próprio coração"*. O capítulo treze de Ezequiel não é um tratado abstrato sobre a falsa religião; é um raio-X divino aplicado ao câncer da mentira espiritual, uma intervenção cirúrgica do Santo de Israel para extirpar o tecido gangrenado que ameaçava destruir a alma da nação. Diante de um povo desorientado, a pior traição não vem do inimigo declarado, mas do guia cego que, com voz segura, conduz o rebanho para o precipício. É sobre essa tragédia e sobre a resposta incandescente de Deus que nos debruçamos.
+
+## Proposição
+
+Diante do texto sagrado, proponho que a falsa profecia, em sua essência, é um atentado triplo contra o caráter de Deus e o bem de seu povo: é, primeiro, uma **VISÃO AUTOPRODUZIDA** que substitui a Palavra revelada pela imaginação corrupta; segundo, um **TRABALHO ENGANOSO** que oferece uma falsa segurança diante do juízo iminente; e, por fim, uma **OPRESSÃO ESPIRITUAL** que acorrenta as almas com mentiras consoladoras. O Senhor, em sua fidelidade, não pode tolerar tal afronta e desce para demolir, com a pá de seu juízo, o muro caiado pelos falsos profetas.
+
+## I. A Visão do Nada: A Fonte Corrompida da Falsa Profecia (vs. 1-7, 17-23)
+
+O profeta de Deus é um homem sob autoridade. Sua boca é um canal, não uma fonte. A primeira acusação do Senhor, dirigida tanto aos *"profetas de Israel"* quanto às *"filhas do povo que profetizam do seu próprio coração"*, atinge justamente a origem de sua mensagem. **John Calvin**, em seu *Commentary on Ezekiel* (1565), observa com precisão cirúrgica: *"Aqui, Deus condena todos os que falam em seu nome sem seu mandado. Pois a autoridade do profeta repousa inteiramente nisto: que Deus fala através dele."* Ezequiel usa uma imagem visceral: eles seguem *"o seu próprio espírito"* e *"nada têm visto"*. A palavra hebraica *chazah*, "ver", aqui negada, é a mesma usada para a visão profética genuína. Eles não estavam em pé no conselho do Senhor (Jr 23:18); não haviam escalado o monte da revelação. Suas mensagens eram produtos caseiros, brotados do solo árido de seus desejos, temores e ambições.
+
+**Walter Eichrodt**, em sua obra seminal *Ezekiel: A Commentary* (1970), amplia o entendimento ao contextualizar essa prática no ambiente religioso sincrético da época. Não se tratava apenas de invenção pura, mas muitas vezes de uma mistura perversa: *"Eles incorporavam elementos de presságios pagãos, sonhos subjetivos e slogans teológicos tradicionais desvinculados da aliança, criando um amálgama que soava plausível mas era espiritualmente mortífero."* Eram, nas palavras do texto, como *"raposas entre ruínas"*. A raposa, animal astuto e destruidor, não constrói; habita em meio à desolação e a explora. Assim, os falsos profetas prosperavam na ruína espiritual de Judá, escavando tocas de falsa esperança nos escombros da desobediência nacional.
+
+E a acusação se estende às mulheres (vs. 17-23), um raro vislumbre da falsa profetização feminina no Antigo Testamento. Sua prática, envolvendo *"almofadas para todas as axilas"* e *"véus para todas as cabeças"*, parece estar associada a rituais mágicos de encantamento, talvez para caçar *"almas"* (vidas) como pássaros. **Daniel I. Block**, no monumental *The Book of Ezekiel, Chapters 1–24* (1997), argumenta que se tratava de uma forma de feitiçaria social, usando artefatos simbólicos para exercer controle e impor destino sobre indivíduos. *"Elas 'matavam' aqueles que não deveriam morrer e 'preservavam vidas' que não deveriam viver",* profanando a soberania de Deus sobre a vida e a morte. A raiz, porém, é a mesma: uma fonte envenenada. Seja na eloquência masculina ou no ritualismo feminino, a mensagem não emanava do trono de Deus, mas do poço negro do coração humano. Toda teologia que começa com o *"eu acho"* em vez do *"Assim diz o Senhor"* constrói seu edifício sobre a areia movediça da subjetividade idólatra.
+
+## II. O Gesso sobre a Fenda: A Obra Enganosa da Falsa Profecia (vs. 8-16)
+
+Aqui a metáfora se torna arquitetônica e devastadora. Jerusalém é um muro, e o muro está fendido. As fendas são o pecado, a idolatria, a injustiça social, a quebra da aliança. O juízo divino, na forma do exército babilônico, é a tempestade iminente que se aproxima. Qual a resposta dos falsos profetas? Eles não chamam ao arrependimento, não apontam para as fendas. Em vez disso, pegam a cal e o gesso e começam a caiar a superfície. **Martyn Lloyd-Jones**, em seu sermão *"True and False Prophets"* (1955), aplica esta imagem com força atemporal: *"O trabalho do falso profeta é sempre cosmético. Ele trata dos sintomas, não da doença. Oferece paz onde não há paz, porque se recusa a encarar a realidade do pecado e da ira santa de Deus."* Eles *"viram vaidade e adivinhação mentirosa"*, diz o Senhor, e bradam *"Paz"* quando não há paz.
+
+A profundidade dessa traição é explorada por **Christopher J.H. Wright** em *The Message of Ezekiel* (2001). Ele nota que a palavra hebraica para *"caiar"* (*taphèl*) também pode significar "emplastar" de forma inepta ou "enganar". *"Sua obra não é apenas inútil; é ativamente enganosa. Dá a aparência de solidez e renovação, enquanto a estrutura interna apodrece. É uma falsificação da verdadeira obra de Deus, que sempre começa pelo diagnóstico da ruína (a Lei) antes de oferecer o remédio (a Graça)."* Eles construíam um *"muro frágil"* (v.10), uma parede de tábuas mal encaixadas, e depois a rebocavam para dar aparência de solidez. Esta é a essência de todo falso evangelho: promete estabilidade sem exigir o alicerce da cruz, oferece consolo sem confrontar o pecado, anuncia prosperidade sem passar pelo quebrantamento.
+
+A resposta de Deus é terrível e inevitável. Ele promete fazer cair a *"chuva inundante"*, a *"saraiva de pedras"* e os *"ventos tempestuosos"*. A tempestade não é um acidente climático; é o instrumento do seu juízo. E quando ela vier, o muro caiado ruirá, e os próprios caiadores serão perguntados: *"Onde está o reboco com que o rebocastes?"* A pergunta é retórica e humilhante. Sua obra será revelada como ilusão. **Geerhardus Vos**, o pai da teologia bíblica, em sua *Biblical Theology* (1948), conecta este juízo ao princípio maior da retribuição divina. *"Deus, em sua justiça, frequentemente entrega os homens à consequência natural de seus próprios enganos. Aqueles que construíram sobre a mentira perecerão pela mentira. O falso refúgio se tornará sua tumba."* A falsa paz é a mais perigosa das guerras, pois desarma a alma para o verdadeiro combate espiritual.
+
+## III. O Laço das Almas: As Consequências Oprimentes da Falsa Profecia (vs. 18-23, com eco em todo o capítulo)
+
+O pecado da falsa profecia nunca é um erro privado, um equívoco intelectual. É um crime social de proporções espirituais catastróficas. O Senhor acusa os falsos profetas de *"desalentarem o coração do justo"* e de *"encorajarem as mãos do ímpio"* (v.22). Este é o duplo efeito venenoso de sua obra. Por um lado, atormentam a consciência temente a Deus. Quando um Ezequiel, um Jeremias, ou um remanescente fiel anunciava o juízo como caminho necessário para a purificação, os profetas da mentira os chamavam de derrotistas, pessimistas, inimigos da pátria. **Timothy Keller**, em *Counterfeit Gods* (2009), vê neste padrão uma constante: *"Os falsos profetas sempre atacam os verdadeiros, rotulando a mensagem de condenação ao ídolo como falta de fé. Eles 'entristecem o justo' fazendo-o duvidar da veracidade e da bondade da dura verdade de Deus."* A alma que anseia por retidão é posta em um laço de angústia, duvidando se o caminho da obediência custosa é realmente o caminho do Senhor.
+
+Por outro lado, e de forma mais nefasta, eles *"encorajam o ímpio para que não se desvie do seu mau caminho, a fim de conservar a sua vida"*. Esta é a opressão espiritual em sua forma mais letal. Eles dam permissão ao pecado. Acolchoam a consciência do rebelde com falsas garantias. **J.I. Packer**, em *Conhecendo Deus* (1973), define isso como o antigo pecado de *"profanar a aliança"*, tratando o Deus santo como um indulgentes divino. *"Eles anulavam a conexão necessária entre pecado e ruína, quebrando os dentes da Lei moral de Deus. Assim, privavam os pecadores da única coisa que poderia levá-los ao arrependimento salvador: o terror santo diante da santidade ofendida."* As mulheres com seus véus e almofadas simbolizam este aspecto: estão *"caçando almas"*. A falsa doutrina é uma armadilha para a vida eterna. Ela oferece um atalho que leva ao abismo, um conforto que é a pré-câmara da condenação.
+
+O veredito final de Deus é um ato de libertação: *"Livrarei o meu povo das vossas mãos"* (v.23). Este é o ápice da graça no meio do juízo. A ira de Deus contra os falsos profetas não é um acesso de fúria vingativa; é o fogo purificador de seu amor compromissado. Ele destrói a mentira porque ama a verdade. Ele demole o muro caiado porque ama o povo que está dentro dele e não permitirá que pereça em um refúgio ilusório. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), sintetiza: *"A mesma santidade que exige o castigo do pecador, exige também o castigo daquele que, com sua falsa doutrina, tenta afastar o pecador do único remédio para seu pecado. Portanto, o juízo sobre os falsos profetas é um capítulo necessário no evangelho da salvação."* Deus está, paradoxalmente, salvando seu povo ao julgar seus opressores espirituais.
+
+## Conclusão
+
+Irmãos, o eco das palavras de Ezequiel 13 ressoa pelos corredores da história da igreja e bate à porta de nossa própria geração. O espírito da falsa profecia não morreu com os caiadores de Jerusalém. Ele se veste de novas roupagens, adota novos jargões, mas sua essência permanece a mesma: uma visão que nasce do coração humano, uma obra que esconde a fenda do pecado com o gesso da positividade tóxica, e uma opressão que acorrenta almas com as algemas douradas de um evangelho sem cruz, sem arrependimento, sem soberania divina sobre o mal.
+
+Quantos muros frágeis estão sendo caiados hoje em nosso nome? Muros de um cristianismo que promove a autorrealização em vez da morte do eu; muros de uma espiritualidade que negocia com os ídolos da cultura em vez de demoli-los; muros de uma pregação que entretém a multidão mas não convoca o pecador ao tribunal da santidade de Deus. O teste não é a popularidade, não é o aplauso, não é a sensação de bem-estar que produz. O teste é este: A mensagem nos confronta com o *"Assim diz o Senhor"* das Escrituras, mesmo quando ele fere? Ela expõe as fendas em nosso muro pessoal e coletivo? Ela nos conduz, através do juízo merecido, para os braços do único que pode suportar a tempestade da ira divina em nosso lugar?
+
+A tempestade do juízo final se aproxima. Toda obra que não for construída sobre a Rocha Cristo Jesus, alicerçada na verdade integral de sua Palavra, será varrida. Que Deus nos dave graça de discernir entre a voz do Bom Pastor e o uivo das raposas espirituais. Que nos livre do desejo covarde de ouvir apenas o que agrada. E que, como Ezequiel, tenhamos coragem de ser impopulares, de ser chamados de perturbadores da paz, se for necessário, para proclamar a verdade que, só ela, pode dar a paz que excede todo o entendimento — a paz conquistada no madeiro, selada no túmulo vazio, e oferecida gratuitamente a todo aquele que, reconhecendo a ruína de seu próprio muro, clama por misericórdia.
+
+## **Amém.**

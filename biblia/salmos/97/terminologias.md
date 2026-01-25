@@ -1,16 +1,49 @@
 ---
 slug: "salmos-97-terminologias-chave"
-titulo: ""
+titulo: "As Fundações do Trono: Uma Análise Lexical da Soberania Teofânica no Salmo 97"
 tipo: "terminologias-chave"
 origem: "biblia"
 livro: "salmos"
 capitulo: "97"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TERMINOLOGIAS CHAVES  Salmos 97   As Fundações do Trono: Uma Análise Lexical da Soberania Teofânica no Salmo 97  O Salmo 97, um hino entronizado no coração do ciclo que celebra a..."
 tags: []
 ---
 
+# TERMINOLOGIAS CHAVES
+# Salmos 97
 
+## ***As Fundações do Trono: Uma Análise Lexical da Soberania Teofânica no Salmo 97***
+
+O Salmo 97, um hino entronizado no coração do ciclo que celebra a realeza de Javé, não é um mero cântico de louvor; é um tratado teológico denso, uma proclamação cósmica da soberania divina que se desdobra através de uma escolha vocabular precisa e carregada de significado. Para penetrar na profundidade de sua mensagem, é imperativo descer ao nível do léxico, às raízes hebraicas que sustentam sua arquitetura poética e doutrinária. A compreensão plena deste salmo repousa sobre a análise exaustiva de termos-chave que funcionam como pilares conceituais: **מָלַךְ** (*mālaḵ* – reinar), **אָהַב** (*ʾāhaḇ* – amar), **שָׂנֵא** (*śānēʾ* – odiar), **צַדִּיק** (*ṣaddîq* – justo), e o verbo **גִּיל** (*gîl* – exultar). Cada um destes termos, em seu contexto específico, desenha os contornos de um reino que não é político, mas ontológico, que não se impõe apenas pela força, mas que redefine a própria noção de amor, justiça e alegria à luz do caráter santo do Rei.
+
+## מָלַךְ (*mālaḇ*): A Proclamação do Reinado Ontológico
+
+O salmo irrompe com a declaração fundante: **"יְהוָה מָלָךְ"** (*YHWH mālāḵ* – O SENHOR reina). O verbo **מָלַךְ** (*mālaḵ*) aqui não está no imperfeito, denotando uma ação contínua no passado, mas no perfeito, carregando um peso de constatação profética e proclamativa. Esta nuance é crucial. **Francis Brown, S. R. Driver e Charles A. Briggs**, em sua seminal *A Hebrew and English Lexicon of the Old Testament* (1906), destacam que o perfeito de *mālaḵ* pode expressar um fato consumado, um estado real estabelecido. Não se trata de "O SENHOR está reinando" (uma ação em progresso), mas de "O SENHOR assumiu a realeza" ou "O SENHOR reina!" como um decreto eterno que acaba de ser reconhecido e anunciado. Esta é uma declaração de realidade última, não de processo.
+
+**John Calvin**, em seu *Commentary on the Book of Psalms* (1557), ao abordar este versículo inaugural, percebe a profundidade cósmica deste reinado: "O profeta não fala de um governo comum, mas daquele poder singular e incomparável que Deus exerce no mundo... Ele reina, portanto, de tal maneira que todos devem se curvar diante dele, e nada pode escapar de seu domínio." Para Calvino, o *mālaḵ* aqui aniquila qualquer noção de deísmo ou de um Deus distante; é a afirmação de um governo ativo, interveniente e total. O salmo, imediatamente após esta proclamação, descreve as consequências teofânicas deste reinado: nuvens, escuridão, fogo, relâmpagos. O verbo **מָלַךְ** é, portanto, a causa eficiente de toda a convulsão cósmica que se segue. **Hans-Joachim Kraus**, em *Psalms 60–150: A Commentary* (1989), conecta este uso ao gênero dos "Salmos do Reinado de Javé", onde *YHWH mālāḵ* funciona como uma fórmula cultual que evoca as teofanias do Sinai e proclama Javé como o verdadeiro Rei sobre todos os *elohim* (deuses) e potências do caos. O reinado anunciado por *mālaḵ* é, assim, um ato de julgamento e estabelecimento de ordem a partir do caos, ecoando a vitória criativa primordial.
+
+## אָהַב (*ʾāhaḇ*) e שָׂנֵא (*śānēʾ*): A Dialética Ética do Reino
+
+No verso 10, o salmo introduz uma dicotomia ética radical, fundamentada no caráter do Rei: **"אֹהֲבֵי יְהוָה שִׂנְאוּ רָע"** (*ʾōhăḇê YHWH śinʾû rāʿ* – Vós que amais ao SENHOR, odiai o mal). Os verbos **אָהַב** (*ʾāhaḇ*) e **שָׂנֵא** (*śānēʾ*) são colocados em relação direta e antitética. A análise destes termos transcende a esfera do sentimento pessoal, ingressando no domínio da aliança e da lealdade.
+
+**William L. Holladay**, em *A Concise Hebrew and Aramaic Lexicon of the Old Testament* (1971), lembra que **אָהַב** no hebraico bíblico frequentemente carrega a conotação de "escolher, demonstrar lealdade a", especialmente no contexto da relação de aliança entre Javé e Israel (cf. Deuteronômio 6:5). Amar a Deus, portanto, não é primariamente uma emoção, mas um posicionamento de vida, uma adesão voluntária e exclusiva ao seu governo e à sua pessoa. É um ato de reconhecimento de sua realeza proclamada no verso 1.
+
+Já **שָׂנֵא** (*śānēʾ*), conforme analisado por **Ludwig Koehler e Walter Baumgartner** em *The Hebrew and Aramaic Lexicon of the Old Testament* (1994-2000), pode significar "rejeitar, opor-se a, considerar como adversário". No contexto teológico do Salmo 97, odiar o mal não é um afeto de aversão psicológica, mas uma postura ativa de repúdio e separação. O mal (*rāʿ*) aqui é tudo aquilo que se opõe ao caráter do Rei justo e santo, cujo trono é fundado sobre retidão e justiça (v. 2). **Martinho Lutero**, em suas *Preleções sobre os Salmos* (1513-1515), via nesta injunção o cerne da vida do crente sob o reino de Deus: "Amar a Deus é odiar o que Deus odeia. Não podeis ter a Deus por Pai se não tendes a Igreja por mãe, nem podeis amar a Cristo se não odiardes o anticristo." Para Lutero, a fé que justifica necessariamente produz esta dialética ética. O amor leal a Javé (*ʾāhaḇ*) manifesta-se inevitavelmente como uma rejeição militante (*śānēʾ*) de tudo que é *rāʿ*. Esta não é uma opção moralista, mas uma implicação ontológica de se estar sob o domínio do Rei que é "exaltado sobre todos os deuses" (v. 9).
+
+## צַדִּיק (*ṣaddîq*): A Identidade dos Cidadãos do Reino
+
+Aquele que é comandado a amar a Deus e odiar o mal é identificado como **צַדִּיק** (*ṣaddîq* – justo). Este termo é central para entender a antropologia do salmo. **G. Johannes Botterweck e Helmer Ringgren**, no *Theological Dictionary of the Old Testament* (Vol. XII), dedicam extensa análise a *ṣaddîq*, demonstrando que seu significado fundamental gira em torno da ideia de "estar em conformidade com um padrão", especificamente o padrão estabelecido pela aliança e pela lei de Deus. O justo não é um ser moralmente autônomo ou perfeito, mas aquele que está "na relação correta" com Deus e, por extensão, com o próximo.
+
+No Salmo 97, os *ṣaddîqîm* (plural) são os que se alegram no SENHOR e dão graças pela memória da sua santidade (v. 12). A justiça deles, portanto, é uma resposta ao reinado justo de Javé. **John Owen**, o puritano, em sua obra *The Doctrine of Justification by Faith* (1677), faria uma distinção crucial aqui, aplicável à exegese do termo: a justiça do *ṣaddîq* no Antigo Testamento é frequentemente uma justiça *declaratória* e *relacional*, proveniente da fidelidade de Deus à aliança, antes de ser uma justiça *injetada* de perfeição comportamental. O salmo não descreve os justos como aqueles que nunca falham, mas como aqueles cuja identidade e alegria estão ancoradas no Rei justo. Sua justiça é, em última análise, refletida e derivada. **Walter Brueggemann**, em *The Message of the Psalms* (1984), classifica o Salmo 97 como um salmo de "orientação", que redefine a realidade da comunidade. Ser *ṣaddîq* nesta nova realidade do reinado de Javé significa habitar um mundo onde a ordem verdadeira foi restaurada, onde a luz nasce para o justo (v. 11), e onde a alegria é a marca distintiva.
+
+## גִּיל (*gîl*): A Alegria Eschatológica como Resposta
+
+A resposta apropriada ao reinado de Javé e à sua justiça salvadora é encapsulada no verbo **גִּיל** (*gîl*), que aparece duas vezes: "Alegrem-se os justos no SENHOR" (**"גִּילוּ צַדִּיקִים בַּיהוָה"** – *gîlû ṣaddîqîm baYHWH*, v. 12) e, implicitamente, é a emoção que permeia todo o salmo. **E. Jenni e C. Westermann**, no *Diccionario Teológico Manual del Antiguo Testamento*, destacam que *gîl* denota uma alegria intensa, muitas vezes expressa externamente, uma exultação ou júbilo. Não é uma satisfação tranquila, mas uma explosão de alegria diante de uma ação salvadora ou de uma manifestação poderosa de Deus.
+
+No contexto do Salmo 97, o objeto desta alegria é inequívoco: **"no SENHOR"** (*baYHWH*). A preposição **בְּ** (*bə*) é instrumental e locativa. A alegria é *provocada* pelo SENHOR e *ocorre em* sua esfera de influência, em seu reino. **Jonathan Edwards**, em seu tratado *Religious Affections* (1746), argumentaria que os afetos religiosos verdadeiros são sempre causados por uma apreensão espiritual da excelência divina. A alegria (*gîl*) do *ṣaddîq* no Salmo 97 é exatamente isto: um afeto santo despertado pela contemplação da realeza teofânica, justa e salvadora de Javé. É uma alegria que surge do conhecimento de que os ídolos são confundidos (v. 7), que Sião é exaltada (v. 8), e que o mal será julgado. **Hermann Gunkel**, em *Einleitung in die Psalmen* (1933), via nesta alegria um elemento essencial da liturgia de entronização, uma resposta comunitária e cultual à proclamação "Javé reina". Esta alegria, portanto, não é privada ou introspectiva; é a alegria pública e coral dos cidadãos do novo reino, celebrando a segurança e a luz que lhes são garantidas por seu Rei (v. 11).
+
+Em síntese, a análise lexical do Salmo 97 revela uma estrutura teológica coesa. O **מָלַךְ** ontológico de Javé estabelece uma nova realidade cósmica e ética. Esta realidade, por sua vez, redefine os termos **אָהַב** e **שָׂנֵא**, transformando-os em marcadores de lealdade ao reino. Aqueles que abraçam esta lealdade são constituídos **צַדִּיק**, justos em relação ao padrão do Rei. E a existência nesta relação correta transborda em **גִּיל**, uma alegria exultante e pública no próprio Deus. Cada termo é um elo em uma cadeia dogmática que proclama: Deus reina; portanto, ame-O e odeie o mal; portanto, seja chamado justo; portanto, exulte nEle. É a gramática do reino, escrita nas raízes mais profundas da língua da revelação.

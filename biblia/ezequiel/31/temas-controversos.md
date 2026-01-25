@@ -1,16 +1,53 @@
 ---
 slug: "ezequiel-31-temas-controversos"
-titulo: ""
+titulo: "O Cedro e o Abismo: A Queda da Assíria como Teodiceia da Soberania Divina"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "31"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Ezequiel 31   O Cedro e o Abismo: A Queda da Assíria como Teodiceia da Soberania Divina   A Tensão  O trigésimo primeiro capítulo do livro do profe..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Ezequiel 31
 
+## ***O Cedro e o Abismo: A Queda da Assíria como Teodiceia da Soberania Divina***
+
+## A Tensão
+
+O trigésimo primeiro capítulo do livro do profeta Ezequiel apresenta ao leitor moderno uma das alegorias mais densas e visualmente opulentas de toda a literatura profética hebraica. Nele, o profeta, ainda no exílio babilônico, é instruído a dirigir uma palavra ao Faraó do Egito e a sua multidão, utilizando-se não de uma referência direta ao Nilo ou às pirâmides, mas de uma extensa e majestosa metáfora centrada na **Assíria**, representada como um cedro colossal no Líbano. A tensão hermenêutica imediata e fundamental reside precisamente nesse deslocamento retórico: por que dirigir uma mensagem de juízo ao Egito utilizando a história da Assíria como espelho? Esta não é uma mera ilustração pedagógica, mas um intrincado dispositivo teológico que levanta questões profundas sobre a natureza da soberania de Yahweh sobre as nações, a universalidade do pecado da *hybris* (soberba), e a relação entre juízo histórico e juízo escatológico. A passagem força o intérprete a navegar entre a especificidade do oráculo contra uma potência mundial do século VI a.C. e sua dimensão transhistórica, que fala à condição de qualquer poder humano que ergue sua copa contra os céus. A controvérsia se estabelece na leitura da imagem: trata-se de uma profecia puramente política e circunstancial, um mito reinterpretado, ou uma revelação arquetípica da dinâmica do juízo divino?
+
+## Perspectiva Histórica-Crítica e a Reconstrução do Mito Cananeu
+
+Uma linha significativa de interpretação, predominantemente do século XIX em diante, enxerga em Ezequiel 31 uma brilhante reapropriação e subversão de mitologias cosmogônicas cananeias e mesopotâmicas. Estudiosos como **John B. Taylor**, em seu comentário *Ezekiel: An Introduction and Commentary* (1969), argumentam que a descrição do cedro — com sua altura alcançando as nuvens, suas raízes nutridas pelas grandes águas do abismo (*tehom*), e sua função de abrigar todas as aves do céu e todos os animais do campo — é uma clara alusão à figura da *Montanha Cósmica* ou da *Árvore do Mundo*, motivos ubíquos no antigo Oriente Próximo. Para esta perspectiva, Ezequiel não está inventando, mas citando conscientemente uma imagem que seus ouvintes, imersos na *koiné* cultural do antigo Oriente, reconheceriam imediatamente como símbolo de estabilidade, fertilidade e poder divino ou semi-divino.
+
+A controvérsia aprofunda-se com a análise de **Walther Eichrodt**, em sua obra monumental *Ezekiel: A Commentary* (1970). Eichrodt vê na passagem não apenas empréstimo, mas polêmica teológica. A Assíria/Egito, na figura da árvore, assume o lugar que, em mitos como o de Baal ou de Tiamat, era ocupado por forças do caos ou deidades rivais. Yahweh, no entanto, não é um deus combatente *dentro* do cosmos, mas o Senhor *sobre* o cosmos. Ele é quem planta a árvore (v. 9), quem a faz crescer, e, decisivamente, quem a entrega ao "mais poderoso das nações" (v. 11) para ser derrubada. A queda estrondosa da árvore, descrita com visceral detalhe nos versículos 12 a 14, é, portanto, a demonstração suprema de que nenhum poder terrestre, por mais que se revista de simbolismo cósmico, escapa ao domínio do Deus de Israel. A mensagem ao Faraó, nesta leitura, é: "Você, que se vê como centro imortal do mundo, é na verdade apenas mais uma árvore plantada por Aquele que pode, com uma palavra, mandá-la ao Sheol." A controvérsia aqui é sobre o grau de dependência do texto à sua ambientação mitológica e se a mensagem profética é essencialmente uma desmitologização ou uma re-sacralização sob novos termos.
+
+## Perspectiva da Teologia da Retribuição e a Questão da Justiça Divina
+
+Uma segunda corrente de interpretação, muitas vezes associada a uma leitura mais tradicional e teologicamente centrada, focaliza a passagem como um tratado magistral sobre a doutrina da retribuição divina. O grande reformador **João Calvino**, em seus *Sermões sobre Ezequiel* (publicados postumamente em 1563), aborda o capítulo com olhos agudos para a justiça de Deus. Para Calvino, a beleza e a grandeza do cedro não são acidentais, mas parte integral do argumento. Deus não derruba arbustos insignificantes. A Assíria foi levantada por providência divina, dotada de esplendor incomparável ("nem os cedros do jardim de Deus se lhe podiam igualar", v. 8). Seu pecado, portanto, não foi de insignificância, mas de perversão de um dom divino. A *hybris* reside no versículo 10: "Elevou-se na sua estatura, e se levantou a sua copa no meio da espessa ramagem, e o seu coração se exaltou na sua altura." A controvérsia que Calvino identifica — e que ecoa no Livro de Jó e nos Salmos — é a aparente desconexão entre prosperidade e retidão. Como pode um poder tão glorioso, aparentemente abençoado, ser objeto de um juízo tão devastador?
+
+A resposta de Calvino, e de uma longa linhagem de intérpretes reformados como **Herman Bavinck** em sua *Dogmática Reformada* (1906), é que a prosperidade da Assíria era um teste de sua soberba, não um selo de sua justiça. O juízo, portanto, não é arbitrário, mas a necessária vindicação do caráter santo de Deus contra a autodeificação. **Matthew Henry**, em seu *Commentary on the Whole Bible* (1710), expande essa ideia, notando que a sentença é executada com uma precisão que espelha a grandeza do criminoso: é entregue ao "mais poderoso das nações" (Babilônia), e sua queda é tão espetacular que abala toda a criação (v. 15-16). A terra e as águas se acalmam em sinal de luto, e as nações descem com ela ao Sheol em solidariedade chocada. A controvérsia teológica que persiste é se esse modelo de retribuição histórica direta — grandeza, soberba, queda — é um princípio universal aplicável a todas as nações em todos os tempos, ou um padrão específico da economia divina no período do Antigo Testamento. A passagem parece sugerir o primeiro, ao apresentar a queda da Assíria como uma lição objetiva para o Egito.
+
+## Perspectiva Cristológica e Escatológica
+
+Uma terceira e profundamente significativa linha de controvérsia surge da leitura cristológica e escatológica do texto. Enquanto a aplicação primária e histórica é para Assíria e Egito, muitos Pais da Igreja e teólogos posteriores viram na figura do cedro elevado e abatido um *typos* ou sombra de realidades maiores. **Jerônimo**, em seu *Commentariorum in Hiezechielem* (século V), já via na árvore uma prefiguração do orgulho de Satanás e de todos os reinos terrenos que se opõem a Deus, cujo destino final é a queda. No entanto, a leitura mais rica e complexa é proposta por teólogos que conectam a imagem ao próprio Cristo e à sua igreja.
+
+O teólogo reformado **Geerhardus Vos**, em sua *Biblical Theology* (1948), faz uma distinção crucial. A árvore de Ezequiel 31 é uma paródia da verdadeira árvore da vida. Sua altura, que deveria apontar para o céu, torna-se motivo de auto-exaltação. Suas raízes, que deveriam buscar as águas profundas da graça de Deus, alimentam sua autossuficiência. Sua queda, portanto, é o inverso da ascensão do verdadeiro Cedro, Cristo. **Oswald T. Allis**, em *The Unity of Isaiah* (1950), embora focando em outro profeta, oferece uma lente útil: a visão de Ezequiel estabelece o padrão do juízo contra os poderes mundiais, padrão que encontra seu cumprimento definitivo nas visões apocalípticas do Novo Testamento. A besta que sobe do mar em Apocalipse 13, com sua blasfêmia e poder, é a última encarnação do espírito do cedro assírio.
+
+Aqui reside uma das controvérsias mais delicadas: a tipologia. Até que ponto é legítimo ver em Ezequiel 31 uma profecia que transcende seu horizonte histórico imediato para falar do fim dos tempos? Teólogos como **Meredith G. Kline**, em *Kingdom Prologue* (1981), argumentam vigorosamente a favor. Para Kline, a estrutura de "aliança" e "juízo por quebra de aliança" que permeia o Antigo Testamento é cósmica. A Assíria, como império, viveu sob os termos da Aliança da Criação (ou Aliança das Obras), onde a obediência traria vida e a desobediência, morte. Sua queda é um protótipo do juízo final sobre todas as estruturas humanas autônomas. A descida ao Sheol, "à cova", entre os incircuncisos e os mortos à espada (v. 18), não é aniquilação, mas uma existência em estado de juízo e vergonha, um conceito que ecoa fortemente nas descrições neotestamentárias do Hades.
+
+## Síntese Reformada: Soberania, Soberba e a Consolação dos Santos
+
+Uma síntese reformada confessional, à luz das controvérsias expostas, deve partir do axioma irredutível da soberania absoluta de Deus sobre toda a história. **O cedro da Assíria, em toda a sua glória, foi plantado pelas águas por decisão divina (v. 4).** Este é o ponto de partida que cala tanto o mito (a árvore não é uma força autônoma) quanto a mera política (sua ascensão não é fruto do acaso ou apenas da habilidade humana). Como escreve **Francis Turretin** em seus *Institutes of Elenctic Theology* (1679), Deus dispõe dos reinos dos homens como lhe apraz, dando-lhes poder e esplendor para seus próprios desígnios, frequentemente ocultos.
+
+O pecado da árvore, portanto, é um pecado contra a graça comum. Não foi a grandeza em si, mas o coração que se exaltou *por causa* da grandeza (v. 10), esquecendo-se do Jardineiro. A síntese reformada insiste que este é o pecado radical de Adão recapitulado em escala nacional: o desejo de ser "como Deus", de ter uma grandeza autogerada e autônoma. O juízo que se segue é, portanto, pedagógico e judicial. Pedagógico para o Egito e para todos os que leem a profecia: nenhum império, por mais seguro que pareça, está beyond do alcance do machado divino. Judicial para a Assíria: a medida do seu castigo é proporcional à medida da graça recebida e rejeitada.
+
+Contudo, a síntese não termina no Sheol. A visão terrível da árvore caída, causando tremor na criação, serve também como consolação profunda para o povo exilado de Judá. Eles, que haviam sido esmagados pela Assíria e agora estavam sob o jugo da Babilônia (o "mais poderoso das nações"), podiam ver, pela palavra profética, que seus opressores não eram senhores últimos da história. O verdadeiro Cedro, aquele que seria cortado na Cruz mas cuja raiz permaneceria viva (Isaías 11:1), já estava prometido no Éden. A queda de todos os cedros do Líbano apenas prepara o terreno para a revelação daquele que, humilhado até a morte, seria exaltado à destra da Majestade nas alturas, e sob cujos ramos — os da verdadeira Igreja — encontrariam abrigo todas as nações da terra. A controvérsia final, então, se resolve na Cruz: lá, o juízo sobre a soberba humana foi executado no substituto perfeito, e a árvore da maldição tornou-se, para os que creem, a árvore da vida.
+
+**Amém.**

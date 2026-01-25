@@ -1,16 +1,55 @@
 ---
 slug: "salmos-75-pregacao-tecnica"
-titulo: ""
+titulo: "O Cálice Espumante e o Juízo Inabalável"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "75"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 75   O Cálice Espumante e o Juízo Inabalável   Texto-base: Salmos 75   Eixo Teológico: O Soberano Senhor, que é o único Juiz verdadeiro, sustenta as co..."
+tags: ["batalha"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 75
 
+## ***O Cálice Espumante e o Juízo Inabalável***
+
+## Texto-base: Salmos 75
+
+## Eixo Teológico: O Soberano Senhor, que é o único Juiz verdadeiro, sustenta as colunas da ordem moral do universo e, em seu tempo determinado, humilhará os arrogantes e exaltará os justos, derramando da Sua mão o cálice do juízo ou da salvação.
+
+## Introdução
+
+Há, na alma humana, uma inquietação fundamental diante da aparente desordem do mundo. O salmista Asafe, mestre de coro, conhecia bem essa melodia dissonante no coração do povo da aliança. Ele olhava para os palácios dos ímpios, para a arrogância dos opressores que, com seus chifres erguidos, desafiavam os céus, e um grito ecoava no silêncio da fé: “Até quando, Senhor?”. É neste teatro de tensão cósmica, onde a injustiça parece triunfar e os alicerces da retidão estremecer, que o Salmo 75 ergue sua voz como um trovão calmo e uma fortaleza inexpugnável. Não é um lamento passivo, mas um cântico de confiança escatológica, um hino que proclama, antes da batalha ser vista, a vitória do Juiz de toda a terra. Nesta noite, adentramos este santuário poético para ouvir não a voz vacilante do homem, mas a declaração inabalável de Deus. Veremos que o mundo não está à deriva em um mar de caos, mas firmado sobre os pilares da justiça divina, e que há um Cálice na mão do Senhor, cujo conteúdo decidirá o destino eterno de cada nação e de cada coração.
+
+## Proposição
+
+Portanto, caros congregados, proponho-vos esta noite, a partir do Salmo Setenta e Cinco, que o Deus Soberano, em Sua majestade inquestionável, **I. Estabelece os Tempos com Autoridade Incontestável**, **II. Declara os Princípios com Clareza Inconfundível**, e **III. Executa os Juízos com Imparcialidade Infalível**.
+
+## I. O Relógio da Eternidade: A Soberania que Estabelece os Tempos com Autoridade Incontestável
+
+O salmo irrompe com uma ação de graças que é, em sua essência, um ato de guerra teológica. “Nós te damos graças, ó Deus, damos graças, pois perto está o teu nome; anunciam os teus feitos maravilhosos” (v.1). O verbo hebraico *yādâ*, aqui traduzido como “dar graças”, carrega a nuance de confessar, de reconhecer publicamente. Não é um agradecimento por bênçãos recebidas, mas uma confissão proclamada da natureza e dos atos de Deus, um contra-ataque verbal contra a narrativa do caos. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa com precisão que a proximidade do nome de Deus (“pois perto está o teu nome”) não se refere meramente à presença divina, mas à manifestação eficaz do seu caráter como Salvador e Juiz para com o seu povo. Ações maravilhosas, *niplā’ōt*, são aqueles feitos assombrosos que rompem a normalidade e revelam a mão invisível governando a história.
+
+E é precisamente neste ponto que a soberania divina sobre o tempo se revela com força tectônica. O verso 2 declara, na voz do próprio Senhor: “Quando eu escolher o tempo certo, julgarei com retidão”. A expressão “tempo certo” traduz o hebraico *mô‘ēd*, termo carregado de significado cultual e escatológico. Não é um momento qualquer, mas um *tempo designado*, um *encontro marcado* na agenda da eternidade. **Geerhardus Vos**, o pai da teologia bíblica, em *The Pauline Eschatology* (1930), nos lembra que o conceito de *kairós* no Novo Testamento (tempo oportuno, determinado) é herdeiro direto desta visão hebraica. Deus não é um espectador ansioso, esperando que as coisas melhorem. Ele possui um *mô‘ēd* para cada juízo, uma hora marcada na sala do trono do universo. A terra e todos os seus habitantes podem vacilar, os pilares sociais e morais podem parecer feitos de areia, mas o salmista nos conduz a uma visão superior: “Fui eu mesmo que sustento as suas colunas” (v.3). A imagem é de uma arquitetura cósmica. **Augustus H. Strong**, em sua *Systematic Theology* (1907), vê aqui uma afirmação poderosa da providência sustentadora de Deus. As colunas da terra – sua ordem natural, suas leis morais, a própria estrutura da realidade – não se mantêm por uma força impessoal ou por um equilíbrio frágil, mas pela mão ativa e constante do Soberano. A aparente desordem é permitida, mas nunca absoluta; o caos late, mas não governa. Tudo ocorre dentro do perímetro seguro de um palácio cujas colunas são divinas.
+
+## II. A Proclamação do Trono: A Justiça que Declara os Princípios com Clareza Inconfundível
+
+Tendo estabelecido quem controla o relógio e sustenta a estrutura, a voz divina se volta, no centro do salmo, para uma proclamação direta e solene. É um édito real. “Aos arrogantes digo: ‘Não sejam arrogantes’; e aos ímpios: ‘Não levantem o seu chifre. Não levantem tão alto o seu chifre, nem falem com insolência contra a Rocha’” (vv.4-5). A metáfora do chifre, *qeren*, no antigo Oriente Próximo, era símbolo universal de poder, força e honra. Levantar o chifre era um ato de autoexaltação, de desafio. O ímpio, aqui, é aquele que atribui a si mesmo a glória e o poder que pertencem somente a Deus. **Derek Kidner**, em seu precioso comentário *Psalms 73–150* (1975), salienta que a repetição “não levantem o seu chifre” tem a força de um mandado judicial. Não é um conselho, mas uma injunção. A insolência (*‘ātaq*) significa falar com pescoço duro, com uma arrogância que desafia qualquer autoridade superior.
+
+O cerne da questão, porém, está no contraste radical que se segue. A fonte da verdadeira exaltação não está no esforço humano, mas na graça divina. “Pois nem do oriente, nem do ocidente, nem do deserto vem a exaltação. Mas Deus é o juiz: a um humilha, a outro exalta” (vv.6-7). Esta é uma negação categórica de todas as geografias do poder humano. A exaltação, o verdadeiro *chifre* de autoridade e honra, não é produto da astúcia oriental, da força ocidental ou da mística do deserto (sul). **Herman Bavinck**, em *Reformed Dogmatics: God and Creation* (1895), vê nesta tríplice negação uma desmitologização completa do poder. Nenhuma ideologia, nenhum sistema político, nenhuma força militar, nenhum sucesso econômico pode conferir a legitimidade última que é o reconhecimento divino. A exaltação é um veredito, não uma conquista. E o critério do Juiz é revelado: Ele humilha e exalta. O princípio é claro e inconfundível: a humildade diante da “Rocha” (v.5), que é Cristo, como bem aponta a interpretação reformada, é o caminho para a exaltação genuína. A arrogância, que é a essência do pecado, garante a humilhação. **Jonathan Edwards**, em seu sermão *God Glorified in Man’s Dependence* (1731), explora esta doutrina com profundidade avassaladora: toda a nossa boa, nossa honra, nossa exaltação, é um empréstimo da graça de Deus, para que ninguém se glorie, senão no Senhor. O salmo, portanto, ergue um espelho para a alma: de que lado da equação estamos? Buscamos levantar nosso próprio chifre, ou nos curvamos para receber o chifre da salvação daquele que foi exaltado por ter se humilhado até à morte?
+
+## III. O Cálice da Ira: A Imparcialidade que Executa os Juízos com Infalibilidade Inquestionável
+
+A revelação culmina em uma imagem de terrível e gloriosa solenidade. O Juiz não apenas declara a lei; Ele aplica a sentença. “Na mão do Senhor há um cálice, com vinho espumante, misturado de especiarias; ele o derrama, e todos os ímpios da terra o bebem, sorvendo-o até às fezes” (v.8). Esta é uma das metáforas mais poderosas das Escrituras para o juízo divino. O cálice, *kôs*, não é de benção, mas de ira. O vinho é *ḥāmar* – fermentado, forte, espumante – e misturado (*māḡaḡ*) com especiarias, possivelmente amargas ou intoxicantes. A imagem não é de um gole, mas de uma taça cheia que deve ser esvaziada. **Franz Delitzsch**, em seu clássico *Biblical Commentary on the Psalms* (1867), conecta esta figura diretamente com a linguagem profética (como em Jeremias 25:15-29) e apocalíptica (Apocalipse 14:10; 16:19). Beber o cálice significa sofrer na íntegra as consequências do próprio pecado, absorver a ira merecida. A justiça retributiva de Deus não é uma abstração; é uma realidade líquida e amarga que deve ser consumida.
+
+Mas há um duplo destino anunciado. Enquanto os ímpios bebem o cálice da ira, o salmista, representando o remanescente fiel, conclui com um cântico de vitória antecipada. “Quanto a mim, para sempre anunciarei isso, cantarei louvores ao Deus de Jacó. Ele cortará o poder de todos os ímpios, mas o poder dos justos será exaltado” (vv.9-10). O “poder” (chifre) dos ímpios será quebrado, decepado. Sua arrogância será reduzida a pó. Em contraste, o chifre – a força, a honra, a vitória – dos justos será exaltado. Quem são os justos? São aqueles que, pela fé, não confiam em seu próprio chifre, mas se refugiam na Rocha e recebem a justiça de outrem. **Martinho Lutero**, em seus *Primeiras Palestras sobre os Salmos* (1513-1516), via aqui o cerne do *evangelho* no Antigo Testamento: a justiça que exalta não é a nossa, mas a que nos é imputada pelo Juiz que se fez Redentor. O cálice da ira que deveríamos beber foi esvaziado por Cristo no Gólgota, e em seu lugar nos é oferecido o cálice da nova aliança, seu sangue derramado por muitos. A execução do juízo, portanto, é perfeitamente imparcial: ela confirma a escolha de cada coração. Ou bebemos, em nós mesmos, o cálice da ira merecida, ou, pela fé, nos abrigamos naquele que o bebeu por nós.
+
+## Conclusão
+
+Irmãos e irmãs, o Salmo 75 não é um conforto barato para dias difíceis. É um choque de realidade divina em um mundo embriagado por sua própria arrogância. Ele nos tira do centro do drama e nos coloca como espectadores – e participantes – de um juízo muito maior. Você se inquieta com a desordem do mundo? Lembre-se: as colunas são sustentadas por Ele. Você se aflige com a ascensão dos arrogantes? Lembre-se: Ele tem um *mô‘ēd*, um encontro marcado para o juízo. Você se sente tentado a erguer seu próprio chifre, a buscar exaltação pelos caminhos do oriente, do ocidente ou do deserto? Lembre-se: a exaltação vem somente do Juiz, e seu caminho é a humildade. E, por fim, olhe para a mão estendida. Nela há um cálice. Para os que persistem na rebeldia, é o cálice espumante da ira justa. Mas, pela graça soberana, outro cálice foi erguido no Calvário – o cálice do sofrimento substitutivo. Nele, a justiça e a misericórdia se beijaram. O convite desta noite é que você deixe de lado seu cálice de autojustiça e arrogância, e, pela fé, tome o cálice da salvação, invocando o nome do Senhor. Pois está determinado que todo joelho se dobrará e toda língua confessará que Jesus Cristo é o Senhor, para a glória de Deus Pai. O Juiz de toda a terra fará justiça. Em quem você confiará?
+
+## **Amém.**

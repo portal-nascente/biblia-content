@@ -1,16 +1,58 @@
 ---
 slug: "ezequiel-38-pregacao-tecnica"
-titulo: ""
+titulo: "O Último Assalto: A Queda do Arrogante e a Vitória do Cordeiro"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "38"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 38   O Último Assalto: A Queda do Arrogante e a Vitória do Cordeiro   Texto-base: Ezequiel 38:1-23  Eixo Teológico: A Soberania Absoluta de Deus na H..."
+tags: ["amor", "ansiedade", "batalha", "duvida"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 38
 
+## ***O Último Assalto: A Queda do Arrogante e a Vitória do Cordeiro***
+
+## Texto-base: Ezequiel 38:1-23
+## Eixo Teológico: A Soberania Absoluta de Deus na História, manifesta na derrota escatológica de toda potência que se levanta contra Ele e Seu povo, revelando que os propósitos últimos do Senhor são a glorificação de Seu Nome e a segurança eterna daqueles que guarda.
+
+## Introdução
+
+Há, na história humana, um som que ecoa através dos séculos, um rumor distante que se aproxima como a maré. É o ruído de exércitos em marcha, o tinir de espadas sendo afiadas, o sussurro sombrio de conselhos feitos em salas trancadas, onde homens traçam sobre mapas o destino de nações e o sofrimento de milhões. Desde os campos de Megido, onde faraós e reis cananeus se digladiavam, até as planícies geladas onde se travaram batalhas que definiram impérios, uma pergunta persiste, inquietante como um fantasma: para onde marcha a história? Qual é o destino final deste grande desfile de ambição, poder e violência? O profeta Ezequiel, exilado à beira dos canais da Babilônia, recebe de Deus uma visão que vai além de Ciro, além de Roma, além de todos os impérios que seu olho poderia ver. Ele contempla o *último* assalto, a *derradeira* coalizão do mal, um levante final contra o trono de Deus e o povo que Ele redimiu. Este capítulo, meus amados, não é um mapa geopolítico para decifrarmos nomes nos jornais de amanhã; é um espelho teológico onde vemos refletida a natureza de toda rebelião humana e, de forma mais gloriosa, a natureza inabalável do Deus que reina. **Herman Bavinck**, em sua magistral *Reformed Dogmatics* (1906), nos adverte que a profecia bíblica não é dada para satisfazer nossa curiosidade cronológica, mas para moldar nossa esperança teológica e nossa fidelidade ética. É com este olhar que nos aproximamos deste texto solene.
+
+## Proposição
+
+Portanto, proponho-vos nesta noite, a partir da visão de Ezequiel sobre Gog e Magog, que contemplaremos como a soberania de Deus se manifesta de três modos distintos e avassaladores: **Primeiro, na Convocação Irada do Inimigo**, onde vemos que até os desígnios mais perversos servem, inconscientemente, aos propósitos divinos. **Segundo, na Motivação Oculta do Conflito**, onde a raiz de toda agressão é exposta como uma blasfêmia contra a santidade de Deus. E **terceiro, na Intervenção Cataclísmica do Juiz**, onde o próprio Senhor desce ao campo de batalha não como aliado, mas como único combatente, para vindicar Seu Nome perante um mundo atônito.
+
+## I. A Convocação Irada: Os Ganchos nas Maxilas do Leviatã
+
+A visão se abre com uma cena de assombrosa ironia divina. A palavra do Senhor vem a Ezequiel: “Volte o seu rosto contra Gog, da terra de Magog, príncipe soberano de Meseque e de Tubal, e profetize contra ele” (Ez 38:2). Uma confederação vasta, das remotas extremidades do norte, é enumerada: Gomer, Bet-Togarma, Pérsia, Cuxe, Put. É um panorama de poder militar avassalador. Contudo, observe o verbo soberano que estrutura toda a ação: “Porei ganchos em suas maxilas” (Ez 38:4). **John Calvin**, em seus *Commentaries on Ezekiel* (1565), comenta com precisão cirúrgica: “Aqui Deus afirma que Ele é o autor desta expedição, não porque incite estes bárbaros à injustiça, mas porque Ele gira as rédeas dos ímpios, e os restringe como Lhe apraz, de modo que Ele os dirige para onde quer, embora não o queiram.” Gog marcha com seus próprios desejos perversos, com sua cobiça e orgulho intactos. Ele pensa ser o arquiteto de seu próprio destino glorioso. No entanto, sem que ele saiba, há ganchos divinos em suas maxilas. Ele é conduzido, como um animal selvagem levado ao matadouro, para um fim que não é o seu.
+
+Aqui reside uma das doutrinas mais profundas e consoladoras das Escrituras: a providência concomitante. Deus não é o autor do pecado – a motivação de Gog é maligna –, mas Ele soberanamente governa e direciona até mesmo os atos maus dos homens para cumprir Seus santos e justos desígnios. **Augustus H. Strong**, em sua *Systematic Theology* (1907), expressa esta verdade paradoxal com clareza: “Deus, em Seu governo moral, apresenta aos homens motivos; o homem, pela ação de sua própria vontade, escolhe entre estes motivos. A escolha do homem é livre, mas Deus sabia desde a eternidade o que essa escolha seria, e a fez certa, ordenando, em Seu plano, todas as condições que a influenciariam.” Gog escolhe atacar. Sua vontade é real e culpável. Mas Deus, em Sua sabedoria insondável, incorpora essa escolha maligna no grande tecido de Sua história redentiva, usando-a para um fim maior: a manifestação de Sua glória no juízo. É como se o mal, em sua fúria cega, cavasse sua própria cova, mas sob a supervisão do Oleiro que molda até a argila rebelde. O ataque não pega Deus de surpresa; ele é, em um sentido misterioso e terrível, *convocado*. A coalizão se forma, os planos são traçados, não como uma brecha na muralha da soberania divina, mas como uma peça movida no tabuleiro pelo próprio Grande Rei. **Geerhardus Vos**, em sua *Biblical Theology* (1948), vê aqui um princípio escatológico: “A hostilidade final contra o reino de Deus será permitida que atinja sua máxima intensidade, a fim de que o juízo sobre ela possa ser correspondente e sirva como a revelação suprema da justiça divina.”
+
+## II. A Motivação Oculta: A Cobiça que é Blasfêmia
+
+Qual, então, é o combustível desta máquina de guerra? O texto é cristalino: “Virás do teu lugar, das regiões mais remotas do norte, tu e muitos povos contigo… Subirás contra o meu povo Israel como uma nuvem que cobre a terra. Nos últimos dias acontecerá que trarei você contra a minha terra, para que as nações me conheçam, quando eu me mostrar santo através de você diante dos olhos delas, ó Gog” (Ez 38:15-16). A motivação aparente é a pilhagem: “apoderar-se de despojos e arrebatar saques” (Ez 38:12). Eles veem um povo restaurado, “que vive em paz, em vilas sem muros, sem trancas e portões” (Ez 38:11). Veem uma presa fácil, uma riqueza a ser tomada. Esta é a lógica imutável do mundo: o forte devora o fraco; a riqueza atrai o ladrão.
+
+Contudo, Ezequiel, sob inspiração, perfura a superfície da geopolítica e revela a raiz teológica do conflito. O alvo final não é simplesmente o gado e os bens de Israel. O alvo é a *paz* que Israel desfruta. É a *segurança* provida por Deus. É a própria *presença* de Deus no meio do Seu povo. Ao atacar a comunidade que vive sob o cuidado manifesto do Senhor, Gog está, em última instância, desafiando a capacidade de Deus de guardar o que é Seu. Ele está, em seu coração, dizendo: “Este Deus em quem confiam não é capaz de defendê-los. Sua paz é uma ilusão. Sua segurança, uma fraude. Tomarei o que Ele prometeu guardar.” **D. Martyn Lloyd-Jones**, em seu sermão *The Kingdom of God* (1970), argumenta que todo pecado, no seu cerne, é um ataque à veracidade de Deus. “O pecado não é apenas quebrar uma lei; é duvidar do caráter de Deus. É acreditar que o diabo falou a verdade no Éden e que Deus mentiu.” A cobiça de Gog é, portanto, uma forma prática de ateísmo. É a crença de que o mundo visível dos exércitos e dos espólios é mais real e poderoso do que o Deus invisível que fez uma aliança. **Jonathan Edwards**, em *The History of Redemption* (1774), descreve esta como a dinâmica constante da história: “As potências do mundo estão sempre buscando devorar a igreja de Deus; elas a consideram sua presa. Mas em assim fazendo, elas lutam contra o Senhor dos exércitos.” A ambição material esconde uma heresia espiritual: a negação do governo e da fidelidade de Deus. O ataque a Israel é um golpe direto contra a credibilidade do nome de Yahweh.
+
+## III. A Intervenção Cataclísmica: A Ira do Cordeiro
+
+E então, no auge da arrogância humana, quando a nuvem de guerra já escurece os montes de Israel, acontece o inesperado. Não surge um exército maior. Não aparece uma aliança mais poderosa. A intervenção vem de cima, e é solitária. “Naquele dia, quando Gog atacar a terra de Israel, declara o SENHOR, a minha ira se acenderá… Em meu zelo e no fogo da minha ira declaro que naquele dia certamente haverá um grande tremor na terra de Israel” (Ez 38:18-19). Deus não arma os israelitas. Ele não chama anjos para formar uma falange. Ele *mesmo* entra em cena. A batalha se transforma de um conflito entre nações para um julgamento entre o Criador e a criatura rebelde.
+
+O profeta descreve um cataclismo cósmico: terremotos, pânico, espada contra irmão, pestilência, chuva torrencial, saraiva, fogo e enxofre (Ez 38:19-22). A linguagem é deliberadamente reminiscente do Êxodo (as pragas) e de Sodoma (fogo e enxofre). É uma *des-criação*, uma reversão da ordem. **Meredith G. Kline**, em *Kingdom Prologue* (2000), vê nestas teofanias de juízo a suspensão da graça comum que sustenta a criação, deixando o rebelde face a face com a pura santidade consumidora de Deus. O Senhor luta sozinho, “para que as nações me conheçam” (Ez 38:23). O conhecimento aqui não é intelectual, mas experimental e devastador. É o conhecimento que vem quando a realidade de Deus se impõe sobre a ilusão da autonomia humana. **Oswald T. Allis**, em *Prophecy and the Church* (1945), enfatiza que este juízo tem um propósito revelador: “A derrota de Gog não é um fim em si mesma. É um meio para um fim maior – a manifestação da santidade, do poder e da glória de Jeová a todas as nações.”
+
+E aqui, irmãos, devemos fazer a ponte cristocêntrica obrigatória. Esta visão de Ezequiel ecoa e culmina no Apocalipse de João, onde Gog e Magog reaparecem para o assalto final contra “o acampamento dos santos, a cidade amada” (Ap 20:8-9). E qual é o resultado? “Desceu, porém, fogo do céu e os consumiu.” A vitória é do Cordeiro. Aquele que foi imolado é o mesmo que julga. A cruz, onde a ira de Deus foi derramada sobre o substituto, é o pré-requisito e a garantia do dia em que essa mesma ira será derramada sobre o impenitente. **Anthony A. Hoekema**, em *The Bible and the Future* (1979), conecta os pontos: “A batalha do Armagedom, descrita em Apocalipse 16 e 19, e a batalha de Gog e Magog, descrita em Ezequiel 38-39 e Apocalipse 20, são imagens complementares do grande conflito escatológico no qual Cristo aparecerá para destruir todos os Seus inimigos.” A intervenção em Ezequiel é um prenúncio da Parousia. A segurança do povo de Deus não repousa, em última análise, em muros ou exércitos, mas no fato de que o próprio Deus é o seu guardião, e que Ele já demonstrou Seu amor e Seu poder de forma definitiva no Calvário e no jardim vazio.
+
+## Conclusão
+
+Portanto, qual é a palavra para nós, que vivemos entre as sombras deste último ato da história? Primeiro, uma profunda humildade. Se até os propósitos malignos de Gog são incorporados pelo Senhor, quanto mais os nossos planos, ansiedades e temores? Ele reina. Os ganchos estão nas maxilas dos leviatãs da sua vida. Segundo, uma vigilância solene. Não nos iludamos pensando que a hostilidade contra o povo de Deus é meramente política ou social. Ela é, em seu âmago, espiritual. É um desafio ao senhorio de Cristo. Terceiro, e sobretudo, uma esperança inabalável. A nossa paz não é a ausência de conflito, mas a presença do Príncipe da Paz. A nossa segurança não é a falta de inimigos, mas a fidelidade do Guardião de Israel, que não dormita nem tosqueneja.
+
+O último assalto virá. A coalizão final se formará. Mas a sua derrota já foi decretada antes da fundação do mundo, e assegurada na cruz onde o Cordeiro de Deus foi morto. Você pode confiar neste Deus? Você pode descansar na segurança dAquele que diz: “Porei ganchos em suas maxilas”? A história marcha, sim, mas não para o caos. Marcha, com passos firmes e soberanos, para o dia em que “todos saberão que eu sou o SENHOR, o Santo de Israel” (Ez 39:7). E nesse dia, para aqueles que estão em Cristo, o fogo que consome será apenas a luz que ilumina a cidade eterna, onde a paz não tem mais necessidade de muros.
+
+## **Amém.**

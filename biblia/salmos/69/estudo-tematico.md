@@ -1,16 +1,47 @@
 ---
 slug: "salmos-69-estudo-tematico"
-titulo: ""
+titulo: "O Grito do Justo Sofredor: Uma Teologia da Angústia e da Intercessão Real"
 tipo: "estudo-tematico"
 origem: "biblia"
 livro: "salmos"
 capitulo: "69"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "95 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "ESTUDO TEMÁTICO  Salmos 69   O Grito do Justo Sofredor: Uma Teologia da Angústia e da Intercessão Real  O Salmo 69 ergue-se na paisagem do Saltério como um vulcão em erupção, lanç..."
 tags: []
 ---
 
+# ESTUDO TEMÁTICO
+# Salmos 69
 
+## ***O Grito do Justo Sofredor: Uma Teologia da Angústia e da Intercessão Real***
+
+O Salmo 69 ergue-se na paisagem do Saltério como um vulcão em erupção, lançando ao céu uma coluna densa de fumaça e fogo composta de lamento pessoal, imprecação coletiva e esperança messiânica. É um salmo de profundidade abissal, onde a experiência humana do abandono e da injustiça mergulha nas águas turbulentas da aliança, emergindo, por fim, nas margens secas da vindicação divina. Não se trata de um lamento qualquer, mas do lamento *par excellence* do justo sofredor, cujas raízes teológicas penetram no solo fértil da redenção e florescem no Novo Testamento como uma cristologia implícita. A sua estrutura é uma sinfonia em três movimentos: a descida às profundezas (v. 1-12), a súplica pela intervenção judicial (v. 13-28) e a ascensão ao cântico de louvor e expectativa escatológica (v. 29-36). Estudá-lo é embarcar numa viagem ao coração da oração do povo de Deus, onde o desespero individual se funde com o destino corporativo e onde a sombra da cruz já se projeta, longa e definida, sobre o sofrimento do salmista.
+
+## A Descida às Profundezas: A Solidão Aquática do Servo
+
+O salmo irrompe com uma metáfora de afogamento que é, ao mesmo tempo, física e espiritual. “Salva-me, ó Deus, pois as águas me sobem até ao pescoço” (v. 1). Esta não é uma imagem de banho tranquilo, mas de um naufrágio existencial. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa com agudeza que o salmista “não se queixa de uma ou duas gotas, mas diz que está submerso, como se estivesse no meio de um abismo”. A água, símbolo primordial do caos no Antigo Oriente Próximo (cf. Gênesis 1:2; Salmo 93:3-4), aqui se torna a experiência íntima do crente: o caos exterior tornou-se caos interior. O lodo do abismo (v. 2) fala não apenas de perigo, mas de uma sensação de impureza e de ser tragado pela terra, uma antítese completa à criação ordenada.
+
+Este sofrimento é agravado por sua origem: é um sofrimento *por causa de* Deus. “Pois por ti suporto afrontas, e a vergonha me cobre o rosto… O zelo da tua casa me consumiu, e as afrontas dos que te afrontam caíram sobre mim” (v. 7, 9). Aqui reside um dos eixos centrais do salmo. O sofrimento não advém de um pecado oculto (embora o salmista confesse sua falibilidade geral no v. 5), mas da identificação com a causa de Yahweh. **Martin Luther**, em suas *Primeiras Palestras sobre os Salmos* (1513-1515), vê aqui o protótipo do sofrimento do cristão verdadeiro: “Ele sofre porque é piedoso, não porque é ímpio. Esta é a cruz peculiar dos santos”. A solidão descrita nos versículos 8 e 20 – “Tornei-me um estranho para os meus irmãos, um forasteiro para os filhos de minha mãe… Achei afronta e desespero; procurei quem tivesse compaixão, mas não houve nenhum; e por consoladores, e não os achei” – não é o isolamento do misantropo, mas o abandono do mártir, daquele cuja fidelidade o coloca em rota de colisão com o mundo e, por vezes, até com sua própria família de fé.
+
+## O Grito de Sangue: Imprecação e Justiça na Aliança
+
+A segunda seção do salmo (v. 13-28) contém os elementos mais desafiadores para a sensibilidade moderna: as imprecações. O salmista não apenas pede por salvação, mas pede pela ruína de seus adversários: “Seja a sua mesa diante deles uma armadilha… Escureçam-se-lhes os olhos, para que não vejam, e faze com que os seus lombos tremam constantemente” (v. 22-23). Uma leitura superficial pode ver aqui mero desejo de vingança. No entanto, uma análise teológica mais densa, à luz da aliança, revela um quadro diferente. **Hermann Gunkel**, o pai da crítica das formas, em *Die Psalmen* (1926), classificou tais salmos como “Lamentos do Indivíduo” com elementos de “maldição”, mas reconheceu seu *Sitz im Leben* (contexto vital) no tribunal cultual, onde o suplicante, inocente, apela ao Juiz divino contra falsas acusações.
+
+A chave hermenêutica está em entender que o salmista não está agindo como um indivíduo privado buscando desforra. Ele se coloca como parte do povo da aliança e seus inimigos são, por definição, “inimigos de Deus” (v. 9). O pedido de juízo é, portanto, um apelo para que a justiça retributiva da aliança – a bênção para os fiéis e a maldição para os infiéis (cf. Deuteronômio 28) – seja manifestada. **Walter Brueggemann**, em *The Message of the Psalms* (1984), argumenta de forma poderosa que estas orações de imprecação são, na verdade, atos de profunda fé. Ao verbalizar sua raiva e seu desejo por justiça perante Deus, o salmista está “cedendo a iniciativa a Deus”, recusando-se a tomar a justiça em suas próprias mãos e, assim, mantendo vivo o relacionamento com o Senhor, mesmo em meio a sentimentos sombrios. É um grito para que o mundo seja posto em ordem, de acordo com os estatutos da aliança. A “tabela” que se torna armadilha (v. 22) é uma imagem poética da retribuição: a própria prosperidade e segurança dos ímpios (a mesa farta) se tornará o instrumento de sua queda.
+
+## A Sombra da Cruz e a Voz do Messias Sofredor
+
+Nenhum salmo é mais citado no Novo Testamento em referência à paixão de Cristo do que o Salmo 69. Os evangelistas e apóstolos viram nele não apenas um padrão, mas uma profecia detalhada do sofrimento do Messias. O “zelo da tua casa me consumiu” (v. 9) é aplicado por João (João 2:17) ao episódio da purificação do Templo. As afrontas dos que afrontam a Deus caíram sobre Jesus (Romanos 15:3). O “vinagre” dado para beber (v. 21) encontra seu cumprimento literal na cruz (Mateus 27:48; João 19:29). A alocução sobre a traição de Judas no livro de Atos aplica a ele os versículos 25 e 26 (Atos 1:20). Esta leitura cristocêntrica não é uma alegorização forçada, mas o reconhecimento de que a experiência do justo sofredor no Antigo Testamento atinge sua plenitude e significado definitivo na pessoa de Jesus Cristo.
+
+**A. W. Pink**, em sua obra *The Seven Sayings of the Saviour on the Cross* (1938), reflete sobre o cumprimento do versículo 21: “A sede de Cristo na cruz foi a culminação de uma vida de sofrimento. Aquele que era a Água da Vida, teve sede. Aquele que havia saciado a sede de outros, foi negado o mais básico alívio em sua agonia”. O sofrimento de Cristo, portanto, não foi apenas físico, mas também o cumprimento da solidão e do abandono proféticos do salmista. **Dietrich Bonhoeffer**, em *Psalms: The Prayer Book of the Bible* (1940), vai além, afirmando que somente em Cristo podemos orar legitimamente os Salmos de imprecação: “A ira de Deus se abateu sobre Ele, sobre o inocente. Por isso, a ira do salmista também se abate sobre Ele. Em Jesus Cristo, que carregou toda a ira de Deus, também a ira do salmista é extinta”. Em Cristo, o grito por justiça é simultaneamente satisfeito e transformado, pois na cruz o juízo sobre os inimigos de Deus (nós, em nossa rebeldia) caiu sobre o próprio Filho de Deus.
+
+## A Ascensão do Louvor: Da Angústia Individual à Restauração Cósmica
+
+O salmo não termina nas profundezas, nem mesmo no juízo. Ele realiza uma virada dramática a partir do versículo 29: “Eu, porém, estou aflito e dolorido; a tua salvação, ó Deus, me ponha em alto retiro. Louvarei o nome de Deus com cânticos e proclamarei a sua grandeza com ações de graças”. Esta transição do lamento para o louvor não é um mero otimismo psicológico, mas uma confissão teológica. A fé do salmista antevê, para além do presente sofrimento, a fidelidade de Deus à sua aliança. A “salvação” pedida não é apenas um resgate pessoal, mas um “alto retiro”, um lugar de segurança e visão escatológica.
+
+Os versículos finais (v. 30-36) expandem o horizonte da oração do indivíduo para o destino de toda a criação. A ação de graças do salmista será mais agradável a Deus do que qualquer sacrifício animal (v. 30-31), antecipando a teologia profética de que a obediência é superior ao ritual (cf. 1 Samuel 15:22; Oséias 6:6). E então, a visão se alarga: “Vejam isto, os aflitos, e se alegrem! Vocês que buscam a Deus, revigorem-se o coração! Porque o Senhor ouve os necessitados e não despreza os seus que estão presos” (v. 32-33). A experiência do salmista torna-se um paradigma de esperança para toda a comunidade dos pobres de Yahweh (*anawim*). Finalmente, a visão se torna cósmica e escatológica: “Pois Deus salvará a Sião e reconstruirá as cidades de Judá… também a sua descendência a possuirá, e nela habitarão os que amam o seu nome” (v. 35-36). O lamento pessoal desemboca na promessa da restauração nacional e da perpetuação da linhagem da aliança. **Geerhardus Vos**, em sua *Biblical Theology* (1948), identifica aqui o padrão da escatologia do Antigo Testamento: “A redenção do indivíduo está inextricavelmente ligada à redenção da comunidade, e ambas são fundamentadas na fidelidade de Deus às suas promessas abraâmicas e davídicas”. O sofrimento do justo não é um fim em si mesmo; é o canal através do qual a salvação de Deus flui para Sião e para o mundo.
+
+O Salmo 69 permanece, portanto, como um monumento teológico da mais alta ordem. Ele ensina que a oração autêntica pode e deve incluir a totalidade da experiência humana – o desespero, a raiva, a solidão – e apresentá-la raw, sem polimento, diante do trono da graça. Ele afirma que o sofrimento por causa da justiça não é um acidente, mas uma participação num padrão divino que culmina em Cristo. Ele reconcilia o apelo por justiça retributiva com a soberania de Deus como Juiz. E, finalmente, ele ancla a esperança do crente não na ausência de dor, mas na certeza de que o Deus da aliança, que ouviu o grito de seu Filho no abismo, ouvirá o nosso, e transformará nosso lamento individual num cântico de louvor que ecoará na Nova Jerusalém restaurada.

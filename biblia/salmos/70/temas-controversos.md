@@ -1,16 +1,51 @@
 ---
 slug: "salmos-70-temas-controversos"
-titulo: ""
+titulo: "O Grito do Abandonado: A Teologia da Pressa na Oração Imprecatória"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "salmos"
 capitulo: "70"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Salmos 70   O Grito do Abandonado: A Teologia da Pressa na Oração Imprecatória   A Tensão  O Salmo 70, breve e incisivo, ergue-se como um rochedo á..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Salmos 70
 
+## ***O Grito do Abandonado: A Teologia da Pressa na Oração Imprecatória***
+
+## A Tensão
+
+O Salmo 70, breve e incisivo, ergue-se como um rochedo áspero no mar tranquilo da espiritualidade contemporânea. Seu clamor, uma repetição quase literal dos versos finais do Salmo 40, não é um murmúrio contemplativo, mas um golpe de martelo contra a bigorna do silêncio divino. A controvérsia que ele carrega não está em sua originalidade, mas em sua crueza teológica. Aqui, a alma não se derrama em lamentos elegíacos; ela exige, com uma urgência quase violenta: “Apressa-te, ó Deus, em me livrar! Apressa-te, SENHOR, em socorrer-me!”. Esta petição dupla, este gemido repetido, coloca-nos diante de um abismo hermenêutico e espiritual: como conciliar a noção de um Deus soberano, que opera nos tempos perfeitos da eternidade, com a demanda humana por uma intervenção célere e imediata? A oração imprecatória – “Sejam envergonhados e confundidos os que buscam a minha vida; retrocedam e sejam humilhados os que desejam o meu mal” – agrava a tensão. Não é apenas um pedido de socorro; é um apelo por justiça retributiva visível e rápida. A alma aflita não suplica apenas por paciência, mas pela humilhação pública de seus adversários. Este salmo, portanto, serve como um campo de batalha para as mais profundas controvérsias sobre a natureza da oração, o caráter de Deus, a ética do desejo no sofrimento e a teologia do tempo divino versus o tempo humano.
+
+## Perspectiva Histórica A: A Imprecação como Instrumento de Justiça Teocrática
+
+Uma linha de interpretação histórica, fortemente ancorada na exegese medieval e no início da Reforma, vê no Salmo 70 não uma explosão emocional privada, mas uma liturgia pública de justiça. Nesta leitura, o salmista não fala apenas por si, mas como o rei ungido, o representante da aliança teocrática. Sua pessoa e seu destino estão inextricavelmente ligados ao bem-estar e à justiça do povo de Deus. Portanto, a imprecação contra os “que buscam a minha vida” transcende o pessoal; é um apelo para que Deus defenda a Sua própria causa, a ordem santa que Ele estabeleceu.
+
+**John Calvin**, em seu *Commentary on the Book of Psalms* (1557), aborda esta tensão com a sobriedade característica. Para ele, a pressa solicitada não é uma tentativa de apressar um Deus lento, mas uma expressão legítima da fé que, esmagada pela angústia, clama pela manifestação da fidelidade divina já prometida. Calvino desloca o foco da vingança pessoal para a vindicação da glória de Deus. Ele argumenta: “Quando [o salmista] ora para que seus inimigos sejam envergonhados, ele não é movido por um ódio amargo ou descontrolado… mas por um zelo sincero, para que a justiça de Deus, que brilha na proteção dos piedosos, seja manifesta.” A “pressa”, então, é o anseio pelo cumprimento visível do pacto, onde a retidão é recompensada e a maldade, contida, para a saúde da comunidade da aliança. A oração é um ato de confiança no governo moral de Deus sobre a história.
+
+Esta visão é ampliada por **Martin Luther** em suas *Primeiras Palestras sobre os Salmos* (*Dictata super Psalterium*, 1513-1516). Lutero, mergulhado na leitura cristocêntrica e anagógica, vê no salmista uma figura de Cristo perseguido. Os inimigos são, em última instância, as potências do pecado, da morte e do diabo que se opõem ao Ungido de Deus. O “Apressa-te” é o grito da humanidade de Cristo, submetida à fraqueza, clamando pela consumação da vitória já assegurada na ressurreição. A imprecação, assim, se transforma em um profundo anelo escatológico: que o mal seja definitivamente derrotado e envergonhado na cruz e no juízo final. A perspectiva de Lutero sacraliza a urgência, tornando-a parte do drama cósmico da redenção.
+
+## Perspectiva Histórica B: A Crise da Interioridade e a Desconstrução do Desejo
+
+Uma contraposição significativa emerge de uma leitura mais existencial e crítica, que ganhou força a partir do Iluminismo e se intensificou com a psicologia moderna e a teologia liberal. Esta perspectiva encara o Salmo 70 não como um modelo de oração, mas como um documento humano crível de raiva e desespero, que deve ser transcendido pela ética superior do Evangelho. A controvérsia aqui reside na aparente incompatibilidade entre o espírito imprecatório e o mandamento de amar os inimigos.
+
+O teólogo alemão **Friedrich Schleiermacher**, em *A Fé Cristã* (1821-1822), representaria uma abordagem que relativiza a forma do salmo em favor de seu sentimento religioso subjacente. Para ele, o sentimento de dependência absoluta de Deus (o *Gefühl*) é o cerne da piedade. O Salmo 70 expressa vividamente esse sentimento em um momento de extrema necessidade. No entanto, a linguagem imprecatória seria uma vestimenta cultural e histórica, um estágio inferior da consciência religiosa, onde a identidade do crente ainda está fundida com uma concepção tribal de justiça. O valor do salmo, nesta leitura, não está em suas palavras específicas, mas no grito de dependência que ele contém – um grito que, na plenitude da revelação em Cristo, deve ser purificado de seus elementos retributivos e expresso como submissão confiante à vontade amorosa de Deus, mesmo no sofrimento.
+
+Já no século XX, o pensador judeu **Abraham Joshua Heschel**, em *Os Profetas* (1962), oferece uma crítica a partir de uma sensibilidade profética distinta. Heschel celebra a “simpatia divina” pelo sofrimento humano, mas distinguiria radicalmente a *indignação* profética – que nasce do *pathos* de Deus pela justiça social e pelo oprimido – da *vingança* pessoal implorada no salmo. A oração “Apressa-te” poderia ecoar o anseio profético pela intervenção de Deus, mas o desejo pela humilhação específica dos inimigos cairia em uma categoria moralmente inferior. A verdadeira piedade, seguindo a tradição profética, oraria pela conversão do malfeitor, não apenas por sua humilhação. Esta perspectiva vê no Salmo 70 um espelho honesto da alma ferida, mas não um farol para a alma madura.
+
+## Síntese Reformada: A Urgência da Fé no Drama da Aliança
+
+A síntese reformada confessional, construída sobre os alicerces de Calvino mas refinada pela teologia do pacto e uma hermenêutica cristocêntrica rigorosa, não foge da tensão do Salmo 70, mas a abraça como parte integrante do drama da redenção. Esta abordagem não espiritualiza a agonia nem condena a emoção, mas a contextualiza dentro da história da aliança e a consuma na pessoa de Cristo.
+
+Primeiro, reafirma a legitimidade do lamento e da urgência. O “Apressa-te” não é um sintoma de fé fraca, mas de fé viva que leva a sério as promessas de Deus e o clama como refúgio presente (v. 1, 5). **John Owen**, em *Communion with God* (1657), exploraria isso profundamente. Para Owen, a comunhão com Deus inclui necessariamente a comunhão em seus atributos. Orar “Apressa-te, ó Deus” é um ato de comunhão com a santidade e justiça de Deus, que não pode contemplar o mal com indiferença. A alma, em união com Cristo, participa do anseio divino pela retificação de todas as coisas. A pressa é o desejo escatológico da alma pela manifestação do reino que já habita nela.
+
+Segundo, a síntese reformada cristaliza a imprecação em Cristo. O Salmo 70 encontra sua plena voz e sua correta interpretação nos lábios de Jesus, o Davi maior. Ele foi aquele cujos inimigos buscaram sua vida sem causa. Seu clamor no Getsêmani e na cruz carrega a mesma urgência agónica (“Aba, Pai, afasta de mim este cálice”; “Deus meu, Deus meu, por que me desamparaste?”). No entanto, em Cristo, a imprecação é transformada. Ele ora pelo perdão de seus executores. A justiça retributiva que o salmo invoca não cai sobre seus inimigos pessoais, mas sobre Ele mesmo, o Cordeiro substituto. **Herman Bavinck**, em *Reformed Dogmatics* (1906-1911), articula que, na cruz, as imprecações dos salmos se cumprem de maneira paradoxal: o Justo é tratado como injusto, para que os injustos (inimigos de Deus por natureza) possam ser justificados. Portanto, o crente que ora o Salmo 70 hoje deve fazê-lo *in Christo*. Nossa oração não é pela destruição de pessoas, mas pela derrota do mal que nos assedia e que assedia o mundo – o pecado, a acusação e a morte. Oramos para que Deus apresse o dia em que todo joelho se dobrará e toda língua confessará, e em que os últimos inimigos sejam postos debaixo dos pés de Cristo.
+
+Terceiro, a síntese reformada mantém a tensão do “já” e “ainda não”. O “Apressa-te” é a voz da igreja militante, que desfruta da salvação consumada (o “já”) mas geme sob a perseguição, a injustiça e a aparente demora de Deus (o “ainda não”). É a oração do “Marana tha” – “Vem, Senhor Jesus!” – aplicada a cada micro-cosmo de sofrimento. **Geerhardus Vos**, em *A Teologia Paulina do Reino de Deus e da Igreja* (1930), mostraria como esta tensão é o motor da vida ética e da esperança cristã. A oração imprecatória, assim purificada e cristificada, é um ato de guerra espiritual. É um recusar-se a aceitar o status quo do mal, um clamar pela intervenção do Rei que já reina, mas cujo reino ainda deve ser manifestado em plenitude.
+
+Portanto, o Salmo 70, em sua síntese reformada, deixa de ser um problema ético para tornar-se um profundo conforto teológico. Ele autoriza o crente a trazer toda a sua raiva, seu medo e sua impaciência perante o trono da graça, na certeza de que Aquele que ouve é tanto o Juiz de toda a terra, que fará justiça, quanto o Pai que, em Cristo, conhece a nossa estrutura e se compadece das nossas dores. A controvérsia se dissolve não na negação do texto, mas na sua apropriação pela fé que discerne, no grito angustiado do salmista, os gemidos inexprimíveis do próprio Espírito, que intercede por nós e conosco, ansioso pela plena redenção do corpo e da criação. O “Apressa-te, ó Deus” é, em última análise, o eco no coração do crente do próprio anseio do Espírito Santo pela parúsia – a pressa última e definitiva na qual toda lágrima será enxugada, todo inimigo será posto como estrado dos pés de Cristo, e a justiça habitará para sempre, não mais como um clamor, mas como uma realidade consumada.

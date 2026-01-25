@@ -1,16 +1,47 @@
 ---
 slug: "isaias-65-temas-controversos"
-titulo: ""
+titulo: "O Vinho Novo e os Odres Velhos: A Controvérsia da Eleição, da Rejeição e da Nova Criação em Isaías 65"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "isaias"
 capitulo: "65"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Isaías 65   O Vinho Novo e os Odres Velhos: A Controvérsia da Eleição, da Rejeição e da Nova Criação em Isaías 65   A Tensão  O capítulo sessenta e..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Isaías 65
 
+## ***O Vinho Novo e os Odres Velhos: A Controvérsia da Eleição, da Rejeição e da Nova Criação em Isaías 65***
+
+## A Tensão
+
+O capítulo sessenta e cinco do profeta Isaías ergue-se diante do intérprete como um monte de dualidades teológicas abruptas e desconcertantes. É um texto que parece respirar ao mesmo tempo juízo e consolação, rejeição e acolhimento, continuidade e ruptura radical. De um lado, um povo rebelde, que provoca a Deus “à minha face continuamente”, que se assenta entre sepulcros e passa a noite em lugares ocultos, que come carne de porco e cujo caldo tem pedaços de coisas imundas (Is 65:3-4). Do outro, um “resto”, “meus servos”, uma “semente” abençoada que herdará as montanhas (Is 65:8-9). De um lado, a espada e a fome para os rebeldes; do outro, para os servos, um banquete de coisas gordurosas e vinhos bem refinados (Is 65:13). A tensão culmina na promessa audaciosa e cosmogonicamente revolucionária: “Pois eis que eu crio novos céus e nova terra; e as coisas passadas não serão lembradas, nem subirão ao coração” (Is 65:17). Aqui reside o núcleo da controvérsia: como conciliar a rejeição definitiva de Israel segundo a carne com a fidelidade definitiva de Deus às suas promessas abraâmicas? A eleição é nacional e étnica, ou espiritual e transcendente? A “nova criação” é uma reforma do antigo pacto ou sua ab-rogação e substituição por uma realidade qualitativamente distinta? Estas perguntas ecoaram através dos séculos, dividindo escolas rabínicas, alimentando debates patrísticos, inflamando a Reforma e continuando a desafiar a exegese contemporânea.
+
+## Perspectiva Histórica A: A Continuidade Restauracionista e a Esperança Nacional Judaica
+
+Uma corrente poderosa de interpretação, que encontra suas raízes no judaísmo do Segundo Templo e persiste em vertentes do pensamento judaico e cristão (notadamente no dispensacionalismo e em algumas leituras cristãs sionistas), enfatiza a continuidade étnica e nacional. Nesta leitura, o “resto” de Isaías 65 é estritamente o remanescente fiel do Israel físico, os judeus piedosos que, após o exílio, seriam o núcleo da restauração nacional. A rejeição anunciada nos versos iniciais não é do povo como um todo em caráter perpétuo, mas da geração apóstata específica. **Shalom M. Paul**, em seu comentário *Isaiah 40-66* (2012), argumenta que a linguagem de “criação” em Isaías 40-66 é frequentemente metafórica para uma restauração política e social radical, não para uma aniquilação cósmica. O “novo céu e nova terra” seria, portanto, a condição gloriosa da terra de Israel e de Jerusalém restauradas, purificadas de todo mal e governadas diretamente por Deus, onde as bênçãos do pacto (longevidade, prosperidade agrícola, harmonia na criação) se realizariam plenamente para o povo judeu.
+
+Esta perspectiva vê em passagens como Isaías 65:25 — “O lobo e o cordeiro pastarão juntos, e o leão comerá palha como o boi; e pó será a comida da serpente. Não farão mal nem destruirão em todo o meu santo monte” — não uma mera imagem poética, mas uma profecia literal da paz edênica que caracterizará o reino messiânico na terra histórica de Israel. A controvérsia, para esta escola, é resolvida pela cronologia: juízo sobre os infiéis daquela geração, seguido de restauração gloriosa para o remanescente fiel e seus descendentes físicos. A eleição de Israel é irrevocável (Rm 11:29), e as promessas de terra e prosperidade nacional devem cumprir-se literalmente no povo étnico de Abraão, Isaque e Jacó. A “nova criação” é a renovação da antiga ordem, não sua substituição.
+
+## Perspectiva Histórica B: A Descontinuidade Escatológica e a Transcendência da Comunidade da Fé
+
+Em direção oposta, uma linha de interpretação que ganhou força no cristianismo primitivo, especialmente a partir da leitura paulina, e foi abraçada com vigor pela teologia reformada, enfatiza uma descontinuidade qualitativa. O “Israel” que é rejeitado é a nação segundo a carne, que transformou o pacto em mero ritualismo e etnicismo. O “resto” ou os “servos” são o Israel espiritual, o verdadeiro povo de Deus definido não por genealogia, mas por fé e obediência. Esta comunidade transcende os limites étnicos. **John Calvin**, em seu *Commentary on the Book of the Prophet Isaiah* (1559), é incisivo: “O Profeta aqui distingue entre a Igreja verdadeira e a falsa… Deus rejeita aqueles que se gloriam apenas no nome de Israel, e em seu lugar escolhe para si um novo povo.” Para Calvino, a passagem é uma clara prefiguração da rejeição do judaísmo apóstata e da chamada dos gentios.
+
+A “nova criação” de Isaías 65:17, nesta visão, não pode ser reduzida a uma renovação geopolítica. Ela aponta para uma realidade escatológica definitiva, inaugurada por Cristo e consumada na Parousia. **Herman Bavinck**, na sua *Reformed Dogmatics* (1906), articula esta posição com clareza sistemática: “A profecia de Isaías sobre a nova criação (65:17)… não se refere a uma restauração temporária, mas à renovação escatológica de todas as coisas, que será realizada por Cristo.” O banquete dos versos 13-14 é o banquete messiânico do Reino de Deus; a alegria e o júbilo são os do Espírito Santo. A controvérsia é resolvida pela distinção entre a semente física e a semente espiritual da promessa (Rm 9:6-8), sendo a última a herdeira verdadeira. A eleição, portanto, é soberana, particular e cristocêntrica, encontrando seu “sim” e “amém” em Cristo (2 Co 1:20), não em uma nação.
+
+## Síntese Reformada: O Pacto da Graça, o “Já” e o “Ainda Não” da Nova Criação
+
+A teologia reformada confessional, ancorada na aliança, busca uma síntese que honre tanto a seriedade do juízo sobre a infidelidade nacional quanto a fidelidade transcendente de Deus às suas promessas, vistas em sua plenitude cristológica. Esta síntese não é um meio-termo, mas uma leitura que percebe em Isaías 65 a dinâmica do pacto da graça em sua administração histórica.
+
+Primeiramente, reconhece a legitimidade histórica da leitura restauracionista para o contexto pós-exílico. Havia, de fato, um remanescente físico que retornou e ao qual foram dadas promessas de renovação. **Geerhardus Vos**, em *Biblical Theology* (1948), ensina que a profecia do Antigo Testamento opera com uma “perspectiva profética” que muitas vezes comprime eventos escatológicos distantes e eventos históricos mais próximos em uma única visão. As bênçãos da restauração pós-exílica eram um penhor, um antegosto, da realidade escatológica final.
+
+Contudo, a síntese reformada insiste que o cumprimento *pleno* e *definitivo* das promessas de Isaías 65 só pode ser encontrado em Jesus Cristo e na nova aliança por ele instituída. Os “servos” que comerão, beberão, se alegrarão e cantarão de júbilo de coração (Is 65:13-14) são, em última instância, todos aqueles — judeus e gentios — que, pela fé, são unidos ao Servo Sofredor do Senhor (Is 53). A “nova criação” é uma realidade inaugurada na ressurreição de Cristo (2 Co 5:17: “Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo”) e aguarda sua consumação na volta de Cristo (Ap 21:1-5). Vivemos, portanto, na tensão do “já” e do “ainda não”. Já somos participantes dos novos céus e nova terra em esperança, em espírito, na comunhão da Igreja; ainda não o somos em plenitude, na renovação cósmica.
+
+**Meredith G. Kline**, em *Kingdom Prologue* (2000), oferece uma chave aliancista crucial. A maldição pronunciada sobre os rebeldes — “eis que os meus servos comerão, mas vós tereis fome… os meus servos beberão, mas vós tereis sede” (Is 65:13) — é a antítese do pacto, a maldição sancional da aliança mosaica sendo executada sobre Israel infiel. A bênção sobre os servos, por outro lado, é a bênção do pacto da graça, que persiste e se transfere para uma nova comunidade aliancista, a Igreja, o Israel de Deus (Gl 6:16). A eleição, assim, mostra-se soberana e eficaz: ela preserva um remanescente pela graça, mesmo quando a nação como entidade corporativa sob a antiga administração é posta de lado.
+
+Portanto, a controvérsia em Isaías 65 não se resolve optando por continuidade ou descontinuidade de forma absoluta, mas entendendo a *descontinuidade na administração* e a *continuidade na essência*. Descontinuidade na forma nacional, étnica e cerimonial do pacto, que foi cumprida e transcendida em Cristo. Continuidade no pacto da graça, no Deus que salva um povo para si, e na herança última — a comunhão com Deus em um mundo redimido. O vinho novo do Evangelho — a alegria escatológica, a justiça imputada, a inclusão dos gentios — não poderia ser contido nos odres velhos do nacionalismo judaico e do ritualismo mosaico. Isaías 65 é, assim, um anúncio profético dramático do fim de uma era e do amanhecer de outra, cujo sol da justiça só brilharia plenamente na face de Jesus Cristo. A nova criação é a meta de toda a história da redenção, e seus primeiros raios iluminam já os rostos daqueles que, pela fé, são servos do Deus que declara: “Eis que faço nova todas as coisas” (Ap 21:5).

@@ -1,16 +1,43 @@
 ---
 slug: "salmos-118-estudo-tematico"
-titulo: ""
+titulo: "O Cântico da Pedra Angular: Uma Exegese Teológica do Salmo 118"
 tipo: "estudo-tematico"
 origem: "biblia"
 livro: "salmos"
 capitulo: "118"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "95 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "ESTUDO TEMÁTICO  Salmos 118   O Cântico da Pedra Angular: Uma Exegese Teológica do Salmo 118  O Salmo 118 ergue-se no Saltério como um monólito de louvor, uma peça litúrgica de de..."
 tags: []
 ---
 
+# ESTUDO TEMÁTICO
+# Salmos 118
 
+## ***O Cântico da Pedra Angular: Uma Exegese Teológica do Salmo 118***
+
+O Salmo 118 ergue-se no Saltério como um monólito de louvor, uma peça litúrgica de densidade quase insondável, que serviu de coluna sonora para as grandes festas de Israel e encontrou seu cumprimento definitivo na Paixão e Ressurreição de Cristo. Não se trata de um simples hino de ação de graças, mas de uma sinfonia teológica onde se entrelaçam os temas da rejeição e exaltação, do juízo e da misericórdia, do clamor individual e da celebração corporativa. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa que este salmo é “um espelho da Igreja de todos os tempos”, pois encapsula a experiência paradoxal do povo de Deus: cercado por inimigos, mas triunfante pela intervenção divina. A sua estrutura quiástica e o seu refrão central — “A sua misericórdia dura para sempre” — não são meros recursos poéticos, mas a própria ossatura de uma confissão de fé que desafia as circunstâncias visíveis. Este estudo propõe uma dissecação meticulosa do salmo, perscrutando suas camadas históricas, literárias e, sobretudo, cristológicas, à luz da tradição reformada e da exegese confessional.
+
+## A Estrutura Litúrgica e o Drama da Salvação
+
+O salmo apresenta-se como um drama litúrgico em vários atos, possivelmente utilizado na Festa dos Tabernáculos ou em procissões até o templo. A sua voz oscila entre o individual (“Do meu aperto invoquei o SENHOR”) e o corporativo (“Diga a casa de Israel”), sugerindo um líder — talvez o rei — que personifica a nação em seu louvor. **Herman Gunkel**, na obra *Einleitung in die Psalmen* (1933), classifica-o como um *Danklied des Einzelnen* (Cântico de Ação de Graças do Indivíduo) com fortes elementos de hino de entrada litúrgica. No entanto, sua profundidade transcende a ocasião histórica imediata. O movimento do salmo é geográfico e espiritual: da angústia extrema (“Todos os povos me cercaram”) ao ingresso jubiloso nos átrios do Senhor (“Abri-me as portas da justiça”). Este percurso não é apenas de um israelita grato, mas um arquétipo da jornada redentora. **Alec Motyer**, em *The Psalms* (2016), argumenta que a estrutura revela um padrão de morte e ressurreição: o clamor (v. 5), a confiança declarada (v. 6-7), o refúgio preferível (v. 8-9), o cerco e a vitória (v. 10-14), o grito de júbilo na tenda dos justos (v. 15), e finalmente a exaltação pública (v. 22-29). Cada estrofe é um degrau nesta ascensão da desolação à celebração, prefigurando o caminho do Messias.
+
+## A Pedra Rejeitada: Cristologia e o Centro Hermenêutico
+
+O versículo 22 — “A pedra que os construtores rejeitaram tornou-se a pedra angular” — constitui o cerne cristológico do salmo e um dos textos mais citados no Novo Testamento (Mt 21:42; Mc 12:10-11; Lc 20:17; At 4:11; 1 Pe 2:7). A exegese reformada insiste em ler este salmo, em sua plenitude, como uma profecia messiânica. **Geerhardus Vos**, em *Biblical Theology* (1948), ensina que o Salmo 118 pertence àquela classe de salmos reais onde o sofrimento e a vitória do Davídico histórico se tornam tipo e sombra do sofrimento e exaltação do Davídico maior. A “pedra” rejeitada é Cristo, desprezado pelas lideranças religiosas de Israel (os “construtores”), mas vindicado por Deus através da ressurreição, tornando-se o fundamento incontornável do novo templo espiritual, a Igreja. **Martinho Lutero**, em suas *Preleções sobre os Salmos* (1519-1521), via nesta rejeição a essência da teologia da cruz: Deus opera sua salvação precisamente através do que o mundo considera fraqueza e insensatez. A exaltação da pedra não é um mero revés de fortuna, mas um ato judicial de Deus, “maravilhoso aos nossos olhos” (v. 23). Esta maravilha, como aponta **John Owen** em *The Glory of Christ* (1684), reside no paradoxo de que a humilhação máxima é o canal da glória suprema, estabelecendo um princípio eterno no reino de Deus.
+
+## O Hosana e a Entrada Real
+
+Os gritos de “Hosana!” (“Salva-nos, agora, rogamos-te”) e “Bendito o que vem em nome do SENHOR!” (v. 25-26) adquiriram significado profético na entrada triunfal de Jesus em Jerusalém (Mt 21:9). A cena não era apenas uma aclamação espontânea, mas o cumprimento consciente da liturgia do Salmo 118. **N. T. Wright**, em *Jesus and the Victory of God* (1996), contextualiza este evento como uma *parousia* em miniatura, uma afirmação messiânica real que, ao mesmo tempo, subverte as expectativas de um libertador militar. O “que vem” é o Rei, mas vem montado num jumento, simbolizando humildade e paz. A conexão com a “pedra rejeitada” é vital: a multidão aclama o que vem para salvar, sem compreender que o caminho dessa salvação passará pela rejeição e pela cruz. **Charles H. Spurgeon**, em *The Treasury of David* (1870), comenta que este salmo é “o Te Deum do Redentor”, cantado tanto em seu ingresso em Jerusalém quanto em sua entrada definitiva nos céus. O “dia” que o Senhor fez (v. 24) é, em última instância, o dia da ressurreição, o novo *Dies Domini* que fundamenta a alegria da Igreja.
+
+## A Misericórdia que Dura para Sempre: O Âmago da Aliança
+
+O refrão que abre e fecha o salmo — “Louvai ao SENHOR, porque ele é bom, porque a sua misericórdia dura para sempre” — não é uma simples fórmula de louvor. A palavra hebraica *hesed* traduzida como “misericórdia” carrega o peso teológico da fidelidade covenantal, do amor leal e imerecido que Deus jurou a seu povo. **Michael D. Williams**, em *Far as the Curse is Found* (2005), explica que o *hesed* é a cola que mantém a aliança, a garantia de que a bondade de Deus (*tob*) não é um capricho, mas um compromisso eterno baseado em seu próprio caráter. A repetição enfática deste refrão (v. 1-4, 29) cria um arcabouço inabalável dentro do qual toda a experiência volátil de medo, luta e vitória se desenrola. Por mais que os inimigos cerquem, por mais que as nações ataquem, a realidade última não é a ameaça, mas o *hesed* eterno. **Jonathan Edwards**, em *A History of the Work of Redemption* (1774), via nesta declaração o tema unificador de toda a Escritura: a história da redenção é a narrativa da manifestação progressiva e infalível desta misericórdia perpétua, que encontra sua expressão máxima na pessoa de Jesus Cristo.
+
+## A Tensão entre o Juízo e a Graça na Vitória
+
+Os versículos que descrevem a vitória sobre os inimigos (“Apanhar-me-iam como abelhas… mas em nome do SENHOR eu os exterminei”) podem soar agressivos aos ouvidos modernos. Uma leitura superficial poderia ver aqui um nacionalismo triunfalista. No entanto, a exegese reformada, seguindo a tipologia bíblica, interpreta estes “inimigos” em múltiplas camadas: históricos (nações opressoras de Israel), espirituais (as potestades do mal) e pessoais (o pecado e a morte). **Augustus H. Strong**, em *Systematic Theology* (1907), alerta contra uma leitura meramente literalista, argumentando que os salmos de imprecação devem ser lidos à luz da guerra espiritual e do juízo escatológico de Deus sobre o mal. A vitória cantada não é do guerreiro pela sua força, mas do crente fraco “em nome do SENHOR”. É uma vitória emprestada, uma demonstração do juízo de Deus contra tudo que se opõe ao seu reino. **Dietrich Bonhoeffer**, em *Psalms: The Prayer Book of the Bible* (1940), embora de tradição luterana, oferece uma visão pertinente: orar estes salmos é colar-se à justiça de Deus e desejar a vitória do seu reino, confiando que o próprio Deus traçará a linha entre o inimigo e o pecador a ser redimido. No contexto do Salmo 118, a destruição dos inimigos pavimenta o caminho para o louvor universal (“A mão do SENHOR fez proezas!”), antecipando o dia em que todo joelho se dobrará.
+
+O Salmo 118, portanto, longe de ser um monumento estático do antigo culto israelita, revela-se uma fonte dinâmica e profunda de teologia cristã. Ele narra em microcosmo o evangelho: a rejeição do Eleito, sua vitória pelo poder de Deus, sua exaltação como fundamento de uma nova comunidade, e o convite perene para entrar nos átrios do louvor. Sua mensagem central — a misericórdia eterna do Senhor — é o alicerce sobre o qual a pedra angular foi posta. Como escreveu **John Piper** em *The Pleasures of God* (1991), a alegria do verso 24 (“Este é o dia que o SENHOR fez; regozijemo-nos e alegremo-nos nele”) é a alegria de um povo que, tendo passado pela rejeição com seu Messias, agora vive na certeza indestrutível do *hesed* de Deus, uma misericórdia que, de fato, dura para sempre.

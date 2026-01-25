@@ -1,16 +1,54 @@
 ---
 slug: "ezequiel-17-pregacao-tecnica"
-titulo: ""
+titulo: "A Águia, o Cedro e a Videira Rebelde: Uma Parábola da Soberania e da Graça Quebrada"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "17"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 17   A Águia, o Cedro e a Videira Rebelde: Uma Parábola da Soberania e da Graça Quebrada   Texto-base: Ezequiel 17:1-24  Eixo Teológico: A Soberania..."
+tags: ["batalha"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 17
 
+## ***A Águia, o Cedro e a Videira Rebelde: Uma Parábola da Soberania e da Graça Quebrada***
+
+## Texto-base: Ezequiel 17:1-24
+## Eixo Teológico: A Soberania Absoluta de Deus sobre os tronos da terra e a gravidade existencial de quebrar uma aliança estabelecida por Sua graça.
+
+## Introdução
+
+Havia, nos dias do profeta exilado junto aos canais da Babilônia, uma narrativa corrente, um murmúrio que perpassava os corações dos cativos de Judá. Era a narrativa da *realpolitik*, da sabedoria mundana, da sobrevivência a qualquer custo. O rei Zedequias, em Jerusalém, havia jurado lealdade a Nabucodonosor, o grande abutre de ouro, e depois, sussurrando nos corredores do palácio, havia quebrado seu juramento, buscando o auxílio do Egito, o crocodilo do Nilo. Para os olhos humanos, uma manobra astuta; para os olhos do cortesão, uma jogada necessária. Mas os céus não veem como vê o homem. E o Senhor Deus, para quem os reinos são como pó na balança, tomou a pena do profeta e ditou uma fábula. Não uma fábula para entreter crianças, mas uma parábola cirúrgica para desnudar a alma de uma nação, para expor a lógica perversa do coração que trata a aliança divina como um mero contrato negociável. Aqui, diante de nós, não está um tratado de política internacional, mas uma radiografia da rebelião humana contra a soberania graciosa de Deus. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1565), observa que aqui “Deus desce ao nível de seu povo”, usando uma alegoria clara para revelar verdades espirituais profundas e inescapáveis.
+
+## Proposição
+
+Esta manhã, irmãos, à luz desta parábola divina, proponho-vos contemplar a soberania estabelecedora de Deus, a loucura traiçoeira do homem e o triunfo final do propósito divino, que transforma até mesmo o ramo mais baixo em uma árvore de majestade, apontando para um Rei que jamais quebra sua aliança.
+
+## I. A Águia Majestosa e o Cedro Tenro: A Soberania Graciosa que Planta (vv. 1-6)
+
+A narrativa começa não com um homem, mas com uma grande águia. “Eis que uma grande águia, de grandes asas, de farta plumagem, cheia de penas de cores variadas”, assim começa o Senhor. Esta imagem não é ambígua. **Daniel I. Block**, em *The Book of Ezekiel, Chapters 1–24* (1997), identifica esta águia como um símbolo mesopotâmico bem conhecido do poder imperial, especificamente de Nabucodonosor, rei da Babilônia. Suas asas grandes falam de alcance e poder; suas penas variadas, da riqueza e esplendor de seu império. Esta águia age com decisão soberana: voa ao Líbano e arranca a copa do cedro. O cedro do Líbano era o símbolo por excelência da realeza davídica, da estabilidade e glória de Judá. A águia leva este “ramo tenro” – o rei Joaquim e a elite da nação – para uma “terra de comércio”, para uma “cidade de mercadores”. Babilônia. Este é o primeiro ato da soberania divina: o ato *judicial*. Deus, na sua providência, usa até mesmo os impérios pagãos como instrumentos de seu juízo disciplinar. **Martyn Lloyd-Jones**, em *God’s Way of Reconciliation* (1972), nos lembraria que a soberania de Deus nunca é abstrata; ela se move na história, ordenando os eventos mais catastróficos para cumprir seus santos desígnios.
+
+Mas a parábola não para no exílio. A águia, então, toma “um pouco da semente da terra” e a planta. Ela a coloca “num campo de semeadura”, junto a águas abundantes, “como um salgueiro”. Aqui, a ação da águia muda de caráter. De juiz, torna-se, em um sentido derivado e instrumental, *benfeitora*. A semente plantada é Zedequias, o tio de Joaquim, colocado por Nabucodonosor como rei vassalo em Jerusalém. O texto enfatiza o cuidado: um campo preparado, águas abundantes. Isto revela a insondável complexidade da providência divina. Mesmo em meio ao juízo, há uma disposição para a preservação, uma oportunidade graciosa. Deus, através do decreto do imperador babilônico, estabelece uma nova ordem, uma aliança de vassalagem que, se observada, traria relativa paz e sobrevivência para o remanescente em Judá. **Walter Eichrodt**, em *Ezekiel: A Commentary* (1970), vê aqui a “parábola da aliança quebrada”, onde o próprio ato de estabelecer Zedequias era um pacto, um juramento de lealdade feito sob os auspícios divinos. A videira que cresce, voltando suas raízes para a águia que a plantou e estendendo seus ramos para ela, é o retrato de uma submissão que traz vida. Oh, que lição para nós! Quantas vezes Deus, em sua misericórdia, planta-nos em solo estranho após um fracasso, provê águas de oportunidade e nos chama a uma lealdade simples, a uma dependência humilde daquEle que, mesmo através de circunstâncias duras, está nos sustentando.
+
+## II. A Videira Insensata e a Segunda Águia: A Rebeldia Insensata que se Desvia (vv. 7-10)
+
+Contudo, o coração humano é um solo fértil para a ingratidão. “Havia outra grande águia, de grandes asas e de muitas penas”. Esta segunda águia é o Faraó do Egito, Hophra, símbolo de uma potência alternativa, de uma esperança ilusória. E a videira, plantada com tanto cuidado, “voltou as suas raízes para ela e estendeu para ela os seus ramos”. A imagem é vívida e trágica. A videira, em vez de se contentar com a água provida pela primeira águia, cobiça a umidade de outro lugar. Ela *volta* suas raízes – um movimento de desenraizamento, de traição à fonte original. **Iain Duguid**, em *Ezekiel* (1999), salienta que o verbo hebraico aqui implica uma ação deliberada e ativa de rebeldia. A videira não é uma vítima passiva; ela escolhe desviar sua seiva, sua lealdade, sua confiança.
+
+Esta é a essência do pecado de Zedequias e do povo que o apoiava: a quebra de juramento, a infidelidade à aliança. Eles buscaram o auxílio do Egito, confiando em cavalos e carros, no braço de carne, na política de conchavos, em vez de confiar no Deus que havia estabelecido os termos de sua sobrevivência. Pergunta retórica e devastadora do Senhor: “Acelerará ele o seu feito para prosperar? Será que a livrará a mão que a agarra? Será que a transplantará para que venha a prosperar?”. A resposta é um retumbante “não”. A videira, uma vez desviada, será arrancada com facilidade. Seu fruto murchará, suas folhas verdejantes secarão sem necessidade de braço forte ou de povo numeroso. A insensatez da rebelião é que ela acredita poder encontrar vida fora da ordem estabelecida por Deus. **Charles H. Spurgeon**, em um de seus sermões sobre a insensatez, bradaria: “Oh, homem! Tu deixas a fonte de águas vivas e cavas para ti cisternas rotas, que não retêm água! Tu confias no Egito, esse caniço rachado que fura a mão de quem nele se apoia!”. A aplicação é direta ao nosso coração. Quantas vezes, irmãos, após experimentar a graça plantadora de Deus, voltamo-nos para os “Egitos” de nossa vida – para a confiança em nossas finanças, em nossa saúde, em nossas conexões, em nosso próprio intelecto – e, com isso, secamos espiritualmente? A videira que busca vida longe da águia que a plantou está condenada à murchidão.
+
+## III. O Juramento Desprezado e o Ramo Tenro da Promessa: A Justiça Inexorável e a Graça Triunfante (vv. 11-24)
+
+Aqui, o Senhor deixa a alegoria e interpreta Sua própria parábola com uma clareza que não deixa margem para dúvidas. Ele expõe o juramento que Zedequias quebrou, um pacto feito sob invocação divina. “Porque desprezou o juramento, quebrando a aliança”, eis o veredito. **Christopher J. H. Wright**, em *The Message of Ezekiel* (2001), enfatiza que o pecado não era meramente político; era uma ofensa religiosa de primeira grandeza, um desprezo à santidade do nome de Deus, usado para validar o pacto. A justiça divina é anunciada: o Faraó não o livrará na batalha, Nabucodonosor o capturará e o trará a julgamento em Babilônia. Sua tropa de auxílio cairá, e ele mesmo morrerá no cativeiro. A soberania de Deus se manifesta agora como justiça retributiva. “Como vivo eu, diz o Senhor DEUS, que no lugar do rei que o constituiu rei, cujo juramento desprezou, e cuja aliança quebrou, no meio da Babilônia, certamente morrerá.”
+
+Mas, gloriosamente, a palavra profética não termina no túmulo babilônico de um rei infiel. Deus, que é sempre maior que o fracasso de seus instrumentos, proclama um ato final de soberania *redentora*. “Eu mesmo tomarei um galho do alto do cedro… e o plantarei sobre um monte alto e sublime.” **Geerhardus Vos**, em sua *Biblical Theology* (1948), vê aqui uma transição do histórico para o escatológico, do condicional para o incondicional. Deus mesmo intervém. Ele tomará um “ramo tenro” – uma referência clara ao Messias, ao verdadeiro Filho de Davi. Este não será plantado por uma águia estrangeira, mas pelo próprio Senhor. Não em um campo de semeadura para vassalos, mas “no monte alto de Israel”. E este ramo se tornará um cedro majestoso, sob o qual “habitarão aves de toda asa”, um símbolo de um reino universal de paz e refúgio. “E todas as árvores do campo saberão que eu, o SENHOR, abati a árvore alta e elevei a árvore baixa; sequei a árvore verde e fiz reverdecer a árvore seca.” Esta é a grande inversão do Evangelho. O cedro alto e arrogante (o poder humano, a autoconfiança) é abatido. A árvore baixa e seca (o remanescente fiel, o Messias humilhado) é exaltada e revive. **Herman Bavinck**, em *Reformed Dogmatics* (1906), conecta esta promessa à obra de Cristo, o Ramo (Isaías 11:1), que, através de sua humilhação e obediência perfeita, estabeleceu uma aliança eterna e inquebrável, um reino que nunca será destruído.
+
+## Conclusão
+
+O que, então, nos diz esta parábola solene e gloriosa? Primeiro, que Deus é soberano sobre todas as potências. Seus propósitos não são frustrados por águias babilônicas ou egípcias. Ele reina. Segundo, que quebrar a aliança com Ele, seja a aliança da graça no Éden, a aliança mosaica, ou mesmo os votos que fazemos a Ele, é um caminho de secura e ruína. A traição ao Deus que nos planta é a mais profunda das insensatezes. Mas, terceiro e finalmente, que a última palavra não é do nosso fracasso, mas da Sua fidelidade. Ele mesmo, em Cristo Jesus, tomou o ramo tenro da linhagem de Davi, plantou-o na cruz – o monte alto e sublime do Calvário – e o fez crescer até se tornar a árvore da vida, sob cuja sombra nós, pardais e andorinhas que somos, encontramos eterno refúgio. Você tem confiado nas águias deste mundo, ou suas raízes estão voltadas, em fé e obediência, para o Deus que, em Cristo, fez uma aliança eterna consigo? Sob qual árvore você busca abrigo? Que o Espírito Santo nos conceda graça para, ao contrário de Zedequias, mantermos firme nossa confissão, pois Aquele que prometeu é fiel.
+
+## **Amém.**

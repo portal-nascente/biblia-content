@@ -1,16 +1,39 @@
 ---
 slug: "ezequiel-17-mensagem-pastoral"
-titulo: ""
+titulo: "A Águia, o Cedro e a Videira Infiel: Onde Plantarás as Tuas Raízes?"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "17"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Ezequiel 17   A Águia, o Cedro e a Videira Infiel: Onde Plantarás as Tuas Raízes?   Introdução  Há uma inquietação que habita o coração do homem, uma sede por s..."
+tags: ["amor", "ansiedade", "futuro"]
 ---
 
+# MENSAGEM PASTORAL
+# Ezequiel 17
 
+## ***A Águia, o Cedro e a Videira Infiel: Onde Plantarás as Tuas Raízes?**
+
+## Introdução
+
+Há uma inquietação que habita o coração do homem, uma sede por segurança que o leva a buscar abrigo nos lugares mais improváveis. Vejo-a nos olhos do empresário que, diante da instabilidade do mercado, corre a firmar alianças com poderes passageiros, acreditando que a solidez de seu empreendimento reside na força do sócio mais influente do momento. Sinto-a no coração do jovem que, desiludido com as fragilidades do lar, busca identidade e pertencimento em tribos efêmeras, em ideologias que prometem um futuro glorioso, mas que são construídas sobre a areia movediça da opinião pública. É uma ansiedade antiga, tão antiga quanto o reino de Judá à sombra das águias imperiais. E é para esta ansiedade, para este engano fundamental sobre onde verdadeiramente se encontra a estabilidade, que o Senhor, através do profeta Ezequiel, dirige uma parábola solene e visual: a história de duas águias, um cedro e uma videira que escolheu mal onde fincar suas raízes.
+
+## Desenvolvimento
+
+O profeta, no exílio babilônico, recebe uma palavra que é, antes de tudo, uma pintura. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1849), observa com precisão que aqui Deus condescende à fraqueza humana, ensinando por meio de uma “figura clara e familiar”, pois a mente corrompida pelo pecado frequentemente resiste à verdade nua e crua. A primeira águia, majestosa e de “asas grandes, de compridas penas, cheia de plumagem de várias cores”, vem ao Líbano e arranca o topo de um cedro. Não o destrói, mas o transporta para “uma terra de comércio” e o planta “em uma cidade de negociantes”. Esta é a imagem inconfundível de Nabucodonosor, a águia da Babilônia, que levou o rei Joaquim e a elite de Judá para o exílio, estabelecendo-o, por assim dizer, em solo estrangeiro. A águia então pega uma semente da terra, a planta junto a águas abundantes, como um salgueiro, para que cresça e se torne uma videira rasteira, voltada para ela, dependente dela, sustentada por suas raízes. Este é Zedequias, o tio de Joaquim, colocado por Nabucodonosor como rei-vassalo em Jerusalém. A videira cresce, mas sua orientação é fatal: “as suas raízes estão debaixo dele, e os seus ramos se estenderam para ele”. Toda a sua vida, sua seiva, sua direção, está voltada para a águia babilônica.
+
+A tragédia, contada na sequência da parábola, se desenrola quando surge uma segunda águia, “grande, de grandes asas e muita plumagem”. A videira, insatisfeita e talvez ambiciosa, “estendeu a sua raiz para ela e dirigiu para ela os seus ramos”. Zedequias, quebrando o juramento solene feito em nome de Yahweh, busca uma aliança com o Egito, a segunda águia, esperando encontrar nela a libertação do jugo babilônico. É aqui que a narrativa profética alcança seu clímax de severidade pastoral. **Matthew Henry**, em sua *Exposition of the Old and New Testaments* (1708), comenta que este ato não foi um mero erro político, mas uma “infidelidade grosseira a Deus”, pois ao quebrar o juramento feito diante dEle, Zedequias “desprezou o juramento do Senhor e violou a sua aliança”. A videira pensou estar sendo astuta, transferindo suas raízes para um solo aparentemente mais promissor. No entanto, o profeta pergunta, com uma lógica devastadora: “Será que prosperará?” A resposta ecoa como um golpe: “Não; pois, arrancando-a, secará totalmente”. O Egito, fraco e inconstante, será um “braço quebrado” que, ao ser apoiado, não só falhará em sustentar, mas perfurará a mão de quem nele confia.
+
+O cerne da mensagem, contudo, não está apenas na condenação do rei infiel. O Senhor, em sua misericórdia didática, declara o princípio universal que Zedequias ignorou: “Eu, o SENHOR, falei; eu o farei”. A estabilidade não reside na astúcia de trocar uma águia por outra, um império por outro, uma fonte de segurança mundana por outra. A estabilidade reside no juramento, na palavra imutável de Deus. Ao quebrar o pacto com Nabucodonosor, feito sob a invocação divina, Zedequias não apenas provocou a ira babilônica, mas desprezou a própria autoridade de Deus como fiador e testemunha. Ele tentou transplantar suas raízes da soberania divina – que, mesmo usando a Babilônia como instrumento de disciplina, ainda era soberana – para a ilusória autonomia de uma aliança humana e profana. **Derek Thomas**, em *God Strengthens: Ezekiel Simply Explained* (1993), salienta que a lição é teocêntrica: “O sucesso ou fracasso de Judá não dependia finalmente da política externa, mas da fidelidade à aliança com Yahweh”. A videira, em sua ânsia por crescer e se libertar, esqueceu-se de que toda vida depende do solo em que suas raízes se aprofundam.
+
+E então, quase como um refrão de graça após o juízo, surge a promessa final, um broto de esperança no tronco cortado. O próprio Senhor promete tomar “um renovo do alto do cedro” e plantá-lo “sobre um monte alto e sublime”. Será um cedro majestoso, sob cujos ramos “habitarão aves de toda asa”. Este é um claro vislumbre messiânico, uma promessa que transcende o imediatismo da política judaica e aponta para o reino eterno do Filho de Davi. **Iain Duguid**, em sua obra *The NIV Application Commentary: Ezekiel* (1999), conecta esta imagem ao evangelho, afirmando que “Deus promete estabelecer o seu rei, o Messias, não através de maquinações políticas e alianças com poderes terrenos, mas por seu próprio poder soberano”. Enquanto a videira de Zedequias, plantada por mãos humanas e voltada para poderes humanos, secou e foi arrancada, o renovo plantado por Deus florescerá eternamente. A mensagem é clara: há apenas um solo seguro, apenas uma proteção duradoura, apenas uma orientação que não conduz à ruína: estar plantado, enraizado e voltado para a soberania promissora de Deus.
+
+## Conclusão
+
+Irmão, irmã, onde tens plantado as tuas raízes? Contra qual águia tens dirigido os teus ramos, na esperança de que ela te dê sombra, segurança e futuro? Talvez tua águia se chame “Aprovação”, e tu tens torcido a tua alma, negado convicções, silenciado a tua consciência, apenas para sentir o vento favorável do aplauso alheio. Talvez se chame “Segurança Financeira”, e todo o teu ser – teus pensamentos, tuas ansiedades, tuas horas – está voltado para ela, como a videira para a águia, acreditando que, se ela prosperar, tu também prosperarás. Ou talvez seja a águia antiga da “Autossuficiência”, a crença silenciosa de que tu podes, com teu próprio esforço e astúcia, garantir teu destino, transplantando-te para onde a oportunidade parecer mais verdejante.
+
+A palavra pastoral de Ezequiel 17 é um chamado solene ao exame de raízes. Ela nos adverte que toda aliança que fazemos, todo temor que nos orienta, toda esperança que nos sustenta, fora do solo firme da aliança de Deus em Cristo, é como fincar raízes em um vaso quebrado. Promete sustento, mas só oferece desapontamento e ruína. O renovo prometido, Cristo Jesus, já foi plantado por Deus no monte alto do Calvário e ressurgiu no poder da ressurreição. Ele é o Cedro verdadeiro, o Rei legítimo. Transferir para Ele toda a nossa dependência, orientar para Ele todos os nossos ramos – nossa confiança, nosso amor, nossa obediência – não é uma opção política entre outras. É a única escolha entre vida e morte, entre ser uma videira seca arrancada pelo vento, ou um ramo vivo e frutífero enxertado na Videira verdadeira. Arranca hoje as tuas raízes dos pântanos da ansiedade autônoma e planta-as, de uma vez por todas, nas águas profundas e permanentes da fidelidade de Deus. Pois só ali a videira não apenas sobrevive, mas floresce.

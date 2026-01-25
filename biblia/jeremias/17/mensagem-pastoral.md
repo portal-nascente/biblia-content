@@ -1,16 +1,41 @@
 ---
 slug: "jeremias-17-mensagem-pastoral"
-titulo: ""
+titulo: "O Coração, a Fonte e a Secura"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "jeremias"
 capitulo: "17"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Jeremias 17   O Coração, a Fonte e a Secura   Introdução  Há uma imagem que me persegue há anos, irmãos, e que creio ser comum a muitos de nós que vivemos neste..."
+tags: ["amor", "ansiedade", "medo"]
 ---
 
+# MENSAGEM PASTORAL
+# Jeremias 17
 
+## ***O Coração, a Fonte e a Secura***
+
+## Introdução
+
+Há uma imagem que me persegue há anos, irmãos, e que creio ser comum a muitos de nós que vivemos neste tempo de superficialidade digital e ansiedade crônica. É a imagem de um homem – poderíamos ser eu ou você – que, após um dia exaustivo de labuta e preocupações, se senta à beira de um poço. Ele desce o balde, com a esperança familiar de encontrar o frescor, o alívio, a água viva que sustenta. O mecanismo range, a corda se desenrola, e o balde atinge o fundo com um baque surdo e seco. Ele puxa. O balde volta vazio. Não há lodo, não há umidade, apenas o pó de uma fonte que secou. A sede, no entanto, permanece, aguda e desesperadora. É a metáfora mais crua da alma moderna, e é precisamente para este diagnóstico espiritual que o profeta Jeremias, com a precisão de um cirurgião divino, nos conduz no capítulo décimo sétimo de suas lamentações e advertências.
+
+Jeremias fala de um lugar de profunda crise nacional e pessoal. Judá está à beira do colapso, não apenas político, mas moral e espiritual. O povo, em sua insensatez, trocou a Fonte das águas vivas por cisternas rachadas, como já anunciara no capítulo segundo. Agora, no capítulo dezessete, o profeta avança no diagnóstico, indo além dos sintomas sociais e atingindo o órgão central da vida humana: o coração. **John Calvin**, em seus *Comentários sobre Jeremias* (1563), observa com sua habitual perspicácia que o profeta aqui “expõe a raiz de todos os males”, mostrando que a apostasia externa é apenas o fruto visível de uma doença interna, incurável por qualquer remédio humano. É uma mensagem pastoral urgente, pois trata daquilo que somos no mais íntimo, da direção de nossa confiança e da qualidade de nossa seiva espiritual.
+
+## Desenvolvimento
+
+O capítulo se abre com uma declaração de gravidade extrema: “O pecado de Judá está escrito com estilete de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos seus altares”. A imagem é de uma inscrição permanente, indelével. Não se trata de um erro passageiro, um deslize que o tempo apaga. É um hábito da alma, um padrão de rebelião tão profundamente entranhado que se tornou parte de sua identidade. **Martyn Lloyd-Jones**, em seu sermão *O Coração do Homem*, pregado em Westminster Chapel, alerta que o maior perigo para o pecador não é cometer um pecado, mas habitar nele, até que este se torne uma escrita fixa no próprio cerne do seu ser. Judá havia feito isso. E nós? Que escrituras secretas guardamos nas tábuas de nosso coração? São inscrições de amargura, de autossuficiência, de cobiça, de medo? A mensagem pastoral aqui é solene: nossa vida interior não é uma página em branco. Ela está sendo escrita, a cada momento, ou pelo Espírito de Deus ou pelos estiletes do mundo, da carne e do maligno.
+
+E então, Jeremias nos apresenta o contraste mais fundamental da vida espiritual, uma radiografia de duas condições humanas. De um lado, “maldito é o homem que confia no homem, que faz da humanidade mortal a sua força e cujo coração se afasta do Senhor”. A descrição que se segue é a daquele homem à beira do poço seco. Ele “será como um arbusto no deserto; não verá quando vier o bem, mas morará nos lugares áridos do deserto, numa terra salgada onde não há habitantes”. Observe a progressão da secura: de um arbusto raquítico no deserto à terra salgada e inabitável. A confiança no braço humano – seja na nossa própria inteligência, em nossos recursos, na estabilidade de nossos empregos, na solidez de nossos relacionamentos – é, em última análise, uma confiança colocada no deserto. Ela não produz seiva; apenas consome a que resta. A alma que assim vive não “vê quando vem o bem”, porque sua visão está embotada pela miragem da autossuficiência. Tudo se torna árido, inclusive as bênçãos, porque o coração perdeu a capacidade de recebê-las como graça.
+
+Do outro lado, a visão é de uma vitalidade que desafia a lógica do mundo: “Bendito é o homem cuja confiança está no Senhor, cuja confiança nele está. Ele será como uma árvore plantada junto às águas”. Não é uma árvore que brotou acidentalmente à beira do rio. Foi *plantada*, com intencionalidade, pela mão do Jardineiro Divino, no lugar exato da provisão. **Timothy Keller**, em *A Oração do Senhor* (2014), desenvolve essa ideia, mostrando que a vida abençoada não é fruto do acaso ou do esforço autônomo, mas de um posicionamento deliberado de dependência. Essa árvore “estende as suas raízes para o ribeiro”. Sua vida é uma busca ativa, um aprofundar-se na fonte. O resultado não é a mera sobrevivência, mas uma prosperidade resiliente: “não receia quando vem o calor, mas a sua folha fica sempre verde; e, no ano de sequidão, não deixa de dar fruto”. A mensagem pastoral aqui é de profundo encorajamento. A fé em Deus não nos isenta do “calor” – das pressões, das crises, dos “anos de sequidão”. A diferença está na fonte. Enquanto o arbusto no deserto definha com o primeiro sol forte, a árvore junto às águas tem uma reserva inesgotável em suas raízes. Sua folhagem permanece verde, e, milagre dos milagres, ela dá fruto *justamente* na estação da seca. A sua produtividade espiritual é contra-intuitiva, um testemunho vivo de que a fonte é outra.
+
+O profeta, porém, sabe que este diagnóstico é duro. Sabe que nosso coração é traiçoeiro e “desesperadamente corrupto”, como ele mesmo exclama: “quem o poderá conhecer?”. A pergunta é retórica e desesperadora. Nenhum autoexame, nenhuma terapia, nenhuma filosofia poderá mapear completamente as veredas enganosas de nosso próprio interior. Precisamos de um diagnóstico externo e divino. E precisamos, sobretudo, de um remédio que vá além da superfície. É por isso que a mensagem de Jeremias, embora severa, aponta para uma necessidade que só será plenamente satisfeita em Cristo. O Novo Testamento nos mostrará que a promessa de um “coração novo” e de um “Espírito novo” (Ezequiel 36:26) encontra seu “Amém” em Jesus. Ele é a água viva (João 4:14) e, pelo Seu Espírito, é quem escreve a lei de Deus não em tábuas de pedra, mas nas tábuas de carne do nosso coração (2 Coríntios 3:3). **Charles Spurgeon**, em seu sermão *O Poço de Belém*, proclamou: “Cristo é o poço de Belém para cada Davi sedento… e o que é melhor, Ele está dentro de nós, um poço de água a jorrar para a vida eterna”. A árvore plantada junto às águas é, em última análise, uma imagem daquele que está unido a Cristo, a Fonte inesgotável.
+
+## Conclusão
+
+Minha mensagem pastoral para você hoje, irmão, irmã, é um convite a um exame de fontes. Em que ou em quem você tem estendido as raízes da sua alma nesta semana? Para onde flui o rio da sua confiança mais profunda? Quando a ansiedade bate, qual é o seu refúgio imediato: a recorrência mental ao problema ou o clamor consciente ao Pai? Quando o calor da provação vem, sua folhagem murcha rapidamente, revelando uma raiz curta no solo seco da autoconfiança, ou ela permanece verde, indicando uma fonte secreta e profunda?
+
+Jeremias nos confronta com a escolha mais básica: arbusto no deserto ou árvore junto ao rio. A diferença não está na presença ou ausência do calor do sofrimento. Ambos o experimentam. A diferença está no acesso à água. Você pode estar, hoje mesmo, sentado à beira do seu poço seco, puxando o balde vazio da realização profissional, dos relacionamentos, dos entretenimentos, da religião vazia. Ouça o chamado pastoral do profeta: levante-se. Deixe o poço rachado. Deixe o deserto da autossuficiência. Venha ser transplantado, pela graça, para as margens do rio de águas vivas que é o próprio Deus, revelado em Cristo Jesus. A secura não precisa ser o seu destino final. Há uma Fonte que nunca falha, e plantar a vida junto a ela é o princípio de uma bendição que frutifica até mesmo nos anos de sequidão.

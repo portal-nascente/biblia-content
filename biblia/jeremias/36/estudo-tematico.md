@@ -1,16 +1,51 @@
 ---
 slug: "jeremias-36-estudo-tematico"
-titulo: ""
+titulo: "O Pergaminho e o Fogo: A Palavra Profética, a Resistência Régia e a Indestrutibilidade do Oráculo Divino"
 tipo: "estudo-tematico"
 origem: "biblia"
 livro: "jeremias"
 capitulo: "36"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "95 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "ESTUDO TEMÁTICO  Jeremias 36   O Pergaminho e o Fogo: A Palavra Profética, a Resistência Régia e a Indestrutibilidade do Oráculo Divino  O trigésimo sexto capítulo do livro do pro..."
 tags: []
 ---
 
+# ESTUDO TEMÁTICO
+# Jeremias 36
 
+## ***O Pergaminho e o Fogo: A Palavra Profética, a Resistência Régia e a Indestrutibilidade do Oráculo Divino***
+
+O trigésimo sexto capítulo do livro do profeta Jeremias constitui não apenas um relato histórico de rara dramaticidade, mas um tratado teológico fundamental sobre a natureza da Palavra revelada, a dinâmica da autoridade profética em confronto com o poder político e a soberania divina que se exerce mesmo através da mais violenta rejeição humana. A narrativa, meticulosamente estruturada, apresenta um duplo movimento: a escrita e a leitura pública de um rolo contendo os oráculos de juízo de Deus, seguida pela sua destruição deliberada pelo rei Jeoaquim, e, por fim, a reescrita autoritativa e ampliada do mesmo conteúdo por determinação divina. Este episódio, situado no ano quarto de Jeoaquim, filho de Josias (605 a.C.), um momento de crise geopolítica com a ascensão da Babilônia, serve como microcosmo da mensagem jeremiana e oferece um campo fértil para a exploração de temas centrais da teologia profética e da doutrina da Escritura.
+
+## A Palavra como Ato: A Ditação, a Escrita e a Mediação Profética
+
+O capítulo inicia-se com um mandato divino preciso: “Toma um rolo de livro e escreve nele todas as palavras que te falei contra Israel, contra Judá e contra todas as nações, desde o dia em que eu te falei, desde os dias de Josias até hoje” (Jr 36:2). Este comando estabelece imediatamente a Palavra de Deus como entidade objetiva, transferível e preservável. **John Calvin**, em seus *Commentaries on the Book of the Prophet Jeremiah* (1589), observa com perspicácia que a ordem para escrever revela uma dupla misericórdia divina: é um último e solene apelo ao povo e ao rei para que se arrependam, e, simultaneamente, um testemunho perpétuo da justiça de Deus, para que ninguém pudesse alegar ignorância quando o juízo se cumprisse. A escrita confere permanência e inescapabilidade à mensagem profética, transformando-a de evento auditivo momentâneo em documento perene.
+
+A ação de Jeremias, no entanto, é mediada por Baruque, o escriba. Jeremias, impedido de entrar no templo (possivelmente por interdição oficial, como sugere a tradição), delega a tarefa da leitura pública. Esta dinâmica de profeta e escriba é crucial. **Brevard S. Childs**, em *Introduction to the Old Testament as Scripture* (1979), argumenta que a figura de Baruque transcende a de um mero secretário; ele é um co-participante autorizado no ministério profético, um testemunha fiel que assegura a transmissão fiel da palavra. A ditação de Jeremias a Baruque (v. 4) e a subsequente escrita “da boca de Jeremias” (v. 18) estabelecem uma cadeia de autoridade divina: Yahweh → Jeremias → Baruque → o rolo. A palavra mantém seu caráter divino mesmo ao passar pelo filtro humano da memória do profeta e da mão do escriba. **Walter Brueggemann**, em *A Commentary on Jeremiah: Exile and Homecoming* (1998), enfatiza que este processo já é um ato de resistência. Em um contexto onde o poder real buscava controlar a narrativa, a produção de um texto alternativo, portador de uma verdade não sancionada pelo palácio, era em si um gesto subversivo e corajoso.
+
+## A Recepção Diferenciada: A Audiência Fiel e a Corte Indiferente
+
+A narrativa então descreve duas leituras públicas do rolo, com reações radicalmente distintas. A primeira ocorre no templo, “no ano nono do mês quinto” (um dia de jejum proclamado), diante de “todo o povo” (v. 9-10). O efeito é imediato e contundente. Micaías, filho de Gemarias, ouve as palavras e vai relatá-las aos príncipes que estão reunidos na “câmara do escrivão”. A reação dos príncipes – enviar por Baruque e pelo rolo, interrogá-los com temor, e depois recomendar que ambos se escondam antes de reportar a questão ao rei – é marcada por um respeito reverencial, ainda que assustado, pela palavra profética. Eles reconhecem a gravidade da mensagem e seu potencial para desencadear a ira real. **J. A. Thompson**, em *The Book of Jeremiah* (1980), nota que este grupo de oficiais, incluindo Elnatã e Gemarias, representa uma facção dentro da administração de Judá que ainda mantinha algum temor a Deus e estava disposta a ouvir, mesmo que relutantemente, a advertência divina. Sua instrução a Jeremias e Baruque para se esconderem é um ato de proteção, um reconhecimento tácito de que a palavra que carregam é verdadeira e perigosa.
+
+O clímax do capítulo, no entanto, é a leitura perante o rei Jeoaquim. Sentado em seu aposento de inverno, com um braseiro aceso diante de si, o rei ouve as palavras do rolo lidas por Jeudi. A cada três ou quatro colunas lidas, o rei, com um canivete de escrivão, corta aquela porção e a lança ao fogo, “até que todo o rolo se consumiu no fogo que estava no braseiro” (v. 23). Este ato é carregado de um simbolismo teológico devastador. **Martyn Lloyd-Jones**, em seus sermões sobre a autoridade espiritual, frequentemente destacava que a rejeição mais profunda a Deus não é a descrença passiva, mas o desprezo ativo e ritualístico por sua Palavra. Jeoaquim não apenas ignora a mensagem; ele a aniquila de forma performática, demonstrando seu domínio sobre ela e seu absoluto repúdio à sua autoridade. Ele e seus servos “não temeram, nem rasgaram os seus vestidos” (v. 24), um contraste gritante com a reação de seu pai, Josias, quando da descoberta do Livro da Lei (2 Rs 22:11). A queima do rolo é a tentativa suprema de um poder humano de silenciar a Deus, de revogar por decreto real um decreto divino.
+
+## A Indestrutibilidade da Palavra: A Reescrita e a Ampliação do Juízo
+
+A resposta divina ao ato ímpio de Jeoaquim é a peça central da teologia deste capítulo. Deus ordena a Jeremias: “Toma ainda outro rolo e escreve nele todas as palavras que estavam no primeiro rolo, que Jeoaquim, rei de Judá, queimou” (v. 28). Este mandato proclama a indestrutibilidade essencial da Palavra de Deus. O fogo do braseiro real pode consumir o papiro e o couro, mas não pode tocar o oráculo eterno que os habita. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), utiliza este episódio para ilustrar a doutrina da Providência: o mesmo ato de maldade humana (a queima) torna-se o meio pelo qual Deus avança seu propósito, levando a uma reafirmação mais solene e a uma expansão do juízo. A Palavra ressurgida das cinzas é agora acompanhada por um oráculo pessoal contra Jeoaquim: ele não terá um sucessor para se assentar no trono de Davi, e seu cadáver será exposto à ignomínia (v. 30-31).
+
+Significativamente, “a Jeremias foram acrescentadas ainda muitas palavras semelhantes” (v. 32). A tentativa de reduzir a Palavra a cinzas resulta em sua multiplicação. **Oswald Bayer**, em *Living by Faith: Justification and Sanctification* (2003), vê aqui um princípio fundamental da ação divina: a *opus alienum* (obra estranha) do juízo, mesmo quando rejeitada, serve à *opus proprium* (obra própria) da revelação e da vindicação da verdade de Deus. A palavra queimada não é esquecida; é reinscrita e amplificada. O novo rolo, ditado novamente a Baruque, torna-se o núcleo literário do que viria a ser o livro canônico de Jeremias. A perseguição, portanto, não extingue a profecia; antes, a consolida e a propaga.
+
+## Perspectiva Reformada sobre Autoridade e Submissão
+
+A leitura reformada deste capítulo enfatiza a soberania absoluta da Palavra de Deus sobre todas as autoridades humanas. **John Knox**, o reformador escocês, em seus *Sermons on Jeremiah* (1560), extraía deste texto um princípio crucial para a resistência a tiranos: quando a autoridade civil (o rei) se coloca em oposição direta e deliberada ao mandamento claro de Deus (a Palavra profética), ela perde sua legitimidade e deve ser desobedecida pelos fiéis. A atitude dos príncipes que temeram a palavra, e a própria desobediência de Jeremias e Baruque ao se esconderem, são vistas como modelos de submissão primária a Deus. A cena do rei cortando o rolo é, para Knox, a imagem arquetípica do governante ímpio que busca estabelecer sua autonomia absoluta, um prelúdio de sua própria ruína.
+
+**Francis Turretin**, em seus *Institutes of Elenctic Theology* (1679), utiliza Jeremias 36 para discutir a *autopistia* (a credibilidade intrínseca) da Escritura. O rolo carregava sua própria autoridade, atestada pelo temor que incutiu nos príncipes e pela coragem que inspirou em seus portadores. Sua queima não a invalidou; pelo contrário, o juízo subsequente sobre Jeoaquim provou sua veracidade. A autoridade das Escrituras, argumenta Turretin, não deriva da sanção da igreja ou do estado, mas do próprio Deus que as inspirou, um princípio vividamente demonstrado na reescrita sobrenatural do rolo.
+
+## Síntese Teológica: O Pergaminho que Sobrevive ao Fogo
+
+Jeremias 36, portanto, oferece uma narrativa teologicamente densa que articula verdades perenes. Primeiro, afirma a natureza objetiva e preservável da Palavra revelada. Deus condescende em fazer-se conhecido através de palavras humanas, fixadas em um meio material, sujeitas aos perigos da história, mas guardadas por sua providência. Segundo, expõe a variedade de respostas humanas à Palavra: desde o temor reverencial e a mediação cautelosa dos príncipes até o desprezo blasfemo e a destruição ritual do rei. Terceiro, e de modo mais glorioso, proclama a indestrutibilidade da Palavra de Deus. A hostilidade humana, em seu gesto mais definitivo – reduzi-la a cinzas –, revela-se impotente. A Palavra de Deus não está presa ao medium que a carrega; ela vive e persiste, ressurgindo com redobrada força e clareza.
+
+Este capítulo serve como um poderoso *testimonium* à doutrina da Providência especial de Deus sobre sua revelação. O mesmo Deus que inspirou as palavras ditadas a Baruque é aquele que ordenou a reescrita após a queima, assegurando que seu conselho permanecesse firme. A história do rolo queimado e reescrito prefigura, em certa medida, a ressurreição: a mensagem aparentemente destruída pela mão do inimigo é restaurada e glorificada. Para a igreja de todas as eras, Jeremias 36 permanece como um solene lembrete de que a Palavra do Senhor permanece para sempre (Is 40:8), e que toda autoridade humana que se ergue contra ela está, desde o início, fadada a ser reduzida a pó, enquanto o pergaminho divino, milagrosamente preservado, continua a ser lido, ouvido e temido.

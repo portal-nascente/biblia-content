@@ -1,16 +1,61 @@
 ---
 slug: "salmos-87-temas-controversos"
-titulo: ""
+titulo: "A Cidade da Mãe: A Controvérsia da Universalidade no Coração do Particularismo Sionista"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "salmos"
 capitulo: "87"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Salmos 87   A Cidade da Mãe: A Controvérsia da Universalidade no Coração do Particularismo Sionista   A Tensão  O Salmo Oitavo e Sétimo do Saltério..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Salmos 87
 
+## ***A Cidade da Mãe: A Controvérsia da Universalidade no Coração do Particularismo Sionista***
+
+## A Tensão
+
+O Salmo Oitavo e Sétimo do Saltério ergue-se como um monólito teológico no deserto dos cânticos de Sião, uma peça lírica tão compacta quanto explosiva, cuja interpretação tem fendido a exegese ao longo dos séculos. Sua declaração nuclear — “O Senhor ama as portas de Sião mais do que todas as moradas de Jacó” — e seu catálogo surpreendente de nações arqui-inimigas registradas como cidadãs nativas de Jerusalém, constituem um paradoxo que toca a medula da autorrevelação divina. A tensão palpita entre o particularismo eleitoral, o amor exclusivo de Yahweh por Sião como sede de sua habitação e trono de seu Rei davídico, e uma universalidade tão radical que parece dissolver as fronteiras da aliança mosaica antes da plenitude dos tempos. Como conciliar o amor eletivo pelas portas de Sião com a inscrição de egípcios e babilônios no registro dos nascidos nela? Este salmo, aparentemente um hino nacionalista, transforma-se, sob o escrutínio, num pré-anúncio escatológico que força uma ruptura na compreensão limitada do povo da aliança, gerando controvérsias que orbitam três eixos principais: a natureza da “cidadania sionista”, a identidade da “Mãe Sião” e o momento da realização desta profecia.
+
+## Perspectiva Histórica A: O Nacionalismo Escatológico Mitigado
+
+Uma corrente significativa de intérpretes, principalmente aqueles vinculados a uma leitura mais imediatista e histórico-redentora do Antigo Testamento, entende o Salmo 87 como uma expressão poética e profética da futura incorporação dos gentios ao culto de Yahweh, porém, através de sua submissão a Jerusalém e sua assimilação à nação judaica. A visão não é de igualdade, mas de uma peregrinação das nações a Sião, onde estrangeiros, conquanto admitidos, permanecem identificados por suas origens étnicas (“este nasceu ali”). O foco está na centralidade cultual e política de Jerusalém na era messiânica terrena.
+
+**John Calvin**, em seu *Commentary on the Book of Psalms* (1557), articula esta visão com clareza reformada. Para ele, o salmo é uma profecia sobre a extensão da Igreja de Deus para além dos confins de Israel. No entanto, Calvino enfatiza que esta incorporação não anula a primazia de Sião. Ele argumenta: “O profeta, ao mencionar o Egito e Babilônia, pretende mostrar que a graça de Deus não será restrita aos judeus, mas se estenderá às nações mais distantes e mais hostis… Contudo, é significativo que eles são ditos ‘nascerem’ em Sião. Isto indica que sua adoção não é superficial; eles serão enxertados na comunidade do pacto, tornando-se, por assim dizer, naturais da cidade santa, submetendo-se à sua lei e ao seu Rei.” Calvino vê aqui uma prefiguração da Igreja Neotestamentária, onde judeus e gentios são unidos em um só corpo, mas insiste que a metrópole espiritual permanece sendo Jerusalém, a mãe de todos (Gálatas 4:26).
+
+O erudito judeu-medieval **David Kimhi (Radak)**, em seu comentário, reforça esta linha dentro do pensamento judaico. Ele interpreta o salmo como referente aos tempos messiânicos, quando prosélitos de todas as nações, inclusive das potências opressoras históricas, virão a Jerusalém, serão circuncidados e oferecerão sacrifícios. Sua cidadania é real, mas é uma cidadania por conversão e adoção no âmbito da Torah, mantendo-se a distinção entre os nascidos judeus e os convertidos, ainda que ambos sejam amados por Deus. A expressão “o Senhor registrará, inscrevendo os povos” é lida como um livro de registro de prosélitos, um censo daqueles que se uniram a Israel.
+
+## Perspectiva Histórica B: O Universalismo Escatológico Radical
+
+Em oposição à visão assimilacionista, uma segunda perspectiva, frequentemente associada a leituras mais cristocêntricas e tipológicas, vê no Salmo 87 uma ruptura muito mais profunda. Aqui, a ênfase não está na *judiização* dos gentios, mas na *recriação* de uma humanidade nova, cuja pátria fundamental e identidade primária não é mais étnica, geográfica ou mesmo cultural (judaica), mas espiritual e celestial. O nascimento “em Sião” é um nascimento do alto, um registro no livro da vida do Cordeiro, que precede e redefine qualquer identidade terrena.
+
+O teólogo holandês **Herman Bavinck**, em sua *Dogmática Reformada* (1895-1901), aborda esta tensão a partir da doutrina do pacto. Bavinck argumenta que o Salmo 87 é uma janela para o caráter essencialmente *missionário* do pacto abraâmico, que sempre carregou a bênção para “todas as famílias da terra”. Para ele, a menção a Raabe (símbolo de paganismo e prostituição) e Babilônia não é acidental: “O profeta, sob inspiração, seleciona precisamente os poderes que representam a oposição máxima a Deus: o Egito da escravidão, a Babilônia do exílio, a Filístia da opressão constante, e Tiro da riqueza arrogante. Ao declarar que até mesmo destes nascerão cidadãos de Sião, o salmo anuncia que a graça eleitoral de Deus triunfará sobre a inimizade mais arraigada. Não se trata de uma anexação política, mas de uma conquista redentora. A ‘Mãe Sião’ aqui transcende a colina de Jerusalém; ela é prefigura da comunidade celestial, a Jerusalém do alto, que é livre e é nossa mãe (Gálatas 4:26).”
+
+Esta visão é radicalizada pelo exegeta **Geerhardus Vos**, em sua *Biblical Theology* (1948). Vos propõe uma leitura cristológica estrita. O “fundamento” que o Senhor estabeleceu “nos montes santos” (v.1) é, em última análise, Cristo Jesus, a pedra angular rejeitada pelos edificadores. A verdadeira “cidadania” é a do Reino dos Céus. Vos escreve: “O registro do qual fala o salmo não é o dos arquivos do templo, mas o livro da vida do Cordeiro. O ‘nascimento’ em Sião é o novo nascimento, o nascimento da água e do Espírito. Portanto, o egípcio, o babilônio, não são mais tais; sua identidade anterior é mencionada apenas para destacar o milagre da graça. Em Cristo, eles são *nova criatura*; o velho já passou. O salmo, portanto, não profetiza a conversão de nações *enquanto* nações, mas a criação de um novo povo, a Igreja, comprada de toda tribo, língua, povo e nação, cuja pátria comum é a Sião celestial.”
+
+## Perspectiva Histórica C: A Liturgia do Culto Real e a Teologia da Presença
+
+Uma terceira linha de interpretação, mais recente e influenciada pela crítica dos gêneros e pela teologia do culto, desloca o foco da controvérsia étnica para a esfera litúrgica e real. Nesta leitura, o Salmo 87 é primariamente um hino de entronização ou um cântico processional, celebrando Jerusalém como o centro cósmico, o *axis mundi*, onde Yahweh, o Grande Rei, reina. A cidadania listada não é política ou étnica, mas cultual. Ser “nascido em Sião” significa ter o direito de participar do culto no templo, de estar na presença do Deus vivo.
+
+O erudito **John H. Walton**, em *Ancient Near Eastern Thought and the Old Testament* (2006), contextualiza esta visão. Ele argumenta que, no antigo Oriente Próximo, a capital de um grande império era frequentemente vista como uma cidade “mãe”, da qual as cidades-vassalas eram “filhas”. O registro de povos poderia simbolizar sua submissão e inclusão na esfera de influência e proteção do deus patrono da capital. Assim, o salmo celebraria a visão de que Yahweh, o Rei de Sião, reina sobre todas as nações, e que estas, representadas por seus embaixadores ou mesmo por convertidos individuais, vêm a Jerusalém prestar homenagem e serem registradas como parte do domínio universal de Deus. A controvérsia, aqui, se dissolve em parte: o salmo não trata primariamente de conversão em massa, mas da proclamação da soberania universal de Yahweh a partir de Sião.
+
+O teólogo **N. T. Wright**, embora de uma tradição diferente, ecoa aspectos desta interpretação ao conectar o salmo à teologia do templo. Para Wright, Sião é o lugar onde o céu e a terra se encontram, o *Eden restaurado*. O nascimento nela, portanto, é sobre ser inserido nesta realidade restaurada, nesta nova criação que irrompe no santuário. Em *The New Testament and the People of God* (1992), ele sugere que visões como a do Salmo 87 alimentavam a esperança judaica de uma restauração que incluísse as nações, não pela aniquilação de Israel, mas pela sua elevação como luz. A tensão permanece, mas é a tensão inerente ao próprio chamado de Israel: ser um reino de sacerdotes para o mundo.
+
+## Síntese Reformada
+
+Diante deste caleidoscópio de interpretações, uma síntese reformada confessional, ancorada no *sola Scriptura* e na analogia da fé, deve navegar pelas águas profundas do texto sem negligenciar nenhum de seus polos. O Salmo 87 é, simultaneamente, nacional e universal, particular e cósmico, já e ainda não.
+
+Primeiramente, afirma-se com Calvino e a tradição confessional o **particularismo eleitoral**. “O SENHOR ama as portas de Sião.” Este amor não é genérico; é um amor de eleição, de pacto, estabelecido nas promessas a Davi. A Igreja não flutua no ar; ela está edificada sobre o fundamento dos apóstolos e profetas, tendo o próprio Cristo Jesus como pedra angular (Efésios 2:20). A Sião histórica, Jerusalém, foi o palco teológico da redenção. Negar este particularismo é espiritualizar indevidamente e deshistorizar o plano de Deus.
+
+Em segundo lugar, e em tensão criativa com o primeiro ponto, afirma-se com Bavinck e Vos o **universalismo escatológico da graça**. O pacto com Abraão e Davi sempre teve um coração missionário. O catálogo de nações em Salmo 87 não é meramente ilustrativo; é provocativo. Ele revela que o amor de Deus por Sião não é possessivo, mas expansivo. Sião é amada *precisamente como* o instrumento e a matriz através da qual a bênção se derrama sobre os inimigos. Este universalismo encontra seu “Amém” e sua realização plena em Jesus Cristo. Em Cristo, a barreira da lei dos mandamentos em ordenanças é derrubada, e ele cria, em si mesmo, um novo homem, fazendo a paz (Efésios 2:14-15). O “nascimento” definitivo não é do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus (João 1:13).
+
+Terceiro, harmoniza-se estas verdades através da **tipologia cristocêntrica**. A Sião terrena, o Monte do Templo, era uma sombra da realidade celestial (Hebreus 8:5, 12:22). A verdadeira “Mãe” de todos os crentes, como Paulo argumenta em Gálatas 4:26, é “a Jerusalém lá de cima, que é livre”. Cristo é o fundamento último estabelecido nos montes santos (1 Coríntios 3:11). O registro que o Senhor realiza é o livro da vida do Cordeiro (Apocalipse 13:8; 21:27). Portanto, o egípcio, o babilônio, o filisteu, nascidos de novo pelo Espírito através da fé no Messias de Sião, são verdadeira e plenamente cidadãos desta pátria celestial. Suas origens de inimizade são mencionadas apenas para engrandecer a graça, tal como Paulo se gloriava de ser o “principal dos pecadores” (1 Timóteo 1:15).
+
+Por fim, abraça-se a dimensão **litúrgico-cósmica**. A Igreja, o corpo de Cristo composto de judeus e gentios regenerados, é agora o templo do Espírito Santo (1 Coríntios 3:16; Efésios 2:21-22). Em seu culto coletivo, ela antecipa a cena final do Apocalipse, onde uma grande multidão, “que ninguém podia contar, de todas as nações, tribos, povos e línguas” (Apocalipse 7:9), está diante do trono e do Cordeiro. O Salmo 87 é, portanto, um cântico da Igreja peregrina, que já é cidadã dos céus (Filipenses 3:20), mas que ainda aguarda a manifestação plena da Nova Jerusalém, descendo do céu, adornada como uma noiva para seu marido (Apocalipse 21:2). Naquele dia, a controvérsia será resolvida na visão beatífica, e as fontes de Sião (v.7) jorrarão com águas vivas para a cura definitiva das nações.
+
+Assim, o Salmo 87 permanece, em sua brevidade enigmática, um farol profético. Ele confronta todo tribalismo religioso, todo nacionalismo excluidor da graça, e todo universalismo desenraizado da história da redenção. Ele proclama que a cidade do Grande Rei, amada com um amor eterno, é também a mãe universal que, em dores de parto até que Cristo seja formado em todos (Gálatas 4:19), dá à luz uma nova humanidade, cujos nomes estão para sempre inscritos no coração de Deus.

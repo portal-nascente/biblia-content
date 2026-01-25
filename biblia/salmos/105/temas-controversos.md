@@ -1,16 +1,55 @@
 ---
 slug: "salmos-105-temas-controversos"
-titulo: ""
+titulo: "A Memória Seletiva da Aliança: Entre a Celebração Litúrgica e a Amnésia Ética"
 tipo: "temas-controversos"
 origem: "biblia"
 livro: "salmos"
 capitulo: "105"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "25 min de leitura"
 imageUrl: ""
-tema_principal: ""
+tema_principal: "TEMAS COMPLEXOS E CONTROVERSOS  Salmos 105   A Memória Seletiva da Aliança: Entre a Celebração Litúrgica e a Amnésia Ética   A Tensão  O Salmo 105 ergue-se como um monumento litúr..."
 tags: []
 ---
 
+# TEMAS COMPLEXOS E CONTROVERSOS
+# Salmos 105
 
+## ***A Memória Seletiva da Aliança: Entre a Celebração Litúrgica e a Amnésia Ética***
+
+## A Tensão
+
+O Salmo 105 ergue-se como um monumento litúrgico à fidelidade de Javé, um cântico épico que traça, com pinceladas largas e cores vibrantes, a narrativa fundante de Israel desde Abraão até a entrada em Canaã. Sua estrutura é clara: um chamado ao louvor (v.1-6), seguido pelo memorial dos atos poderosos de Deus em favor dos patriarcas (v.7-15), da provisão a José no Egito (v.16-22), e do êxodo espetacular sob Moisés (v.23-45). Contudo, é precisamente nesta aparente clareza que se aninha uma das controvérsias mais profundas da exegese salmódica e da teologia bíblica: a natureza da memória coletiva que este salmo constrói e perpetua. A tensão reside na aparente **seletividade narrativa**. O salmo celebra a aliança abraâmica e a fidelidade divina inabalável, mas silencia sobre o fracasso humano, sobre os momentos de incredulidade dos patriarcas, sobre a murmuração no deserto, sobre o bezerro de ouro. Esta não é uma crônica histórica; é uma confissão litúrgica, um *credo* cantado. A controvérsia, portanto, gira em torno de uma pergunta dupla: Esta memória seletiva é uma forma legítima e teologicamente profunda de proclamação da graça soberana, ou é uma instrumentalização perigosa da história, que pode levar a uma identidade nacional triunfalista e desprovida de autocrítica? A celebração da eleição incondicional, divorciada do registro da infidelidade eleita, produz uma teologia da glória ou da graça?
+
+## Perspectiva Histórica A: A Memória como Proclamação Teológica e Ferramenta de Identidade
+
+Uma primeira corrente de interpretação, de forte tradição na teologia litúrgica e na escola da *Heilsgeschichte* (história da salvação), defende que a seletividade do Salmo 105 não é uma falha, mas sua virtude essencial. Seu propósito não é fornecer um relato historiográfico moderno, mas **proclamar a identidade de Javé como o Deus da aliança que mantém sua palavra**. A omissão dos pecados de Israel é, nesta leitura, um ato deliberado de foco teocêntrico.
+
+**Gerhard von Rad**, em sua obra seminal *Teologia do Antigo Testamento* (1957), enquadra este salmo dentro do gênero do *Credo Histórico* israelita, como visto em Deuteronômio 26:5-9 e Josué 24:2-13. Para von Rad, a função destas recitações não era recordar cada evento, mas estruturar a memória coletiva em torno dos *magnalia Dei*, os atos salvíficos poderosos de Deus. A história é “confessionalizada”; os eventos são selecionados e arranjados para servir como fundamento da fé e da identidade da comunidade como povo da aliança. “Aqui”, escreve von Rad, “a história não é um fim em si mesma, mas o palco onde a fidelidade de Javé se revela de forma inequívoca. O silêncio sobre o pecado humano não é negação, mas subordinação da narrativa ao seu fim kerygmático: Deus é fiel.”
+
+Na esteira desta visão, **John Calvin**, em seu *Comentário sobre os Salmos* (1557), oferece uma perspectiva pastoral aguda. Para o reformador, o salmo é um antídoto contra a ingratidão e a descrença. “O Espírito Santo”, argumenta Calvino, “não enumera aqui todas as ocorrências da história, mas seleciona aquelas que mais vivamente demonstram a graça imerecida e a providência miraculosa de Deus.” A omissão das falhas de Israel serve a um propósito pedagógico superior: ensinar o povo a ver sua própria história através das lentes da graça sustentadora de Deus, não através do prisma de seus próprios méritos ou deméritos. É um exercício de humildade, pois força o crente a reconhecer que sua existência como povo depende unicamente da promessa divina, não de sua própria fidelidade. A memória seletiva, assim, protege contra o desespero (ao lembrar que Deus age apesar do pecado) e contra a arrogância (ao não dar margem para glória humana).
+
+Esta abordagem é reforçada por estudiosos da forma literária como **Hermann Gunkel**. Em *Die Psalmen* (1926), Gunkel classifica o Salmo 105 como um *Hino Histórico* de louvor comunitário. Sua função no culto era fortalecer a coesão e a esperança da comunidade, especialmente em tempos de crise (possivelmente pós-exílicos). A narrativa linear e triunfante, que culmina na posse da terra (“Para que guardassem os seus preceitos e observassem as suas leis. Aleluia!”, v.45), serve como uma afirmação poderosa de que o Deus que cumpriu suas promessas no passado é digno de confiança para o futuro. A memória, portanto, é um ato de resistência e esperança, não de registro imparcial.
+
+## Perspectiva Histórica B: A Crítica à Memória Ideológica e à Amnésia Ética
+
+Uma segunda e poderosa linha de interpretação, frequentemente associada à teologia pós-colonial, à hermenêutica de suspeita e a certas correntes da teologia da libertação, lança um olhar crítico sobre esta seletividade. Para estes intérpretes, o Salmo 105 não é apenas uma proclamação inocente; é uma **narrativa ideológica** que serve para legitimar o poder, a posse da terra e uma identidade de povo eleito que pode facilmente degenerar em exclusivismo e justificativa da violência.
+
+O teólogo **Walter Brueggemann**, em sua obra *A Mensagem dos Salmos* (1984), reconhece a força do salmo como “psicologia de positividade” e “celebração da estabilidade”. No entanto, ele alerta para o perigo quando esta liturgia de estabilização se torna absoluta e suprime os “salmos de lamento”. Brueggemann argumenta que uma fé que só sabe cantar a fidelidade divina sem também clamar pela justiça divina diante do sofrimento e confessar a infidelidade própria torna-se disfuncional e opressiva. O Salmo 105, em sua forma canônica, está em tensão dialética com o Salmo 106, que narra exatamente os mesmos eventos, mas focando na rebeldia incessante de Israel. A leitura isolada do 105, sem o contraponto do 106, pode produzir uma espiritualidade triunfalista e alienada da complexidade da experiência humana e histórica.
+
+Esta crítica é radicalizada por estudiosos como **Norman K. Gottwald** e **Michael Prior**. **Gottwald**, em *As Tribos de Javé* (1979), analisa a narrativa da conquista (implícita no final do Salmo 105: “Deu-lhes as terras das nações”, v.44) a partir de uma perspectiva sociológica. A celebração da dádiva da terra como cumprimento da aliança abraâmica silencia a perspectiva dos cananeus, transformando um ato de despossessão e, possivelmente, de violência étnica, em um ato litúrgico de gratidão. A memória seletiva, aqui, funciona para santificar uma conquista territorial, criando uma “amnésia ética” em relação às vítimas do processo.
+
+**Michael Prior**, em *A Bíblia e o Colonialismo* (1997), vai além. Ele argumenta que narrativas como a do Salmo 105, ao apresentar a terra como um dom divino incondicional a um povo eleito, forneceram um “paradigma de despossessão” que foi instrumentalizado repetidamente ao longo da história, desde as cruzadas até o colonialismo europeu e o sionismo moderno. A controvérsia, para Prior, não é apenas exegética, mas ética: como lidar com textos que, em sua celebração da identidade de um grupo, parecem legitimar a marginalização de outros? A memória seletiva que glorifica a eleição sem refletir sobre seus custos humanos para o “outro” é, nesta visão, teologicamente deficiente e moralmente perigosa.
+
+## Síntese Reformada: A Memória Confessional entre a Graça Incondicional e a Responsabilidade Ética
+
+A teologia reformada confessional, ancorada na soberania da graça e na autoridade das Escrituras em sua totalidade, busca navegar nesta tensão sem capitular a um otimismo ingênuo nem a uma desconstrução cética. A síntese emerge ao se ler o Salmo 105 não isoladamente, mas dentro do **cânone bíblico dialético** e à luz da **aliança da graça**, cujo mediador e cumpridor perfeito é Cristo.
+
+Primeiramente, é preciso afirmar com Calvino e a tradição da *Heilsgeschichte* que o foco do salmo é legítimo e necessário. A revelação bíblica é fundamentalmente *teocêntrica*. O propósito supremo da história, e de sua recordação, é glorificar a Deus e proclamar sua fidelidade imerecida. **O Salmo 105 é, em essência, um sermão sobre Romanos 11:29: “os dons e a vocação de Deus são irrevogáveis.”** Ele celebra a eleição incondicional (a aliança com Abraão, Isaque e Jacó) e a providência soberana (a história de José, as pragas do Egito) que garantem o cumprimento dessa eleição, apesar de todas as contingências humanas. Esta é a coluna vertebral da esperança cristã: nossa salvação repousa na fidelidade do Deus da promessa, não na constância de nossa fé.
+
+Contudo, a teologia reformada, com sua doutrina da depravação total e sua insistência na *integritas Scripturae* (a unidade das Escrituras), não pode parar aí. A memória confessional do Salmo 105 é verdadeira, mas **não é exaustiva**. Ela representa uma fase necessária da espiritualidade: a do louvor e ação de graças pela graça objetiva. No entanto, esta fase deve ser complementada e corrigida pela memória confessional do Salmo 106, que representa a fase do arrependimento e da petição por misericórdia. Juntos, eles formam um todo psalmodicamente equilibrado: a graça de Deus (105) confrontada com o pecado do homem (106), resultando no clamor por renovação (“Salva-nos, SENHOR, nosso Deus!”, Sl 106:47).
+
+O grande teólogo holandês **Herman Bavinck**, em *Nossa Fé Categórica* (1901), oferece uma chave hermenêutica crucial. Para Bavinck, a história da aliança no Antigo Testamento é uma “história de redenção em progresso”, marcada por sombras e tipos. O perigo do Salmo 105, se mal compreendido, é o de **confundir o povo histórico de Israel com o reino espiritual de Deus**, e a posse de Canaã com a herança escatológica. A teologia reformada, através da distinção entre Israel segundo a carne e Israel segundo a promessa (Rom. 9:6-8), e entre a terra como tipo e a nova criação como antítipo, desarma o potencial ideológico do texto. A “terra” prometida para a qual o salmo aponta não é um território geopolítico, mas o “repouso” escatológico de Deus (Heb. 4:1-11), a nova criação conquistada por Cristo e herdada por todos os crentes, judeus e gentios, pela fé.
+
+Portanto, a síntese reformada afirma: a memória seletiva do Salmo 105 é **verdadeira como proclamação kerygmática da fidelidade de Deus à sua aliança da graça**. Ela é um cântico necessário para a igreja, que deve lembrar-se incessantemente de que sua existência é um milagre da promessa divina. No entanto, esta memória deve ser sempre **lida cristologicamente e canonicamente**. Cristo é o verdadeiro “José” (Atos 7:9-10), o Servo sofredor e exaltado, e o verdadeiro “Moisés”, o libertador definitivo. A conquista final não é pela espada, mas pela cruz. A ética que emerge desta memória, assim purificada e cristianizada, não é de triunfalismo, mas de humilde gratidão e responsabilidade missionária. A igreja, ao cantar o Salmo 105, celebra não sua própria posse ou pureza, mas a graça soberana que a sustenta em sua peregrinação, enquanto aguarda, não uma terra cananeia, mas “um novo céu e uma nova terra, nos quais habita a justiça” (2 Pedro 3:13). A memória, assim, torna-se não um instrumento de poder, mas um hino de esperança peregrina, que reconhece a fidelidade do passado como penhor da glória futura, enquanto caminha no presente com a consciência aguda de sua própria necessidade contínua da graça confessada no Salmo 106.

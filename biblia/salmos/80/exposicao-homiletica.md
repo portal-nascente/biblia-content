@@ -1,16 +1,56 @@
 ---
 slug: "salmos-80-pregacao-tecnica"
-titulo: ""
+titulo: "O Lamento da Videira e o Rosto que Restaura"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "80"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 80   O Lamento da Videira e o Rosto que Restaura   Texto-base: Salmos 80  Eixo Teológico: A restauração do povo de Deus só é possível mediante o retorn..."
+tags: ["amor", "ansiedade"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 80
 
+## ***O Lamento da Videira e o Rosto que Restaura***
+
+## Texto-base: Salmos 80
+## Eixo Teológico: A restauração do povo de Deus só é possível mediante o retorno do Seu rosto resplandecente sobre a videira que Ele mesmo plantou, um rosto que encontrou sua expressão definitiva no Rosto que foi ferido por nós.
+
+## Introdução
+
+Há um tipo de dor que é mais profunda do que a simples presença do sofrimento; é a dor da ausência. É o frio que se instala não porque a neve caiu, mas porque o sol se escondeu. O Salmo 80 é o registro gemido dessa frialdade espiritual, o lamento litúrgico de um povo que sente, nas entranhas de sua alma coletiva, o eclipse do favor divino. Não é apenas que os muros estão quebrados e os inimigos ceifam a colheita; é que o Rosto, aquele semblante luminoso de benevolência e presença que era a própria vida de Israel, parece ter-se voltado para outra direção. **Bernhard W. Anderson**, em *Out of the Depths: The Psalms Speak for Us Today* (2000), situa este cântico no período pós-exílico, quando a comunidade, retornada a uma Jerusalém ainda em ruínas, lutava contra o desânimo e a sensação de abandono. Eles eram como uma videira outrora viçosa, transplantada com esmero do Egito, mas agora devastada por qualquer que passa pelo caminho, suas sarças consumindo o que restou de seiva. A pergunta que ecoa, como um refrão angustiante, não é primeiramente “por que sofremos?”, mas “até quando, ó Deus, estarás irado contra a oração do teu povo?”. É a crise da oração não respondida, da aliança que parece unilinear. Hoje, nós, que também nos sentimos, em temporadas da alma, como ramos ressequidos, nos achegamos a este salmo para ouvir seu lamento, perscrutar suas metáforas e, sobretudo, fixar nossos olhos na súplica final que aponta, profeticamente, para a única esperança de restauração.
+
+## Proposição
+
+Através da imagem vívida da videira devastada e do clamor pelo retorno do Rosto divino, o Salmo 80 nos ensina que a verdadeira restauração espiritual – seja de um povo, seja de uma alma – percorre três estágios indispensáveis: a **reconhecimento honesto da devastação presente**, o **apelo confiante à memória da graça passada** e, por fim, a **súplica concentrada pela intervenção futura do Restaurador divino**.
+
+## I. A Videira Devastada: A Anatomia de uma Ruína Espiritual
+
+O salmista, com a perícia de um profeta e a sensibilidade de um poeta, diagnostica a condição do povo não primeiro em termos políticos ou militares, mas através de uma metáfora agrícola carregada de significado teológico: a videira. **John H. Walton** e **Victor H. Matthews**, em *The IVP Bible Background Commentary: Old Testament* (2000), lembram-nos que a vinha era um símbolo comum no Antigo Oriente Próximo para um povo ou nação, frequentemente usado por Israel para descrever a si mesmo. Mas aqui, a imagem é particularmente rica e trágica. A narrativa começa com um ato de graça soberana: “Trouxeste uma vinha do Egito; expulsaste as nações e a plantaste” (v. 8). O êxodo não foi apenas uma libertação; foi um transplante. Deus arrancou um povo-escravo de solo estrangeiro e o colocou no solo prometido, preparando o terreno, limpando as pedras. **Derek Kidner**, em seu precioso *Psalms 73–150* (1975), observa que os verbos são todos divinos: *trouxeste, expulsaste, plantaste, limpaste*. A origem e o estabelecimento são obra exclusiva da mão graciosa de Deus. A videira, então, criou raízes, cobriu os montes, estendeu seus ramos até o mar e seus brotos até o Rio (v. 10-11). Era um símbolo de prosperidade, de bênção aliançada, de fruto que deveria glorificar o Agricultor.
+
+Contudo, o quadro se inverte de forma dramática e dolorosa. “Por que derrubaste as suas cercas?” (v. 12). A pergunta pressupõe a ação divina, mesmo na retirada da proteção. A devastação é total: todo viajante a colhe, o javali da selva a devasta e as feras do campo a pastam (v. 13). A videira está queimada, cortada, perecendo pela repreensão do Teu rosto (v. 16). Aqui, a metáfora atinge seu clímax patético. A ruína não é acidental; é judicial. **Willem A. VanGemeren**, em *The Expositor’s Bible Commentary: Psalms* (2008), argumenta que esta descrição reflete as maldições da aliança, especificamente aquelas de Deuteronômio 28, onde a desobediência resulta no cerco e na pilhagem por nações estrangeiras. O povo, ao se desviar, quebrou a aliança. A cerca da Lei, destinada a protegê-los, foi removida como ato de disciplina. O javali, símbolo de potências impuras e destrutivas (como a Babilônia), é permitido que entre e devaste. A aplicação para nós é profundamente pastoral. Quantas vezes nossas vidas, outrora frutíferas e protegidas, se assemelham a essa videira devastada? A sequeira espiritual, a invasão de ansiedades que consomem nossa paz (os “javalis” modernos), a sensação de estar à mercê de forças destrutivas – tudo isso pode ser, em certa medida, o lamento de uma alma sob a disciplina amorosa, porém severa, do Divino Agricultor. O primeiro passo para a restauração é parar de culpar o solo, o clima ou os javalis, e reconhecer, com o salmista, que a queda das cercas tem a ver com o Rosto que se retirou. É um diagnóstico doloroso, mas honesto.
+
+## II. O Refrão do Rosto: A Memória como Alicerce da Súplica
+
+Diante desse quadro de desolação, o salmista não se lança em uma série de autoajustes morais ou estratégias de reconstrução. Sua resposta é litúrgica e teológica: ele clama. E o cerne de seu clamor é um refrão que se repete três vezes, como o batimento cardíaco do salmo: “Restaura-nos, ó Deus; faze resplandecer o teu rosto, e seremos salvos” (v. 3, 7, 19). Esta invocação é a espinha dorsal da oração e nos oferece uma segunda lição fundamental: a restauração é buscada através do apelo à natureza e à história do caráter de Deus. A expressão “faze resplandecer o teu rosto” é rica em significado. **Leslie C. Allen**, em *Word Biblical Commentary: Psalms 101-150* (2002), explica que ela evoca a bênção sacerdotal de Números 6:24-26: “O SENHOR faça resplandecer o seu rosto sobre ti e te conceda graça”. O rosto resplandecente de Deus é a manifestação visível do seu favor, da sua presença salvadora e da sua paz (shalom). É a antítese da sua ira. O salmista, portanto, não pede primeiro por novos muros ou exércitos; ele pede pelo retorno da Presença.
+
+E como ele sustenta essa ousada súplica? Recorrendo à memória da graça passada. Ele invoca Deus como “Ó Pastor de Israel” (v. 1), um título que lembra os patriarcas e o cuidado contínuo. Ele detalha, como vimos, a história do transplante e do cultivo da videira (vs. 8-11). Ele está, essencialmente, dizendo: “Ó Deus, Tu és o mesmo que nos tirou do Egito. Aquele que começou a boa obra é poderoso para restaurá-la”. **Timothy Keller**, em *The Songs of Jesus* (2015), faz uma observação crucial: a oração que agrada a Deus e que tem poder é aquela que se baseia em Suas próprias promessas e em Seu caráter revelado. O salmista está fazendo exatamente isso. Ele está colocando diante de Deus a contradição entre o Seu passado de fidelidade e o presente de aparente abandono. É como se dissesse: “A história que Tu mesmo escreveste sobre nós testemunha que Tu és um Deus restaurador. Agora, age de acordo com o Teu nome!”. Para nós, no meio de nossas devastações pessoais, este é um princípio vital. Nossa oração não deve ser apenas um grito de desespero, mas um clamor informado. Devemos aprender a recontar a Deus a história de Sua graça em nossas vidas – a conversão, os livramentos, as provisões passadas. Devemos invocá-Lo pelos Seus títulos: Pai, Salvador, Pastor, Espírito Consolador. A memória da graça passada é o combustível da fé para a súplica presente. Ela nos lembra que o Rosto que uma vez brilhou sobre nós não mudou em sua natureza amorosa, mesmo que nossa experiência momentânea seja de sombra.
+
+## III. O Homem à Tua Direita: A Súplica Cristocêntrica e a Esperança Definitiva
+
+O salmo atinge sua tensão máxima e sua resolução profética nos versos finais. Após detalhar a ruína da videira, a oração toma um rumo surpreendente e messiânico: “Seja a tua mão sobre o homem da tua direita, sobre o filho do homem que tu fortaleceste para ti” (v. 17). E, então, a promessa: “Então não nos afastaremos de ti; vivifica-nos, e invocaremos o teu nome” (v. 18). Aqui, a videira coletiva (Israel) encontra sua esperança em um *Homem* específico, um Representante. **Hans-Joachim Kraus**, em *Psalms 60–150* (1989), vê aqui uma referência ao rei davídico, o representante ideal do povo, cujo fracasso histórico, no entanto, apontava para uma figura futura. O “homem da tua direita” é aquele que usufrui da autoridade e do favor supremos de Deus. O “filho do homem” é uma expressão que denota humanidade, mas que, no contexto real, ganha contornos de um mediador único.
+
+A tradição cristã, desde os primeiros pais da Igreja, viu neste verso uma clara profecia de Jesus Cristo. Ele é o verdadeiro “Homem à direita de Deus”, exaltado após a humilhação (Atos 2:33; 7:56). Ele é o “Filho do Homem” por excelência, título que Ele mesmo frequentemente reivindicou. Mas como isso se conecta com a videira? No Evangelho de João, Jesus se declara a “videira verdadeira” (João 15:1). **D. A. Carson**, em *The Gospel according to John* (1991), desenvolve esta teologia: Israel, a videira infiel, é substituída por Cristo, a Videira fiel e frutífera. Nossa restauração, nossa capacidade de dar fruto, só é possível se estivermos *enxertados* nEle, unidos a Ele pela fé. A súplica do salmo, portanto, encontra sua resposta plena e definitiva em Cristo. O Rosto de Deus que resplandece sobre nós para salvação é o rosto de Jesus Cristo, a imagem do Deus invisível (2 Coríntios 4:6). Foi o Seu rosto que foi ferido, cuspido e desfigurado na cruz, para que o rosto irado de Deus contra o nosso pecado fosse aplacado. A restauração que buscamos – do nosso relacionamento com Deus, da nossa sanidade interior, da nossa capacidade de amar – flui da obra deste Homem exaltado à direita do Pai.
+
+Portanto, a súplica final do salmo – “Restaura-nos, ó SENHOR, Deus dos Exércitos; faze resplandecer o teu rosto, e seremos salvos” (v. 19) – nós, os crentes da nova aliança, podemos fazê-la com uma confiança ainda maior. Nós a fazemos *em nome de Jesus*, o Homem da direita de Deus. Nós olhamos para nossa devastação, sim, mas a levamos à cruz, onde a videira verdadeira foi podada até a morte para dar vida a ramos mortos. Nós nos lembramos da graça passada, sim, mas a graça definitiva do Calvário. E esperamos a restauração futura, sim, mas como a consumação da obra já realizada por Cristo. A oração do salmo se torna nossa, mas transfigurada pela luz da Páscoa.
+
+## Conclusão
+
+Irmãos, o Salmo 80 nos deixa com uma pergunta e uma certeza. A pergunta é a do refrão: “Até quando?” Até quando a videira da sua vida estará devastada? Até quando você viverá sob a nuvem da ausência percebida de Deus? A resposta não está em técnicas de auto-cultivo, mas no caminho trilhado pelo salmista: Reconheça, com lágrimas se necessário, a devastação que o pecado e o mundo causaram. Clame a Deus, não com base em seu mérito, mas com base no caráter dEle, lembrando-O de Suas misericórdias passadas. E, acima de tudo, direcione seu olhar de fé para o Homem à direita de Deus, Jesus Cristo. Nele, o Rosto de Deus brilhou de uma vez por todas. Nele, a videira morta revive. A Ele, portanto, apeguemo-nos. E àquele que pode guardar-nos de tropeçar e apresentar-nos irrepreensíveis, com alegria, perante a glória do seu Rosto resplandecente, ao Deus único, nosso Salvador, seja glória, majestade, domínio e poder, antes de todos os séculos, agora e para todo o sempre. Amém.
+
+## **Amém.**

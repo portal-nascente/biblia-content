@@ -1,16 +1,35 @@
 ---
 slug: "ezequiel-25-mensagem-pastoral"
-titulo: ""
+titulo: "O Fogo da Justiça e o Abraço da Aliança"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "25"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Ezequiel 25   O Fogo da Justiça e o Abraço da Aliança   Introdução  Há uma espécie de silêncio que precede a tempestade, uma calmaria pesada e opressiva que se..."
+tags: ["amor"]
 ---
 
+# MENSAGEM PASTORAL
+# Ezequiel 25
 
+## ***O Fogo da Justiça e o Abraço da Aliança***
+
+### Introdução
+
+Há uma espécie de silêncio que precede a tempestade, uma calmaria pesada e opressiva que se instala nos vales da história humana antes que os trovões do juízo divino comecem a rolar. É um silêncio que muitos de nós conhecemos intimamente, não nos vales da geopolítica antiga, mas nas paisagens interiores de nossa própria alma, quando a consciência, ainda que amortecida, pressente o peso acumulado de escolhas que se afastaram da fonte da vida. É desse lugar de expectativa solene, onde a graça parece ter se retirado para dar espaço à inevitável consequência, que o profeta Ezequiel nos fala no vigésimo quinto capítulo de seu registro. Não mais direcionando suas palavras ao coração endurecido de Judá, ele volta seu rosto, por ordem expressa do Senhor, para os povos circunvizinhos—Amom, Moabe, Edom e os filisteus—que, como abutres ao redor de um corpo moribundo, deleitaram-se com a desgraça do povo da aliança. Esta mensagem não é, em sua essência primeira, sobre geografia antiga ou rivalidades tribais; é uma radiografia da alma que se alegra com a queda do outro, um espelho colocado diante de nosso próprio coração, que muitas vezes, secretamente, se regozija com o infortúnio alheio, esquecendo-se de que está ligado a ele por fios invisíveis de humanidade compartilhada e, mais profundamente, pela soberania do Deus que julga todas as nações.
+
+### Desenvolvimento
+
+O profeta, movendo-se sob a pesada unção de *nāḇî*, porta-voz, inicia seu oráculo contra os amonitas. O pecado deles é precisamente delineado: “*Porque disseste: Ah! Ah! contra o meu santuário, quando foi profanado, e contra a terra de Israel, quando foi assolada, e contra a casa de Judá, quando foi para o cativeiro*”. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (Volume 2, 1565), observa com sua habitual perspicácia que o crime de Amom não foi uma agressão militar direta, mas uma malícia interior que transbordou em escárnio. Eles viram a mão disciplinadora de Deus sobre Judá e, em vez de tremerem diante do Santo que castiga até mesmo seus filhos, regozijaram-se com um “Ah! Ah!” de desprezo. Calvin argumenta que este é o ápice da perversidade humana: transformar a justiça divina, que deveria ser um solene aviso para todos, em motivo de zombaria e auto-glorificação. A aplicação para nós é imediata e desconfortável. Quantas vezes, em nossos corações, celebramos secretamente a exposição do pecado no outro, a queda do irmão que nos ofendeu, a dificuldade do colega que nos fez sombra? Nós mascaremos nosso regozijo em linguagem piedosa—“era juízo de Deus”—mas no fundo, é o mesmo “Ah! Ah!” amonita, um deleite perverso na desgraça alheia que revela mais sobre a escuridão em nosso próprio peito do que sobre a justiça de Deus.
+
+A narrativa profética segue para Moabe e Seir (Edom), e depois para os filisteus. O padrão se repete, mas com nuances. Moabe e Edom disseram: “*Eis que a casa de Judá é como todas as nações*”. Aqui, o pecado é a negação teológica da eleição. Eles olharam para a nação em ruínas, sob o jugo babilônico, e concluíram triunfantemente que seu Deus especial era uma farsa, que sua aliança era mito, que no fim das contas, eles eram “como todos os outros”. **Martyn Lloyd-Jones**, em seu sermão *God’s Way of Reconciliation* (1964), refletindo sobre a incredulidade do mundo diante do aparente silêncio de Deus, diria que este é o erro fatal do naturalismo. É reduzir os caminhos providenciais e misteriosos de Deus—que incluem a disciplina severa de seus amados—a uma mera equação de causa e efeito mundana. Edom, movido por “inimizade eterna”, agiu com malícia ativa, entregando o remanescente de Judá ao inimigo. Os filisteus, por vingança antiga, “se portaram com desprezo da alma”. Em cada caso, o que está em jogo não é apenas uma ofensa política contra Judá, mas uma ofensa teológica contra o próprio Jeová. Eles tocaram, com mãos profanas, no *Kāḇôḏ*, na glória do Deus de Israel, ao atacar e desprezar o povo que carregava seu nome, ainda que temporariamente sob sua censura.
+
+A resposta de Deus, portanto, não é uma reação vingativa de um nacionalismo divino, mas a defesa consistente de seu caráter santo e de seus propósitos redentivos na história. “*Saberão que eu sou o SENHOR*” é o refrão que ecoa como um martelo sobre cada uma dessas nações. O juízo anunciado—a entrega à espada, à pilhagem, à destruição—não é um fim em si mesmo. É um meio pedagógico e terrível de autorrevelação. **Timothy Keller**, em *The Reason for God* (2008), aborda a difícil doutrina do juízo divino argumentando que, em um universo moral criado por um Deus pessoal e justo, o mal não pode ser tratado com uma simples passagem de borracha. A justiça precisa ser satisfeita, o mal precisa ser nomeado e contido, para que a realidade última do amor e da santidade de Deus seja estabelecida. O “saberão que eu sou o SENHOR” de Ezequiel 25 é essa declaração pública, escrita com letras de fogo e ferro na página da história, de que há um Juiz, e que sua lei moral é tão real quanto a lei da gravidade. A mensagem pastoral aqui é profundamente consoladora para o crente que sofre injustiça e perplexo diante do triunfo aparente do mal. Ela sussurra: Deus vê. A zombaria não passa despercebida. O desprezo é registrado. A conta *será* acertada, não por nosso próprio braço vingativo, mas pelo braço do Juiz de toda a terra, que fará o que é justo.
+
+### Conclusão
+
+Então, o que fazemos diante deste capítulo que parece respirar apenas fogo e condenação? Primeiro, nós nos curvamos. Nós examinamos nosso coração à luz do “Ah! Ah!” amonita e do desdém moabita. Confessamos qualquer vestígio de alegria maligna na queda de outro, qualquer tendência a negar a ação especial de Deus na vida de seu povo—inclusive quando esse povo está sob disciplina. Segundo, nós nos lembramos. A mensagem para Judá, implícita nestes oráculos contra as nações, era: “Vocês são meus. Minha disciplina sobre vocês é paternal; meu juízo sobre eles é judicial. Não confundam as duas coisas.” A aliança permanece. Terceiro, nós nos refugiamos. O único lugar seguro no universo onde o juízo de Ezequiel 25 não nos alcança é na cruz de Cristo. Nele, o juízo que deveria cair sobre o povo da aliança rebelde e sobre as nações escarnecedoras caiu integralmente sobre o Filho. Em Cristo, o “saberão que eu sou o SENHOR” transforma-se de uma sentença de terror em um convite de reconhecimento amoroso. Aos pés da cruz, o fogo da justiça divina aquece-nos no abraço da graça, e aprendemos a temer, amar e confiar neste Deus, cuja ira é tão real quanto seu amor, e cujo amor encontrou um caminho para satisfazer sua ira sem destruir-nos. Essa é a mensagem pastoral final: você está coberto. Agora, viva como alguém que conhece o Juiz não como inimigo, mas como Pai.

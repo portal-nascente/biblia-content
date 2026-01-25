@@ -1,16 +1,55 @@
 ---
 slug: "ezequiel-34-pregacao-tecnica"
-titulo: ""
+titulo: "O Pastor, as Ovelhas e o Juízo: Um Retrato do Coração de Deus"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "ezequiel"
 capitulo: "34"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Ezequiel 34   O Pastor, as Ovelhas e o Juízo: Um Retrato do Coração de Deus   Texto-base: Ezequiel 34:1-31   Eixo Teológico: O Senhor, como o Pastor Supremo,..."
+tags: ["ansiedade", "medo"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Ezequiel 34
 
+## ***O Pastor, as Ovelhas e o Juízo: Um Retrato do Coração de Deus***
+
+## Texto-base: Ezequiel 34:1-31
+
+## Eixo Teológico: O Senhor, como o Pastor Supremo, expõe o fracasso dos pastores infiéis de Israel, assume pessoalmente o cuidado de seu rebanho disperso e promete estabelecer seu servo Davi como um único pastor sobre elas, revelando assim o caráter judicial e redentor de seu governo.
+
+## Introdução
+
+Há uma solidão peculiar que permeia as paisagens áridas da história humana, uma solidão que não é meramente geográfica, mas espiritual e moral. Imaginemos, por um momento, as colinas da Palestina no século VI a.C., sob o céu pesado do exílio babilônico. O povo de Judá, disperso como ovelhas sem rumo, olha para trás, para uma Jerusalém em ruínas, e para dentro, para uma liderança espiritual desintegrada. É neste vácuo de autoridade fiel, neste deserto de orientação verdadeira, que a voz do profeta Ezequiel ressoa, não primeiro como um rugido de condenação, mas como um lamento divino. **John Calvin**, em seus *Commentaries on the Prophet Ezekiel* (1849), observa que o profeta aqui não fala de si mesmo, mas é a boca pela qual o próprio Jeová pronuncia um veredito solene. O capítulo 34 de Ezequiel não é um mero tratado sobre má liderança; é uma radiografia da alma de Deus diante do sofrimento de seu povo e uma proclamação audaciosa de que, onde os pastores humanos falham, o Pastor Celestial intervém. A cena é pastoral, mas o drama é cósmico: trata-se do governo de Deus sobre seu povo e da natureza da verdadeira autoridade.
+
+## Proposição
+
+Portanto, proponho-vos nesta manhã que contemplemos, através da lente profética de Ezequiel, como o Senhor, em sua justiça inexorável e sua misericórdia insondável, primeiro **Desmascara os Pastores Mercenários**, depois **Declara sua Própria Busca Pastoril** e, finalmente, **Destina um Pastor da Linhagem de Davi**, revelando assim o padrão divino de cuidado que culmina na pessoa e obra de Jesus Cristo.
+
+## I. O Desmascaramento dos Pastores Mercenários: A Ovelha como Commodity
+
+A palavra do Senhor começa não com uma ameaça vaga, mas com uma acusação direta e devastadora: “Ai dos pastores de Israel, que apascentam a si mesmos!”. A imagem é de uma obscena inversão de valores. O pastor, cuja vocação é dar a vida pelas ovelhas, transformou-se em seu predador mais imediato. **Walter Brueggemann**, em *The Theology of the Book of Ezekiel* (2022), destaca que a profecia expõe uma teologia da exploração, onde o poder religioso e político é exercido não para servir, mas para se servir. Ezequiel enumera os crimes: eles se alimentam do leite, vestem-se da lã e abatem o animal cevado, mas não fortalecem a fraca, não curam a doente, não enfaixam a quebrada, não trazem de volta a desgarrada, nem buscam a perdida. O rebanho tornou-se uma fonte de recursos para sua gratificação, e as ovelhas, meras unidades de produção e consumo.
+
+Mas o profeta vai mais fundo, penetrando na psicologia desta negligência criminosa. Eles governaram com “aspereza e violência”. A palavra hebraica aqui (*perek*) carrega a ideia de trabalho forçado, de jugo esmagador. **Daniel I. Block**, em seu monumental *The Book of Ezekiel: Chapters 25–48* (1998), faz uma exegese minuciosa do termo, mostrando que descreve um regime de terror pastoral, onde o medo substitui o cuidado. O resultado é uma dispersão catastrófica: “As minhas ovelhas andaram dispersas por todos os montes e por todo outeiro elevado; e sobre toda a face da terra se achavam dispersas as minhas ovelhas, sem haver quem as procurasse ou quem as buscasse”. A cena é de abandono total. Não é apenas que fugiram; é que ninguém se importou em ir atrás. A solidão do exílio, portanto, não é um acidente histórico, mas a consequência direta de um pastoreio infiel. **Christopher J.H. Wright**, em *The Message of Ezekiel* (2001), aplica esta verdade de forma contundente: a negligência espiritual e a exploração por parte dos líderes levam inevitavelmente ao esfacelamento da comunidade da aliança. O julgamento de Deus sobre estes pastores é a revogação de sua mordomia: “Eis que eu sou contra os pastores”. A sentença é a mais terrível possível para um líder: a remoção da presença e da bênção de Deus. Eles são destituídos. O Pastor Supremo entra em cena não primeiro para salvar as ovelhas, mas para remover os falsos pastores. A justiça é o pré-requisito da misericórdia.
+
+## II. A Declaração da Busca Pastoril Divina: A Ovelha como Objeto do Afeto
+
+E eis que, após o trovão do juízo, surge a melodia terna da intervenção divina. “Eis que eu mesmo procurarei as minhas ovelhas e as buscarei.” Este “eu mesmo” (*ani ani*) é enfático, pessoal, contrastando radicalmente com a negligência dos pastores. Deus não delega esta busca a um comitê celestial; ele assume a tarefa pessoalmente. **Martyn Lloyd-Jones**, em seu espírito expositivo, diria que aqui vemos o coração do Evangelho antes do Evangelho. O Senhor se descreve realizando todas as ações que os pastores infiéis se recusaram a fazer: buscar a perdida, reconduzir a desgarrada, enfaixar a quebrada, fortalecer a doente. Mas ele vai além, prometendo também destruir a “gorda e a forte”, ou seja, julgar aquelas ovelhas que, aproveitando-se do sistema corrupto, oprimiram as mais fracas. A justiça de Deus é holística, atingindo tanto os líderes opressores quanto os seguidores opressivos dentro do rebanho.
+
+A promessa que se segue é de um pastoreio ativo e protetor. “Eu as apascentarei num bom pasto.” A linguagem é de abundância escatológica, ecoando o Salmo 23. **Geerhardus Vos**, em sua *Biblical Theology* (1948), identificaria aqui um vislumbre da restauração escatológica, um retorno ao estado de shalom da aliança. O Senhor promete um julgamento pastoral (*mishpat*) entre ovelha e ovelha, entre carneiros e bodes. Esta não é uma imagem de um rebanho homogêneo e pacífico por si só, mas de um rebanho sob a autoridade direta e justa do Pastor, que estabelece a paz (*shalom*) removendo os elementos de violência e competição. A aliança de paz que Deus estabelece é ativa, não passiva. É uma paz conquistada e mantida por seu governo justo. **John R. W. Stott**, embora não um exegeta do Antigo Testamento por ofício, capturaria bem a implicação: o cuidado de Deus é discriminatório em sua justiça e universal em sua intenção de benevolência para com os que são verdadeiramente seus. Ele separa, para salvar. Ele julga, para restaurar. A busca divina, portanto, não é um resgate indiscriminado, mas um resgate soberano que transforma a condição do rebanho, criando um novo ambiente de segurança e fertilidade espiritual. As ovelhas deixam de ser vítimas ou opressoras para se tornarem, sob o pastoreio divino, beneficiárias de uma justiça que é também graça.
+
+## III. A Destinação do Pastor Davídico: A Ovelha sob um Só Cajado
+
+A revelação profética atinge seu clímax nos versos 23 e 24: “E suscitarei sobre elas um só pastor, e ele as apascentará; o meu servo Davi é que as apascentará; ele lhes servirá de pastor. Eu, o SENHOR, lhes serei por Deus, e o meu servo Davi será príncipe no meio delas. Eu, o SENHOR, o disse.” Esta é uma das declarações messiânicas mais claras e poderosas de todo o livro. Deus não promete apenas pastorear pessoalmente; promete fazê-lo através de um agente humano específico, “o meu servo Davi”. **Herman Bavinck**, em sua *Reformed Dogmatics* (1906), enfatiza que este “Davi” não pode ser uma mera referência histórica, pois o Davi histórico já estava morto há séculos. Trata-se do Davi escatológico, o Messias prometido, o herdeiro legítimo do trono e da aliança davídica. Ele é “um só pastor”. A unidade do rebanho, fragmentado pela infidelidade dos pastores, será restaurada sob uma única autoridade pastoral.
+
+Este pastor messiânico opera em perfeita subordinação e sintonia com o Pastor Supremo. Ele é “príncipe no meio delas”, não um déspota distante. A palavra hebraica para príncipe (*nasi*) implica liderança, mas não no sentido autocrático dos pastores anteriores. É uma liderança de serviço, de presença no meio do povo. **O. Palmer Robertson**, em *The Christ of the Covenants* (1980), explora como esta promessa cumpre e transcende a aliança davídica, apontando para um rei que é também pastor, cujo reinado é caracterizado pelo conhecimento de Deus e pela segurança do povo. A bênção resultante é descrita em termos de uma aliança de paz, de proteção contra as feras (as nações opressoras), e de prosperidade segura: “Haverá chuvas de bênção”. O quadro final é de uma restauração cósmica da relação pastor-ovelha, onde a maldição da dispersão e do abandono é totalmente revertida. **Graeme Goldsworthy**, em *Preaching the Whole Bible as Christian Scripture* (2000), nos conduziria inevitavelmente daqui para o Evangelho de João, capítulo 10, onde Jesus declara: “Eu sou o bom pastor. O bom pastor dá a vida pelas ovelhas”. Em Cristo, o “eu mesmo” de Jeová e o “meu servo Davi” se fundem numa pessoa. Ele é o Pastor que busca a ovelha perdida, que cura a quebrada, que fortalece a fraca, e que, acima de tudo, dá a vida para que as ovelhas tenham vida em abundância. O pastoreio de Cristo na cruz é o julgamento supremo sobre os pastores mercenários e a realização definitiva da busca pastoril de Deus.
+
+## Conclusão
+
+Irmãos, a palavra de Ezequiel 34 ecoa através dos séculos e encontra seu destino em nossos corações hoje. Ela nos interroga: sob qual pastor temos nos alimentado? Temos buscado os pastores que apascentam a si mesmos, que oferecem leves consolações e promessas de prosperidade sem cruz, cujo cajado é de violência e aspereza para com os fracos na fé? Ou temos nos submetido ao cajado e ao bordão do único Bom Pastor, Jesus Cristo, cujo governo é justo, cujo cuidado é sacrificial e cuja voz nos chama pelo nome? Aos que estão dispersos pela ansiedade, desgarrados pelo pecado, quebrados pela decepção, doentes de alma, a palavra final deste capítulo não é um diagnóstico, mas um convite. O Pastor Supremo declara: “Vós, ovelhas minhas, ovelhas do meu pasto, sois homens, e eu sou o vosso Deus”. Ele nos reconhece como seus. Em Cristo, a busca terminou. O juízo sobre os falsos pastores foi executado na cruz. A aliança de paz foi estabelecida pelo sangue do Cordeiro. Agora, resta-nos descansar em seu pastoreio, andar em seus pastos verdejantes, e aguardar o dia em que, na plenitude de seu reino, não haverá mais dispersão, nem fome, nem feras, mas apenas a presença eterna do Pastor e das ovelhas, num rebanho unificado, sob o olhar do Pai. Que assim seja.
+
+## **Amém.**

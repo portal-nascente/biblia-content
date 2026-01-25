@@ -1,16 +1,37 @@
 ---
 slug: "isaias-10-mensagem-pastoral"
-titulo: ""
+titulo: "O Machado que se Glória Contra o Lenho"
 tipo: "mensagem-pastoral"
 origem: "biblia"
 livro: "isaias"
 capitulo: "10"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
 readTime: "7 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "MENSAGEM PASTORAL  Isaías 10   O Machado que se Glória Contra o Lenho   Introdução  Há um silêncio peculiar que precede a queda de um grande carvalho. Por séculos, ele se ergueu,..."
+tags: ["amor", "medo"]
 ---
 
+# MENSAGEM PASTORAL
+# Isaías 10
 
+## ***O Machado que se Glória Contra o Lenho***
+
+## Introdução
+
+Há um silêncio peculiar que precede a queda de um grande carvalho. Por séculos, ele se ergueu, testemunha muda das estações, abrigo para as aves, símbolo de permanência. Suas raízes pareciam conversar com as profundezas da terra, e seus galhos, acariciar o céu. Então, chega o lenhador. Com golpes precisos e metódicos, sua machadinha de ferro, fria e afiada, morde o tronco. A cada golpe, um estalo seco ecoa na floresta. E eis a cena mais absurda: se a machadinha pudesse falar, no auge de sua fúria destrutiva, ela se gabaria de sua força, esquecendo-se por completo da mão que a empunha, do braço que a guia, da inteligência que traçou o ângulo do golpe. Ela, um instrumento, gloriar-se-ia contra aquele que a usa. Meu irmão, minha irmã, é nesta imagem de profunda insensatez e soberba desmedida que o profeta Isaías nos introduz, no capítulo décimo de suas visões, para nos falar do juízo de Deus sobre a arrogância dos poderes humanos e, paradoxalmente, de Sua fidelidade para com um remanescente que aprende a confiar não em si mesmo, mas apenas na Rocha Eterna.
+
+## Desenvolvimento
+
+O profeta começa por denunciar um mal que é, tragicamente, atemporal: a perversão da justiça. **John Calvin**, em seus *Commentaries on the Book of the Prophet Isaiah* (1559), observa com precisão cirúrgica que o alvo inicial não são nações estrangeiras, mas os próprios líderes de Judá. São eles que “decretam leis injustas” e “escrevem decretos opressores”, distorcendo o direito dos pobres e roubando a justiça dos aflitos. É uma corrupção que nasce no palácio e no tribunal, e que transforma o Estado, que deveria ser um ministro de Deus para o bem, em um instrumento de iniqüidade. O profeta pinta um quadro sombrio: um dia de castigo se aproxima, um dia em que não haverá refúgio para onde fugir, nem riqueza que possa resgatar a alma. A pergunta retórica é devastadora: “Que farão vocês no dia do castigo?”. A lição é pastoral e urgente: nenhuma estrutura humana, por mais sólida que pareça, sobrevive quando seu fundamento é a injustiça. A sociedade que esquece o órfão e a viúva, que oprime o estrangeiro e explora o trabalhador, está, nas palavras do profeta, cavando sua própria sepultura com decretos de ouro e leis de marfim.
+
+É então que a visão profética se amplia, e o foco se volta para a Assíria. Este império, personificado em seu rei arrogante, é apresentado como a “vara” da ira de Deus, o “bastão” do Seu furor, enviado contra uma nação ímpia. A Assíria é o instrumento escolhido para executar o juízo. Contudo, o coração do capítulo, e o cerne de nossa mensagem, reside no monólogo soberbo deste instrumento. Ele não vê a mão que o move. Ele crê, em sua insanidade autossuficiente, que seu poder é fruto de sua própria sabedoria e força. “Pela força da minha mão eu o fiz”, dirá o rei da Assíria, “e pela minha sabedoria, porque tenho entendimento”. Ele vê nações como ovos abandonados, que ele recolhe sem que ninguém mova uma asa ou abra o bico. Ele se compara a um homem que colhe ovos, e a um que esmaga cidades. **Martyn Lloyd‑Jones**, em seu sermão *God’s Way with Nations* (1964), comenta que este é o retrato definitivo da hybris, da desmedida, que atinge todo poder que se esquece de sua condição de criatura. A Assíria é a machadinha que se gloria contra o lenho, o serrote que se exalta contra quem o maneja. E eis a pergunta divina que corta o ar como um relâmpago: “Acaso gloriar-se-á o machado contra quem o maneja?”
+
+A resposta de Deus a esta loucura soberba é um dos trechos mais solenes das Escrituras. O Senhor dos Exércitos enviará uma praga debilitante sobre os “gordos” e “robustos” da Assíria. A glória deste império será consumida como um fogo que devora um espinheiro. Será como quando um homem adoece e sua carne robusta se consome, até que apenas os ossos permaneçam. O propósito divino é claro: “Quando o Senhor terminar toda a sua obra no monte Sião e em Jerusalém, castigarei o rei da Assíria pelo fruto de sua arrogância e pela pompa da sua altivez”. A lição é cósmica: Deus é soberano até sobre os tiranos. Ele os usa para seus propósitos judiciais, mas não os absolve de sua maldade intrínseca. Sua arrogância será, em si mesma, o motivo de sua queda. **Timothy Keller**, em *The Reason for God* (2008), aplica este princípio de forma penetrante, mostrando como toda forma de poder humano, quando divorciada do temor de Deus, inevitavelmente degenera em opressão e, por fim, em autodestruição. A história não é um caos, mas um tribunal.
+
+E no meio deste panorama de juízo nacional e internacional, surge, como um broto tenaz em meio a escombros, a mais doce e esperançosa das promessas. “Naquele dia, o remanescente de Israel, os sobreviventes da descendência de Jacó, já não confiarão naquele que os feriu, mas confiarão no SENHOR, o Santo de Israel, com toda a fidelidade”. Aqui está o coração pastoral desta mensagem. O juízo de Deus tem um propósito pedagógico e redentor. Ele não é um fim em si mesmo. Seu objetivo último é quebrantar a confiança autossuficiente do seu povo, para que eles, um remanescente fiel, aprendam a descansar unicamente nEle. A Assíria, por mais terrível que fosse, seria quebrada. O jugo pesado seria removido. **Charles Spurgeon**, em seu sermão *The Remnant* (1887), exclama com emoção contida: “Oh, amados, que consolo há no pensamento de um remanescente! Deus nunca está sem testemunhas. A candeia pode tremer, mas não se apagará”. O capítulo termina com uma visão de libertação, onde o terror do opressor se dissipa, e o povo de Deus caminha sob a sombra do Onipotente. O fardo será tirado do seu ombro, e o jugo, destruído por causa da unção – uma clara profecia do Messias que viria para quebrar o jugo definitivo do pecado e da morte.
+
+## Conclusão
+
+Portanto, qual é a palavra pastoral que extraímos deste denso capítulo? Primeiro, um sério aviso contra a tentação de nos gloriarmos em qualquer poder, sabedoria ou sucesso que tenhamos. Sejamos líderes, profissionais, pais ou cidadãos, somos, na melhor das hipóteses, instrumentos. A mão que nos maneja é a de Deus. Gloriar-nos em nossa própria força é a insensatez da machadinha. Segundo, um chamado à justiça e à integridade em todas as nossas relações. Deus não é indiferente aos decretos opressores, sejam eles nacionais ou domésticos. Terceiro, e mais profundamente, um convite à confiança humilde. Os juízos de Deus na história e em nossas vidas pessoais muitas vezes visam um fim amoroso: destruir nossos ídolos de autossuficiência para que nos voltemos, como um remanescente contrito e fiel, para o único fundamento seguro. Em meio às Assírias que nos oprimem – sejam elas crises, doenças, perdas ou medos – a promessa permanece: um jugo será quebrado. Não pela força do nosso braço, mas “por causa da unção”. Aquele que é o Santo de Israel é também o Servo sofredor que carrega nossos fardos. Nele, o machado da condenação foi desferido, e o lenho da cruz tornou-se a árvore da vida. Nele, e somente nele, o remanesente encontra repouso.

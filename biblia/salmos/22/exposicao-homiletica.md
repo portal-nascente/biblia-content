@@ -1,16 +1,59 @@
 ---
 slug: "salmos-22-pregacao-tecnica"
-titulo: ""
+titulo: "O Grito do Abandono e o Cântico da Congregação: Um Salmo em Forma de Cruz"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "22"
-data: "2025-11-29"
+data: "2026-01-23"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 22   O Grito do Abandono e o Cântico da Congregação: Um Salmo em Forma de Cruz   Texto-base: Salmos 22   Eixo Teológico: O Sofrimento Inocente do Messi..."
+tags: ["amor"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 22
 
+## ***O Grito do Abandono e o Cântico da Congregação: Um Salmo em Forma de Cruz***
+
+## Texto-base: Salmos 22
+
+## Eixo Teológico: O Sofrimento Inocente do Messias, vivido na solidão absoluta, é o fundamento da comunhão universal do povo redimido, transformando o lamento individual em louvor corporativo.
+
+## Introdução
+
+Há, na história da piedade humana, gemidos que parecem brotar das próprias entranhas da terra, suspiros tão profundos que ecoam no vácuo do céu aparentemente silencioso. O Salmo 22 nos coloca diante de um desses gemidos, não como espectadores distantes, mas como ouvintes às portas do Getsêmani e aos pés do Gólgota. Não é um salmo qualquer; é uma paisagem sonora da alma em sua mais aguda angústia, uma sinfonia dissonante que, no seu clímax, resolve-se num coro de triunfo. **Bernhard W. Anderson**, em *Out of the Depths: The Psalms Speak for Us Today* (2000), observa que este salmo constrói uma ponte única entre a experiência mais privada do desamparo e a mais pública das celebrações de fé. É o grito do “Deus meu, Deus meu, por que me desamparaste?” que, paradoxalmente, nunca ecoa sozinho; ele atrai uma multidão. Hoje, adentramos esta catedral textual, este lugar santíssimo do sofrimento profético, para ouvir a voz do Cristo sofredor e aprender que nosso mais profundo lamento já foi cantado, e redimido, na cruz.
+
+## Proposição
+
+Através da lente cristocêntrica da revelação progressiva, demonstraremos que o Salmo 22 desdobra-se em três movimentos inevitáveis: primeiro, a **Solidão do Cordeiro**, onde o clamor do justo atinge o ápice do abandono percebido; segundo, o **Cerco dos Adversários**, que detalha a natureza visceral e desumanizadora do sofrimento infligido; e terceiro, o **Cântico da Congregação**, onde o voto de louvor individual explode numa proclamação universal da soberania de Deus, transformando a experiência da dor no fundamento da adoração comunitária.
+
+## I. A Solidão do Cordeiro: O Clamor no Escuro do Meio-Dia
+
+O salmo irrompe não com uma meditação tranquila, mas com um grito lancinante que atravessa os séculos: “Deus meu, Deus meu, por que me desamparaste?”. Esta não é uma pergunta filosófica sobre o mal, mas um lamento existencial, filial, que pressupõe uma relação íntima (“*meu* Deus”) violentamente rompida na percepção do orante. O abandono é a essência da dor. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), comenta que aqui “o salmista não se queixa de inimigos ou de doenças, mas do próprio Deus, que parece tê-lo rejeitado”. Esta é a solidão absoluta, a do filho que não encontra mais o rosto do Pai. A sequência de contrastes é aguda: o Deus da santidade, “habitando entre os louvores de Israel”, é o mesmo que parece distante do “gemido” do suplicante. A memória da fidelidade passada – “Em ti confiaram nossos pais… a ti clamaram e foram salvos” – serve apenas para aprofundar o paradoxo do presente silêncio. **Derek Kidner**, em *Psalms 1–72: An Introduction and Commentary* (1973), nota que a fé aqui está sob tensão máxima: ela clama *para* Deus *contra* o silêncio *de* Deus, mantendo-se, ainda assim, como clamor.
+
+Esta solidão é corpórea. O salmista se descreve como “verme, e não homem”, uma imagem de extrema desolação e desprezo. Não é um homem forte caído, mas alguém cuja humanidade parece ter sido dissolvida. **Hans-Joachim Kraus**, em *Psalms 1–59: A Continental Commentary* (1993), explora o termo hebraico *tola’at*, “verme”, associando-o não apenas à baixeza, mas à cor escarlate, prenunciando, de forma involuntária pelo salmista, a ideia de um sofrimento que tinge. Os ossos deslocados, o coração derretido como cera, a força seca como um caco de barro – é a desintegração total da pessoa. E no centro desta desintegração, está a sede: “a minha língua se apega ao céu da boca”. **Augustus H. Strong**, o sistemático, em sua *Systematic Theology* (1907), ao tratar da expiação, vê neste detalhe a realização literal da sede de Cristo na cruz, um sofrimento físico que era símbolo de uma sede espiritual infinitamente mais profunda: a sede pela reconciliação. A solidão, portanto, não é apenas emocional ou espiritual; é uma condição holística, que envolve o corpo prestes a ser trespassado.
+
+## II. O Cerco dos Adversários: Os Cães, os Touros e o Leão da Tribulação
+
+Se a primeira parte do salmo enfoca a vertikalidade quebrada (a relação com Deus), a segunda detalha a horizontalidade hostil (a relação com os homens). O sofrimento do justo não ocorre no vácuo, mas em um cenário de antagonismo feroz e desumanizador. Os inimigos são descritos com uma zoologia simbólica poderosa e aterradora. Primeiro, os “*cães*” me cercam. **C. H. Spurgeon**, em *The Treasury of David* (1870), com sua eloquência característica, exclama: “Cães! Eis aí um epíteto desprezível! Eles não são leões, diante dos quais um homem possa morrer heroicamente; são cães, vis, vorazes, que atacam em matilha para roer os ossos do morto”. São figuras de impureza e insolência, que rodeiam o sofredor, farejando sua fraqueza. Em seguida, a “*assembléia de malfeitores*” cerca-o como “*touros de Basã*”. Basã era conhecido por seus pastos férteis e seu gado robusto. São inimigos fortes, nutridos, arrogantes em seu poder, que investem com força bruta.
+
+O clímax desta investida animal é o “*leão*” que abre a boca contra ele. O leão é o predador por excelência, símbolo do poder destruidor e da majestade cruel. Esta tríade – cães, touros, leão – não representa três grupos distintos, mas três dimensões do mesmo mal: a insolência desprezível, a força opressora bruta e o poder majestoso e devorador. **Hermann Gunkel**, o pai da crítica das formas, em *Die Psalmen* (1926), classificaria esta seção como parte do “lamento individual”, onde a descrição do sofrimento infligido pelos inimigos é um *topos* clássico. No entanto, no Salmo 22, ela transcende a convenção. Cada imagem encontra seu cumprimento vívido na paixão de Cristo: a matilha de acusadores e escarnecedores, a força bruta dos soldados romanos, e o poder majestoso, porém corrupto, das autoridades religiosas e políticas que o condenaram.
+
+E então, chegamos ao verso mais visceralmente profético: “*traspassaram-me as mãos e os pés*”. A palavra hebraica, *ka’ari* (como um leão), gerou debates textuais, mas a tradução tradicional, sustentada pela Septuaginta e pelo claro cumprimento no Novo Testamento, permanece poderosa. **F. Delitzsch**, em seu clássico *Biblical Commentary on the Psalms* (1867), defende que, mesmo com questões lexicais, o sentido de “cavar” ou “perfurar” é inescapável no contexto. É a descrição de uma execução por crucificação, um método desconhecido no tempo de Davi. O Espírito Santo, através do salmista, estava pintando um quadro cujas cores só seriam totalmente compreendidas séculos depois, no Monte da Caveira. O detalhe seguinte – “*posso contar todos os meus ossos*” – fala de um corpo esticado e emagrecido à beira da morte, enquanto os inimigos “*me observam e miram*” com um olhar voyeurístico e triunfante. Eles repartem suas vestes e lançam sortes sobre sua túnica, um detalhe de trivialidade cruel que o Evangelho de João registra com assombrosa precisão (João 19:24). **Geerhardus Vos**, em *Biblical Theology* (1948), argumentaria que aqui temos um exemplo supremo de profecia orgânica e tipológica: a experiência histórica de Davi (ou de outro piedoso sofredor) é elevada e moldada pelo Espírito para prefigurar de maneira única e definitiva o sofrimento do Messias.
+
+## III. O Cântico da Congregação: Do Voto Pessoal ao Louvor Cósmico
+
+Eis o grande giro, a reviravolta teológica que faz deste salmo uma joia única. No versículo 21, a partir da súplica “Salva-me da boca do leão”, o tom muda radicalmente. A resposta à oração, implícita no texto, opera uma transformação cataclísmica. O orante, salvo, faz um voto: “*Anunciarei o teu nome a meus irmãos; no meio da congregação te louvarei*”. O isolamento é quebrado. A experiência de desamparo, uma vez atravessada e redimida, não termina em alívio privado, mas em testemunho público. O “eu” solitário agora se dirige a “irmãos”. **N. T. Wright**, em *The Day the Revolution Began* (2016), vê neste movimento a essência do evangelho: a cruz não é um fim, mas o nascimento da nova comunidade. O sofredor vitorioso se torna o líder de louvor no meio da assembleia. Este não é um louvor qualquer; é um louvor que narra a história do sofrimento e da salvação. “Vós, que temeis ao SENHOR, louvai-o!… Porque não desprezou nem abominou a aflição do aflito, nem escondeu dele o seu rosto; antes, ouvindo-o, o atendeu”.
+
+O círculo do louvor se expande de forma geométrica e cósmica. Primeiro, a “congregação” de Israel. Depois, “*todas as famílias das nações*” se prostrarão perante o Senhor. O sofrimento do Justo tem implicações universais. A redenção conquistada naquele momento de abandono é para “*todos os confins da terra*”. O salmo prevê uma evangelização global nascida do testemunho do resgatado. **J. A. Motyer**, estudioso do Antigo Testamento, em *The Psalms* (2016), destaca que o verbo “*se lembrarão*” é crucial: as nações não apenas ouvirão, mas internalizarão a história, voltarão-se ao Senhor e o adorarão. O reino é do Senhor, e Ele o domina sobre as nações.
+
+E então, a visão se projeta para a eternidade: “*A posteridade o servirá; falarão do Senhor à geração vindoura. Virão e anunciarão a sua justiça ao povo que há de nascer, porque ele o fez*”. O “ele o fez” é o clímax. É o grito de “está consumado” do Calvário. A obra redentora está completa. O salmo que começou com o grito de abandono termina com uma declaração de triunfo que ecoa através das gerações. **Oswald Bayer**, em *Teologia* (1994), ao refletir sobre a doutrina da justificação, poderia apontar para este salmo como a narrativa perfeita da *pro me* (para mim) que se torna *pro nobis* (para nós) e finalmente *pro mundi* (para o mundo). O lamento do Cristo abandonado é o alicerce inabalável do louvor da Igreja, que é sua noiva e seu corpo.
+
+## Conclusão
+
+Irmãos, o Salmo 22 é mais que um salmo; é um mapa da alma redimida e um retrato da obra redentora. Ele nos ensina que nossos gritos de “por quê?” não são heresia, mas parte da linguagem da fé autêntica, uma linguagem que o próprio Filho de Deus falou em nosso lugar. Ele nos mostra que nosso sofrimento, por mais que seja cercado por “cães” e “touros”, nunca é último, porque Aquele que foi traspassado já o transformou em um portal para a comunhão. E ele nos convoca, hoje. Se você está no escuro do meio-dia, sentindo o silêncio de Deus, saiba que seu lamento já foi incluído no lamento do Calvário. E se você já experimentou a resposta, ainda que parcial, à sua oração, seu lugar não é no isolamento do alívio, mas no meio da congregação, anunciando o nome dAquele que não escondeu o rosto. Porque desta solidão nasceu nossa família. Deste abandono, brotou nosso louvor. Deste grito, surgiu o cântico que unirá todas as nações, tribos e línguas. Que nossa vida, individual e coletiva, seja um eco crescente deste cântico, até que a terra se encha do conhecimento da glória do Senhor, como as águas cobrem o mar.
+
+## **Amém.**

@@ -1,16 +1,55 @@
 ---
 slug: "salmos-123-pregacao-tecnica"
-titulo: ""
+titulo: "Olhos Ergidos: A Postura da Alma Dependente"
 tipo: "pregacao-tecnica"
 origem: "biblia"
 livro: "salmos"
 capitulo: "123"
-data: "2025-11-29"
+data: "2026-01-24"
 autor: "Capelão Nascente"
-readTime: "7 min de leitura"
+readTime: "75 min de leitura"
 imageUrl: ""
-tema_principal: ""
-tags: []
+tema_principal: "PREGAÇÃO EXPOSITIVA  Salmos 123   Olhos Ergidos: A Postura da Alma Dependente   Texto-base: Salmo 123   Eixo Teológico: A verdadeira piedade é expressa numa postura contínua de de..."
+tags: ["amor"]
 ---
 
+# PREGAÇÃO EXPOSITIVA
+# Salmos 123
 
+## ***Olhos Ergidos: A Postura da Alma Dependente***
+
+## Texto-base: Salmo 123
+
+## Eixo Teológico: A verdadeira piedade é expressa numa postura contínua de dependência humilde e expectante da misericórdia soberana de Deus, especialmente em meio ao desprezo do mundo.
+
+## Introdução
+
+Imaginemos, por um momento, a cena de um vasto domínio oriental. No grande salão do trono, fileiras de servos permanecem em silêncio reverente, seus corpos inclinados, seus rostos voltados para o chão. Entre eles, porém, há um. Seus olhos não vagueiam pelos mosaicos do piso, nem se fixam nas vestes bordadas dos cortesãos. Seus olhos, com uma mistura de submissão absoluta e esperança audaciosa, estão fixos em um único ponto: as mãos do senhor sentado no trono. Ele não busca o olhar do rei, que poderia ser de ira ou indiferença. Ele busca as mãos, pois delas vem o sustento, o perdão, o gesto de benevolência que pode mudar sua sorte. Esta imagem, vívida e pungente, é a moldura que o salmista nos entrega para compreendermos a essência da vida de fé. Não se trata de um salmo longo ou complexo em sua estrutura, mas sua simplicidade é como um cristal lapidado: concentra em poucas linhas um raio de luz divina sobre a postura fundamental da criatura diante do Criador. Em um mundo que nos ensina a erguer os olhos para nossos próprios feitos, para nossos planos meticulosos, para a arrogância do self-made man, este cântico das subidas nos convoca a uma revolução na orientação da alma. É um salmo para os cansados, para os desprezados, para aqueles cuja alma está saturada de afrontas, e que, no fundo do poço, aprendem onde está o verdadeiro norte.
+
+## Proposição
+
+O Salmo 123 nos ensina que a única resposta sábia e graciosa da alma atribulada pelo desprezo do mundo é cultivar uma dependência ativa e expectante da misericórdia de Deus, manifesta em três movimentos consecutivos: o olhar vertical da submissão, o apelo persistente pela compaixão e a paciência histórica na espera do agir divino.
+
+## I. O Olhar Vertical: A Submissão Ativa da Criatura ao Soberano Senhor
+
+"A ti levanto os meus olhos, ó tu que estás assentado nos céus. Eis que assim como os olhos dos servos estão atentos às mãos dos seus senhores, e os olhos da serva, à mão de sua senhora, assim os nossos olhos estão atentos ao SENHOR, nosso Deus, até que ele tenha misericórdia de nós" (Sl 123:1-2). O salmo não começa com um lamento, mas com uma declaração de posição. "A ti levanto os meus olhos". Este é um ato deliberado da vontade, um movimento contracultural da alma. **John Calvin**, em seu *Commentary on the Book of Psalms* (1557), observa com precisão cirúrgica que o salmista, "ao dizer que levanta os olhos a Deus, implica que, anteriormente, estavam fixos em outra direção, presos às misérias que o oprimiam". Levantar os olhos é um ato de fé que rompe com a hipnose do problema. Mas note para onde eles se erguem: não para um Deus distante, abstrato, mas para Aquele que "está assentado nos céus". Esta não é uma localização geográfica, mas uma afirmação teológica. Fala da transcendência, da soberania, do governo incontestável de Deus sobre todo o caos terrestre. **Herman Bavinck**, em sua magnum opus *Reformed Dogmatics* (1906), nos lembra que "a onipotência de Deus não é um poder bruto, mas o poder do Senhor, que é ao mesmo tempo Todo-poderoso e Pai". Olhar para Aquele entronizado é reconhecer que o poder último pertence a Ele, não aos nossos opressores.
+
+A metáfora que se segue é de uma beleza e humildade devastadoras. A vida de fé é comparada à de um servo, cuja sobrevivência, dignidade e esperança dependem inteiramente do beneplácito de seu senhor. Os olhos do servo estão "atentos às mãos". **Derek Kidner**, em seu conciso e profundo *Psalms 73–150* (1975), salienta que "as mãos são o que importam: são elas que dão ou retêm, que protegem ou punem". O servo não exige, não reclama direitos; ele espera. Sua postura é de total dependência. Esta não é uma dependência passiva ou fatalista, mas uma atenção vigilante, uma expectativa treinada. **Augustus H. Strong**, no clássico *Systematic Theology* (1907), ao discorrer sobre a paciência como fruto do Espírito, a define precisamente como "a qualidade de mente e coração que nos capacita a suportar o mal sem retaliação, e a esperar pelo bem sem desespero". O salmista funde submissão e esperança: "até que ele tenha misericórdia de nós". A espera tem um alvo, um término prometido na própria natureza de Deus, que é "misericordioso e compassivo" (Sl 103:8). Nossa submissão, portanto, não é a um déspota caprichoso, mas ao Pai cujas mãos, marcadas pelas feridas da cruz, são as únicas que podem nos sustentar verdadeiramente.
+
+## II. O Apelo Persistente: O Grito da Alma Saturada de Afrontas
+
+"Tem misericórdia de nós, SENHOR, tem misericórdia de nós, pois estamos sobremodo fartos de desprezo. A nossa alma está sobremodo farta da zombaria dos que estão à vontade e do desprezo dos soberbos" (Sl 123:3-4). Aqui, a postura expectante desemboca no clamor vocal. A repetição "tem misericórdia de nós" não é mera redundância literária; é o ritmo ofegante da oração que brota de uma necessidade extrema. É o "Kyrie eleison" do Antigo Testamento, ecoado pelos publicanos e cegos nos evangelhos. A dependência reconhece sua própria indigência e a expressa. O motivo do clamor é a saturação da alma: "estamos sobremodo fartos de desprezo". A palavra hebraica aqui carrega a ideia de estar completamente cheio, até a náusea. Não é uma irritação passageira, mas um cansaço profundo, existencial, resultante de um desprezo prolongado. **C. H. Spurgeon**, em *The Treasury of David* (1870), com sua eloquência característica, descreve: "É um fardo pesado suportar o desprezo; gota a gota ele pode ser suportado, mas quando se torna uma torrente contínua, quebra o espírito do homem". O salmista identifica a fonte deste desprezo: "os que estão à vontade e os soberbos".
+
+Esta distinção é crucial. **Geerhardus Vos**, em sua *Biblical Theology* (1948), ajuda-nos a ver que o "escárnio dos que estão à vontade" fala daqueles que, em sua autossuficiência e prosperidade despreocupada, tratam os piedosos com sarcasmo, vendo sua dependência de Deus como fraqueza ou tolice. São os "ricos" da parábola do homem tolo (Lc 12:16-21), que confiam na abundância de seus bens. Já o "desprezo dos soberbos" aponta para a atitude ativa de arrogância, de quem se coloca acima dos outros e, especialmente, acima do próprio Deus (Sl 10:4). **John Piper**, em *Desiring God* (1986), conecta essa soberba à raiz de todo pecado: a troca da glória do Deus incorruptível por ídolos, o que leva inevitavelmente ao desprezo por aqueles que ainda refletem essa glória. A alma do crente, sensível à honra de Deus, sente esse desprezo de forma aguda, pois ele é, em última instância, um desprezo ao Senhor a quem servem. O clamor por misericórdia, portanto, não é apenas por alívio psicológico, mas por vindicação teológica. É um pedido para que Deus aja para defender a honra do seu Nome, manifestada no tratamento dado ao seu povo.
+
+## III. A Paciência Histórica: A Espera na Fidelidade do Deus da Aliança
+
+O salmo termina de forma abrupta, sem uma resolução narrativa. Não há um relato de intervenção divina imediata, nem a descrição do desprezo sendo revertido. O clamor ecoa e parece ficar suspenso no ar. Esta é, talvez, a lição mais profunda e difícil do texto. A dependência humilde se exercita no tempo, na história, no "até que" do versículo 2. A fé é chamada a uma paciência histórica, que confia não num desfecho rápido, mas na fidelidade do caráter de Deus. **J. I. Packer**, em *Knowing God* (1973), argumenta de forma poderosa que os atributos de Deus não são abstrações, mas realidades que moldam nosso relacionamento com Ele. Sua misericórdia, invocada freneticamente pelo salmista, é um atributo eterno e imutável. Portanto, esperar por ela não é esperar por algo que pode ou não vir; é esperar pela manifestação necessária, no tempo perfeito, daquilo que Ele essencialmente é.
+
+Esta espera é solidificada pela memória da aliança. O salmista diz "ao SENHOR, *nosso* Deus". O pronome possessivo é aliancista. **O. Palmer Robertson**, em *The Christ of the Covenants* (1980), demonstra como toda a relação de Deus com Israel era fundamentada nas promessas pactuais. Quando o povo clamava, não era a um estranho, mas ao seu Redentor, ao Deus do Êxodo, do Sinai, que se ligou a eles por juramento. A paciência, então, é alimentada pela recordação dos atos poderosos de Deus no passado. **Jonathan Edwards**, em seu sermão *The Most High a Prayer-Hearing God* (1735), baseia-se precisamente nessa fidelidade histórica: "Deus, ao ouvir a oração, age como um Deus de infinita misericórdia e graça... e também como um Deus que é fiel às suas promessas". A ausência de uma conclusão triunfalista no salmo nos convida a preencher o silêncio com a narrativa maior das Escrituras. Aponta para o fato de que o clamor final por misericórdia só encontrará sua resposta plena e definitiva em Cristo. Nele, o desprezo dos soberbos atingiu seu ápice na cruz, e nEle, a misericórdia de Deus foi manifestada de uma vez por todas (Rm 3:25-26). A Igreja, portanto, vive no "até que" entre a misericórdia conquistada e a misericórdia consumada, erguendo os olhos para as mãos que ainda sustentam a história, até o dia em que toda afronta cessará.
+
+## Conclusão
+
+Irmãos, o Salmo 123 é um espelho para a alma. Ele nos pergunta: para onde estão fixos os seus olhos hoje? Na instabilidade do mercado, na volatilidade das relações, na afronta sutil da cultura que ridiculariza a fé simples? Ou eles estão erguidos, pela graça do Espírito, para Aquele que reina soberano sobre o caos? Este salmo nos ensina que a piedade não é um sentimento vago, mas uma postura concreta. É a postura do servo diante do Senhor, dos olhos atentos às mãos que dão o pão de cada dia e que seguraram os cravos por nossa causa. Não nos promete um fim imediato para o desprezo. Pessoas à vontade em seu pecado e soberbas em sua autonomia continuarão a escarnecer. Mas nos dá uma âncora: a misericórdia do Deus entronizado. Ela já nos alcançou em Cristo, e ela nos sustentará até o fim. Portanto, em meio à saturação, ao cansaço da alma, não feche os olhos em desespero. Não os baixe em derrota. Levante-os. Treine-os para buscar as mãos do seu Senhor. Clame, repetidamente, por Sua compaixão. E espere. Espere com a paciência histórica de quem sabe que Aquele que começou a boa obra é fiel para completá-la. A misericórdia virá. Ela já está a caminho, desde os céus, onde Cristo, nosso Sumo Sacerdote, intercede por nós. Mantenha os olhos erguidos.
+
+## **Amém.**
