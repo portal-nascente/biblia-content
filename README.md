@@ -51,9 +51,9 @@ repositório. Parte da _Padronização e Migração do Ecossistema_ (Fase A).
 
 ## Documentos relacionados
 
-- Ecossistema: `PORTAL NASCENTE/ÍNDICE - Documentos do Portal Nascente.md` ·
-  `PORTAL NASCENTE/Pasta Técnico do Portal Nascente/PORTAL NASCENTE - Documento Mestre do Ecossistema.md`
-- Migração: `PORTAL NASCENTE/Pasta Técnico do Portal Nascente/URGENTE - PLANO DEFINITIVO - Padronização e Migração do Ecossistema.md`
+- Ecossistema: `PORTAL NASCENTE/Documentação Técnica Geral/ÍNDICE - Documentos do Portal Nascente.md` ·
+  `PORTAL NASCENTE/Documentação Técnica Geral/PORTAL NASCENTE - Documento Mestre do Ecossistema.md`
+- Migração: `PORTAL NASCENTE/Documentação Técnica Geral/URGENTE - PLANO DEFINITIVO - Padronização e Migração do Ecossistema.md`
 
 ## Registro de alterações
 
