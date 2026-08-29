@@ -51,12 +51,13 @@ repositório. Parte da _Padronização e Migração do Ecossistema_ (Fase A).
 
 ## Documentos relacionados
 
-- Ecossistema: `PORTAL NASCENTE/Documentação Técnica Geral/ÍNDICE - Documentos do Portal Nascente.md` ·
-  `PORTAL NASCENTE/Documentação Técnica Geral/PORTAL NASCENTE - Documento Mestre do Ecossistema.md`
-- Migração: `PORTAL NASCENTE/Documentação Técnica Geral/URGENTE - PLANO DEFINITIVO - Padronização e Migração do Ecossistema.md`
+- Ecossistema: `Documentação Técnica Geral/ÍNDICE - Documentos do Portal Nascente.md` (repo `portal-nascente/documentacao-geral-do-portal-nascente`) ·
+  `Documentação Técnica Geral/PORTAL NASCENTE - Documento Mestre do Ecossistema.md` (repo `portal-nascente/documentacao-geral-do-portal-nascente`)
+- Migração: `Documentação Técnica Geral/URGENTE - PLANO DEFINITIVO - Padronização e Migração do Ecossistema.md` (repo `portal-nascente/documentacao-geral-do-portal-nascente`)
 
 ## Registro de alterações
 
+- **2026-08-29** — as referências aos documentos gerais no README passaram a nomear o repo GitHub `portal-nascente/documentacao-geral-do-portal-nascente` (criado nesta data para a `Documentação Técnica Geral/`).
 - **2026-08-29** — README criado (passo 4 do ciclo da Fase A da migração de
   organização). O repositório não tinha nenhum documento próprio; este arquivo
   dá contexto para quem chegar nele sem saber o que é. Conteúdo (`biblia/…`)
